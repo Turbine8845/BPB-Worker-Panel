@@ -13,9 +13,6 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 - **Pages** deployment
 <br>
 
-🌟 If you found **BPB Panel** valuable, Your donations make all the difference 🌟
-- **USDT (BEP20):** `0x111EFF917E7cf4b0BfC99Edffd8F1AbC2b23d158`
-
 ## Features
 
 1. **Free**: No cost involved.
@@ -55,13 +52,6 @@ This project is dedicated to developing a user panel for the [Cloudflare-workers
 | **Nekoray**  |   | :heavy_check_mark: |
 | **Hiddify**  |   | :x: |
 
-
----
-
-## Stargazers Over Time
-[![Stargazers Over Time](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel.svg?variant=adaptive)](https://starchart.cc/bia-pain-bache/BPB-Worker-Panel)
-
----
 
 ### Special Thanks
 - CF-vless code author [3Kmfi6HP](https://github.com/3Kmfi6HP/EDtunnel)
