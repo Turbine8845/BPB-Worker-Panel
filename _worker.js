@@ -1,4 +1,8865 @@
-const _0x4c56f3=_0x5223;(function(_0x3e7453,_0x1b749c){const _0x28924b=_0x5223,_0x423bb4=_0x3e7453();while(!![]){try{const _0x3432fc=parseInt(_0x28924b(0x55b))/0x1*(parseInt(_0x28924b(0x425))/0x2)+-parseInt(_0x28924b(0x532))/0x3+-parseInt(_0x28924b(0x356))/0x4+parseInt(_0x28924b(0x496))/0x5+parseInt(_0x28924b(0x46a))/0x6+-parseInt(_0x28924b(0x519))/0x7+parseInt(_0x28924b(0x266))/0x8;if(_0x3432fc===_0x1b749c)break;else _0x423bb4['push'](_0x423bb4['shift']());}catch(_0x1196bc){_0x423bb4['push'](_0x423bb4['shift']());}}}(_0x5d7c,0x58569));const a0_0x53d8fc=a0_0x100c;(function(_0x4f9173,_0xb7659e){const _0x3427cb=_0x5223,_0x2c1dd0=a0_0x100c,_0x2dc4ff=_0x4f9173();while(!![]){try{const _0x359085=-parseInt(_0x2c1dd0(0x3c8))/0x1*(-parseInt(_0x2c1dd0(0x1c2))/0x2)+parseInt(_0x2c1dd0(0x44a))/0x3+-parseInt(_0x2c1dd0(0x46d))/0x4*(parseInt(_0x2c1dd0(0x446))/0x5)+parseInt(_0x2c1dd0(0x46c))/0x6+parseInt(_0x2c1dd0(0x509))/0x7+-parseInt(_0x2c1dd0(0x59f))/0x8*(-parseInt(_0x2c1dd0(0x26a))/0x9)+-parseInt(_0x2c1dd0(0x458))/0xa*(parseInt(_0x2c1dd0(0x4cb))/0xb);if(_0x359085===_0xb7659e)break;else _0x2dc4ff[_0x3427cb(0x25b)](_0x2dc4ff['shift']());}catch(_0x358017){_0x2dc4ff[_0x3427cb(0x25b)](_0x2dc4ff[_0x3427cb(0x3a7)]());}}}(a0_0x15e3,0xc3372));var __create=Object[a0_0x53d8fc(0x382)],__defProp=Object[a0_0x53d8fc(0x363)],__getOwnPropDesc=Object[a0_0x53d8fc(0x477)],__getOwnPropNames=Object[a0_0x53d8fc(0x5b7)],__getProtoOf=Object[a0_0x53d8fc(0x1c7)],__hasOwnProp=Object[_0x4c56f3(0x23c)][a0_0x53d8fc(0x215)],__name=(_0x580e2e,_0x3b7a12)=>__defProp(_0x580e2e,_0x4c56f3(0x58f),{'value':_0x3b7a12,'configurable':!![]}),__require=(_0x54638f=>typeof require!==a0_0x53d8fc(0x387)?require:typeof Proxy!==a0_0x53d8fc(0x387)?new Proxy(_0x54638f,{'get':(_0x81dd6,_0x581680)=>(typeof require!==a0_0x53d8fc(0x387)?require:_0x81dd6)[_0x581680]}):_0x54638f)(function(_0x40568a){const _0x34fd3c=_0x4c56f3,_0x1de497=a0_0x53d8fc;if(typeof require!==_0x1de497(0x387))return require[_0x1de497(0x2f6)](this,arguments);throw new Error(_0x1de497(0x3bf)+_0x40568a+_0x34fd3c(0x409));}),__commonJS=(_0x51b35b,_0x2a19b7)=>function _0x2c0758(){const _0x4608c9=a0_0x53d8fc;return _0x2a19b7||(0x0,_0x51b35b[__getOwnPropNames(_0x51b35b)[0x0]])((_0x2a19b7={'exports':{}})[_0x4608c9(0x223)],_0x2a19b7),_0x2a19b7[_0x4608c9(0x223)];},__copyProps=(_0x5300be,_0x3872b0,_0x48064d,_0x3554b1)=>{const _0x25c41a=a0_0x53d8fc;if(_0x3872b0&&typeof _0x3872b0===_0x25c41a(0x592)||typeof _0x3872b0===_0x25c41a(0x493)){for(let _0x21c3c0 of __getOwnPropNames(_0x3872b0))if(!__hasOwnProp[_0x25c41a(0x48c)](_0x5300be,_0x21c3c0)&&_0x21c3c0!==_0x48064d)__defProp(_0x5300be,_0x21c3c0,{'get':()=>_0x3872b0[_0x21c3c0],'enumerable':!(_0x3554b1=__getOwnPropDesc(_0x3872b0,_0x21c3c0))||_0x3554b1[_0x25c41a(0x18c)]});}return _0x5300be;},__toESM=(_0x4445e8,_0x2dc189,_0xb23cd4)=>(_0xb23cd4=_0x4445e8!=null?__create(__getProtoOf(_0x4445e8)):{},__copyProps(_0x2dc189||!_0x4445e8||!_0x4445e8['__esModule']?__defProp(_0xb23cd4,a0_0x53d8fc(0x49a),{'value':_0x4445e8,'enumerable':!![]}):_0xb23cd4,_0x4445e8)),require_crypto=__commonJS({'(disabled):crypto'(){}}),require_nacl_fast=__commonJS({'node_modules/tweetnacl/nacl-fast.js'(_0x98816,_0x18d173){const _0x23674b=a0_0x53d8fc;(function(_0xef71d5){'use strict';const _0x185ee4=_0x5223;const _0x4107b6=a0_0x100c;var _0x3c9324=__name(function(_0x1e1f8f){const _0x568d61=a0_0x100c;var _0x161335,_0x4f2be8=new Float64Array(0x10);if(_0x1e1f8f){for(_0x161335=0x0;_0x161335<_0x1e1f8f[_0x568d61(0x5d0)];_0x161335++)_0x4f2be8[_0x161335]=_0x1e1f8f[_0x161335];}return _0x4f2be8;},'gf'),_0x3f7826=__name(function(){const _0x5857ec=a0_0x100c;throw new Error(_0x5857ec(0x221));},_0x4107b6(0x5a7)),_0x34e3c3=new Uint8Array(0x10),_0xb94984=new Uint8Array(0x20);_0xb94984[0x0]=0x9;var _0x2d425a=_0x3c9324(),_0x289a67=_0x3c9324([0x1]),_0x497cbf=_0x3c9324([0xdb41,0x1]),_0x32467b=_0x3c9324([0x78a3,0x1359,0x4dca,0x75eb,0xd8ab,0x4141,0xa4d,0x70,0xe898,0x7779,0x4079,0x8cc7,0xfe73,0x2b6f,0x6cee,0x5203]),_0x32c9e7=_0x3c9324([0xf159,0x26b2,0x9b94,0xebd6,0xb156,0x8283,0x149a,0xe0,0xd130,0xeef3,0x80f2,0x198e,0xfce7,0x56df,0xd9dc,0x2406]),_0x5020f3=_0x3c9324([0xd51a,0x8f25,0x2d60,0xc956,0xa7b2,0x9525,0xc760,0x692c,0xdc5c,0xfdd6,0xe231,0xc0a4,0x53fe,0xcd6e,0x36d3,0x2169]),_0x1b71a9=_0x3c9324([0x6658,0x6666,0x6666,0x6666,0x6666,0x6666,0x6666,0x6666,0x6666,0x6666,0x6666,0x6666,0x6666,0x6666,0x6666,0x6666]),_0xfef2bd=_0x3c9324([0xa0b0,0x4a0e,0x1b27,0xc4ee,0xe478,0xad2f,0x1806,0x2f43,0xd7a7,0x3dfb,0x99,0x2b4d,0xdf0b,0x4fc1,0x2480,0x2b83]);function _0x5a1f30(_0x273854,_0x30b0cd,_0x5507ee,_0x5f245a){_0x273854[_0x30b0cd]=_0x5507ee>>0x18&0xff,_0x273854[_0x30b0cd+0x1]=_0x5507ee>>0x10&0xff,_0x273854[_0x30b0cd+0x2]=_0x5507ee>>0x8&0xff,_0x273854[_0x30b0cd+0x3]=_0x5507ee&0xff,_0x273854[_0x30b0cd+0x4]=_0x5f245a>>0x18&0xff,_0x273854[_0x30b0cd+0x5]=_0x5f245a>>0x10&0xff,_0x273854[_0x30b0cd+0x6]=_0x5f245a>>0x8&0xff,_0x273854[_0x30b0cd+0x7]=_0x5f245a&0xff;}__name(_0x5a1f30,_0x4107b6(0x598));function _0x1c6ffc(_0x1a5de5,_0x580a27,_0x53cd98,_0x13ae14,_0x383dfd){var _0x1dcf64,_0x5144fa=0x0;for(_0x1dcf64=0x0;_0x1dcf64<_0x383dfd;_0x1dcf64++)_0x5144fa|=_0x1a5de5[_0x580a27+_0x1dcf64]^_0x53cd98[_0x13ae14+_0x1dcf64];return(0x1&_0x5144fa-0x1>>>0x8)-0x1;}__name(_0x1c6ffc,'vn');function _0x53ad49(_0x30d876,_0x9a0e01,_0x57db81,_0x265ffc){return _0x1c6ffc(_0x30d876,_0x9a0e01,_0x57db81,_0x265ffc,0x10);}__name(_0x53ad49,_0x4107b6(0x4f7));function _0x447820(_0x323603,_0x7ec953,_0x25da94,_0x436ace){return _0x1c6ffc(_0x323603,_0x7ec953,_0x25da94,_0x436ace,0x20);}__name(_0x447820,_0x4107b6(0x2d4));function _0x3eb175(_0x229e59,_0x3d1e1c,_0x3dd453,_0xd92579){var _0x24a6bd=_0xd92579[0x0]&0xff|(_0xd92579[0x1]&0xff)<<0x8|(_0xd92579[0x2]&0xff)<<0x10|(_0xd92579[0x3]&0xff)<<0x18,_0x41e5a4=_0x3dd453[0x0]&0xff|(_0x3dd453[0x1]&0xff)<<0x8|(_0x3dd453[0x2]&0xff)<<0x10|(_0x3dd453[0x3]&0xff)<<0x18,_0x210167=_0x3dd453[0x4]&0xff|(_0x3dd453[0x5]&0xff)<<0x8|(_0x3dd453[0x6]&0xff)<<0x10|(_0x3dd453[0x7]&0xff)<<0x18,_0x4423a9=_0x3dd453[0x8]&0xff|(_0x3dd453[0x9]&0xff)<<0x8|(_0x3dd453[0xa]&0xff)<<0x10|(_0x3dd453[0xb]&0xff)<<0x18,_0x2f1a8a=_0x3dd453[0xc]&0xff|(_0x3dd453[0xd]&0xff)<<0x8|(_0x3dd453[0xe]&0xff)<<0x10|(_0x3dd453[0xf]&0xff)<<0x18,_0x5737e6=_0xd92579[0x4]&0xff|(_0xd92579[0x5]&0xff)<<0x8|(_0xd92579[0x6]&0xff)<<0x10|(_0xd92579[0x7]&0xff)<<0x18,_0x3860ed=_0x3d1e1c[0x0]&0xff|(_0x3d1e1c[0x1]&0xff)<<0x8|(_0x3d1e1c[0x2]&0xff)<<0x10|(_0x3d1e1c[0x3]&0xff)<<0x18,_0x4cb626=_0x3d1e1c[0x4]&0xff|(_0x3d1e1c[0x5]&0xff)<<0x8|(_0x3d1e1c[0x6]&0xff)<<0x10|(_0x3d1e1c[0x7]&0xff)<<0x18,_0x2fb8e6=_0x3d1e1c[0x8]&0xff|(_0x3d1e1c[0x9]&0xff)<<0x8|(_0x3d1e1c[0xa]&0xff)<<0x10|(_0x3d1e1c[0xb]&0xff)<<0x18,_0x1142cf=_0x3d1e1c[0xc]&0xff|(_0x3d1e1c[0xd]&0xff)<<0x8|(_0x3d1e1c[0xe]&0xff)<<0x10|(_0x3d1e1c[0xf]&0xff)<<0x18,_0x3ef780=_0xd92579[0x8]&0xff|(_0xd92579[0x9]&0xff)<<0x8|(_0xd92579[0xa]&0xff)<<0x10|(_0xd92579[0xb]&0xff)<<0x18,_0x5bcd32=_0x3dd453[0x10]&0xff|(_0x3dd453[0x11]&0xff)<<0x8|(_0x3dd453[0x12]&0xff)<<0x10|(_0x3dd453[0x13]&0xff)<<0x18,_0xcd289c=_0x3dd453[0x14]&0xff|(_0x3dd453[0x15]&0xff)<<0x8|(_0x3dd453[0x16]&0xff)<<0x10|(_0x3dd453[0x17]&0xff)<<0x18,_0x45d24b=_0x3dd453[0x18]&0xff|(_0x3dd453[0x19]&0xff)<<0x8|(_0x3dd453[0x1a]&0xff)<<0x10|(_0x3dd453[0x1b]&0xff)<<0x18,_0x230e1c=_0x3dd453[0x1c]&0xff|(_0x3dd453[0x1d]&0xff)<<0x8|(_0x3dd453[0x1e]&0xff)<<0x10|(_0x3dd453[0x1f]&0xff)<<0x18,_0x320221=_0xd92579[0xc]&0xff|(_0xd92579[0xd]&0xff)<<0x8|(_0xd92579[0xe]&0xff)<<0x10|(_0xd92579[0xf]&0xff)<<0x18,_0x55c428=_0x24a6bd,_0x3faca8=_0x41e5a4,_0x30c3c0=_0x210167,_0x455bfc=_0x4423a9,_0x12a49d=_0x2f1a8a,_0x40f938=_0x5737e6,_0x5ea0a3=_0x3860ed,_0x15769c=_0x4cb626,_0x4950a7=_0x2fb8e6,_0x2e7949=_0x1142cf,_0x3b2fb5=_0x3ef780,_0x3cabe7=_0x5bcd32,_0x57b541=_0xcd289c,_0x3de363=_0x45d24b,_0x520ea8=_0x230e1c,_0x362a1b=_0x320221,_0x11667d;for(var _0x1b205a=0x0;_0x1b205a<0x14;_0x1b205a+=0x2){_0x11667d=_0x55c428+_0x57b541|0x0,_0x12a49d^=_0x11667d<<0x7|_0x11667d>>>0x20-0x7,_0x11667d=_0x12a49d+_0x55c428|0x0,_0x4950a7^=_0x11667d<<0x9|_0x11667d>>>0x20-0x9,_0x11667d=_0x4950a7+_0x12a49d|0x0,_0x57b541^=_0x11667d<<0xd|_0x11667d>>>0x20-0xd,_0x11667d=_0x57b541+_0x4950a7|0x0,_0x55c428^=_0x11667d<<0x12|_0x11667d>>>0x20-0x12,_0x11667d=_0x40f938+_0x3faca8|0x0,_0x2e7949^=_0x11667d<<0x7|_0x11667d>>>0x20-0x7,_0x11667d=_0x2e7949+_0x40f938|0x0,_0x3de363^=_0x11667d<<0x9|_0x11667d>>>0x20-0x9,_0x11667d=_0x3de363+_0x2e7949|0x0,_0x3faca8^=_0x11667d<<0xd|_0x11667d>>>0x20-0xd,_0x11667d=_0x3faca8+_0x3de363|0x0,_0x40f938^=_0x11667d<<0x12|_0x11667d>>>0x20-0x12,_0x11667d=_0x3b2fb5+_0x5ea0a3|0x0,_0x520ea8^=_0x11667d<<0x7|_0x11667d>>>0x20-0x7,_0x11667d=_0x520ea8+_0x3b2fb5|0x0,_0x30c3c0^=_0x11667d<<0x9|_0x11667d>>>0x20-0x9,_0x11667d=_0x30c3c0+_0x520ea8|0x0,_0x5ea0a3^=_0x11667d<<0xd|_0x11667d>>>0x20-0xd,_0x11667d=_0x5ea0a3+_0x30c3c0|0x0,_0x3b2fb5^=_0x11667d<<0x12|_0x11667d>>>0x20-0x12,_0x11667d=_0x362a1b+_0x3cabe7|0x0,_0x455bfc^=_0x11667d<<0x7|_0x11667d>>>0x20-0x7,_0x11667d=_0x455bfc+_0x362a1b|0x0,_0x15769c^=_0x11667d<<0x9|_0x11667d>>>0x20-0x9,_0x11667d=_0x15769c+_0x455bfc|0x0,_0x3cabe7^=_0x11667d<<0xd|_0x11667d>>>0x20-0xd,_0x11667d=_0x3cabe7+_0x15769c|0x0,_0x362a1b^=_0x11667d<<0x12|_0x11667d>>>0x20-0x12,_0x11667d=_0x55c428+_0x455bfc|0x0,_0x3faca8^=_0x11667d<<0x7|_0x11667d>>>0x20-0x7,_0x11667d=_0x3faca8+_0x55c428|0x0,_0x30c3c0^=_0x11667d<<0x9|_0x11667d>>>0x20-0x9,_0x11667d=_0x30c3c0+_0x3faca8|0x0,_0x455bfc^=_0x11667d<<0xd|_0x11667d>>>0x20-0xd,_0x11667d=_0x455bfc+_0x30c3c0|0x0,_0x55c428^=_0x11667d<<0x12|_0x11667d>>>0x20-0x12,_0x11667d=_0x40f938+_0x12a49d|0x0,_0x5ea0a3^=_0x11667d<<0x7|_0x11667d>>>0x20-0x7,_0x11667d=_0x5ea0a3+_0x40f938|0x0,_0x15769c^=_0x11667d<<0x9|_0x11667d>>>0x20-0x9,_0x11667d=_0x15769c+_0x5ea0a3|0x0,_0x12a49d^=_0x11667d<<0xd|_0x11667d>>>0x20-0xd,_0x11667d=_0x12a49d+_0x15769c|0x0,_0x40f938^=_0x11667d<<0x12|_0x11667d>>>0x20-0x12,_0x11667d=_0x3b2fb5+_0x2e7949|0x0,_0x3cabe7^=_0x11667d<<0x7|_0x11667d>>>0x20-0x7,_0x11667d=_0x3cabe7+_0x3b2fb5|0x0,_0x4950a7^=_0x11667d<<0x9|_0x11667d>>>0x20-0x9,_0x11667d=_0x4950a7+_0x3cabe7|0x0,_0x2e7949^=_0x11667d<<0xd|_0x11667d>>>0x20-0xd,_0x11667d=_0x2e7949+_0x4950a7|0x0,_0x3b2fb5^=_0x11667d<<0x12|_0x11667d>>>0x20-0x12,_0x11667d=_0x362a1b+_0x520ea8|0x0,_0x57b541^=_0x11667d<<0x7|_0x11667d>>>0x20-0x7,_0x11667d=_0x57b541+_0x362a1b|0x0,_0x3de363^=_0x11667d<<0x9|_0x11667d>>>0x20-0x9,_0x11667d=_0x3de363+_0x57b541|0x0,_0x520ea8^=_0x11667d<<0xd|_0x11667d>>>0x20-0xd,_0x11667d=_0x520ea8+_0x3de363|0x0,_0x362a1b^=_0x11667d<<0x12|_0x11667d>>>0x20-0x12;}_0x55c428=_0x55c428+_0x24a6bd|0x0,_0x3faca8=_0x3faca8+_0x41e5a4|0x0,_0x30c3c0=_0x30c3c0+_0x210167|0x0,_0x455bfc=_0x455bfc+_0x4423a9|0x0,_0x12a49d=_0x12a49d+_0x2f1a8a|0x0,_0x40f938=_0x40f938+_0x5737e6|0x0,_0x5ea0a3=_0x5ea0a3+_0x3860ed|0x0,_0x15769c=_0x15769c+_0x4cb626|0x0,_0x4950a7=_0x4950a7+_0x2fb8e6|0x0,_0x2e7949=_0x2e7949+_0x1142cf|0x0,_0x3b2fb5=_0x3b2fb5+_0x3ef780|0x0,_0x3cabe7=_0x3cabe7+_0x5bcd32|0x0,_0x57b541=_0x57b541+_0xcd289c|0x0,_0x3de363=_0x3de363+_0x45d24b|0x0,_0x520ea8=_0x520ea8+_0x230e1c|0x0,_0x362a1b=_0x362a1b+_0x320221|0x0,_0x229e59[0x0]=_0x55c428>>>0x0&0xff,_0x229e59[0x1]=_0x55c428>>>0x8&0xff,_0x229e59[0x2]=_0x55c428>>>0x10&0xff,_0x229e59[0x3]=_0x55c428>>>0x18&0xff,_0x229e59[0x4]=_0x3faca8>>>0x0&0xff,_0x229e59[0x5]=_0x3faca8>>>0x8&0xff,_0x229e59[0x6]=_0x3faca8>>>0x10&0xff,_0x229e59[0x7]=_0x3faca8>>>0x18&0xff,_0x229e59[0x8]=_0x30c3c0>>>0x0&0xff,_0x229e59[0x9]=_0x30c3c0>>>0x8&0xff,_0x229e59[0xa]=_0x30c3c0>>>0x10&0xff,_0x229e59[0xb]=_0x30c3c0>>>0x18&0xff,_0x229e59[0xc]=_0x455bfc>>>0x0&0xff,_0x229e59[0xd]=_0x455bfc>>>0x8&0xff,_0x229e59[0xe]=_0x455bfc>>>0x10&0xff,_0x229e59[0xf]=_0x455bfc>>>0x18&0xff,_0x229e59[0x10]=_0x12a49d>>>0x0&0xff,_0x229e59[0x11]=_0x12a49d>>>0x8&0xff,_0x229e59[0x12]=_0x12a49d>>>0x10&0xff,_0x229e59[0x13]=_0x12a49d>>>0x18&0xff,_0x229e59[0x14]=_0x40f938>>>0x0&0xff,_0x229e59[0x15]=_0x40f938>>>0x8&0xff,_0x229e59[0x16]=_0x40f938>>>0x10&0xff,_0x229e59[0x17]=_0x40f938>>>0x18&0xff,_0x229e59[0x18]=_0x5ea0a3>>>0x0&0xff,_0x229e59[0x19]=_0x5ea0a3>>>0x8&0xff,_0x229e59[0x1a]=_0x5ea0a3>>>0x10&0xff,_0x229e59[0x1b]=_0x5ea0a3>>>0x18&0xff,_0x229e59[0x1c]=_0x15769c>>>0x0&0xff,_0x229e59[0x1d]=_0x15769c>>>0x8&0xff,_0x229e59[0x1e]=_0x15769c>>>0x10&0xff,_0x229e59[0x1f]=_0x15769c>>>0x18&0xff,_0x229e59[0x20]=_0x4950a7>>>0x0&0xff,_0x229e59[0x21]=_0x4950a7>>>0x8&0xff,_0x229e59[0x22]=_0x4950a7>>>0x10&0xff,_0x229e59[0x23]=_0x4950a7>>>0x18&0xff,_0x229e59[0x24]=_0x2e7949>>>0x0&0xff,_0x229e59[0x25]=_0x2e7949>>>0x8&0xff,_0x229e59[0x26]=_0x2e7949>>>0x10&0xff,_0x229e59[0x27]=_0x2e7949>>>0x18&0xff,_0x229e59[0x28]=_0x3b2fb5>>>0x0&0xff,_0x229e59[0x29]=_0x3b2fb5>>>0x8&0xff,_0x229e59[0x2a]=_0x3b2fb5>>>0x10&0xff,_0x229e59[0x2b]=_0x3b2fb5>>>0x18&0xff,_0x229e59[0x2c]=_0x3cabe7>>>0x0&0xff,_0x229e59[0x2d]=_0x3cabe7>>>0x8&0xff,_0x229e59[0x2e]=_0x3cabe7>>>0x10&0xff,_0x229e59[0x2f]=_0x3cabe7>>>0x18&0xff,_0x229e59[0x30]=_0x57b541>>>0x0&0xff,_0x229e59[0x31]=_0x57b541>>>0x8&0xff,_0x229e59[0x32]=_0x57b541>>>0x10&0xff,_0x229e59[0x33]=_0x57b541>>>0x18&0xff,_0x229e59[0x34]=_0x3de363>>>0x0&0xff,_0x229e59[0x35]=_0x3de363>>>0x8&0xff,_0x229e59[0x36]=_0x3de363>>>0x10&0xff,_0x229e59[0x37]=_0x3de363>>>0x18&0xff,_0x229e59[0x38]=_0x520ea8>>>0x0&0xff,_0x229e59[0x39]=_0x520ea8>>>0x8&0xff,_0x229e59[0x3a]=_0x520ea8>>>0x10&0xff,_0x229e59[0x3b]=_0x520ea8>>>0x18&0xff,_0x229e59[0x3c]=_0x362a1b>>>0x0&0xff,_0x229e59[0x3d]=_0x362a1b>>>0x8&0xff,_0x229e59[0x3e]=_0x362a1b>>>0x10&0xff,_0x229e59[0x3f]=_0x362a1b>>>0x18&0xff;}__name(_0x3eb175,_0x4107b6(0x505));function _0x49e8cb(_0xa82058,_0x202e90,_0x2f512b,_0x4b2be2){var _0x3185f4=_0x4b2be2[0x0]&0xff|(_0x4b2be2[0x1]&0xff)<<0x8|(_0x4b2be2[0x2]&0xff)<<0x10|(_0x4b2be2[0x3]&0xff)<<0x18,_0x5f4402=_0x2f512b[0x0]&0xff|(_0x2f512b[0x1]&0xff)<<0x8|(_0x2f512b[0x2]&0xff)<<0x10|(_0x2f512b[0x3]&0xff)<<0x18,_0x4573d1=_0x2f512b[0x4]&0xff|(_0x2f512b[0x5]&0xff)<<0x8|(_0x2f512b[0x6]&0xff)<<0x10|(_0x2f512b[0x7]&0xff)<<0x18,_0x13df3c=_0x2f512b[0x8]&0xff|(_0x2f512b[0x9]&0xff)<<0x8|(_0x2f512b[0xa]&0xff)<<0x10|(_0x2f512b[0xb]&0xff)<<0x18,_0x506b67=_0x2f512b[0xc]&0xff|(_0x2f512b[0xd]&0xff)<<0x8|(_0x2f512b[0xe]&0xff)<<0x10|(_0x2f512b[0xf]&0xff)<<0x18,_0x449ccc=_0x4b2be2[0x4]&0xff|(_0x4b2be2[0x5]&0xff)<<0x8|(_0x4b2be2[0x6]&0xff)<<0x10|(_0x4b2be2[0x7]&0xff)<<0x18,_0x39a8b5=_0x202e90[0x0]&0xff|(_0x202e90[0x1]&0xff)<<0x8|(_0x202e90[0x2]&0xff)<<0x10|(_0x202e90[0x3]&0xff)<<0x18,_0x574330=_0x202e90[0x4]&0xff|(_0x202e90[0x5]&0xff)<<0x8|(_0x202e90[0x6]&0xff)<<0x10|(_0x202e90[0x7]&0xff)<<0x18,_0x3e3374=_0x202e90[0x8]&0xff|(_0x202e90[0x9]&0xff)<<0x8|(_0x202e90[0xa]&0xff)<<0x10|(_0x202e90[0xb]&0xff)<<0x18,_0x4b8224=_0x202e90[0xc]&0xff|(_0x202e90[0xd]&0xff)<<0x8|(_0x202e90[0xe]&0xff)<<0x10|(_0x202e90[0xf]&0xff)<<0x18,_0x404089=_0x4b2be2[0x8]&0xff|(_0x4b2be2[0x9]&0xff)<<0x8|(_0x4b2be2[0xa]&0xff)<<0x10|(_0x4b2be2[0xb]&0xff)<<0x18,_0x55028d=_0x2f512b[0x10]&0xff|(_0x2f512b[0x11]&0xff)<<0x8|(_0x2f512b[0x12]&0xff)<<0x10|(_0x2f512b[0x13]&0xff)<<0x18,_0x4bcd20=_0x2f512b[0x14]&0xff|(_0x2f512b[0x15]&0xff)<<0x8|(_0x2f512b[0x16]&0xff)<<0x10|(_0x2f512b[0x17]&0xff)<<0x18,_0x4e25c4=_0x2f512b[0x18]&0xff|(_0x2f512b[0x19]&0xff)<<0x8|(_0x2f512b[0x1a]&0xff)<<0x10|(_0x2f512b[0x1b]&0xff)<<0x18,_0x22138e=_0x2f512b[0x1c]&0xff|(_0x2f512b[0x1d]&0xff)<<0x8|(_0x2f512b[0x1e]&0xff)<<0x10|(_0x2f512b[0x1f]&0xff)<<0x18,_0x2582be=_0x4b2be2[0xc]&0xff|(_0x4b2be2[0xd]&0xff)<<0x8|(_0x4b2be2[0xe]&0xff)<<0x10|(_0x4b2be2[0xf]&0xff)<<0x18,_0x51b19a=_0x3185f4,_0x398a07=_0x5f4402,_0x21d40b=_0x4573d1,_0x38cdd8=_0x13df3c,_0x455908=_0x506b67,_0x1bdc9d=_0x449ccc,_0x448571=_0x39a8b5,_0x54e013=_0x574330,_0x2cc008=_0x3e3374,_0x1c26df=_0x4b8224,_0x582b23=_0x404089,_0x1d73f5=_0x55028d,_0x2feec4=_0x4bcd20,_0x158f82=_0x4e25c4,_0x1dfde7=_0x22138e,_0x5b1245=_0x2582be,_0x40e78b;for(var _0x186bbd=0x0;_0x186bbd<0x14;_0x186bbd+=0x2){_0x40e78b=_0x51b19a+_0x2feec4|0x0,_0x455908^=_0x40e78b<<0x7|_0x40e78b>>>0x20-0x7,_0x40e78b=_0x455908+_0x51b19a|0x0,_0x2cc008^=_0x40e78b<<0x9|_0x40e78b>>>0x20-0x9,_0x40e78b=_0x2cc008+_0x455908|0x0,_0x2feec4^=_0x40e78b<<0xd|_0x40e78b>>>0x20-0xd,_0x40e78b=_0x2feec4+_0x2cc008|0x0,_0x51b19a^=_0x40e78b<<0x12|_0x40e78b>>>0x20-0x12,_0x40e78b=_0x1bdc9d+_0x398a07|0x0,_0x1c26df^=_0x40e78b<<0x7|_0x40e78b>>>0x20-0x7,_0x40e78b=_0x1c26df+_0x1bdc9d|0x0,_0x158f82^=_0x40e78b<<0x9|_0x40e78b>>>0x20-0x9,_0x40e78b=_0x158f82+_0x1c26df|0x0,_0x398a07^=_0x40e78b<<0xd|_0x40e78b>>>0x20-0xd,_0x40e78b=_0x398a07+_0x158f82|0x0,_0x1bdc9d^=_0x40e78b<<0x12|_0x40e78b>>>0x20-0x12,_0x40e78b=_0x582b23+_0x448571|0x0,_0x1dfde7^=_0x40e78b<<0x7|_0x40e78b>>>0x20-0x7,_0x40e78b=_0x1dfde7+_0x582b23|0x0,_0x21d40b^=_0x40e78b<<0x9|_0x40e78b>>>0x20-0x9,_0x40e78b=_0x21d40b+_0x1dfde7|0x0,_0x448571^=_0x40e78b<<0xd|_0x40e78b>>>0x20-0xd,_0x40e78b=_0x448571+_0x21d40b|0x0,_0x582b23^=_0x40e78b<<0x12|_0x40e78b>>>0x20-0x12,_0x40e78b=_0x5b1245+_0x1d73f5|0x0,_0x38cdd8^=_0x40e78b<<0x7|_0x40e78b>>>0x20-0x7,_0x40e78b=_0x38cdd8+_0x5b1245|0x0,_0x54e013^=_0x40e78b<<0x9|_0x40e78b>>>0x20-0x9,_0x40e78b=_0x54e013+_0x38cdd8|0x0,_0x1d73f5^=_0x40e78b<<0xd|_0x40e78b>>>0x20-0xd,_0x40e78b=_0x1d73f5+_0x54e013|0x0,_0x5b1245^=_0x40e78b<<0x12|_0x40e78b>>>0x20-0x12,_0x40e78b=_0x51b19a+_0x38cdd8|0x0,_0x398a07^=_0x40e78b<<0x7|_0x40e78b>>>0x20-0x7,_0x40e78b=_0x398a07+_0x51b19a|0x0,_0x21d40b^=_0x40e78b<<0x9|_0x40e78b>>>0x20-0x9,_0x40e78b=_0x21d40b+_0x398a07|0x0,_0x38cdd8^=_0x40e78b<<0xd|_0x40e78b>>>0x20-0xd,_0x40e78b=_0x38cdd8+_0x21d40b|0x0,_0x51b19a^=_0x40e78b<<0x12|_0x40e78b>>>0x20-0x12,_0x40e78b=_0x1bdc9d+_0x455908|0x0,_0x448571^=_0x40e78b<<0x7|_0x40e78b>>>0x20-0x7,_0x40e78b=_0x448571+_0x1bdc9d|0x0,_0x54e013^=_0x40e78b<<0x9|_0x40e78b>>>0x20-0x9,_0x40e78b=_0x54e013+_0x448571|0x0,_0x455908^=_0x40e78b<<0xd|_0x40e78b>>>0x20-0xd,_0x40e78b=_0x455908+_0x54e013|0x0,_0x1bdc9d^=_0x40e78b<<0x12|_0x40e78b>>>0x20-0x12,_0x40e78b=_0x582b23+_0x1c26df|0x0,_0x1d73f5^=_0x40e78b<<0x7|_0x40e78b>>>0x20-0x7,_0x40e78b=_0x1d73f5+_0x582b23|0x0,_0x2cc008^=_0x40e78b<<0x9|_0x40e78b>>>0x20-0x9,_0x40e78b=_0x2cc008+_0x1d73f5|0x0,_0x1c26df^=_0x40e78b<<0xd|_0x40e78b>>>0x20-0xd,_0x40e78b=_0x1c26df+_0x2cc008|0x0,_0x582b23^=_0x40e78b<<0x12|_0x40e78b>>>0x20-0x12,_0x40e78b=_0x5b1245+_0x1dfde7|0x0,_0x2feec4^=_0x40e78b<<0x7|_0x40e78b>>>0x20-0x7,_0x40e78b=_0x2feec4+_0x5b1245|0x0,_0x158f82^=_0x40e78b<<0x9|_0x40e78b>>>0x20-0x9,_0x40e78b=_0x158f82+_0x2feec4|0x0,_0x1dfde7^=_0x40e78b<<0xd|_0x40e78b>>>0x20-0xd,_0x40e78b=_0x1dfde7+_0x158f82|0x0,_0x5b1245^=_0x40e78b<<0x12|_0x40e78b>>>0x20-0x12;}_0xa82058[0x0]=_0x51b19a>>>0x0&0xff,_0xa82058[0x1]=_0x51b19a>>>0x8&0xff,_0xa82058[0x2]=_0x51b19a>>>0x10&0xff,_0xa82058[0x3]=_0x51b19a>>>0x18&0xff,_0xa82058[0x4]=_0x1bdc9d>>>0x0&0xff,_0xa82058[0x5]=_0x1bdc9d>>>0x8&0xff,_0xa82058[0x6]=_0x1bdc9d>>>0x10&0xff,_0xa82058[0x7]=_0x1bdc9d>>>0x18&0xff,_0xa82058[0x8]=_0x582b23>>>0x0&0xff,_0xa82058[0x9]=_0x582b23>>>0x8&0xff,_0xa82058[0xa]=_0x582b23>>>0x10&0xff,_0xa82058[0xb]=_0x582b23>>>0x18&0xff,_0xa82058[0xc]=_0x5b1245>>>0x0&0xff,_0xa82058[0xd]=_0x5b1245>>>0x8&0xff,_0xa82058[0xe]=_0x5b1245>>>0x10&0xff,_0xa82058[0xf]=_0x5b1245>>>0x18&0xff,_0xa82058[0x10]=_0x448571>>>0x0&0xff,_0xa82058[0x11]=_0x448571>>>0x8&0xff,_0xa82058[0x12]=_0x448571>>>0x10&0xff,_0xa82058[0x13]=_0x448571>>>0x18&0xff,_0xa82058[0x14]=_0x54e013>>>0x0&0xff,_0xa82058[0x15]=_0x54e013>>>0x8&0xff,_0xa82058[0x16]=_0x54e013>>>0x10&0xff,_0xa82058[0x17]=_0x54e013>>>0x18&0xff,_0xa82058[0x18]=_0x2cc008>>>0x0&0xff,_0xa82058[0x19]=_0x2cc008>>>0x8&0xff,_0xa82058[0x1a]=_0x2cc008>>>0x10&0xff,_0xa82058[0x1b]=_0x2cc008>>>0x18&0xff,_0xa82058[0x1c]=_0x1c26df>>>0x0&0xff,_0xa82058[0x1d]=_0x1c26df>>>0x8&0xff,_0xa82058[0x1e]=_0x1c26df>>>0x10&0xff,_0xa82058[0x1f]=_0x1c26df>>>0x18&0xff;}__name(_0x49e8cb,_0x4107b6(0x47f));function _0x418553(_0x2d09f1,_0x234a95,_0x1e7188,_0x119234){_0x3eb175(_0x2d09f1,_0x234a95,_0x1e7188,_0x119234);}__name(_0x418553,_0x4107b6(0x508));function _0x14bcac(_0x3bcb4f,_0x38d29a,_0x477efa,_0x8461aa){_0x49e8cb(_0x3bcb4f,_0x38d29a,_0x477efa,_0x8461aa);}__name(_0x14bcac,_0x4107b6(0x4b3));var _0x41a4a8=new Uint8Array([0x65,0x78,0x70,0x61,0x6e,0x64,0x20,0x33,0x32,0x2d,0x62,0x79,0x74,0x65,0x20,0x6b]);function _0x5317f2(_0x4ee3a3,_0x3b9388,_0x18f2a4,_0x44d199,_0x5e6b36,_0x331ca9,_0x34dcc9){var _0x5b7fba=new Uint8Array(0x10),_0x3ed228=new Uint8Array(0x40),_0x510aba,_0x202414;for(_0x202414=0x0;_0x202414<0x10;_0x202414++)_0x5b7fba[_0x202414]=0x0;for(_0x202414=0x0;_0x202414<0x8;_0x202414++)_0x5b7fba[_0x202414]=_0x331ca9[_0x202414];while(_0x5e6b36>=0x40){_0x418553(_0x3ed228,_0x5b7fba,_0x34dcc9,_0x41a4a8);for(_0x202414=0x0;_0x202414<0x40;_0x202414++)_0x4ee3a3[_0x3b9388+_0x202414]=_0x18f2a4[_0x44d199+_0x202414]^_0x3ed228[_0x202414];_0x510aba=0x1;for(_0x202414=0x8;_0x202414<0x10;_0x202414++){_0x510aba=_0x510aba+(_0x5b7fba[_0x202414]&0xff)|0x0,_0x5b7fba[_0x202414]=_0x510aba&0xff,_0x510aba>>>=0x8;}_0x5e6b36-=0x40,_0x3b9388+=0x40,_0x44d199+=0x40;}if(_0x5e6b36>0x0){_0x418553(_0x3ed228,_0x5b7fba,_0x34dcc9,_0x41a4a8);for(_0x202414=0x0;_0x202414<_0x5e6b36;_0x202414++)_0x4ee3a3[_0x3b9388+_0x202414]=_0x18f2a4[_0x44d199+_0x202414]^_0x3ed228[_0x202414];}return 0x0;}__name(_0x5317f2,_0x4107b6(0x22f));function _0x498d55(_0x4e8a88,_0x368f23,_0x5d2f01,_0x20d7d7,_0x248f56){var _0x2eae23=new Uint8Array(0x10),_0x59c070=new Uint8Array(0x40),_0x4c0783,_0x193cb9;for(_0x193cb9=0x0;_0x193cb9<0x10;_0x193cb9++)_0x2eae23[_0x193cb9]=0x0;for(_0x193cb9=0x0;_0x193cb9<0x8;_0x193cb9++)_0x2eae23[_0x193cb9]=_0x20d7d7[_0x193cb9];while(_0x5d2f01>=0x40){_0x418553(_0x59c070,_0x2eae23,_0x248f56,_0x41a4a8);for(_0x193cb9=0x0;_0x193cb9<0x40;_0x193cb9++)_0x4e8a88[_0x368f23+_0x193cb9]=_0x59c070[_0x193cb9];_0x4c0783=0x1;for(_0x193cb9=0x8;_0x193cb9<0x10;_0x193cb9++){_0x4c0783=_0x4c0783+(_0x2eae23[_0x193cb9]&0xff)|0x0,_0x2eae23[_0x193cb9]=_0x4c0783&0xff,_0x4c0783>>>=0x8;}_0x5d2f01-=0x40,_0x368f23+=0x40;}if(_0x5d2f01>0x0){_0x418553(_0x59c070,_0x2eae23,_0x248f56,_0x41a4a8);for(_0x193cb9=0x0;_0x193cb9<_0x5d2f01;_0x193cb9++)_0x4e8a88[_0x368f23+_0x193cb9]=_0x59c070[_0x193cb9];}return 0x0;}__name(_0x498d55,_0x4107b6(0x4d2));function _0x48050c(_0x5a071a,_0x480e9f,_0x2af8db,_0xca046c,_0x2c4f8d){var _0x5f30dc=new Uint8Array(0x20);_0x14bcac(_0x5f30dc,_0xca046c,_0x2c4f8d,_0x41a4a8);var _0x29eaa2=new Uint8Array(0x8);for(var _0x13e783=0x0;_0x13e783<0x8;_0x13e783++)_0x29eaa2[_0x13e783]=_0xca046c[_0x13e783+0x10];return _0x498d55(_0x5a071a,_0x480e9f,_0x2af8db,_0x29eaa2,_0x5f30dc);}__name(_0x48050c,_0x4107b6(0x3fc));function _0x3ff2b9(_0x4ce037,_0x1b2588,_0x1ce427,_0x298f5b,_0x2a1b15,_0x56722d,_0x1c9ead){var _0xbf2984=new Uint8Array(0x20);_0x14bcac(_0xbf2984,_0x56722d,_0x1c9ead,_0x41a4a8);var _0x321b20=new Uint8Array(0x8);for(var _0x53cce3=0x0;_0x53cce3<0x8;_0x53cce3++)_0x321b20[_0x53cce3]=_0x56722d[_0x53cce3+0x10];return _0x5317f2(_0x4ce037,_0x1b2588,_0x1ce427,_0x298f5b,_0x2a1b15,_0x321b20,_0xbf2984);}__name(_0x3ff2b9,_0x185ee4(0x1c8));var _0x211712=__name(function(_0x115c39){const _0x47ca64=_0x185ee4,_0x1112d0=_0x4107b6;this[_0x1112d0(0x19d)]=new Uint8Array(0x10),this['r']=new Uint16Array(0xa),this['h']=new Uint16Array(0xa),this[_0x1112d0(0x596)]=new Uint16Array(0x8),this[_0x1112d0(0x329)]=0x0,this[_0x1112d0(0x471)]=0x0;var _0xd029d8,_0x4b6f74,_0x50c0ce,_0x38555a,_0x130e27,_0x511abe,_0x1d8c99,_0xad6947;_0xd029d8=_0x115c39[0x0]&0xff|(_0x115c39[0x1]&0xff)<<0x8,this['r'][0x0]=_0xd029d8&0x1fff,_0x4b6f74=_0x115c39[0x2]&0xff|(_0x115c39[0x3]&0xff)<<0x8,this['r'][0x1]=(_0xd029d8>>>0xd|_0x4b6f74<<0x3)&0x1fff,_0x50c0ce=_0x115c39[0x4]&0xff|(_0x115c39[0x5]&0xff)<<0x8,this['r'][0x2]=(_0x4b6f74>>>0xa|_0x50c0ce<<0x6)&0x1f03,_0x38555a=_0x115c39[0x6]&0xff|(_0x115c39[0x7]&0xff)<<0x8,this['r'][0x3]=(_0x50c0ce>>>0x7|_0x38555a<<0x9)&0x1fff,_0x130e27=_0x115c39[0x8]&0xff|(_0x115c39[0x9]&0xff)<<0x8,this['r'][0x4]=(_0x38555a>>>0x4|_0x130e27<<0xc)&0xff,this['r'][0x5]=_0x130e27>>>0x1&0x1ffe,_0x511abe=_0x115c39[0xa]&0xff|(_0x115c39[0xb]&0xff)<<0x8,this['r'][0x6]=(_0x130e27>>>0xe|_0x511abe<<0x2)&0x1fff,_0x1d8c99=_0x115c39[0xc]&0xff|(_0x115c39[0xd]&0xff)<<0x8,this['r'][0x7]=(_0x511abe>>>0xb|_0x1d8c99<<0x5)&0x1f81,_0xad6947=_0x115c39[0xe]&0xff|(_0x115c39[0xf]&0xff)<<0x8,this['r'][0x8]=(_0x1d8c99>>>0x8|_0xad6947<<0x8)&0x1fff,this['r'][0x9]=_0xad6947>>>0x5&0x7f,this[_0x1112d0(0x596)][0x0]=_0x115c39[0x10]&0xff|(_0x115c39[0x11]&0xff)<<0x8,this[_0x1112d0(0x596)][0x1]=_0x115c39[0x12]&0xff|(_0x115c39[0x13]&0xff)<<0x8,this[_0x1112d0(0x596)][0x2]=_0x115c39[0x14]&0xff|(_0x115c39[0x15]&0xff)<<0x8,this[_0x1112d0(0x596)][0x3]=_0x115c39[0x16]&0xff|(_0x115c39[0x17]&0xff)<<0x8,this[_0x1112d0(0x596)][0x4]=_0x115c39[0x18]&0xff|(_0x115c39[0x19]&0xff)<<0x8,this[_0x47ca64(0x2eb)][0x5]=_0x115c39[0x1a]&0xff|(_0x115c39[0x1b]&0xff)<<0x8,this[_0x1112d0(0x596)][0x6]=_0x115c39[0x1c]&0xff|(_0x115c39[0x1d]&0xff)<<0x8,this[_0x47ca64(0x2eb)][0x7]=_0x115c39[0x1e]&0xff|(_0x115c39[0x1f]&0xff)<<0x8;},_0x185ee4(0x441));_0x211712[_0x4107b6(0x467)][_0x4107b6(0x588)]=function(_0xc45abf,_0x4a6580,_0x4c2046){const _0x142c5c=_0x4107b6;var _0x2e8ec1=this[_0x142c5c(0x471)]?0x0:0x1<<0xb,_0x575f01,_0x3f1118,_0x3e5591,_0x5e0fc4,_0x3f2d13,_0x2dcd06,_0x58be88,_0x26cd60,_0x1c15c4,_0x173f82,_0x2510f3,_0x5354d0,_0x45ce86,_0x151386,_0x30258c,_0x4980b5,_0x33cf41,_0x5bd4bb,_0x35baac,_0x508a7e=this['h'][0x0],_0x5ec4ae=this['h'][0x1],_0x280ee0=this['h'][0x2],_0x11cc5a=this['h'][0x3],_0x1b25b4=this['h'][0x4],_0x3bc9fb=this['h'][0x5],_0x3afc27=this['h'][0x6],_0xd251c4=this['h'][0x7],_0x384f4c=this['h'][0x8],_0x4728d0=this['h'][0x9],_0x36f295=this['r'][0x0],_0x4d6ad0=this['r'][0x1],_0xc573eb=this['r'][0x2],_0x15e78f=this['r'][0x3],_0x49cd8c=this['r'][0x4],_0x43f0c0=this['r'][0x5],_0x136134=this['r'][0x6],_0x82da43=this['r'][0x7],_0x3a33cd=this['r'][0x8],_0x456cc7=this['r'][0x9];while(_0x4c2046>=0x10){_0x575f01=_0xc45abf[_0x4a6580+0x0]&0xff|(_0xc45abf[_0x4a6580+0x1]&0xff)<<0x8,_0x508a7e+=_0x575f01&0x1fff,_0x3f1118=_0xc45abf[_0x4a6580+0x2]&0xff|(_0xc45abf[_0x4a6580+0x3]&0xff)<<0x8,_0x5ec4ae+=(_0x575f01>>>0xd|_0x3f1118<<0x3)&0x1fff,_0x3e5591=_0xc45abf[_0x4a6580+0x4]&0xff|(_0xc45abf[_0x4a6580+0x5]&0xff)<<0x8,_0x280ee0+=(_0x3f1118>>>0xa|_0x3e5591<<0x6)&0x1fff,_0x5e0fc4=_0xc45abf[_0x4a6580+0x6]&0xff|(_0xc45abf[_0x4a6580+0x7]&0xff)<<0x8,_0x11cc5a+=(_0x3e5591>>>0x7|_0x5e0fc4<<0x9)&0x1fff,_0x3f2d13=_0xc45abf[_0x4a6580+0x8]&0xff|(_0xc45abf[_0x4a6580+0x9]&0xff)<<0x8,_0x1b25b4+=(_0x5e0fc4>>>0x4|_0x3f2d13<<0xc)&0x1fff,_0x3bc9fb+=_0x3f2d13>>>0x1&0x1fff,_0x2dcd06=_0xc45abf[_0x4a6580+0xa]&0xff|(_0xc45abf[_0x4a6580+0xb]&0xff)<<0x8,_0x3afc27+=(_0x3f2d13>>>0xe|_0x2dcd06<<0x2)&0x1fff,_0x58be88=_0xc45abf[_0x4a6580+0xc]&0xff|(_0xc45abf[_0x4a6580+0xd]&0xff)<<0x8,_0xd251c4+=(_0x2dcd06>>>0xb|_0x58be88<<0x5)&0x1fff,_0x26cd60=_0xc45abf[_0x4a6580+0xe]&0xff|(_0xc45abf[_0x4a6580+0xf]&0xff)<<0x8,_0x384f4c+=(_0x58be88>>>0x8|_0x26cd60<<0x8)&0x1fff,_0x4728d0+=_0x26cd60>>>0x5|_0x2e8ec1,_0x1c15c4=0x0,_0x173f82=_0x1c15c4,_0x173f82+=_0x508a7e*_0x36f295,_0x173f82+=_0x5ec4ae*(0x5*_0x456cc7),_0x173f82+=_0x280ee0*(0x5*_0x3a33cd),_0x173f82+=_0x11cc5a*(0x5*_0x82da43),_0x173f82+=_0x1b25b4*(0x5*_0x136134),_0x1c15c4=_0x173f82>>>0xd,_0x173f82&=0x1fff,_0x173f82+=_0x3bc9fb*(0x5*_0x43f0c0),_0x173f82+=_0x3afc27*(0x5*_0x49cd8c),_0x173f82+=_0xd251c4*(0x5*_0x15e78f),_0x173f82+=_0x384f4c*(0x5*_0xc573eb),_0x173f82+=_0x4728d0*(0x5*_0x4d6ad0),_0x1c15c4+=_0x173f82>>>0xd,_0x173f82&=0x1fff,_0x2510f3=_0x1c15c4,_0x2510f3+=_0x508a7e*_0x4d6ad0,_0x2510f3+=_0x5ec4ae*_0x36f295,_0x2510f3+=_0x280ee0*(0x5*_0x456cc7),_0x2510f3+=_0x11cc5a*(0x5*_0x3a33cd),_0x2510f3+=_0x1b25b4*(0x5*_0x82da43),_0x1c15c4=_0x2510f3>>>0xd,_0x2510f3&=0x1fff,_0x2510f3+=_0x3bc9fb*(0x5*_0x136134),_0x2510f3+=_0x3afc27*(0x5*_0x43f0c0),_0x2510f3+=_0xd251c4*(0x5*_0x49cd8c),_0x2510f3+=_0x384f4c*(0x5*_0x15e78f),_0x2510f3+=_0x4728d0*(0x5*_0xc573eb),_0x1c15c4+=_0x2510f3>>>0xd,_0x2510f3&=0x1fff,_0x5354d0=_0x1c15c4,_0x5354d0+=_0x508a7e*_0xc573eb,_0x5354d0+=_0x5ec4ae*_0x4d6ad0,_0x5354d0+=_0x280ee0*_0x36f295,_0x5354d0+=_0x11cc5a*(0x5*_0x456cc7),_0x5354d0+=_0x1b25b4*(0x5*_0x3a33cd),_0x1c15c4=_0x5354d0>>>0xd,_0x5354d0&=0x1fff,_0x5354d0+=_0x3bc9fb*(0x5*_0x82da43),_0x5354d0+=_0x3afc27*(0x5*_0x136134),_0x5354d0+=_0xd251c4*(0x5*_0x43f0c0),_0x5354d0+=_0x384f4c*(0x5*_0x49cd8c),_0x5354d0+=_0x4728d0*(0x5*_0x15e78f),_0x1c15c4+=_0x5354d0>>>0xd,_0x5354d0&=0x1fff,_0x45ce86=_0x1c15c4,_0x45ce86+=_0x508a7e*_0x15e78f,_0x45ce86+=_0x5ec4ae*_0xc573eb,_0x45ce86+=_0x280ee0*_0x4d6ad0,_0x45ce86+=_0x11cc5a*_0x36f295,_0x45ce86+=_0x1b25b4*(0x5*_0x456cc7),_0x1c15c4=_0x45ce86>>>0xd,_0x45ce86&=0x1fff,_0x45ce86+=_0x3bc9fb*(0x5*_0x3a33cd),_0x45ce86+=_0x3afc27*(0x5*_0x82da43),_0x45ce86+=_0xd251c4*(0x5*_0x136134),_0x45ce86+=_0x384f4c*(0x5*_0x43f0c0),_0x45ce86+=_0x4728d0*(0x5*_0x49cd8c),_0x1c15c4+=_0x45ce86>>>0xd,_0x45ce86&=0x1fff,_0x151386=_0x1c15c4,_0x151386+=_0x508a7e*_0x49cd8c,_0x151386+=_0x5ec4ae*_0x15e78f,_0x151386+=_0x280ee0*_0xc573eb,_0x151386+=_0x11cc5a*_0x4d6ad0,_0x151386+=_0x1b25b4*_0x36f295,_0x1c15c4=_0x151386>>>0xd,_0x151386&=0x1fff,_0x151386+=_0x3bc9fb*(0x5*_0x456cc7),_0x151386+=_0x3afc27*(0x5*_0x3a33cd),_0x151386+=_0xd251c4*(0x5*_0x82da43),_0x151386+=_0x384f4c*(0x5*_0x136134),_0x151386+=_0x4728d0*(0x5*_0x43f0c0),_0x1c15c4+=_0x151386>>>0xd,_0x151386&=0x1fff,_0x30258c=_0x1c15c4,_0x30258c+=_0x508a7e*_0x43f0c0,_0x30258c+=_0x5ec4ae*_0x49cd8c,_0x30258c+=_0x280ee0*_0x15e78f,_0x30258c+=_0x11cc5a*_0xc573eb,_0x30258c+=_0x1b25b4*_0x4d6ad0,_0x1c15c4=_0x30258c>>>0xd,_0x30258c&=0x1fff,_0x30258c+=_0x3bc9fb*_0x36f295,_0x30258c+=_0x3afc27*(0x5*_0x456cc7),_0x30258c+=_0xd251c4*(0x5*_0x3a33cd),_0x30258c+=_0x384f4c*(0x5*_0x82da43),_0x30258c+=_0x4728d0*(0x5*_0x136134),_0x1c15c4+=_0x30258c>>>0xd,_0x30258c&=0x1fff,_0x4980b5=_0x1c15c4,_0x4980b5+=_0x508a7e*_0x136134,_0x4980b5+=_0x5ec4ae*_0x43f0c0,_0x4980b5+=_0x280ee0*_0x49cd8c,_0x4980b5+=_0x11cc5a*_0x15e78f,_0x4980b5+=_0x1b25b4*_0xc573eb,_0x1c15c4=_0x4980b5>>>0xd,_0x4980b5&=0x1fff,_0x4980b5+=_0x3bc9fb*_0x4d6ad0,_0x4980b5+=_0x3afc27*_0x36f295,_0x4980b5+=_0xd251c4*(0x5*_0x456cc7),_0x4980b5+=_0x384f4c*(0x5*_0x3a33cd),_0x4980b5+=_0x4728d0*(0x5*_0x82da43),_0x1c15c4+=_0x4980b5>>>0xd,_0x4980b5&=0x1fff,_0x33cf41=_0x1c15c4,_0x33cf41+=_0x508a7e*_0x82da43,_0x33cf41+=_0x5ec4ae*_0x136134,_0x33cf41+=_0x280ee0*_0x43f0c0,_0x33cf41+=_0x11cc5a*_0x49cd8c,_0x33cf41+=_0x1b25b4*_0x15e78f,_0x1c15c4=_0x33cf41>>>0xd,_0x33cf41&=0x1fff,_0x33cf41+=_0x3bc9fb*_0xc573eb,_0x33cf41+=_0x3afc27*_0x4d6ad0,_0x33cf41+=_0xd251c4*_0x36f295,_0x33cf41+=_0x384f4c*(0x5*_0x456cc7),_0x33cf41+=_0x4728d0*(0x5*_0x3a33cd),_0x1c15c4+=_0x33cf41>>>0xd,_0x33cf41&=0x1fff,_0x5bd4bb=_0x1c15c4,_0x5bd4bb+=_0x508a7e*_0x3a33cd,_0x5bd4bb+=_0x5ec4ae*_0x82da43,_0x5bd4bb+=_0x280ee0*_0x136134,_0x5bd4bb+=_0x11cc5a*_0x43f0c0,_0x5bd4bb+=_0x1b25b4*_0x49cd8c,_0x1c15c4=_0x5bd4bb>>>0xd,_0x5bd4bb&=0x1fff,_0x5bd4bb+=_0x3bc9fb*_0x15e78f,_0x5bd4bb+=_0x3afc27*_0xc573eb,_0x5bd4bb+=_0xd251c4*_0x4d6ad0,_0x5bd4bb+=_0x384f4c*_0x36f295,_0x5bd4bb+=_0x4728d0*(0x5*_0x456cc7),_0x1c15c4+=_0x5bd4bb>>>0xd,_0x5bd4bb&=0x1fff,_0x35baac=_0x1c15c4,_0x35baac+=_0x508a7e*_0x456cc7,_0x35baac+=_0x5ec4ae*_0x3a33cd,_0x35baac+=_0x280ee0*_0x82da43,_0x35baac+=_0x11cc5a*_0x136134,_0x35baac+=_0x1b25b4*_0x43f0c0,_0x1c15c4=_0x35baac>>>0xd,_0x35baac&=0x1fff,_0x35baac+=_0x3bc9fb*_0x49cd8c,_0x35baac+=_0x3afc27*_0x15e78f,_0x35baac+=_0xd251c4*_0xc573eb,_0x35baac+=_0x384f4c*_0x4d6ad0,_0x35baac+=_0x4728d0*_0x36f295,_0x1c15c4+=_0x35baac>>>0xd,_0x35baac&=0x1fff,_0x1c15c4=(_0x1c15c4<<0x2)+_0x1c15c4|0x0,_0x1c15c4=_0x1c15c4+_0x173f82|0x0,_0x173f82=_0x1c15c4&0x1fff,_0x1c15c4=_0x1c15c4>>>0xd,_0x2510f3+=_0x1c15c4,_0x508a7e=_0x173f82,_0x5ec4ae=_0x2510f3,_0x280ee0=_0x5354d0,_0x11cc5a=_0x45ce86,_0x1b25b4=_0x151386,_0x3bc9fb=_0x30258c,_0x3afc27=_0x4980b5,_0xd251c4=_0x33cf41,_0x384f4c=_0x5bd4bb,_0x4728d0=_0x35baac,_0x4a6580+=0x10,_0x4c2046-=0x10;}this['h'][0x0]=_0x508a7e,this['h'][0x1]=_0x5ec4ae,this['h'][0x2]=_0x280ee0,this['h'][0x3]=_0x11cc5a,this['h'][0x4]=_0x1b25b4,this['h'][0x5]=_0x3bc9fb,this['h'][0x6]=_0x3afc27,this['h'][0x7]=_0xd251c4,this['h'][0x8]=_0x384f4c,this['h'][0x9]=_0x4728d0;},_0x211712[_0x4107b6(0x467)][_0x185ee4(0x50b)]=function(_0x1f0018,_0x11271d){const _0x54a919=_0x185ee4,_0x37b42a=_0x4107b6;var _0x579cb8=new Uint16Array(0xa),_0x3e598f,_0x47a0e5,_0x399f84,_0x3ae3a3;if(this[_0x54a919(0x1b0)]){_0x3ae3a3=this[_0x37b42a(0x329)],this[_0x37b42a(0x19d)][_0x3ae3a3++]=0x1;for(;_0x3ae3a3<0x10;_0x3ae3a3++)this[_0x37b42a(0x19d)][_0x3ae3a3]=0x0;this[_0x54a919(0x4ae)]=0x1,this[_0x37b42a(0x588)](this[_0x37b42a(0x19d)],0x0,0x10);}_0x3e598f=this['h'][0x1]>>>0xd,this['h'][0x1]&=0x1fff;for(_0x3ae3a3=0x2;_0x3ae3a3<0xa;_0x3ae3a3++){this['h'][_0x3ae3a3]+=_0x3e598f,_0x3e598f=this['h'][_0x3ae3a3]>>>0xd,this['h'][_0x3ae3a3]&=0x1fff;}this['h'][0x0]+=_0x3e598f*0x5,_0x3e598f=this['h'][0x0]>>>0xd,this['h'][0x0]&=0x1fff,this['h'][0x1]+=_0x3e598f,_0x3e598f=this['h'][0x1]>>>0xd,this['h'][0x1]&=0x1fff,this['h'][0x2]+=_0x3e598f,_0x579cb8[0x0]=this['h'][0x0]+0x5,_0x3e598f=_0x579cb8[0x0]>>>0xd,_0x579cb8[0x0]&=0x1fff;for(_0x3ae3a3=0x1;_0x3ae3a3<0xa;_0x3ae3a3++){_0x579cb8[_0x3ae3a3]=this['h'][_0x3ae3a3]+_0x3e598f,_0x3e598f=_0x579cb8[_0x3ae3a3]>>>0xd,_0x579cb8[_0x3ae3a3]&=0x1fff;}_0x579cb8[0x9]-=0x1<<0xd,_0x47a0e5=(_0x3e598f^0x1)-0x1;for(_0x3ae3a3=0x0;_0x3ae3a3<0xa;_0x3ae3a3++)_0x579cb8[_0x3ae3a3]&=_0x47a0e5;_0x47a0e5=~_0x47a0e5;for(_0x3ae3a3=0x0;_0x3ae3a3<0xa;_0x3ae3a3++)this['h'][_0x3ae3a3]=this['h'][_0x3ae3a3]&_0x47a0e5|_0x579cb8[_0x3ae3a3];this['h'][0x0]=(this['h'][0x0]|this['h'][0x1]<<0xd)&0xffff,this['h'][0x1]=(this['h'][0x1]>>>0x3|this['h'][0x2]<<0xa)&0xffff,this['h'][0x2]=(this['h'][0x2]>>>0x6|this['h'][0x3]<<0x7)&0xffff,this['h'][0x3]=(this['h'][0x3]>>>0x9|this['h'][0x4]<<0x4)&0xffff,this['h'][0x4]=(this['h'][0x4]>>>0xc|this['h'][0x5]<<0x1|this['h'][0x6]<<0xe)&0xffff,this['h'][0x5]=(this['h'][0x6]>>>0x2|this['h'][0x7]<<0xb)&0xffff,this['h'][0x6]=(this['h'][0x7]>>>0x5|this['h'][0x8]<<0x8)&0xffff,this['h'][0x7]=(this['h'][0x8]>>>0x8|this['h'][0x9]<<0x5)&0xffff,_0x399f84=this['h'][0x0]+this[_0x37b42a(0x596)][0x0],this['h'][0x0]=_0x399f84&0xffff;for(_0x3ae3a3=0x1;_0x3ae3a3<0x8;_0x3ae3a3++){_0x399f84=(this['h'][_0x3ae3a3]+this[_0x54a919(0x2eb)][_0x3ae3a3]|0x0)+(_0x399f84>>>0x10)|0x0,this['h'][_0x3ae3a3]=_0x399f84&0xffff;}_0x1f0018[_0x11271d+0x0]=this['h'][0x0]>>>0x0&0xff,_0x1f0018[_0x11271d+0x1]=this['h'][0x0]>>>0x8&0xff,_0x1f0018[_0x11271d+0x2]=this['h'][0x1]>>>0x0&0xff,_0x1f0018[_0x11271d+0x3]=this['h'][0x1]>>>0x8&0xff,_0x1f0018[_0x11271d+0x4]=this['h'][0x2]>>>0x0&0xff,_0x1f0018[_0x11271d+0x5]=this['h'][0x2]>>>0x8&0xff,_0x1f0018[_0x11271d+0x6]=this['h'][0x3]>>>0x0&0xff,_0x1f0018[_0x11271d+0x7]=this['h'][0x3]>>>0x8&0xff,_0x1f0018[_0x11271d+0x8]=this['h'][0x4]>>>0x0&0xff,_0x1f0018[_0x11271d+0x9]=this['h'][0x4]>>>0x8&0xff,_0x1f0018[_0x11271d+0xa]=this['h'][0x5]>>>0x0&0xff,_0x1f0018[_0x11271d+0xb]=this['h'][0x5]>>>0x8&0xff,_0x1f0018[_0x11271d+0xc]=this['h'][0x6]>>>0x0&0xff,_0x1f0018[_0x11271d+0xd]=this['h'][0x6]>>>0x8&0xff,_0x1f0018[_0x11271d+0xe]=this['h'][0x7]>>>0x0&0xff,_0x1f0018[_0x11271d+0xf]=this['h'][0x7]>>>0x8&0xff;},_0x211712[_0x4107b6(0x467)]['update']=function(_0x755924,_0x4d5e8b,_0x41f879){const _0xb529ed=_0x185ee4,_0x15c6ec=_0x4107b6;var _0xb0a95b,_0x50829f;if(this[_0xb529ed(0x1b0)]){_0x50829f=0x10-this[_0x15c6ec(0x329)];if(_0x50829f>_0x41f879)_0x50829f=_0x41f879;for(_0xb0a95b=0x0;_0xb0a95b<_0x50829f;_0xb0a95b++)this[_0x15c6ec(0x19d)][this[_0x15c6ec(0x329)]+_0xb0a95b]=_0x755924[_0x4d5e8b+_0xb0a95b];_0x41f879-=_0x50829f,_0x4d5e8b+=_0x50829f,this[_0xb529ed(0x1b0)]+=_0x50829f;if(this['leftover']<0x10)return;this[_0x15c6ec(0x588)](this[_0x15c6ec(0x19d)],0x0,0x10),this[_0x15c6ec(0x329)]=0x0;}_0x41f879>=0x10&&(_0x50829f=_0x41f879-_0x41f879%0x10,this[_0x15c6ec(0x588)](_0x755924,_0x4d5e8b,_0x50829f),_0x4d5e8b+=_0x50829f,_0x41f879-=_0x50829f);if(_0x41f879){for(_0xb0a95b=0x0;_0xb0a95b<_0x41f879;_0xb0a95b++)this[_0x15c6ec(0x19d)][this[_0x15c6ec(0x329)]+_0xb0a95b]=_0x755924[_0x4d5e8b+_0xb0a95b];this[_0x15c6ec(0x329)]+=_0x41f879;}};function _0x2c20c5(_0x3bed8c,_0xb44c5a,_0x5b95f4,_0x1d5226,_0x10dbf4,_0x1769f1){const _0x5d89a2=_0x185ee4;var _0x224e10=new _0x211712(_0x1769f1);return _0x224e10[_0x5d89a2(0x3d3)](_0x5b95f4,_0x1d5226,_0x10dbf4),_0x224e10[_0x5d89a2(0x50b)](_0x3bed8c,_0xb44c5a),0x0;}__name(_0x2c20c5,_0x185ee4(0x21c));function _0x11cd14(_0x53a675,_0x9de9a1,_0x1dcdf5,_0x54b8a6,_0x5b8147,_0x5e10c6){var _0x545068=new Uint8Array(0x10);return _0x2c20c5(_0x545068,0x0,_0x1dcdf5,_0x54b8a6,_0x5b8147,_0x5e10c6),_0x53ad49(_0x53a675,_0x9de9a1,_0x545068,0x0);}__name(_0x11cd14,_0x4107b6(0x421));function _0x5bc373(_0x4bda16,_0x3f3996,_0x1093dc,_0x1fc3b2,_0x2a762c){var _0x13072d;if(_0x1093dc<0x20)return-0x1;_0x3ff2b9(_0x4bda16,0x0,_0x3f3996,0x0,_0x1093dc,_0x1fc3b2,_0x2a762c),_0x2c20c5(_0x4bda16,0x10,_0x4bda16,0x20,_0x1093dc-0x20,_0x4bda16);for(_0x13072d=0x0;_0x13072d<0x10;_0x13072d++)_0x4bda16[_0x13072d]=0x0;return 0x0;}__name(_0x5bc373,_0x4107b6(0x3af));function _0x52fe8f(_0x1e6e21,_0x3d8d28,_0x455cff,_0x19eb8f,_0x1021a4){var _0x5e8424,_0x4e075c=new Uint8Array(0x20);if(_0x455cff<0x20)return-0x1;_0x48050c(_0x4e075c,0x0,0x20,_0x19eb8f,_0x1021a4);if(_0x11cd14(_0x3d8d28,0x10,_0x3d8d28,0x20,_0x455cff-0x20,_0x4e075c)!==0x0)return-0x1;_0x3ff2b9(_0x1e6e21,0x0,_0x3d8d28,0x0,_0x455cff,_0x19eb8f,_0x1021a4);for(_0x5e8424=0x0;_0x5e8424<0x20;_0x5e8424++)_0x1e6e21[_0x5e8424]=0x0;return 0x0;}__name(_0x52fe8f,_0x4107b6(0x518));function _0x5d9ef0(_0x259f48,_0x5cd4b4){var _0x3fd298;for(_0x3fd298=0x0;_0x3fd298<0x10;_0x3fd298++)_0x259f48[_0x3fd298]=_0x5cd4b4[_0x3fd298]|0x0;}__name(_0x5d9ef0,_0x4107b6(0x364));function _0x391abc(_0x313b8d){const _0x23e83d=_0x185ee4;var _0x1314d8,_0x247f2a,_0x1a4cd7=0x1;for(_0x1314d8=0x0;_0x1314d8<0x10;_0x1314d8++){_0x247f2a=_0x313b8d[_0x1314d8]+_0x1a4cd7+0xffff,_0x1a4cd7=Math[_0x23e83d(0x503)](_0x247f2a/0x10000),_0x313b8d[_0x1314d8]=_0x247f2a-_0x1a4cd7*0x10000;}_0x313b8d[0x0]+=_0x1a4cd7-0x1+0x25*(_0x1a4cd7-0x1);}__name(_0x391abc,_0x185ee4(0x5f0));function _0x7c4318(_0x590686,_0x5a4788,_0x536df3){var _0x261935,_0x408841=~(_0x536df3-0x1);for(var _0x35fe96=0x0;_0x35fe96<0x10;_0x35fe96++){_0x261935=_0x408841&(_0x590686[_0x35fe96]^_0x5a4788[_0x35fe96]),_0x590686[_0x35fe96]^=_0x261935,_0x5a4788[_0x35fe96]^=_0x261935;}}__name(_0x7c4318,_0x4107b6(0x318));function _0x535421(_0x322c6c,_0x48145f){var _0x4d6266,_0x4dc2ef,_0x4db2d6,_0x9def8c=_0x3c9324(),_0x329303=_0x3c9324();for(_0x4d6266=0x0;_0x4d6266<0x10;_0x4d6266++)_0x329303[_0x4d6266]=_0x48145f[_0x4d6266];_0x391abc(_0x329303),_0x391abc(_0x329303),_0x391abc(_0x329303);for(_0x4dc2ef=0x0;_0x4dc2ef<0x2;_0x4dc2ef++){_0x9def8c[0x0]=_0x329303[0x0]-0xffed;for(_0x4d6266=0x1;_0x4d6266<0xf;_0x4d6266++){_0x9def8c[_0x4d6266]=_0x329303[_0x4d6266]-0xffff-(_0x9def8c[_0x4d6266-0x1]>>0x10&0x1),_0x9def8c[_0x4d6266-0x1]&=0xffff;}_0x9def8c[0xf]=_0x329303[0xf]-0x7fff-(_0x9def8c[0xe]>>0x10&0x1),_0x4db2d6=_0x9def8c[0xf]>>0x10&0x1,_0x9def8c[0xe]&=0xffff,_0x7c4318(_0x329303,_0x9def8c,0x1-_0x4db2d6);}for(_0x4d6266=0x0;_0x4d6266<0x10;_0x4d6266++){_0x322c6c[0x2*_0x4d6266]=_0x329303[_0x4d6266]&0xff,_0x322c6c[0x2*_0x4d6266+0x1]=_0x329303[_0x4d6266]>>0x8;}}__name(_0x535421,_0x4107b6(0x59b));function _0x14a516(_0x1e9d54,_0x2fc090){var _0x36838a=new Uint8Array(0x20),_0x5305b3=new Uint8Array(0x20);return _0x535421(_0x36838a,_0x1e9d54),_0x535421(_0x5305b3,_0x2fc090),_0x447820(_0x36838a,0x0,_0x5305b3,0x0);}__name(_0x14a516,_0x4107b6(0x5c2));function _0x197a92(_0x3c5cb7){var _0x11ecab=new Uint8Array(0x20);return _0x535421(_0x11ecab,_0x3c5cb7),_0x11ecab[0x0]&0x1;}__name(_0x197a92,_0x4107b6(0x3da));function _0x2dba86(_0x2d3df7,_0xc85fe4){var _0x4b57ee;for(_0x4b57ee=0x0;_0x4b57ee<0x10;_0x4b57ee++)_0x2d3df7[_0x4b57ee]=_0xc85fe4[0x2*_0x4b57ee]+(_0xc85fe4[0x2*_0x4b57ee+0x1]<<0x8);_0x2d3df7[0xf]&=0x7fff;}__name(_0x2dba86,_0x4107b6(0x4a0));function _0x52c5c5(_0x17027b,_0x438351,_0x32b9c1){for(var _0x51cb00=0x0;_0x51cb00<0x10;_0x51cb00++)_0x17027b[_0x51cb00]=_0x438351[_0x51cb00]+_0x32b9c1[_0x51cb00];}__name(_0x52c5c5,'A');function _0x4905e5(_0x1b05b2,_0x4f2ac2,_0x5ec815){for(var _0x540f41=0x0;_0x540f41<0x10;_0x540f41++)_0x1b05b2[_0x540f41]=_0x4f2ac2[_0x540f41]-_0x5ec815[_0x540f41];}__name(_0x4905e5,'Z');function _0x4e6756(_0x11a384,_0x38b6f2,_0x1dd6ee){const _0x590199=_0x185ee4,_0x103ea5=_0x4107b6;var _0x5e35b4,_0x42e4a0,_0x209499=0x0,_0x348334=0x0,_0x17bba6=0x0,_0x248a0b=0x0,_0x13d90f=0x0,_0x5cdabf=0x0,_0x3155b0=0x0,_0x3a0007=0x0,_0x3cf482=0x0,_0x27a8d4=0x0,_0x475a2d=0x0,_0xb4e81c=0x0,_0x1fd5e0=0x0,_0x4d255=0x0,_0x584ca1=0x0,_0x39d9b9=0x0,_0x4c9d22=0x0,_0x4ac4bd=0x0,_0x5b28f8=0x0,_0x35e171=0x0,_0x18d5a8=0x0,_0x1f10b7=0x0,_0x2660de=0x0,_0x18f7d7=0x0,_0x5ecfc8=0x0,_0x5cd8c2=0x0,_0x300750=0x0,_0x21a72f=0x0,_0x37991a=0x0,_0xd7cea6=0x0,_0x5aa85b=0x0,_0x31bf82=_0x1dd6ee[0x0],_0x3a8934=_0x1dd6ee[0x1],_0x367805=_0x1dd6ee[0x2],_0x5713de=_0x1dd6ee[0x3],_0xd3dd4=_0x1dd6ee[0x4],_0x259399=_0x1dd6ee[0x5],_0x328544=_0x1dd6ee[0x6],_0xa87cce=_0x1dd6ee[0x7],_0x6b8e6=_0x1dd6ee[0x8],_0x26c949=_0x1dd6ee[0x9],_0xae4f81=_0x1dd6ee[0xa],_0x5c71e9=_0x1dd6ee[0xb],_0x22358c=_0x1dd6ee[0xc],_0x3405c9=_0x1dd6ee[0xd],_0x54f4b6=_0x1dd6ee[0xe],_0x440ea3=_0x1dd6ee[0xf];_0x5e35b4=_0x38b6f2[0x0],_0x209499+=_0x5e35b4*_0x31bf82,_0x348334+=_0x5e35b4*_0x3a8934,_0x17bba6+=_0x5e35b4*_0x367805,_0x248a0b+=_0x5e35b4*_0x5713de,_0x13d90f+=_0x5e35b4*_0xd3dd4,_0x5cdabf+=_0x5e35b4*_0x259399,_0x3155b0+=_0x5e35b4*_0x328544,_0x3a0007+=_0x5e35b4*_0xa87cce,_0x3cf482+=_0x5e35b4*_0x6b8e6,_0x27a8d4+=_0x5e35b4*_0x26c949,_0x475a2d+=_0x5e35b4*_0xae4f81,_0xb4e81c+=_0x5e35b4*_0x5c71e9,_0x1fd5e0+=_0x5e35b4*_0x22358c,_0x4d255+=_0x5e35b4*_0x3405c9,_0x584ca1+=_0x5e35b4*_0x54f4b6,_0x39d9b9+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0x1],_0x348334+=_0x5e35b4*_0x31bf82,_0x17bba6+=_0x5e35b4*_0x3a8934,_0x248a0b+=_0x5e35b4*_0x367805,_0x13d90f+=_0x5e35b4*_0x5713de,_0x5cdabf+=_0x5e35b4*_0xd3dd4,_0x3155b0+=_0x5e35b4*_0x259399,_0x3a0007+=_0x5e35b4*_0x328544,_0x3cf482+=_0x5e35b4*_0xa87cce,_0x27a8d4+=_0x5e35b4*_0x6b8e6,_0x475a2d+=_0x5e35b4*_0x26c949,_0xb4e81c+=_0x5e35b4*_0xae4f81,_0x1fd5e0+=_0x5e35b4*_0x5c71e9,_0x4d255+=_0x5e35b4*_0x22358c,_0x584ca1+=_0x5e35b4*_0x3405c9,_0x39d9b9+=_0x5e35b4*_0x54f4b6,_0x4c9d22+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0x2],_0x17bba6+=_0x5e35b4*_0x31bf82,_0x248a0b+=_0x5e35b4*_0x3a8934,_0x13d90f+=_0x5e35b4*_0x367805,_0x5cdabf+=_0x5e35b4*_0x5713de,_0x3155b0+=_0x5e35b4*_0xd3dd4,_0x3a0007+=_0x5e35b4*_0x259399,_0x3cf482+=_0x5e35b4*_0x328544,_0x27a8d4+=_0x5e35b4*_0xa87cce,_0x475a2d+=_0x5e35b4*_0x6b8e6,_0xb4e81c+=_0x5e35b4*_0x26c949,_0x1fd5e0+=_0x5e35b4*_0xae4f81,_0x4d255+=_0x5e35b4*_0x5c71e9,_0x584ca1+=_0x5e35b4*_0x22358c,_0x39d9b9+=_0x5e35b4*_0x3405c9,_0x4c9d22+=_0x5e35b4*_0x54f4b6,_0x4ac4bd+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0x3],_0x248a0b+=_0x5e35b4*_0x31bf82,_0x13d90f+=_0x5e35b4*_0x3a8934,_0x5cdabf+=_0x5e35b4*_0x367805,_0x3155b0+=_0x5e35b4*_0x5713de,_0x3a0007+=_0x5e35b4*_0xd3dd4,_0x3cf482+=_0x5e35b4*_0x259399,_0x27a8d4+=_0x5e35b4*_0x328544,_0x475a2d+=_0x5e35b4*_0xa87cce,_0xb4e81c+=_0x5e35b4*_0x6b8e6,_0x1fd5e0+=_0x5e35b4*_0x26c949,_0x4d255+=_0x5e35b4*_0xae4f81,_0x584ca1+=_0x5e35b4*_0x5c71e9,_0x39d9b9+=_0x5e35b4*_0x22358c,_0x4c9d22+=_0x5e35b4*_0x3405c9,_0x4ac4bd+=_0x5e35b4*_0x54f4b6,_0x5b28f8+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0x4],_0x13d90f+=_0x5e35b4*_0x31bf82,_0x5cdabf+=_0x5e35b4*_0x3a8934,_0x3155b0+=_0x5e35b4*_0x367805,_0x3a0007+=_0x5e35b4*_0x5713de,_0x3cf482+=_0x5e35b4*_0xd3dd4,_0x27a8d4+=_0x5e35b4*_0x259399,_0x475a2d+=_0x5e35b4*_0x328544,_0xb4e81c+=_0x5e35b4*_0xa87cce,_0x1fd5e0+=_0x5e35b4*_0x6b8e6,_0x4d255+=_0x5e35b4*_0x26c949,_0x584ca1+=_0x5e35b4*_0xae4f81,_0x39d9b9+=_0x5e35b4*_0x5c71e9,_0x4c9d22+=_0x5e35b4*_0x22358c,_0x4ac4bd+=_0x5e35b4*_0x3405c9,_0x5b28f8+=_0x5e35b4*_0x54f4b6,_0x35e171+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0x5],_0x5cdabf+=_0x5e35b4*_0x31bf82,_0x3155b0+=_0x5e35b4*_0x3a8934,_0x3a0007+=_0x5e35b4*_0x367805,_0x3cf482+=_0x5e35b4*_0x5713de,_0x27a8d4+=_0x5e35b4*_0xd3dd4,_0x475a2d+=_0x5e35b4*_0x259399,_0xb4e81c+=_0x5e35b4*_0x328544,_0x1fd5e0+=_0x5e35b4*_0xa87cce,_0x4d255+=_0x5e35b4*_0x6b8e6,_0x584ca1+=_0x5e35b4*_0x26c949,_0x39d9b9+=_0x5e35b4*_0xae4f81,_0x4c9d22+=_0x5e35b4*_0x5c71e9,_0x4ac4bd+=_0x5e35b4*_0x22358c,_0x5b28f8+=_0x5e35b4*_0x3405c9,_0x35e171+=_0x5e35b4*_0x54f4b6,_0x18d5a8+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0x6],_0x3155b0+=_0x5e35b4*_0x31bf82,_0x3a0007+=_0x5e35b4*_0x3a8934,_0x3cf482+=_0x5e35b4*_0x367805,_0x27a8d4+=_0x5e35b4*_0x5713de,_0x475a2d+=_0x5e35b4*_0xd3dd4,_0xb4e81c+=_0x5e35b4*_0x259399,_0x1fd5e0+=_0x5e35b4*_0x328544,_0x4d255+=_0x5e35b4*_0xa87cce,_0x584ca1+=_0x5e35b4*_0x6b8e6,_0x39d9b9+=_0x5e35b4*_0x26c949,_0x4c9d22+=_0x5e35b4*_0xae4f81,_0x4ac4bd+=_0x5e35b4*_0x5c71e9,_0x5b28f8+=_0x5e35b4*_0x22358c,_0x35e171+=_0x5e35b4*_0x3405c9,_0x18d5a8+=_0x5e35b4*_0x54f4b6,_0x1f10b7+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0x7],_0x3a0007+=_0x5e35b4*_0x31bf82,_0x3cf482+=_0x5e35b4*_0x3a8934,_0x27a8d4+=_0x5e35b4*_0x367805,_0x475a2d+=_0x5e35b4*_0x5713de,_0xb4e81c+=_0x5e35b4*_0xd3dd4,_0x1fd5e0+=_0x5e35b4*_0x259399,_0x4d255+=_0x5e35b4*_0x328544,_0x584ca1+=_0x5e35b4*_0xa87cce,_0x39d9b9+=_0x5e35b4*_0x6b8e6,_0x4c9d22+=_0x5e35b4*_0x26c949,_0x4ac4bd+=_0x5e35b4*_0xae4f81,_0x5b28f8+=_0x5e35b4*_0x5c71e9,_0x35e171+=_0x5e35b4*_0x22358c,_0x18d5a8+=_0x5e35b4*_0x3405c9,_0x1f10b7+=_0x5e35b4*_0x54f4b6,_0x2660de+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0x8],_0x3cf482+=_0x5e35b4*_0x31bf82,_0x27a8d4+=_0x5e35b4*_0x3a8934,_0x475a2d+=_0x5e35b4*_0x367805,_0xb4e81c+=_0x5e35b4*_0x5713de,_0x1fd5e0+=_0x5e35b4*_0xd3dd4,_0x4d255+=_0x5e35b4*_0x259399,_0x584ca1+=_0x5e35b4*_0x328544,_0x39d9b9+=_0x5e35b4*_0xa87cce,_0x4c9d22+=_0x5e35b4*_0x6b8e6,_0x4ac4bd+=_0x5e35b4*_0x26c949,_0x5b28f8+=_0x5e35b4*_0xae4f81,_0x35e171+=_0x5e35b4*_0x5c71e9,_0x18d5a8+=_0x5e35b4*_0x22358c,_0x1f10b7+=_0x5e35b4*_0x3405c9,_0x2660de+=_0x5e35b4*_0x54f4b6,_0x18f7d7+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0x9],_0x27a8d4+=_0x5e35b4*_0x31bf82,_0x475a2d+=_0x5e35b4*_0x3a8934,_0xb4e81c+=_0x5e35b4*_0x367805,_0x1fd5e0+=_0x5e35b4*_0x5713de,_0x4d255+=_0x5e35b4*_0xd3dd4,_0x584ca1+=_0x5e35b4*_0x259399,_0x39d9b9+=_0x5e35b4*_0x328544,_0x4c9d22+=_0x5e35b4*_0xa87cce,_0x4ac4bd+=_0x5e35b4*_0x6b8e6,_0x5b28f8+=_0x5e35b4*_0x26c949,_0x35e171+=_0x5e35b4*_0xae4f81,_0x18d5a8+=_0x5e35b4*_0x5c71e9,_0x1f10b7+=_0x5e35b4*_0x22358c,_0x2660de+=_0x5e35b4*_0x3405c9,_0x18f7d7+=_0x5e35b4*_0x54f4b6,_0x5ecfc8+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0xa],_0x475a2d+=_0x5e35b4*_0x31bf82,_0xb4e81c+=_0x5e35b4*_0x3a8934,_0x1fd5e0+=_0x5e35b4*_0x367805,_0x4d255+=_0x5e35b4*_0x5713de,_0x584ca1+=_0x5e35b4*_0xd3dd4,_0x39d9b9+=_0x5e35b4*_0x259399,_0x4c9d22+=_0x5e35b4*_0x328544,_0x4ac4bd+=_0x5e35b4*_0xa87cce,_0x5b28f8+=_0x5e35b4*_0x6b8e6,_0x35e171+=_0x5e35b4*_0x26c949,_0x18d5a8+=_0x5e35b4*_0xae4f81,_0x1f10b7+=_0x5e35b4*_0x5c71e9,_0x2660de+=_0x5e35b4*_0x22358c,_0x18f7d7+=_0x5e35b4*_0x3405c9,_0x5ecfc8+=_0x5e35b4*_0x54f4b6,_0x5cd8c2+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0xb],_0xb4e81c+=_0x5e35b4*_0x31bf82,_0x1fd5e0+=_0x5e35b4*_0x3a8934,_0x4d255+=_0x5e35b4*_0x367805,_0x584ca1+=_0x5e35b4*_0x5713de,_0x39d9b9+=_0x5e35b4*_0xd3dd4,_0x4c9d22+=_0x5e35b4*_0x259399,_0x4ac4bd+=_0x5e35b4*_0x328544,_0x5b28f8+=_0x5e35b4*_0xa87cce,_0x35e171+=_0x5e35b4*_0x6b8e6,_0x18d5a8+=_0x5e35b4*_0x26c949,_0x1f10b7+=_0x5e35b4*_0xae4f81,_0x2660de+=_0x5e35b4*_0x5c71e9,_0x18f7d7+=_0x5e35b4*_0x22358c,_0x5ecfc8+=_0x5e35b4*_0x3405c9,_0x5cd8c2+=_0x5e35b4*_0x54f4b6,_0x300750+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0xc],_0x1fd5e0+=_0x5e35b4*_0x31bf82,_0x4d255+=_0x5e35b4*_0x3a8934,_0x584ca1+=_0x5e35b4*_0x367805,_0x39d9b9+=_0x5e35b4*_0x5713de,_0x4c9d22+=_0x5e35b4*_0xd3dd4,_0x4ac4bd+=_0x5e35b4*_0x259399,_0x5b28f8+=_0x5e35b4*_0x328544,_0x35e171+=_0x5e35b4*_0xa87cce,_0x18d5a8+=_0x5e35b4*_0x6b8e6,_0x1f10b7+=_0x5e35b4*_0x26c949,_0x2660de+=_0x5e35b4*_0xae4f81,_0x18f7d7+=_0x5e35b4*_0x5c71e9,_0x5ecfc8+=_0x5e35b4*_0x22358c,_0x5cd8c2+=_0x5e35b4*_0x3405c9,_0x300750+=_0x5e35b4*_0x54f4b6,_0x21a72f+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0xd],_0x4d255+=_0x5e35b4*_0x31bf82,_0x584ca1+=_0x5e35b4*_0x3a8934,_0x39d9b9+=_0x5e35b4*_0x367805,_0x4c9d22+=_0x5e35b4*_0x5713de,_0x4ac4bd+=_0x5e35b4*_0xd3dd4,_0x5b28f8+=_0x5e35b4*_0x259399,_0x35e171+=_0x5e35b4*_0x328544,_0x18d5a8+=_0x5e35b4*_0xa87cce,_0x1f10b7+=_0x5e35b4*_0x6b8e6,_0x2660de+=_0x5e35b4*_0x26c949,_0x18f7d7+=_0x5e35b4*_0xae4f81,_0x5ecfc8+=_0x5e35b4*_0x5c71e9,_0x5cd8c2+=_0x5e35b4*_0x22358c,_0x300750+=_0x5e35b4*_0x3405c9,_0x21a72f+=_0x5e35b4*_0x54f4b6,_0x37991a+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0xe],_0x584ca1+=_0x5e35b4*_0x31bf82,_0x39d9b9+=_0x5e35b4*_0x3a8934,_0x4c9d22+=_0x5e35b4*_0x367805,_0x4ac4bd+=_0x5e35b4*_0x5713de,_0x5b28f8+=_0x5e35b4*_0xd3dd4,_0x35e171+=_0x5e35b4*_0x259399,_0x18d5a8+=_0x5e35b4*_0x328544,_0x1f10b7+=_0x5e35b4*_0xa87cce,_0x2660de+=_0x5e35b4*_0x6b8e6,_0x18f7d7+=_0x5e35b4*_0x26c949,_0x5ecfc8+=_0x5e35b4*_0xae4f81,_0x5cd8c2+=_0x5e35b4*_0x5c71e9,_0x300750+=_0x5e35b4*_0x22358c,_0x21a72f+=_0x5e35b4*_0x3405c9,_0x37991a+=_0x5e35b4*_0x54f4b6,_0xd7cea6+=_0x5e35b4*_0x440ea3,_0x5e35b4=_0x38b6f2[0xf],_0x39d9b9+=_0x5e35b4*_0x31bf82,_0x4c9d22+=_0x5e35b4*_0x3a8934,_0x4ac4bd+=_0x5e35b4*_0x367805,_0x5b28f8+=_0x5e35b4*_0x5713de,_0x35e171+=_0x5e35b4*_0xd3dd4,_0x18d5a8+=_0x5e35b4*_0x259399,_0x1f10b7+=_0x5e35b4*_0x328544,_0x2660de+=_0x5e35b4*_0xa87cce,_0x18f7d7+=_0x5e35b4*_0x6b8e6,_0x5ecfc8+=_0x5e35b4*_0x26c949,_0x5cd8c2+=_0x5e35b4*_0xae4f81,_0x300750+=_0x5e35b4*_0x5c71e9,_0x21a72f+=_0x5e35b4*_0x22358c,_0x37991a+=_0x5e35b4*_0x3405c9,_0xd7cea6+=_0x5e35b4*_0x54f4b6,_0x5aa85b+=_0x5e35b4*_0x440ea3,_0x209499+=0x26*_0x4c9d22,_0x348334+=0x26*_0x4ac4bd,_0x17bba6+=0x26*_0x5b28f8,_0x248a0b+=0x26*_0x35e171,_0x13d90f+=0x26*_0x18d5a8,_0x5cdabf+=0x26*_0x1f10b7,_0x3155b0+=0x26*_0x2660de,_0x3a0007+=0x26*_0x18f7d7,_0x3cf482+=0x26*_0x5ecfc8,_0x27a8d4+=0x26*_0x5cd8c2,_0x475a2d+=0x26*_0x300750,_0xb4e81c+=0x26*_0x21a72f,_0x1fd5e0+=0x26*_0x37991a,_0x4d255+=0x26*_0xd7cea6,_0x584ca1+=0x26*_0x5aa85b,_0x42e4a0=0x1,_0x5e35b4=_0x209499+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x209499=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x348334+_0x42e4a0+0xffff,_0x42e4a0=Math['floor'](_0x5e35b4/0x10000),_0x348334=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x17bba6+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x17bba6=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x248a0b+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x248a0b=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x13d90f+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x590199(0x503)](_0x5e35b4/0x10000),_0x13d90f=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x5cdabf+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x590199(0x503)](_0x5e35b4/0x10000),_0x5cdabf=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x3155b0+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x3155b0=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x3a0007+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x3a0007=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x3cf482+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x3cf482=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x27a8d4+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x27a8d4=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x475a2d+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x475a2d=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0xb4e81c+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0xb4e81c=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x1fd5e0+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x1fd5e0=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x4d255+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x4d255=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x584ca1+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x584ca1=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x39d9b9+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x39d9b9=_0x5e35b4-_0x42e4a0*0x10000,_0x209499+=_0x42e4a0-0x1+0x25*(_0x42e4a0-0x1),_0x42e4a0=0x1,_0x5e35b4=_0x209499+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x209499=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x348334+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x348334=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x17bba6+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x17bba6=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x248a0b+_0x42e4a0+0xffff,_0x42e4a0=Math['floor'](_0x5e35b4/0x10000),_0x248a0b=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x13d90f+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x13d90f=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x5cdabf+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x590199(0x503)](_0x5e35b4/0x10000),_0x5cdabf=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x3155b0+_0x42e4a0+0xffff,_0x42e4a0=Math['floor'](_0x5e35b4/0x10000),_0x3155b0=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x3a0007+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x590199(0x503)](_0x5e35b4/0x10000),_0x3a0007=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x3cf482+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x3cf482=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x27a8d4+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x27a8d4=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x475a2d+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x475a2d=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0xb4e81c+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x590199(0x503)](_0x5e35b4/0x10000),_0xb4e81c=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x1fd5e0+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x1fd5e0=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x4d255+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x4d255=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x584ca1+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x584ca1=_0x5e35b4-_0x42e4a0*0x10000,_0x5e35b4=_0x39d9b9+_0x42e4a0+0xffff,_0x42e4a0=Math[_0x103ea5(0x595)](_0x5e35b4/0x10000),_0x39d9b9=_0x5e35b4-_0x42e4a0*0x10000,_0x209499+=_0x42e4a0-0x1+0x25*(_0x42e4a0-0x1),_0x11a384[0x0]=_0x209499,_0x11a384[0x1]=_0x348334,_0x11a384[0x2]=_0x17bba6,_0x11a384[0x3]=_0x248a0b,_0x11a384[0x4]=_0x13d90f,_0x11a384[0x5]=_0x5cdabf,_0x11a384[0x6]=_0x3155b0,_0x11a384[0x7]=_0x3a0007,_0x11a384[0x8]=_0x3cf482,_0x11a384[0x9]=_0x27a8d4,_0x11a384[0xa]=_0x475a2d,_0x11a384[0xb]=_0xb4e81c,_0x11a384[0xc]=_0x1fd5e0,_0x11a384[0xd]=_0x4d255,_0x11a384[0xe]=_0x584ca1,_0x11a384[0xf]=_0x39d9b9;}__name(_0x4e6756,'M');function _0x224305(_0x810edd,_0x4b87e0){_0x4e6756(_0x810edd,_0x4b87e0,_0x4b87e0);}__name(_0x224305,'S');function _0x44f81f(_0x1cbe3f,_0x58d886){var _0x470799=_0x3c9324(),_0x1a8799;for(_0x1a8799=0x0;_0x1a8799<0x10;_0x1a8799++)_0x470799[_0x1a8799]=_0x58d886[_0x1a8799];for(_0x1a8799=0xfd;_0x1a8799>=0x0;_0x1a8799--){_0x224305(_0x470799,_0x470799);if(_0x1a8799!==0x2&&_0x1a8799!==0x4)_0x4e6756(_0x470799,_0x470799,_0x58d886);}for(_0x1a8799=0x0;_0x1a8799<0x10;_0x1a8799++)_0x1cbe3f[_0x1a8799]=_0x470799[_0x1a8799];}__name(_0x44f81f,_0x4107b6(0x386));function _0x3e7b19(_0xb2be80,_0x25f46d){var _0x240e2f=_0x3c9324(),_0x55bec8;for(_0x55bec8=0x0;_0x55bec8<0x10;_0x55bec8++)_0x240e2f[_0x55bec8]=_0x25f46d[_0x55bec8];for(_0x55bec8=0xfa;_0x55bec8>=0x0;_0x55bec8--){_0x224305(_0x240e2f,_0x240e2f);if(_0x55bec8!==0x1)_0x4e6756(_0x240e2f,_0x240e2f,_0x25f46d);}for(_0x55bec8=0x0;_0x55bec8<0x10;_0x55bec8++)_0xb2be80[_0x55bec8]=_0x240e2f[_0x55bec8];}__name(_0x3e7b19,_0x4107b6(0x2b6));function _0x39fdc7(_0x1a63f8,_0xcbe6a3,_0x142c9a){const _0x45b2d5=_0x185ee4,_0x20aa42=_0x4107b6;var _0x34e7af=new Uint8Array(0x20),_0x2864ed=new Float64Array(0x50),_0x4f59d6,_0x2fcf2b,_0x32ad44=_0x3c9324(),_0x53ad62=_0x3c9324(),_0x2d4d0a=_0x3c9324(),_0x5affd1=_0x3c9324(),_0x3f28aa=_0x3c9324(),_0x15d210=_0x3c9324();for(_0x2fcf2b=0x0;_0x2fcf2b<0x1f;_0x2fcf2b++)_0x34e7af[_0x2fcf2b]=_0xcbe6a3[_0x2fcf2b];_0x34e7af[0x1f]=_0xcbe6a3[0x1f]&0x7f|0x40,_0x34e7af[0x0]&=0xf8,_0x2dba86(_0x2864ed,_0x142c9a);for(_0x2fcf2b=0x0;_0x2fcf2b<0x10;_0x2fcf2b++){_0x53ad62[_0x2fcf2b]=_0x2864ed[_0x2fcf2b],_0x5affd1[_0x2fcf2b]=_0x32ad44[_0x2fcf2b]=_0x2d4d0a[_0x2fcf2b]=0x0;}_0x32ad44[0x0]=_0x5affd1[0x0]=0x1;for(_0x2fcf2b=0xfe;_0x2fcf2b>=0x0;--_0x2fcf2b){_0x4f59d6=_0x34e7af[_0x2fcf2b>>>0x3]>>>(_0x2fcf2b&0x7)&0x1,_0x7c4318(_0x32ad44,_0x53ad62,_0x4f59d6),_0x7c4318(_0x2d4d0a,_0x5affd1,_0x4f59d6),_0x52c5c5(_0x3f28aa,_0x32ad44,_0x2d4d0a),_0x4905e5(_0x32ad44,_0x32ad44,_0x2d4d0a),_0x52c5c5(_0x2d4d0a,_0x53ad62,_0x5affd1),_0x4905e5(_0x53ad62,_0x53ad62,_0x5affd1),_0x224305(_0x5affd1,_0x3f28aa),_0x224305(_0x15d210,_0x32ad44),_0x4e6756(_0x32ad44,_0x2d4d0a,_0x32ad44),_0x4e6756(_0x2d4d0a,_0x53ad62,_0x3f28aa),_0x52c5c5(_0x3f28aa,_0x32ad44,_0x2d4d0a),_0x4905e5(_0x32ad44,_0x32ad44,_0x2d4d0a),_0x224305(_0x53ad62,_0x32ad44),_0x4905e5(_0x2d4d0a,_0x5affd1,_0x15d210),_0x4e6756(_0x32ad44,_0x2d4d0a,_0x497cbf),_0x52c5c5(_0x32ad44,_0x32ad44,_0x5affd1),_0x4e6756(_0x2d4d0a,_0x2d4d0a,_0x32ad44),_0x4e6756(_0x32ad44,_0x5affd1,_0x15d210),_0x4e6756(_0x5affd1,_0x53ad62,_0x2864ed),_0x224305(_0x53ad62,_0x3f28aa),_0x7c4318(_0x32ad44,_0x53ad62,_0x4f59d6),_0x7c4318(_0x2d4d0a,_0x5affd1,_0x4f59d6);}for(_0x2fcf2b=0x0;_0x2fcf2b<0x10;_0x2fcf2b++){_0x2864ed[_0x2fcf2b+0x10]=_0x32ad44[_0x2fcf2b],_0x2864ed[_0x2fcf2b+0x20]=_0x2d4d0a[_0x2fcf2b],_0x2864ed[_0x2fcf2b+0x30]=_0x53ad62[_0x2fcf2b],_0x2864ed[_0x2fcf2b+0x40]=_0x5affd1[_0x2fcf2b];}var _0x4f9163=_0x2864ed[_0x20aa42(0x2f1)](0x20),_0x463485=_0x2864ed[_0x45b2d5(0x595)](0x10);return _0x44f81f(_0x4f9163,_0x4f9163),_0x4e6756(_0x463485,_0x463485,_0x4f9163),_0x535421(_0x1a63f8,_0x463485),0x0;}__name(_0x39fdc7,_0x4107b6(0x413));function _0x297342(_0x149a6d,_0x74b0d1){return _0x39fdc7(_0x149a6d,_0x74b0d1,_0xb94984);}__name(_0x297342,_0x4107b6(0x38d));function _0x3c735a(_0x53e277,_0xeea4e5){return _0x3f7826(_0xeea4e5,0x20),_0x297342(_0x53e277,_0xeea4e5);}__name(_0x3c735a,_0x4107b6(0x273));function _0x55b399(_0x3cc27b,_0x2e3b70,_0x4da108){var _0x2318ca=new Uint8Array(0x20);return _0x39fdc7(_0x2318ca,_0x4da108,_0x2e3b70),_0x14bcac(_0x3cc27b,_0x34e3c3,_0x2318ca,_0x41a4a8);}__name(_0x55b399,_0x185ee4(0x304));var _0x18bd92=_0x5bc373,_0x206d68=_0x52fe8f;function _0x102c56(_0xc7235b,_0x47c1f0,_0x1ed4dc,_0x1d56d0,_0x22698a,_0x2d3252){var _0x56422f=new Uint8Array(0x20);return _0x55b399(_0x56422f,_0x22698a,_0x2d3252),_0x18bd92(_0xc7235b,_0x47c1f0,_0x1ed4dc,_0x1d56d0,_0x56422f);}__name(_0x102c56,'crypto_box');function _0xe0361c(_0x679613,_0x941cd4,_0x5e08e4,_0x573f84,_0x1aad6d,_0x109d0d){var _0x387401=new Uint8Array(0x20);return _0x55b399(_0x387401,_0x1aad6d,_0x109d0d),_0x206d68(_0x679613,_0x941cd4,_0x5e08e4,_0x573f84,_0x387401);}__name(_0xe0361c,_0x4107b6(0x47b));var _0x30afff=[0x428a2f98,0xd728ae22,0x71374491,0x23ef65cd,0xb5c0fbcf,0xec4d3b2f,0xe9b5dba5,0x8189dbbc,0x3956c25b,0xf348b538,0x59f111f1,0xb605d019,0x923f82a4,0xaf194f9b,0xab1c5ed5,0xda6d8118,0xd807aa98,0xa3030242,0x12835b01,0x45706fbe,0x243185be,0x4ee4b28c,0x550c7dc3,0xd5ffb4e2,0x72be5d74,0xf27b896f,0x80deb1fe,0x3b1696b1,0x9bdc06a7,0x25c71235,0xc19bf174,0xcf692694,0xe49b69c1,0x9ef14ad2,0xefbe4786,0x384f25e3,0xfc19dc6,0x8b8cd5b5,0x240ca1cc,0x77ac9c65,0x2de92c6f,0x592b0275,0x4a7484aa,0x6ea6e483,0x5cb0a9dc,0xbd41fbd4,0x76f988da,0x831153b5,0x983e5152,0xee66dfab,0xa831c66d,0x2db43210,0xb00327c8,0x98fb213f,0xbf597fc7,0xbeef0ee4,0xc6e00bf3,0x3da88fc2,0xd5a79147,0x930aa725,0x6ca6351,0xe003826f,0x14292967,0xa0e6e70,0x27b70a85,0x46d22ffc,0x2e1b2138,0x5c26c926,0x4d2c6dfc,0x5ac42aed,0x53380d13,0x9d95b3df,0x650a7354,0x8baf63de,0x766a0abb,0x3c77b2a8,0x81c2c92e,0x47edaee6,0x92722c85,0x1482353b,0xa2bfe8a1,0x4cf10364,0xa81a664b,0xbc423001,0xc24b8b70,0xd0f89791,0xc76c51a3,0x654be30,0xd192e819,0xd6ef5218,0xd6990624,0x5565a910,0xf40e3585,0x5771202a,0x106aa070,0x32bbd1b8,0x19a4c116,0xb8d2d0c8,0x1e376c08,0x5141ab53,0x2748774c,0xdf8eeb99,0x34b0bcb5,0xe19b48a8,0x391c0cb3,0xc5c95a63,0x4ed8aa4a,0xe3418acb,0x5b9cca4f,0x7763e373,0x682e6ff3,0xd6b2b8a3,0x748f82ee,0x5defb2fc,0x78a5636f,0x43172f60,0x84c87814,0xa1f0ab72,0x8cc70208,0x1a6439ec,0x90befffa,0x23631e28,0xa4506ceb,0xde82bde9,0xbef9a3f7,0xb2c67915,0xc67178f2,0xe372532b,0xca273ece,0xea26619c,0xd186b8c7,0x21c0c207,0xeada7dd6,0xcde0eb1e,0xf57d4f7f,0xee6ed178,0x6f067aa,0x72176fba,0xa637dc5,0xa2c898a6,0x113f9804,0xbef90dae,0x1b710b35,0x131c471b,0x28db77f5,0x23047d84,0x32caab7b,0x40c72493,0x3c9ebe0a,0x15c9bebc,0x431d67c4,0x9c100d4c,0x4cc5d4be,0xcb3e42b6,0x597f299c,0xfc657e2a,0x5fcb6fab,0x3ad6faec,0x6c44198c,0x4a475817];function _0xf8be12(_0x34885f,_0x5bd70b,_0x4c3b67,_0x2646d5){var _0x5c31f5=new Int32Array(0x10),_0x548354=new Int32Array(0x10),_0x2fcc4b,_0x9760bf,_0x27e180,_0x2f4dbf,_0x460a6e,_0x55bc58,_0x3b655a,_0x4cff72,_0x102462,_0x3b5237,_0x4efcea,_0x1cd3e9,_0x44aa6b,_0x149ec2,_0x15f039,_0x36c699,_0x297d49,_0x3ca149,_0xb657f4,_0x193170,_0x27126f,_0x1eb061,_0x22d57f,_0x12e497,_0x4e0f75,_0x54f324,_0x5eaaf2=_0x34885f[0x0],_0x299232=_0x34885f[0x1],_0x380fe5=_0x34885f[0x2],_0x1c86b7=_0x34885f[0x3],_0x8e4d7=_0x34885f[0x4],_0x40a765=_0x34885f[0x5],_0x3ee1d7=_0x34885f[0x6],_0xec8b6d=_0x34885f[0x7],_0x17fbe4=_0x5bd70b[0x0],_0x5d04e3=_0x5bd70b[0x1],_0x2f0850=_0x5bd70b[0x2],_0x54b6ce=_0x5bd70b[0x3],_0x6370a0=_0x5bd70b[0x4],_0x453b4e=_0x5bd70b[0x5],_0x5d2bd1=_0x5bd70b[0x6],_0x194ad4=_0x5bd70b[0x7],_0x1ef312=0x0;while(_0x2646d5>=0x80){for(_0xb657f4=0x0;_0xb657f4<0x10;_0xb657f4++){_0x193170=0x8*_0xb657f4+_0x1ef312,_0x5c31f5[_0xb657f4]=_0x4c3b67[_0x193170+0x0]<<0x18|_0x4c3b67[_0x193170+0x1]<<0x10|_0x4c3b67[_0x193170+0x2]<<0x8|_0x4c3b67[_0x193170+0x3],_0x548354[_0xb657f4]=_0x4c3b67[_0x193170+0x4]<<0x18|_0x4c3b67[_0x193170+0x5]<<0x10|_0x4c3b67[_0x193170+0x6]<<0x8|_0x4c3b67[_0x193170+0x7];}for(_0xb657f4=0x0;_0xb657f4<0x50;_0xb657f4++){_0x2fcc4b=_0x5eaaf2,_0x9760bf=_0x299232,_0x27e180=_0x380fe5,_0x2f4dbf=_0x1c86b7,_0x460a6e=_0x8e4d7,_0x55bc58=_0x40a765,_0x3b655a=_0x3ee1d7,_0x4cff72=_0xec8b6d,_0x102462=_0x17fbe4,_0x3b5237=_0x5d04e3,_0x4efcea=_0x2f0850,_0x1cd3e9=_0x54b6ce,_0x44aa6b=_0x6370a0,_0x149ec2=_0x453b4e,_0x15f039=_0x5d2bd1,_0x36c699=_0x194ad4,_0x27126f=_0xec8b6d,_0x1eb061=_0x194ad4,_0x22d57f=_0x1eb061&0xffff,_0x12e497=_0x1eb061>>>0x10,_0x4e0f75=_0x27126f&0xffff,_0x54f324=_0x27126f>>>0x10,_0x27126f=(_0x8e4d7>>>0xe|_0x6370a0<<0x20-0xe)^(_0x8e4d7>>>0x12|_0x6370a0<<0x20-0x12)^(_0x6370a0>>>0x29-0x20|_0x8e4d7<<0x20-(0x29-0x20)),_0x1eb061=(_0x6370a0>>>0xe|_0x8e4d7<<0x20-0xe)^(_0x6370a0>>>0x12|_0x8e4d7<<0x20-0x12)^(_0x8e4d7>>>0x29-0x20|_0x6370a0<<0x20-(0x29-0x20)),_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x27126f=_0x8e4d7&_0x40a765^~_0x8e4d7&_0x3ee1d7,_0x1eb061=_0x6370a0&_0x453b4e^~_0x6370a0&_0x5d2bd1,_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x27126f=_0x30afff[_0xb657f4*0x2],_0x1eb061=_0x30afff[_0xb657f4*0x2+0x1],_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x27126f=_0x5c31f5[_0xb657f4%0x10],_0x1eb061=_0x548354[_0xb657f4%0x10],_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x12e497+=_0x22d57f>>>0x10,_0x4e0f75+=_0x12e497>>>0x10,_0x54f324+=_0x4e0f75>>>0x10,_0x297d49=_0x4e0f75&0xffff|_0x54f324<<0x10,_0x3ca149=_0x22d57f&0xffff|_0x12e497<<0x10,_0x27126f=_0x297d49,_0x1eb061=_0x3ca149,_0x22d57f=_0x1eb061&0xffff,_0x12e497=_0x1eb061>>>0x10,_0x4e0f75=_0x27126f&0xffff,_0x54f324=_0x27126f>>>0x10,_0x27126f=(_0x5eaaf2>>>0x1c|_0x17fbe4<<0x20-0x1c)^(_0x17fbe4>>>0x22-0x20|_0x5eaaf2<<0x20-(0x22-0x20))^(_0x17fbe4>>>0x27-0x20|_0x5eaaf2<<0x20-(0x27-0x20)),_0x1eb061=(_0x17fbe4>>>0x1c|_0x5eaaf2<<0x20-0x1c)^(_0x5eaaf2>>>0x22-0x20|_0x17fbe4<<0x20-(0x22-0x20))^(_0x5eaaf2>>>0x27-0x20|_0x17fbe4<<0x20-(0x27-0x20)),_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x27126f=_0x5eaaf2&_0x299232^_0x5eaaf2&_0x380fe5^_0x299232&_0x380fe5,_0x1eb061=_0x17fbe4&_0x5d04e3^_0x17fbe4&_0x2f0850^_0x5d04e3&_0x2f0850,_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x12e497+=_0x22d57f>>>0x10,_0x4e0f75+=_0x12e497>>>0x10,_0x54f324+=_0x4e0f75>>>0x10,_0x4cff72=_0x4e0f75&0xffff|_0x54f324<<0x10,_0x36c699=_0x22d57f&0xffff|_0x12e497<<0x10,_0x27126f=_0x2f4dbf,_0x1eb061=_0x1cd3e9,_0x22d57f=_0x1eb061&0xffff,_0x12e497=_0x1eb061>>>0x10,_0x4e0f75=_0x27126f&0xffff,_0x54f324=_0x27126f>>>0x10,_0x27126f=_0x297d49,_0x1eb061=_0x3ca149,_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x12e497+=_0x22d57f>>>0x10,_0x4e0f75+=_0x12e497>>>0x10,_0x54f324+=_0x4e0f75>>>0x10,_0x2f4dbf=_0x4e0f75&0xffff|_0x54f324<<0x10,_0x1cd3e9=_0x22d57f&0xffff|_0x12e497<<0x10,_0x299232=_0x2fcc4b,_0x380fe5=_0x9760bf,_0x1c86b7=_0x27e180,_0x8e4d7=_0x2f4dbf,_0x40a765=_0x460a6e,_0x3ee1d7=_0x55bc58,_0xec8b6d=_0x3b655a,_0x5eaaf2=_0x4cff72,_0x5d04e3=_0x102462,_0x2f0850=_0x3b5237,_0x54b6ce=_0x4efcea,_0x6370a0=_0x1cd3e9,_0x453b4e=_0x44aa6b,_0x5d2bd1=_0x149ec2,_0x194ad4=_0x15f039,_0x17fbe4=_0x36c699;if(_0xb657f4%0x10===0xf)for(_0x193170=0x0;_0x193170<0x10;_0x193170++){_0x27126f=_0x5c31f5[_0x193170],_0x1eb061=_0x548354[_0x193170],_0x22d57f=_0x1eb061&0xffff,_0x12e497=_0x1eb061>>>0x10,_0x4e0f75=_0x27126f&0xffff,_0x54f324=_0x27126f>>>0x10,_0x27126f=_0x5c31f5[(_0x193170+0x9)%0x10],_0x1eb061=_0x548354[(_0x193170+0x9)%0x10],_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x297d49=_0x5c31f5[(_0x193170+0x1)%0x10],_0x3ca149=_0x548354[(_0x193170+0x1)%0x10],_0x27126f=(_0x297d49>>>0x1|_0x3ca149<<0x20-0x1)^(_0x297d49>>>0x8|_0x3ca149<<0x20-0x8)^_0x297d49>>>0x7,_0x1eb061=(_0x3ca149>>>0x1|_0x297d49<<0x20-0x1)^(_0x3ca149>>>0x8|_0x297d49<<0x20-0x8)^(_0x3ca149>>>0x7|_0x297d49<<0x20-0x7),_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x297d49=_0x5c31f5[(_0x193170+0xe)%0x10],_0x3ca149=_0x548354[(_0x193170+0xe)%0x10],_0x27126f=(_0x297d49>>>0x13|_0x3ca149<<0x20-0x13)^(_0x3ca149>>>0x3d-0x20|_0x297d49<<0x20-(0x3d-0x20))^_0x297d49>>>0x6,_0x1eb061=(_0x3ca149>>>0x13|_0x297d49<<0x20-0x13)^(_0x297d49>>>0x3d-0x20|_0x3ca149<<0x20-(0x3d-0x20))^(_0x3ca149>>>0x6|_0x297d49<<0x20-0x6),_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x12e497+=_0x22d57f>>>0x10,_0x4e0f75+=_0x12e497>>>0x10,_0x54f324+=_0x4e0f75>>>0x10,_0x5c31f5[_0x193170]=_0x4e0f75&0xffff|_0x54f324<<0x10,_0x548354[_0x193170]=_0x22d57f&0xffff|_0x12e497<<0x10;}}_0x27126f=_0x5eaaf2,_0x1eb061=_0x17fbe4,_0x22d57f=_0x1eb061&0xffff,_0x12e497=_0x1eb061>>>0x10,_0x4e0f75=_0x27126f&0xffff,_0x54f324=_0x27126f>>>0x10,_0x27126f=_0x34885f[0x0],_0x1eb061=_0x5bd70b[0x0],_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x12e497+=_0x22d57f>>>0x10,_0x4e0f75+=_0x12e497>>>0x10,_0x54f324+=_0x4e0f75>>>0x10,_0x34885f[0x0]=_0x5eaaf2=_0x4e0f75&0xffff|_0x54f324<<0x10,_0x5bd70b[0x0]=_0x17fbe4=_0x22d57f&0xffff|_0x12e497<<0x10,_0x27126f=_0x299232,_0x1eb061=_0x5d04e3,_0x22d57f=_0x1eb061&0xffff,_0x12e497=_0x1eb061>>>0x10,_0x4e0f75=_0x27126f&0xffff,_0x54f324=_0x27126f>>>0x10,_0x27126f=_0x34885f[0x1],_0x1eb061=_0x5bd70b[0x1],_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x12e497+=_0x22d57f>>>0x10,_0x4e0f75+=_0x12e497>>>0x10,_0x54f324+=_0x4e0f75>>>0x10,_0x34885f[0x1]=_0x299232=_0x4e0f75&0xffff|_0x54f324<<0x10,_0x5bd70b[0x1]=_0x5d04e3=_0x22d57f&0xffff|_0x12e497<<0x10,_0x27126f=_0x380fe5,_0x1eb061=_0x2f0850,_0x22d57f=_0x1eb061&0xffff,_0x12e497=_0x1eb061>>>0x10,_0x4e0f75=_0x27126f&0xffff,_0x54f324=_0x27126f>>>0x10,_0x27126f=_0x34885f[0x2],_0x1eb061=_0x5bd70b[0x2],_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x12e497+=_0x22d57f>>>0x10,_0x4e0f75+=_0x12e497>>>0x10,_0x54f324+=_0x4e0f75>>>0x10,_0x34885f[0x2]=_0x380fe5=_0x4e0f75&0xffff|_0x54f324<<0x10,_0x5bd70b[0x2]=_0x2f0850=_0x22d57f&0xffff|_0x12e497<<0x10,_0x27126f=_0x1c86b7,_0x1eb061=_0x54b6ce,_0x22d57f=_0x1eb061&0xffff,_0x12e497=_0x1eb061>>>0x10,_0x4e0f75=_0x27126f&0xffff,_0x54f324=_0x27126f>>>0x10,_0x27126f=_0x34885f[0x3],_0x1eb061=_0x5bd70b[0x3],_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x12e497+=_0x22d57f>>>0x10,_0x4e0f75+=_0x12e497>>>0x10,_0x54f324+=_0x4e0f75>>>0x10,_0x34885f[0x3]=_0x1c86b7=_0x4e0f75&0xffff|_0x54f324<<0x10,_0x5bd70b[0x3]=_0x54b6ce=_0x22d57f&0xffff|_0x12e497<<0x10,_0x27126f=_0x8e4d7,_0x1eb061=_0x6370a0,_0x22d57f=_0x1eb061&0xffff,_0x12e497=_0x1eb061>>>0x10,_0x4e0f75=_0x27126f&0xffff,_0x54f324=_0x27126f>>>0x10,_0x27126f=_0x34885f[0x4],_0x1eb061=_0x5bd70b[0x4],_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x12e497+=_0x22d57f>>>0x10,_0x4e0f75+=_0x12e497>>>0x10,_0x54f324+=_0x4e0f75>>>0x10,_0x34885f[0x4]=_0x8e4d7=_0x4e0f75&0xffff|_0x54f324<<0x10,_0x5bd70b[0x4]=_0x6370a0=_0x22d57f&0xffff|_0x12e497<<0x10,_0x27126f=_0x40a765,_0x1eb061=_0x453b4e,_0x22d57f=_0x1eb061&0xffff,_0x12e497=_0x1eb061>>>0x10,_0x4e0f75=_0x27126f&0xffff,_0x54f324=_0x27126f>>>0x10,_0x27126f=_0x34885f[0x5],_0x1eb061=_0x5bd70b[0x5],_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x12e497+=_0x22d57f>>>0x10,_0x4e0f75+=_0x12e497>>>0x10,_0x54f324+=_0x4e0f75>>>0x10,_0x34885f[0x5]=_0x40a765=_0x4e0f75&0xffff|_0x54f324<<0x10,_0x5bd70b[0x5]=_0x453b4e=_0x22d57f&0xffff|_0x12e497<<0x10,_0x27126f=_0x3ee1d7,_0x1eb061=_0x5d2bd1,_0x22d57f=_0x1eb061&0xffff,_0x12e497=_0x1eb061>>>0x10,_0x4e0f75=_0x27126f&0xffff,_0x54f324=_0x27126f>>>0x10,_0x27126f=_0x34885f[0x6],_0x1eb061=_0x5bd70b[0x6],_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x12e497+=_0x22d57f>>>0x10,_0x4e0f75+=_0x12e497>>>0x10,_0x54f324+=_0x4e0f75>>>0x10,_0x34885f[0x6]=_0x3ee1d7=_0x4e0f75&0xffff|_0x54f324<<0x10,_0x5bd70b[0x6]=_0x5d2bd1=_0x22d57f&0xffff|_0x12e497<<0x10,_0x27126f=_0xec8b6d,_0x1eb061=_0x194ad4,_0x22d57f=_0x1eb061&0xffff,_0x12e497=_0x1eb061>>>0x10,_0x4e0f75=_0x27126f&0xffff,_0x54f324=_0x27126f>>>0x10,_0x27126f=_0x34885f[0x7],_0x1eb061=_0x5bd70b[0x7],_0x22d57f+=_0x1eb061&0xffff,_0x12e497+=_0x1eb061>>>0x10,_0x4e0f75+=_0x27126f&0xffff,_0x54f324+=_0x27126f>>>0x10,_0x12e497+=_0x22d57f>>>0x10,_0x4e0f75+=_0x12e497>>>0x10,_0x54f324+=_0x4e0f75>>>0x10,_0x34885f[0x7]=_0xec8b6d=_0x4e0f75&0xffff|_0x54f324<<0x10,_0x5bd70b[0x7]=_0x194ad4=_0x22d57f&0xffff|_0x12e497<<0x10,_0x1ef312+=0x80,_0x2646d5-=0x80;}return _0x2646d5;}__name(_0xf8be12,_0x4107b6(0x427));function _0x2aeb52(_0x16c93e,_0x4de864,_0x3f84f2){var _0x1c5b92=new Int32Array(0x8),_0x13feef=new Int32Array(0x8),_0x519a77=new Uint8Array(0x100),_0x58ec8c,_0x4d6bf5=_0x3f84f2;_0x1c5b92[0x0]=0x6a09e667,_0x1c5b92[0x1]=0xbb67ae85,_0x1c5b92[0x2]=0x3c6ef372,_0x1c5b92[0x3]=0xa54ff53a,_0x1c5b92[0x4]=0x510e527f,_0x1c5b92[0x5]=0x9b05688c,_0x1c5b92[0x6]=0x1f83d9ab,_0x1c5b92[0x7]=0x5be0cd19,_0x13feef[0x0]=0xf3bcc908,_0x13feef[0x1]=0x84caa73b,_0x13feef[0x2]=0xfe94f82b,_0x13feef[0x3]=0x5f1d36f1,_0x13feef[0x4]=0xade682d1,_0x13feef[0x5]=0x2b3e6c1f,_0x13feef[0x6]=0xfb41bd6b,_0x13feef[0x7]=0x137e2179,_0xf8be12(_0x1c5b92,_0x13feef,_0x4de864,_0x3f84f2),_0x3f84f2%=0x80;for(_0x58ec8c=0x0;_0x58ec8c<_0x3f84f2;_0x58ec8c++)_0x519a77[_0x58ec8c]=_0x4de864[_0x4d6bf5-_0x3f84f2+_0x58ec8c];_0x519a77[_0x3f84f2]=0x80,_0x3f84f2=0x100-0x80*(_0x3f84f2<0x70?0x1:0x0),_0x519a77[_0x3f84f2-0x9]=0x0,_0x5a1f30(_0x519a77,_0x3f84f2-0x8,_0x4d6bf5/0x20000000|0x0,_0x4d6bf5<<0x3),_0xf8be12(_0x1c5b92,_0x13feef,_0x519a77,_0x3f84f2);for(_0x58ec8c=0x0;_0x58ec8c<0x8;_0x58ec8c++)_0x5a1f30(_0x16c93e,0x8*_0x58ec8c,_0x1c5b92[_0x58ec8c],_0x13feef[_0x58ec8c]);return 0x0;}__name(_0x2aeb52,_0x185ee4(0x303));function _0x134c6e(_0x2d14f1,_0x9b00f0){var _0x2e8dd3=_0x3c9324(),_0x65e11b=_0x3c9324(),_0x5cdb33=_0x3c9324(),_0x5c71d1=_0x3c9324(),_0x43048e=_0x3c9324(),_0x4f989e=_0x3c9324(),_0x3554d8=_0x3c9324(),_0x1be4d1=_0x3c9324(),_0x520e72=_0x3c9324();_0x4905e5(_0x2e8dd3,_0x2d14f1[0x1],_0x2d14f1[0x0]),_0x4905e5(_0x520e72,_0x9b00f0[0x1],_0x9b00f0[0x0]),_0x4e6756(_0x2e8dd3,_0x2e8dd3,_0x520e72),_0x52c5c5(_0x65e11b,_0x2d14f1[0x0],_0x2d14f1[0x1]),_0x52c5c5(_0x520e72,_0x9b00f0[0x0],_0x9b00f0[0x1]),_0x4e6756(_0x65e11b,_0x65e11b,_0x520e72),_0x4e6756(_0x5cdb33,_0x2d14f1[0x3],_0x9b00f0[0x3]),_0x4e6756(_0x5cdb33,_0x5cdb33,_0x32c9e7),_0x4e6756(_0x5c71d1,_0x2d14f1[0x2],_0x9b00f0[0x2]),_0x52c5c5(_0x5c71d1,_0x5c71d1,_0x5c71d1),_0x4905e5(_0x43048e,_0x65e11b,_0x2e8dd3),_0x4905e5(_0x4f989e,_0x5c71d1,_0x5cdb33),_0x52c5c5(_0x3554d8,_0x5c71d1,_0x5cdb33),_0x52c5c5(_0x1be4d1,_0x65e11b,_0x2e8dd3),_0x4e6756(_0x2d14f1[0x0],_0x43048e,_0x4f989e),_0x4e6756(_0x2d14f1[0x1],_0x1be4d1,_0x3554d8),_0x4e6756(_0x2d14f1[0x2],_0x3554d8,_0x4f989e),_0x4e6756(_0x2d14f1[0x3],_0x43048e,_0x1be4d1);}__name(_0x134c6e,_0x185ee4(0x544));function _0x1d08f8(_0x4f701b,_0x6262f2,_0x47d8af){var _0x329e88;for(_0x329e88=0x0;_0x329e88<0x4;_0x329e88++){_0x7c4318(_0x4f701b[_0x329e88],_0x6262f2[_0x329e88],_0x47d8af);}}__name(_0x1d08f8,_0x4107b6(0x29a));function _0x3f1705(_0x7285cf,_0x537373){var _0x41d71e=_0x3c9324(),_0x19da89=_0x3c9324(),_0x58669d=_0x3c9324();_0x44f81f(_0x58669d,_0x537373[0x2]),_0x4e6756(_0x41d71e,_0x537373[0x0],_0x58669d),_0x4e6756(_0x19da89,_0x537373[0x1],_0x58669d),_0x535421(_0x7285cf,_0x19da89),_0x7285cf[0x1f]^=_0x197a92(_0x41d71e)<<0x7;}__name(_0x3f1705,_0x4107b6(0x543));function _0x32316f(_0x552a02,_0x732b36,_0x45f51c){var _0x4b0ae8,_0x3e9631;_0x5d9ef0(_0x552a02[0x0],_0x2d425a),_0x5d9ef0(_0x552a02[0x1],_0x289a67),_0x5d9ef0(_0x552a02[0x2],_0x289a67),_0x5d9ef0(_0x552a02[0x3],_0x2d425a);for(_0x3e9631=0xff;_0x3e9631>=0x0;--_0x3e9631){_0x4b0ae8=_0x45f51c[_0x3e9631/0x8|0x0]>>(_0x3e9631&0x7)&0x1,_0x1d08f8(_0x552a02,_0x732b36,_0x4b0ae8),_0x134c6e(_0x732b36,_0x552a02),_0x134c6e(_0x552a02,_0x552a02),_0x1d08f8(_0x552a02,_0x732b36,_0x4b0ae8);}}__name(_0x32316f,_0x4107b6(0x330));function _0x2c234a(_0x235a3,_0x498042){var _0x31918a=[_0x3c9324(),_0x3c9324(),_0x3c9324(),_0x3c9324()];_0x5d9ef0(_0x31918a[0x0],_0x5020f3),_0x5d9ef0(_0x31918a[0x1],_0x1b71a9),_0x5d9ef0(_0x31918a[0x2],_0x289a67),_0x4e6756(_0x31918a[0x3],_0x5020f3,_0x1b71a9),_0x32316f(_0x235a3,_0x31918a,_0x498042);}__name(_0x2c234a,_0x4107b6(0x399));function _0x4539e6(_0x39164b,_0x532b3f,_0x322c81){var _0x259412=new Uint8Array(0x40),_0x1de95d=[_0x3c9324(),_0x3c9324(),_0x3c9324(),_0x3c9324()],_0x45ce54;if(!_0x322c81)_0x3f7826(_0x532b3f,0x20);_0x2aeb52(_0x259412,_0x532b3f,0x20),_0x259412[0x0]&=0xf8,_0x259412[0x1f]&=0x7f,_0x259412[0x1f]|=0x40,_0x2c234a(_0x1de95d,_0x259412),_0x3f1705(_0x39164b,_0x1de95d);for(_0x45ce54=0x0;_0x45ce54<0x20;_0x45ce54++)_0x532b3f[_0x45ce54+0x20]=_0x39164b[_0x45ce54];return 0x0;}__name(_0x4539e6,_0x185ee4(0x273));var _0x147209=new Float64Array([0xed,0xd3,0xf5,0x5c,0x1a,0x63,0x12,0x58,0xd6,0x9c,0xf7,0xa2,0xde,0xf9,0xde,0x14,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x10]);function _0x158a61(_0x426818,_0x256f78){const _0xca68d=_0x4107b6;var _0x341a22,_0x529f4b,_0x2e8437,_0x25b9cb;for(_0x529f4b=0x3f;_0x529f4b>=0x20;--_0x529f4b){_0x341a22=0x0;for(_0x2e8437=_0x529f4b-0x20,_0x25b9cb=_0x529f4b-0xc;_0x2e8437<_0x25b9cb;++_0x2e8437){_0x256f78[_0x2e8437]+=_0x341a22-0x10*_0x256f78[_0x529f4b]*_0x147209[_0x2e8437-(_0x529f4b-0x20)],_0x341a22=Math[_0xca68d(0x595)]((_0x256f78[_0x2e8437]+0x80)/0x100),_0x256f78[_0x2e8437]-=_0x341a22*0x100;}_0x256f78[_0x2e8437]+=_0x341a22,_0x256f78[_0x529f4b]=0x0;}_0x341a22=0x0;for(_0x2e8437=0x0;_0x2e8437<0x20;_0x2e8437++){_0x256f78[_0x2e8437]+=_0x341a22-(_0x256f78[0x1f]>>0x4)*_0x147209[_0x2e8437],_0x341a22=_0x256f78[_0x2e8437]>>0x8,_0x256f78[_0x2e8437]&=0xff;}for(_0x2e8437=0x0;_0x2e8437<0x20;_0x2e8437++)_0x256f78[_0x2e8437]-=_0x341a22*_0x147209[_0x2e8437];for(_0x529f4b=0x0;_0x529f4b<0x20;_0x529f4b++){_0x256f78[_0x529f4b+0x1]+=_0x256f78[_0x529f4b]>>0x8,_0x426818[_0x529f4b]=_0x256f78[_0x529f4b]&0xff;}}__name(_0x158a61,_0x4107b6(0x428));function _0x4795e6(_0x203248){var _0x520e6e=new Float64Array(0x40),_0xd18860;for(_0xd18860=0x0;_0xd18860<0x40;_0xd18860++)_0x520e6e[_0xd18860]=_0x203248[_0xd18860];for(_0xd18860=0x0;_0xd18860<0x40;_0xd18860++)_0x203248[_0xd18860]=0x0;_0x158a61(_0x203248,_0x520e6e);}__name(_0x4795e6,_0x4107b6(0x274));function _0x2725d4(_0x35f04b,_0x58cef7,_0x45805a,_0x1e4444){const _0x5f4d2c=_0x4107b6;var _0x414ef3=new Uint8Array(0x40),_0x34ff88=new Uint8Array(0x40),_0x5b1d7d=new Uint8Array(0x40),_0x18f10f,_0x115ae9,_0x1696e4=new Float64Array(0x40),_0xb8aba8=[_0x3c9324(),_0x3c9324(),_0x3c9324(),_0x3c9324()];_0x2aeb52(_0x414ef3,_0x1e4444,0x20),_0x414ef3[0x0]&=0xf8,_0x414ef3[0x1f]&=0x7f,_0x414ef3[0x1f]|=0x40;var _0x5d7178=_0x45805a+0x40;for(_0x18f10f=0x0;_0x18f10f<_0x45805a;_0x18f10f++)_0x35f04b[0x40+_0x18f10f]=_0x58cef7[_0x18f10f];for(_0x18f10f=0x0;_0x18f10f<0x20;_0x18f10f++)_0x35f04b[0x20+_0x18f10f]=_0x414ef3[0x20+_0x18f10f];_0x2aeb52(_0x5b1d7d,_0x35f04b[_0x5f4d2c(0x2f1)](0x20),_0x45805a+0x20),_0x4795e6(_0x5b1d7d),_0x2c234a(_0xb8aba8,_0x5b1d7d),_0x3f1705(_0x35f04b,_0xb8aba8);for(_0x18f10f=0x20;_0x18f10f<0x40;_0x18f10f++)_0x35f04b[_0x18f10f]=_0x1e4444[_0x18f10f];_0x2aeb52(_0x34ff88,_0x35f04b,_0x45805a+0x40),_0x4795e6(_0x34ff88);for(_0x18f10f=0x0;_0x18f10f<0x40;_0x18f10f++)_0x1696e4[_0x18f10f]=0x0;for(_0x18f10f=0x0;_0x18f10f<0x20;_0x18f10f++)_0x1696e4[_0x18f10f]=_0x5b1d7d[_0x18f10f];for(_0x18f10f=0x0;_0x18f10f<0x20;_0x18f10f++){for(_0x115ae9=0x0;_0x115ae9<0x20;_0x115ae9++){_0x1696e4[_0x18f10f+_0x115ae9]+=_0x34ff88[_0x18f10f]*_0x414ef3[_0x115ae9];}}return _0x158a61(_0x35f04b[_0x5f4d2c(0x2f1)](0x20),_0x1696e4),_0x5d7178;}__name(_0x2725d4,_0x4107b6(0x1b3));function _0x4f162e(_0x19d0a4,_0x485faf){var _0x3bbcdd=_0x3c9324(),_0x11d16f=_0x3c9324(),_0xd21715=_0x3c9324(),_0x50befc=_0x3c9324(),_0x1617f7=_0x3c9324(),_0xa4ffae=_0x3c9324(),_0x628f77=_0x3c9324();_0x5d9ef0(_0x19d0a4[0x2],_0x289a67),_0x2dba86(_0x19d0a4[0x1],_0x485faf),_0x224305(_0xd21715,_0x19d0a4[0x1]),_0x4e6756(_0x50befc,_0xd21715,_0x32467b),_0x4905e5(_0xd21715,_0xd21715,_0x19d0a4[0x2]),_0x52c5c5(_0x50befc,_0x19d0a4[0x2],_0x50befc),_0x224305(_0x1617f7,_0x50befc),_0x224305(_0xa4ffae,_0x1617f7),_0x4e6756(_0x628f77,_0xa4ffae,_0x1617f7),_0x4e6756(_0x3bbcdd,_0x628f77,_0xd21715),_0x4e6756(_0x3bbcdd,_0x3bbcdd,_0x50befc),_0x3e7b19(_0x3bbcdd,_0x3bbcdd),_0x4e6756(_0x3bbcdd,_0x3bbcdd,_0xd21715),_0x4e6756(_0x3bbcdd,_0x3bbcdd,_0x50befc),_0x4e6756(_0x3bbcdd,_0x3bbcdd,_0x50befc),_0x4e6756(_0x19d0a4[0x0],_0x3bbcdd,_0x50befc),_0x224305(_0x11d16f,_0x19d0a4[0x0]),_0x4e6756(_0x11d16f,_0x11d16f,_0x50befc);if(_0x14a516(_0x11d16f,_0xd21715))_0x4e6756(_0x19d0a4[0x0],_0x19d0a4[0x0],_0xfef2bd);_0x224305(_0x11d16f,_0x19d0a4[0x0]),_0x4e6756(_0x11d16f,_0x11d16f,_0x50befc);if(_0x14a516(_0x11d16f,_0xd21715))return-0x1;if(_0x197a92(_0x19d0a4[0x0])===_0x485faf[0x1f]>>0x7)_0x4905e5(_0x19d0a4[0x0],_0x2d425a,_0x19d0a4[0x0]);return _0x4e6756(_0x19d0a4[0x3],_0x19d0a4[0x0],_0x19d0a4[0x1]),0x0;}__name(_0x4f162e,_0x4107b6(0x1c4));function _0x44e8c6(_0x214d2d,_0x4b16c9,_0x55d1fd,_0x471557){const _0x41cf1a=_0x4107b6;var _0x279a89,_0x313317=new Uint8Array(0x20),_0x45bb11=new Uint8Array(0x40),_0x4b8d6a=[_0x3c9324(),_0x3c9324(),_0x3c9324(),_0x3c9324()],_0x10b857=[_0x3c9324(),_0x3c9324(),_0x3c9324(),_0x3c9324()];if(_0x55d1fd<0x40)return-0x1;if(_0x4f162e(_0x10b857,_0x471557))return-0x1;for(_0x279a89=0x0;_0x279a89<_0x55d1fd;_0x279a89++)_0x214d2d[_0x279a89]=_0x4b16c9[_0x279a89];for(_0x279a89=0x0;_0x279a89<0x20;_0x279a89++)_0x214d2d[_0x279a89+0x20]=_0x471557[_0x279a89];_0x2aeb52(_0x45bb11,_0x214d2d,_0x55d1fd),_0x4795e6(_0x45bb11),_0x32316f(_0x4b8d6a,_0x10b857,_0x45bb11),_0x2c234a(_0x10b857,_0x4b16c9[_0x41cf1a(0x2f1)](0x20)),_0x134c6e(_0x4b8d6a,_0x10b857),_0x3f1705(_0x313317,_0x4b8d6a),_0x55d1fd-=0x40;if(_0x447820(_0x4b16c9,0x0,_0x313317,0x0)){for(_0x279a89=0x0;_0x279a89<_0x55d1fd;_0x279a89++)_0x214d2d[_0x279a89]=0x0;return-0x1;}for(_0x279a89=0x0;_0x279a89<_0x55d1fd;_0x279a89++)_0x214d2d[_0x279a89]=_0x4b16c9[_0x279a89+0x40];return _0x55d1fd;}__name(_0x44e8c6,_0x4107b6(0x40b));var _0x53fd41=0x20,_0x2a4827=0x18,_0x2c13a2=0x20,_0x2c17d2=0x10,_0x504f01=0x20,_0xd20fc3=0x20,_0x599ed9=0x20,_0x24e27b=0x20,_0x5a7c5d=0x20,_0x46d9cf=_0x2a4827,_0xe9c360=_0x2c13a2,_0x2b595b=_0x2c17d2,_0x220ad0=0x40,_0x5e9a78=0x20,_0x597ebc=0x40,_0x57cdb0=0x20,_0x1dd171=0x40;_0xef71d5[_0x185ee4(0x3d7)]={'crypto_core_hsalsa20':_0x14bcac,'crypto_stream_xor':_0x3ff2b9,'crypto_stream':_0x48050c,'crypto_stream_salsa20_xor':_0x5317f2,'crypto_stream_salsa20':_0x498d55,'crypto_onetimeauth':_0x2c20c5,'crypto_onetimeauth_verify':_0x11cd14,'crypto_verify_16':_0x53ad49,'crypto_verify_32':_0x447820,'crypto_secretbox':_0x5bc373,'crypto_secretbox_open':_0x52fe8f,'crypto_scalarmult':_0x39fdc7,'crypto_scalarmult_base':_0x297342,'crypto_box_beforenm':_0x55b399,'crypto_box_afternm':_0x18bd92,'crypto_box':_0x102c56,'crypto_box_open':_0xe0361c,'crypto_box_keypair':_0x3c735a,'crypto_hash':_0x2aeb52,'crypto_sign':_0x2725d4,'crypto_sign_keypair':_0x4539e6,'crypto_sign_open':_0x44e8c6,'crypto_secretbox_KEYBYTES':_0x53fd41,'crypto_secretbox_NONCEBYTES':_0x2a4827,'crypto_secretbox_ZEROBYTES':_0x2c13a2,'crypto_secretbox_BOXZEROBYTES':_0x2c17d2,'crypto_scalarmult_BYTES':_0x504f01,'crypto_scalarmult_SCALARBYTES':_0xd20fc3,'crypto_box_PUBLICKEYBYTES':_0x599ed9,'crypto_box_SECRETKEYBYTES':_0x24e27b,'crypto_box_BEFORENMBYTES':_0x5a7c5d,'crypto_box_NONCEBYTES':_0x46d9cf,'crypto_box_ZEROBYTES':_0xe9c360,'crypto_box_BOXZEROBYTES':_0x2b595b,'crypto_sign_BYTES':_0x220ad0,'crypto_sign_PUBLICKEYBYTES':_0x5e9a78,'crypto_sign_SECRETKEYBYTES':_0x597ebc,'crypto_sign_SEEDBYTES':_0x57cdb0,'crypto_hash_BYTES':_0x1dd171,'gf':_0x3c9324,'D':_0x32467b,'L':_0x147209,'pack25519':_0x535421,'unpack25519':_0x2dba86,'M':_0x4e6756,'A':_0x52c5c5,'S':_0x224305,'Z':_0x4905e5,'pow2523':_0x3e7b19,'add':_0x134c6e,'set25519':_0x5d9ef0,'modL':_0x158a61,'scalarmult':_0x32316f,'scalarbase':_0x2c234a};function _0x46fb70(_0x3e53da,_0x3d2ac5){const _0x22f47c=_0x185ee4,_0x3ed713=_0x4107b6;if(_0x3e53da[_0x3ed713(0x5d0)]!==_0x53fd41)throw new Error(_0x22f47c(0x4ab));if(_0x3d2ac5[_0x3ed713(0x5d0)]!==_0x2a4827)throw new Error(_0x3ed713(0x410));}__name(_0x46fb70,_0x4107b6(0x5e9));function _0xcbed5b(_0x1838ed,_0x3d93c4){const _0x3643ec=_0x185ee4,_0x25091f=_0x4107b6;if(_0x1838ed[_0x3643ec(0x4ad)]!==_0x599ed9)throw new Error(_0x25091f(0x511));if(_0x3d93c4['length']!==_0x24e27b)throw new Error(_0x25091f(0x43f));}__name(_0xcbed5b,_0x4107b6(0x39a));function _0x31cb2a(){const _0x1ab78f=_0x4107b6;for(var _0x17e32d=0x0;_0x17e32d<arguments[_0x1ab78f(0x5d0)];_0x17e32d++){if(!(arguments[_0x17e32d]instanceof Uint8Array))throw new TypeError(_0x1ab78f(0x185));}}__name(_0x31cb2a,_0x4107b6(0x45f));function _0x2d9df7(_0x540e7c){const _0x456c08=_0x4107b6;for(var _0x209053=0x0;_0x209053<_0x540e7c[_0x456c08(0x5d0)];_0x209053++)_0x540e7c[_0x209053]=0x0;}__name(_0x2d9df7,_0x4107b6(0x491)),_0xef71d5[_0x4107b6(0x381)]=function(_0xcd11d4){var _0x2c32ea=new Uint8Array(_0xcd11d4);return _0x3f7826(_0x2c32ea,_0xcd11d4),_0x2c32ea;},_0xef71d5[_0x4107b6(0x18e)]=function(_0x5ec213,_0x3ab6ed,_0x3f75c3){const _0x5463fa=_0x4107b6;_0x31cb2a(_0x5ec213,_0x3ab6ed,_0x3f75c3),_0x46fb70(_0x3f75c3,_0x3ab6ed);var _0x16bc01=new Uint8Array(_0x2c13a2+_0x5ec213[_0x5463fa(0x5d0)]),_0x384e9a=new Uint8Array(_0x16bc01[_0x5463fa(0x5d0)]);for(var _0x1df615=0x0;_0x1df615<_0x5ec213[_0x5463fa(0x5d0)];_0x1df615++)_0x16bc01[_0x1df615+_0x2c13a2]=_0x5ec213[_0x1df615];return _0x5bc373(_0x384e9a,_0x16bc01,_0x16bc01[_0x5463fa(0x5d0)],_0x3ab6ed,_0x3f75c3),_0x384e9a['subarray'](_0x2c17d2);},_0xef71d5[_0x185ee4(0x34f)][_0x4107b6(0x4b9)]=function(_0x27e874,_0x142569,_0x2cb528){const _0x516d7d=_0x185ee4,_0x48cbbc=_0x4107b6;_0x31cb2a(_0x27e874,_0x142569,_0x2cb528),_0x46fb70(_0x2cb528,_0x142569);var _0x225999=new Uint8Array(_0x2c17d2+_0x27e874[_0x516d7d(0x4ad)]),_0x15ebdc=new Uint8Array(_0x225999[_0x48cbbc(0x5d0)]);for(var _0x169149=0x0;_0x169149<_0x27e874[_0x48cbbc(0x5d0)];_0x169149++)_0x225999[_0x169149+_0x2c17d2]=_0x27e874[_0x169149];if(_0x225999['length']<0x20)return null;if(_0x52fe8f(_0x15ebdc,_0x225999,_0x225999[_0x48cbbc(0x5d0)],_0x142569,_0x2cb528)!==0x0)return null;return _0x15ebdc[_0x48cbbc(0x2f1)](_0x2c13a2);},_0xef71d5[_0x4107b6(0x18e)][_0x4107b6(0x18f)]=_0x53fd41,_0xef71d5[_0x185ee4(0x34f)][_0x4107b6(0x352)]=_0x2a4827,_0xef71d5[_0x185ee4(0x34f)][_0x4107b6(0x244)]=_0x2c17d2,_0xef71d5[_0x4107b6(0x281)]=function(_0x12c797,_0x476e2e){const _0x39aada=_0x4107b6;_0x31cb2a(_0x12c797,_0x476e2e);if(_0x12c797[_0x39aada(0x5d0)]!==_0xd20fc3)throw new Error(_0x39aada(0x1aa));if(_0x476e2e[_0x39aada(0x5d0)]!==_0x504f01)throw new Error(_0x39aada(0x517));var _0x241f5d=new Uint8Array(_0x504f01);return _0x39fdc7(_0x241f5d,_0x12c797,_0x476e2e),_0x241f5d;},_0xef71d5[_0x4107b6(0x281)][_0x4107b6(0x22c)]=function(_0x11b3f7){const _0x58ed60=_0x4107b6;_0x31cb2a(_0x11b3f7);if(_0x11b3f7[_0x58ed60(0x5d0)]!==_0xd20fc3)throw new Error(_0x58ed60(0x1aa));var _0x3c60c6=new Uint8Array(_0x504f01);return _0x297342(_0x3c60c6,_0x11b3f7),_0x3c60c6;},_0xef71d5[_0x185ee4(0x338)][_0x4107b6(0x2c0)]=_0xd20fc3,_0xef71d5[_0x4107b6(0x281)][_0x185ee4(0x475)]=_0x504f01,_0xef71d5[_0x4107b6(0x4eb)]=function(_0x5c945d,_0x39be35,_0x1fc39d,_0x3d69df){const _0x128e08=_0x4107b6;var _0x2f0761=_0xef71d5[_0x128e08(0x4eb)][_0x128e08(0x43d)](_0x1fc39d,_0x3d69df);return _0xef71d5[_0x128e08(0x18e)](_0x5c945d,_0x39be35,_0x2f0761);},_0xef71d5[_0x4107b6(0x4eb)][_0x4107b6(0x43d)]=function(_0x51fe1c,_0x465517){_0x31cb2a(_0x51fe1c,_0x465517),_0xcbed5b(_0x51fe1c,_0x465517);var _0x383165=new Uint8Array(_0x5a7c5d);return _0x55b399(_0x383165,_0x51fe1c,_0x465517),_0x383165;},_0xef71d5[_0x4107b6(0x4eb)][_0x185ee4(0x2ff)]=_0xef71d5[_0x4107b6(0x18e)],_0xef71d5[_0x4107b6(0x4eb)][_0x4107b6(0x4b9)]=function(_0x43a95f,_0x2e9989,_0x1d0d63,_0xaf0667){const _0x38ac32=_0x185ee4,_0x357a5a=_0x4107b6;var _0xb731d5=_0xef71d5[_0x357a5a(0x4eb)]['before'](_0x1d0d63,_0xaf0667);return _0xef71d5['secretbox'][_0x38ac32(0x59c)](_0x43a95f,_0x2e9989,_0xb731d5);},_0xef71d5[_0x4107b6(0x4eb)][_0x4107b6(0x4b9)][_0x4107b6(0x250)]=_0xef71d5[_0x4107b6(0x18e)][_0x4107b6(0x4b9)],_0xef71d5[_0x4107b6(0x4eb)]['keyPair']=function(){var _0x1d8c56=new Uint8Array(_0x599ed9),_0x39e8e6=new Uint8Array(_0x24e27b);return _0x3c735a(_0x1d8c56,_0x39e8e6),{'publicKey':_0x1d8c56,'secretKey':_0x39e8e6};},_0xef71d5[_0x4107b6(0x4eb)][_0x4107b6(0x276)][_0x4107b6(0x1a2)]=function(_0x5c5f25){const _0x21c64e=_0x185ee4,_0x15bb9c=_0x4107b6;_0x31cb2a(_0x5c5f25);if(_0x5c5f25[_0x21c64e(0x4ad)]!==_0x24e27b)throw new Error(_0x15bb9c(0x43f));var _0x4bf093=new Uint8Array(_0x599ed9);return _0x297342(_0x4bf093,_0x5c5f25),{'publicKey':_0x4bf093,'secretKey':new Uint8Array(_0x5c5f25)};},_0xef71d5[_0x4107b6(0x4eb)][_0x185ee4(0x5be)]=_0x599ed9,_0xef71d5[_0x4107b6(0x4eb)][_0x4107b6(0x18b)]=_0x24e27b,_0xef71d5[_0x4107b6(0x4eb)][_0x4107b6(0x502)]=_0x5a7c5d,_0xef71d5[_0x4107b6(0x4eb)][_0x4107b6(0x352)]=_0x46d9cf,_0xef71d5[_0x185ee4(0x572)][_0x4107b6(0x244)]=_0xef71d5[_0x4107b6(0x18e)][_0x185ee4(0x5ab)],_0xef71d5[_0x4107b6(0x37e)]=function(_0x2512c3,_0x35177d){const _0x5f2316=_0x4107b6;_0x31cb2a(_0x2512c3,_0x35177d);if(_0x35177d['length']!==_0x597ebc)throw new Error('bad\x20secret\x20key\x20size');var _0x2fa638=new Uint8Array(_0x220ad0+_0x2512c3[_0x5f2316(0x5d0)]);return _0x2725d4(_0x2fa638,_0x2512c3,_0x2512c3[_0x5f2316(0x5d0)],_0x35177d),_0x2fa638;},_0xef71d5[_0x4107b6(0x37e)][_0x4107b6(0x4b9)]=function(_0x1350e5,_0x577649){const _0x59bdf1=_0x185ee4,_0x58f71e=_0x4107b6;_0x31cb2a(_0x1350e5,_0x577649);if(_0x577649[_0x58f71e(0x5d0)]!==_0x5e9a78)throw new Error(_0x58f71e(0x511));var _0x567549=new Uint8Array(_0x1350e5[_0x58f71e(0x5d0)]),_0x251622=_0x44e8c6(_0x567549,_0x1350e5,_0x1350e5[_0x58f71e(0x5d0)],_0x577649);if(_0x251622<0x0)return null;var _0x565d78=new Uint8Array(_0x251622);for(var _0x4719f8=0x0;_0x4719f8<_0x565d78[_0x59bdf1(0x4ad)];_0x4719f8++)_0x565d78[_0x4719f8]=_0x567549[_0x4719f8];return _0x565d78;},_0xef71d5[_0x4107b6(0x37e)][_0x4107b6(0x55b)]=function(_0x54eb25,_0x1526c5){const _0x24f567=_0x185ee4,_0x43403c=_0x4107b6;var _0x199cbf=_0xef71d5[_0x43403c(0x37e)](_0x54eb25,_0x1526c5),_0x3e1445=new Uint8Array(_0x220ad0);for(var _0x2a9ee5=0x0;_0x2a9ee5<_0x3e1445[_0x24f567(0x4ad)];_0x2a9ee5++)_0x3e1445[_0x2a9ee5]=_0x199cbf[_0x2a9ee5];return _0x3e1445;},_0xef71d5[_0x4107b6(0x37e)][_0x185ee4(0x567)][_0x4107b6(0x53a)]=function(_0x25f463,_0xdc5f82,_0x34e943){const _0x136761=_0x4107b6;_0x31cb2a(_0x25f463,_0xdc5f82,_0x34e943);if(_0xdc5f82[_0x136761(0x5d0)]!==_0x220ad0)throw new Error(_0x136761(0x1a1));if(_0x34e943['length']!==_0x5e9a78)throw new Error(_0x136761(0x511));var _0x1b19f3=new Uint8Array(_0x220ad0+_0x25f463[_0x136761(0x5d0)]),_0x393986=new Uint8Array(_0x220ad0+_0x25f463[_0x136761(0x5d0)]),_0x292496;for(_0x292496=0x0;_0x292496<_0x220ad0;_0x292496++)_0x1b19f3[_0x292496]=_0xdc5f82[_0x292496];for(_0x292496=0x0;_0x292496<_0x25f463[_0x136761(0x5d0)];_0x292496++)_0x1b19f3[_0x292496+_0x220ad0]=_0x25f463[_0x292496];return _0x44e8c6(_0x393986,_0x1b19f3,_0x1b19f3[_0x136761(0x5d0)],_0x34e943)>=0x0;},_0xef71d5[_0x185ee4(0x322)][_0x4107b6(0x276)]=function(){var _0x257319=new Uint8Array(_0x5e9a78),_0x27447e=new Uint8Array(_0x597ebc);return _0x4539e6(_0x257319,_0x27447e),{'publicKey':_0x257319,'secretKey':_0x27447e};},_0xef71d5[_0x4107b6(0x37e)][_0x4107b6(0x276)][_0x4107b6(0x1a2)]=function(_0x440e83){const _0x403796=_0x4107b6;_0x31cb2a(_0x440e83);if(_0x440e83[_0x403796(0x5d0)]!==_0x597ebc)throw new Error(_0x403796(0x43f));var _0x17d168=new Uint8Array(_0x5e9a78);for(var _0x52b096=0x0;_0x52b096<_0x17d168[_0x403796(0x5d0)];_0x52b096++)_0x17d168[_0x52b096]=_0x440e83[0x20+_0x52b096];return{'publicKey':_0x17d168,'secretKey':new Uint8Array(_0x440e83)};},_0xef71d5[_0x185ee4(0x322)][_0x4107b6(0x276)][_0x4107b6(0x58a)]=function(_0x5a773a){const _0x3e97d6=_0x4107b6;_0x31cb2a(_0x5a773a);if(_0x5a773a[_0x3e97d6(0x5d0)]!==_0x57cdb0)throw new Error(_0x3e97d6(0x4c8));var _0x596ec5=new Uint8Array(_0x5e9a78),_0x32e8e2=new Uint8Array(_0x597ebc);for(var _0x5c06df=0x0;_0x5c06df<0x20;_0x5c06df++)_0x32e8e2[_0x5c06df]=_0x5a773a[_0x5c06df];return _0x4539e6(_0x596ec5,_0x32e8e2,!![]),{'publicKey':_0x596ec5,'secretKey':_0x32e8e2};},_0xef71d5[_0x4107b6(0x37e)][_0x4107b6(0x480)]=_0x5e9a78,_0xef71d5[_0x4107b6(0x37e)]['secretKeyLength']=_0x597ebc,_0xef71d5[_0x4107b6(0x37e)]['seedLength']=_0x57cdb0,_0xef71d5[_0x4107b6(0x37e)][_0x4107b6(0x3d5)]=_0x220ad0,_0xef71d5[_0x4107b6(0x419)]=function(_0x40f566){const _0x539965=_0x4107b6;_0x31cb2a(_0x40f566);var _0x4b3477=new Uint8Array(_0x1dd171);return _0x2aeb52(_0x4b3477,_0x40f566,_0x40f566[_0x539965(0x5d0)]),_0x4b3477;},_0xef71d5[_0x4107b6(0x419)][_0x4107b6(0x555)]=_0x1dd171,_0xef71d5[_0x4107b6(0x53a)]=function(_0x13a3cf,_0x34d1e4){const _0x488517=_0x4107b6;_0x31cb2a(_0x13a3cf,_0x34d1e4);if(_0x13a3cf[_0x488517(0x5d0)]===0x0||_0x34d1e4[_0x488517(0x5d0)]===0x0)return![];if(_0x13a3cf[_0x488517(0x5d0)]!==_0x34d1e4[_0x488517(0x5d0)])return![];return _0x1c6ffc(_0x13a3cf,0x0,_0x34d1e4,0x0,_0x13a3cf[_0x488517(0x5d0)])===0x0?!![]:![];},_0xef71d5[_0x4107b6(0x3df)]=function(_0x4ca9d2){_0x3f7826=_0x4ca9d2;},(function(){const _0x14660e=_0x185ee4,_0xc2462a=_0x4107b6;var _0x645d09=typeof self!=='undefined'?self[_0x14660e(0x594)]||self[_0xc2462a(0x5ef)]:null;if(_0x645d09&&_0x645d09[_0xc2462a(0x4e9)]){var _0x4487a8=0x10000;_0xef71d5[_0xc2462a(0x3df)](function(_0x2e84b1,_0x2f5eca){const _0x264a49=_0xc2462a;var _0x5c8e91,_0x1af0af=new Uint8Array(_0x2f5eca);for(_0x5c8e91=0x0;_0x5c8e91<_0x2f5eca;_0x5c8e91+=_0x4487a8){_0x645d09[_0x264a49(0x4e9)](_0x1af0af[_0x264a49(0x2f1)](_0x5c8e91,_0x5c8e91+Math[_0x264a49(0x444)](_0x2f5eca-_0x5c8e91,_0x4487a8)));}for(_0x5c8e91=0x0;_0x5c8e91<_0x2f5eca;_0x5c8e91++)_0x2e84b1[_0x5c8e91]=_0x1af0af[_0x5c8e91];_0x2d9df7(_0x1af0af);});}else typeof __require!==_0x14660e(0x1fb)&&(_0x645d09=require_crypto(),_0x645d09&&_0x645d09[_0xc2462a(0x381)]&&_0xef71d5[_0x14660e(0x5c9)](function(_0x5bb39c,_0x3a2f1e){const _0x2dfc4a=_0xc2462a;var _0x38615e,_0x50daed=_0x645d09[_0x2dfc4a(0x381)](_0x3a2f1e);for(_0x38615e=0x0;_0x38615e<_0x3a2f1e;_0x38615e++)_0x5bb39c[_0x38615e]=_0x50daed[_0x38615e];_0x2d9df7(_0x50daed);}));}());}(typeof _0x18d173!==_0x23674b(0x387)&&_0x18d173[_0x23674b(0x223)]?_0x18d173[_0x23674b(0x223)]:self[_0x23674b(0x490)]=self[_0x23674b(0x490)]||{}));}}),require_buffer=__commonJS({'(disabled):buffer'(){}}),require_sha256=__commonJS({'node_modules/js-sha256/src/sha256.js'(_0x56e8a5,_0xc38256){(function(){'use strict';const _0x29ae0f=_0x5223;const _0xdc467d=a0_0x100c;var _0x5f3aaa=_0xdc467d(0x232),_0x477bcc=typeof window===_0x29ae0f(0x270),_0x2ff4e3=_0x477bcc?window:{};_0x2ff4e3[_0xdc467d(0x312)]&&(_0x477bcc=![]);var _0x4b269c=!_0x477bcc&&typeof self===_0xdc467d(0x592),_0x5a0dd3=!_0x2ff4e3[_0xdc467d(0x337)]&&typeof process===_0xdc467d(0x592)&&process[_0xdc467d(0x5a2)]&&process[_0xdc467d(0x5a2)][_0x29ae0f(0x2b7)];if(_0x5a0dd3)_0x2ff4e3=global;else _0x4b269c&&(_0x2ff4e3=self);var _0x2724ce=!_0x2ff4e3[_0xdc467d(0x475)]&&typeof _0xc38256===_0xdc467d(0x592)&&_0xc38256[_0xdc467d(0x223)],_0x25941f=typeof define===_0x29ae0f(0x45d)&&define[_0xdc467d(0x1ac)],_0x2c5d2f=!_0x2ff4e3[_0xdc467d(0x56f)]&&typeof ArrayBuffer!=='undefined',_0xf6ef55=_0xdc467d(0x1d6)[_0xdc467d(0x18a)](''),_0x2e8be5=[-0x80000000,0x800000,0x8000,0x80],_0x363f3f=[0x18,0x10,0x8,0x0],_0x257c69=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2],_0x425d6e=[_0xdc467d(0x308),_0xdc467d(0x501),_0xdc467d(0x4a5),_0xdc467d(0x1d4)],_0x30d0fa=[];(_0x2ff4e3['JS_SHA256_NO_NODE_JS']||!Array[_0xdc467d(0x4e5)])&&(Array[_0xdc467d(0x4e5)]=function(_0x1f856b){const _0x88f28a=_0x29ae0f,_0x2f0378=_0xdc467d;return Object[_0x2f0378(0x467)][_0x2f0378(0x5b1)][_0x88f28a(0x5a4)](_0x1f856b)===_0x88f28a(0x54f);}),_0x2c5d2f&&(_0x2ff4e3[_0xdc467d(0x2fa)]||!ArrayBuffer[_0xdc467d(0x3d9)])&&(ArrayBuffer[_0xdc467d(0x3d9)]=function(_0x14eebb){const _0x1bc740=_0x29ae0f,_0x67153a=_0xdc467d;return typeof _0x14eebb===_0x67153a(0x592)&&_0x14eebb[_0x1bc740(0x5cf)]&&_0x14eebb[_0x1bc740(0x5cf)][_0x67153a(0x1b9)]===ArrayBuffer;});var _0x302822=__name(function(_0x5950c7,_0x416a20){return function(_0x541e2a){const _0x2eca78=_0x5223;return new _0x2dc695(_0x416a20,!![])[_0x2eca78(0x3d3)](_0x541e2a)[_0x5950c7]();};},_0xdc467d(0x449)),_0x444dfd=__name(function(_0x3e7125){const _0x23e632=_0x29ae0f,_0x1c23ef=_0xdc467d;var _0x35d3d0=_0x302822(_0x1c23ef(0x308),_0x3e7125);_0x5a0dd3&&(_0x35d3d0=_0xfd91c4(_0x35d3d0,_0x3e7125)),(_0x35d3d0[_0x23e632(0x34d)]=function(){return new _0x2dc695(_0x3e7125);},_0x35d3d0[_0x1c23ef(0x3cd)]=function(_0x3e4e2f){const _0x1c5837=_0x23e632,_0xf600d4=_0x1c23ef;return _0x35d3d0[_0xf600d4(0x382)]()[_0x1c5837(0x3d3)](_0x3e4e2f);});for(var _0x555ca4=0x0;_0x555ca4<_0x425d6e[_0x1c23ef(0x5d0)];++_0x555ca4){var _0x500f45=_0x425d6e[_0x555ca4];_0x35d3d0[_0x500f45]=_0x302822(_0x500f45,_0x3e7125);}return _0x35d3d0;},_0x29ae0f(0x4e2)),_0xfd91c4=__name(function(_0x18bee9,_0x3cc2f9){const _0x4c27a4=_0xdc467d;var _0x23ae44=require_crypto(),_0x4b1ec9=require_buffer()[_0x4c27a4(0x3be)],_0x57e0c1=_0x3cc2f9?_0x4c27a4(0x306):_0x4c27a4(0x2e9),_0x21ac13;_0x4b1ec9[_0x4c27a4(0x4b2)]&&!_0x2ff4e3[_0x4c27a4(0x59e)]?_0x21ac13=_0x4b1ec9['from']:_0x21ac13=__name(function(_0xeb6135){return new _0x4b1ec9(_0xeb6135);},_0x4c27a4(0x3c0));var _0x6543a3=__name(function(_0x1c44bd){const _0x9abdaf=_0x5223,_0x3fc321=_0x4c27a4;if(typeof _0x1c44bd==='string')return _0x23ae44[_0x3fc321(0x584)](_0x57e0c1)[_0x3fc321(0x3cd)](_0x1c44bd,_0x3fc321(0x22a))[_0x3fc321(0x4a5)](_0x3fc321(0x308));else{if(_0x1c44bd===null||_0x1c44bd===void 0x0)throw new Error(_0x5f3aaa);else _0x1c44bd[_0x3fc321(0x1b9)]===ArrayBuffer&&(_0x1c44bd=new Uint8Array(_0x1c44bd));}return Array[_0x3fc321(0x4e5)](_0x1c44bd)||ArrayBuffer[_0x3fc321(0x3d9)](_0x1c44bd)||_0x1c44bd[_0x3fc321(0x1b9)]===_0x4b1ec9?_0x23ae44[_0x3fc321(0x584)](_0x57e0c1)[_0x9abdaf(0x3d3)](_0x21ac13(_0x1c44bd))[_0x3fc321(0x4a5)](_0x3fc321(0x308)):_0x18bee9(_0x1c44bd);},_0x4c27a4(0x4a1));return _0x6543a3;},_0xdc467d(0x1ae)),_0x56bf7f=__name(function(_0x5e3616,_0x3995e5){return function(_0x87dc2d,_0x1fa2f8){const _0x319fb0=a0_0x100c;return new _0x55ab84(_0x87dc2d,_0x3995e5,!![])[_0x319fb0(0x3cd)](_0x1fa2f8)[_0x5e3616]();};},_0xdc467d(0x2c5)),_0x4001a8=__name(function(_0x1e3e45){const _0x978179=_0xdc467d;var _0x1ff946=_0x56bf7f(_0x978179(0x308),_0x1e3e45);_0x1ff946['create']=function(_0x1baf3a){return new _0x55ab84(_0x1baf3a,_0x1e3e45);},_0x1ff946[_0x978179(0x3cd)]=function(_0x3e4ec5,_0x45fb19){const _0x1998be=_0x5223,_0x6c3e7=_0x978179;return _0x1ff946[_0x1998be(0x34d)](_0x3e4ec5)[_0x6c3e7(0x3cd)](_0x45fb19);};for(var _0x2de89=0x0;_0x2de89<_0x425d6e[_0x978179(0x5d0)];++_0x2de89){var _0x44ab52=_0x425d6e[_0x2de89];_0x1ff946[_0x44ab52]=_0x56bf7f(_0x44ab52,_0x1e3e45);}return _0x1ff946;},_0x29ae0f(0x43b));function _0x2dc695(_0x23abcd,_0x443d27){const _0x3016d9=_0x29ae0f,_0x577ba1=_0xdc467d;_0x443d27?(_0x30d0fa[0x0]=_0x30d0fa[0x10]=_0x30d0fa[0x1]=_0x30d0fa[0x2]=_0x30d0fa[0x3]=_0x30d0fa[0x4]=_0x30d0fa[0x5]=_0x30d0fa[0x6]=_0x30d0fa[0x7]=_0x30d0fa[0x8]=_0x30d0fa[0x9]=_0x30d0fa[0xa]=_0x30d0fa[0xb]=_0x30d0fa[0xc]=_0x30d0fa[0xd]=_0x30d0fa[0xe]=_0x30d0fa[0xf]=0x0,this[_0x3016d9(0x480)]=_0x30d0fa):this[_0x577ba1(0x588)]=[0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0,0x0],_0x23abcd?(this['h0']=0xc1059ed8,this['h1']=0x367cd507,this['h2']=0x3070dd17,this['h3']=0xf70e5939,this['h4']=0xffc00b31,this['h5']=0x68581511,this['h6']=0x64f98fa7,this['h7']=0xbefa4fa4):(this['h0']=0x6a09e667,this['h1']=0xbb67ae85,this['h2']=0x3c6ef372,this['h3']=0xa54ff53a,this['h4']=0x510e527f,this['h5']=0x9b05688c,this['h6']=0x1f83d9ab,this['h7']=0x5be0cd19),this[_0x577ba1(0x1f8)]=this[_0x577ba1(0x1d5)]=this[_0x577ba1(0x344)]=this[_0x577ba1(0x420)]=0x0,this[_0x577ba1(0x397)]=this[_0x577ba1(0x54d)]=![],this[_0x577ba1(0x343)]=!![],this[_0x577ba1(0x1c5)]=_0x23abcd;}__name(_0x2dc695,_0xdc467d(0x3dd)),_0x2dc695[_0xdc467d(0x467)][_0x29ae0f(0x3d3)]=function(_0x3ed9fc){const _0x2b5dad=_0x29ae0f,_0x2ea2f9=_0xdc467d;if(this[_0x2ea2f9(0x397)])return;var _0x438f64,_0x1d77c2=typeof _0x3ed9fc;if(_0x1d77c2!==_0x2ea2f9(0x4ec)){if(_0x1d77c2===_0x2b5dad(0x270)){if(_0x3ed9fc===null)throw new Error(_0x5f3aaa);else{if(_0x2c5d2f&&_0x3ed9fc[_0x2ea2f9(0x1b9)]===ArrayBuffer)_0x3ed9fc=new Uint8Array(_0x3ed9fc);else{if(!Array[_0x2ea2f9(0x4e5)](_0x3ed9fc)){if(!_0x2c5d2f||!ArrayBuffer[_0x2ea2f9(0x3d9)](_0x3ed9fc))throw new Error(_0x5f3aaa);}}}}else throw new Error(_0x5f3aaa);_0x438f64=!![];}var _0x2e2b3c,_0xfa4a1d=0x0,_0x53a518,_0x33a399=_0x3ed9fc[_0x2ea2f9(0x5d0)],_0xed4942=this[_0x2ea2f9(0x588)];while(_0xfa4a1d<_0x33a399){this[_0x2ea2f9(0x54d)]&&(this[_0x2ea2f9(0x54d)]=![],_0xed4942[0x0]=this[_0x2ea2f9(0x1f8)],this[_0x2ea2f9(0x1f8)]=_0xed4942[0x10]=_0xed4942[0x1]=_0xed4942[0x2]=_0xed4942[0x3]=_0xed4942[0x4]=_0xed4942[0x5]=_0xed4942[0x6]=_0xed4942[0x7]=_0xed4942[0x8]=_0xed4942[0x9]=_0xed4942[0xa]=_0xed4942[0xb]=_0xed4942[0xc]=_0xed4942[0xd]=_0xed4942[0xe]=_0xed4942[0xf]=0x0);if(_0x438f64)for(_0x53a518=this[_0x2ea2f9(0x1d5)];_0xfa4a1d<_0x33a399&&_0x53a518<0x40;++_0xfa4a1d){_0xed4942[_0x53a518>>>0x2]|=_0x3ed9fc[_0xfa4a1d]<<_0x363f3f[_0x53a518++&0x3];}else for(_0x53a518=this[_0x2ea2f9(0x1d5)];_0xfa4a1d<_0x33a399&&_0x53a518<0x40;++_0xfa4a1d){_0x2e2b3c=_0x3ed9fc[_0x2b5dad(0x3a3)](_0xfa4a1d);if(_0x2e2b3c<0x80)_0xed4942[_0x53a518>>>0x2]|=_0x2e2b3c<<_0x363f3f[_0x53a518++&0x3];else{if(_0x2e2b3c<0x800)_0xed4942[_0x53a518>>>0x2]|=(0xc0|_0x2e2b3c>>>0x6)<<_0x363f3f[_0x53a518++&0x3],_0xed4942[_0x53a518>>>0x2]|=(0x80|_0x2e2b3c&0x3f)<<_0x363f3f[_0x53a518++&0x3];else _0x2e2b3c<0xd800||_0x2e2b3c>=0xe000?(_0xed4942[_0x53a518>>>0x2]|=(0xe0|_0x2e2b3c>>>0xc)<<_0x363f3f[_0x53a518++&0x3],_0xed4942[_0x53a518>>>0x2]|=(0x80|_0x2e2b3c>>>0x6&0x3f)<<_0x363f3f[_0x53a518++&0x3],_0xed4942[_0x53a518>>>0x2]|=(0x80|_0x2e2b3c&0x3f)<<_0x363f3f[_0x53a518++&0x3]):(_0x2e2b3c=0x10000+((_0x2e2b3c&0x3ff)<<0xa|_0x3ed9fc[_0x2ea2f9(0x516)](++_0xfa4a1d)&0x3ff),_0xed4942[_0x53a518>>>0x2]|=(0xf0|_0x2e2b3c>>>0x12)<<_0x363f3f[_0x53a518++&0x3],_0xed4942[_0x53a518>>>0x2]|=(0x80|_0x2e2b3c>>>0xc&0x3f)<<_0x363f3f[_0x53a518++&0x3],_0xed4942[_0x53a518>>>0x2]|=(0x80|_0x2e2b3c>>>0x6&0x3f)<<_0x363f3f[_0x53a518++&0x3],_0xed4942[_0x53a518>>>0x2]|=(0x80|_0x2e2b3c&0x3f)<<_0x363f3f[_0x53a518++&0x3]);}}this[_0x2b5dad(0x3ea)]=_0x53a518,this[_0x2ea2f9(0x344)]+=_0x53a518-this[_0x2ea2f9(0x1d5)],_0x53a518>=0x40?(this['block']=_0xed4942[0x10],this[_0x2ea2f9(0x1d5)]=_0x53a518-0x40,this[_0x2b5dad(0x4db)](),this[_0x2ea2f9(0x54d)]=!![]):this[_0x2ea2f9(0x1d5)]=_0x53a518;}return this[_0x2ea2f9(0x344)]>0xffffffff&&(this[_0x2b5dad(0x48a)]+=this[_0x2ea2f9(0x344)]/0x100000000<<0x0,this[_0x2ea2f9(0x344)]=this[_0x2ea2f9(0x344)]%0x100000000),this;},_0x2dc695[_0xdc467d(0x467)][_0xdc467d(0x564)]=function(){const _0x5af4ca=_0x29ae0f,_0x3795ae=_0xdc467d;if(this[_0x3795ae(0x397)])return;this[_0x3795ae(0x397)]=!![];var _0xd566de=this[_0x3795ae(0x588)],_0x3b59f6=this[_0x3795ae(0x3d8)];_0xd566de[0x10]=this[_0x3795ae(0x1f8)],_0xd566de[_0x3b59f6>>>0x2]|=_0x2e8be5[_0x3b59f6&0x3],this[_0x3795ae(0x1f8)]=_0xd566de[0x10],_0x3b59f6>=0x38&&(!this[_0x3795ae(0x54d)]&&this['hash'](),_0xd566de[0x0]=this[_0x3795ae(0x1f8)],_0xd566de[0x10]=_0xd566de[0x1]=_0xd566de[0x2]=_0xd566de[0x3]=_0xd566de[0x4]=_0xd566de[0x5]=_0xd566de[0x6]=_0xd566de[0x7]=_0xd566de[0x8]=_0xd566de[0x9]=_0xd566de[0xa]=_0xd566de[0xb]=_0xd566de[0xc]=_0xd566de[0xd]=_0xd566de[0xe]=_0xd566de[0xf]=0x0),_0xd566de[0xe]=this[_0x3795ae(0x420)]<<0x3|this[_0x5af4ca(0x3db)]>>>0x1d,_0xd566de[0xf]=this[_0x5af4ca(0x3db)]<<0x3,this[_0x3795ae(0x419)]();},_0x2dc695[_0xdc467d(0x467)][_0xdc467d(0x419)]=function(){const _0x4e23b7=_0xdc467d;var _0x513147=this['h0'],_0x2d41f2=this['h1'],_0x2448d1=this['h2'],_0x567cd8=this['h3'],_0x4640df=this['h4'],_0xbb4b40=this['h5'],_0x4239e3=this['h6'],_0x134735=this['h7'],_0x4845ec=this[_0x4e23b7(0x588)],_0x16d048,_0x3c88be,_0x49ba62,_0x56d75d,_0x4c6b29,_0x4e728e,_0x26c223,_0xf96c0f,_0x73e659,_0xc1477e,_0x456e79;for(_0x16d048=0x10;_0x16d048<0x40;++_0x16d048){_0x4c6b29=_0x4845ec[_0x16d048-0xf],_0x3c88be=(_0x4c6b29>>>0x7|_0x4c6b29<<0x19)^(_0x4c6b29>>>0x12|_0x4c6b29<<0xe)^_0x4c6b29>>>0x3,_0x4c6b29=_0x4845ec[_0x16d048-0x2],_0x49ba62=(_0x4c6b29>>>0x11|_0x4c6b29<<0xf)^(_0x4c6b29>>>0x13|_0x4c6b29<<0xd)^_0x4c6b29>>>0xa,_0x4845ec[_0x16d048]=_0x4845ec[_0x16d048-0x10]+_0x3c88be+_0x4845ec[_0x16d048-0x7]+_0x49ba62<<0x0;}_0x456e79=_0x2d41f2&_0x2448d1;for(_0x16d048=0x0;_0x16d048<0x40;_0x16d048+=0x4){this[_0x4e23b7(0x343)]?(this[_0x4e23b7(0x1c5)]?(_0xf96c0f=0x49400,_0x4c6b29=_0x4845ec[0x0]-0x543c9a5b,_0x134735=_0x4c6b29-0x8f1a6c7<<0x0,_0x567cd8=_0x4c6b29+0x170e9b5<<0x0):(_0xf96c0f=0x2a01a605,_0x4c6b29=_0x4845ec[0x0]-0xc881298,_0x134735=_0x4c6b29-0x5ab00ac6<<0x0,_0x567cd8=_0x4c6b29+0x8909ae5<<0x0),this[_0x4e23b7(0x343)]=![]):(_0x3c88be=(_0x513147>>>0x2|_0x513147<<0x1e)^(_0x513147>>>0xd|_0x513147<<0x13)^(_0x513147>>>0x16|_0x513147<<0xa),_0x49ba62=(_0x4640df>>>0x6|_0x4640df<<0x1a)^(_0x4640df>>>0xb|_0x4640df<<0x15)^(_0x4640df>>>0x19|_0x4640df<<0x7),_0xf96c0f=_0x513147&_0x2d41f2,_0x56d75d=_0xf96c0f^_0x513147&_0x2448d1^_0x456e79,_0x26c223=_0x4640df&_0xbb4b40^~_0x4640df&_0x4239e3,_0x4c6b29=_0x134735+_0x49ba62+_0x26c223+_0x257c69[_0x16d048]+_0x4845ec[_0x16d048],_0x4e728e=_0x3c88be+_0x56d75d,_0x134735=_0x567cd8+_0x4c6b29<<0x0,_0x567cd8=_0x4c6b29+_0x4e728e<<0x0),_0x3c88be=(_0x567cd8>>>0x2|_0x567cd8<<0x1e)^(_0x567cd8>>>0xd|_0x567cd8<<0x13)^(_0x567cd8>>>0x16|_0x567cd8<<0xa),_0x49ba62=(_0x134735>>>0x6|_0x134735<<0x1a)^(_0x134735>>>0xb|_0x134735<<0x15)^(_0x134735>>>0x19|_0x134735<<0x7),_0x73e659=_0x567cd8&_0x513147,_0x56d75d=_0x73e659^_0x567cd8&_0x2d41f2^_0xf96c0f,_0x26c223=_0x134735&_0x4640df^~_0x134735&_0xbb4b40,_0x4c6b29=_0x4239e3+_0x49ba62+_0x26c223+_0x257c69[_0x16d048+0x1]+_0x4845ec[_0x16d048+0x1],_0x4e728e=_0x3c88be+_0x56d75d,_0x4239e3=_0x2448d1+_0x4c6b29<<0x0,_0x2448d1=_0x4c6b29+_0x4e728e<<0x0,_0x3c88be=(_0x2448d1>>>0x2|_0x2448d1<<0x1e)^(_0x2448d1>>>0xd|_0x2448d1<<0x13)^(_0x2448d1>>>0x16|_0x2448d1<<0xa),_0x49ba62=(_0x4239e3>>>0x6|_0x4239e3<<0x1a)^(_0x4239e3>>>0xb|_0x4239e3<<0x15)^(_0x4239e3>>>0x19|_0x4239e3<<0x7),_0xc1477e=_0x2448d1&_0x567cd8,_0x56d75d=_0xc1477e^_0x2448d1&_0x513147^_0x73e659,_0x26c223=_0x4239e3&_0x134735^~_0x4239e3&_0x4640df,_0x4c6b29=_0xbb4b40+_0x49ba62+_0x26c223+_0x257c69[_0x16d048+0x2]+_0x4845ec[_0x16d048+0x2],_0x4e728e=_0x3c88be+_0x56d75d,_0xbb4b40=_0x2d41f2+_0x4c6b29<<0x0,_0x2d41f2=_0x4c6b29+_0x4e728e<<0x0,_0x3c88be=(_0x2d41f2>>>0x2|_0x2d41f2<<0x1e)^(_0x2d41f2>>>0xd|_0x2d41f2<<0x13)^(_0x2d41f2>>>0x16|_0x2d41f2<<0xa),_0x49ba62=(_0xbb4b40>>>0x6|_0xbb4b40<<0x1a)^(_0xbb4b40>>>0xb|_0xbb4b40<<0x15)^(_0xbb4b40>>>0x19|_0xbb4b40<<0x7),_0x456e79=_0x2d41f2&_0x2448d1,_0x56d75d=_0x456e79^_0x2d41f2&_0x567cd8^_0xc1477e,_0x26c223=_0xbb4b40&_0x4239e3^~_0xbb4b40&_0x134735,_0x4c6b29=_0x4640df+_0x49ba62+_0x26c223+_0x257c69[_0x16d048+0x3]+_0x4845ec[_0x16d048+0x3],_0x4e728e=_0x3c88be+_0x56d75d,_0x4640df=_0x513147+_0x4c6b29<<0x0,_0x513147=_0x4c6b29+_0x4e728e<<0x0,this[_0x4e23b7(0x23e)]=!![];}this['h0']=this['h0']+_0x513147<<0x0,this['h1']=this['h1']+_0x2d41f2<<0x0,this['h2']=this['h2']+_0x2448d1<<0x0,this['h3']=this['h3']+_0x567cd8<<0x0,this['h4']=this['h4']+_0x4640df<<0x0,this['h5']=this['h5']+_0xbb4b40<<0x0,this['h6']=this['h6']+_0x4239e3<<0x0,this['h7']=this['h7']+_0x134735<<0x0;},_0x2dc695[_0xdc467d(0x467)][_0xdc467d(0x308)]=function(){const _0x253757=_0xdc467d;this[_0x253757(0x564)]();var _0x4167da=this['h0'],_0x1c086a=this['h1'],_0x12599a=this['h2'],_0x640a9e=this['h3'],_0x406836=this['h4'],_0x263a45=this['h5'],_0x878762=this['h6'],_0x55bc31=this['h7'],_0x22cac0=_0xf6ef55[_0x4167da>>>0x1c&0xf]+_0xf6ef55[_0x4167da>>>0x18&0xf]+_0xf6ef55[_0x4167da>>>0x14&0xf]+_0xf6ef55[_0x4167da>>>0x10&0xf]+_0xf6ef55[_0x4167da>>>0xc&0xf]+_0xf6ef55[_0x4167da>>>0x8&0xf]+_0xf6ef55[_0x4167da>>>0x4&0xf]+_0xf6ef55[_0x4167da&0xf]+_0xf6ef55[_0x1c086a>>>0x1c&0xf]+_0xf6ef55[_0x1c086a>>>0x18&0xf]+_0xf6ef55[_0x1c086a>>>0x14&0xf]+_0xf6ef55[_0x1c086a>>>0x10&0xf]+_0xf6ef55[_0x1c086a>>>0xc&0xf]+_0xf6ef55[_0x1c086a>>>0x8&0xf]+_0xf6ef55[_0x1c086a>>>0x4&0xf]+_0xf6ef55[_0x1c086a&0xf]+_0xf6ef55[_0x12599a>>>0x1c&0xf]+_0xf6ef55[_0x12599a>>>0x18&0xf]+_0xf6ef55[_0x12599a>>>0x14&0xf]+_0xf6ef55[_0x12599a>>>0x10&0xf]+_0xf6ef55[_0x12599a>>>0xc&0xf]+_0xf6ef55[_0x12599a>>>0x8&0xf]+_0xf6ef55[_0x12599a>>>0x4&0xf]+_0xf6ef55[_0x12599a&0xf]+_0xf6ef55[_0x640a9e>>>0x1c&0xf]+_0xf6ef55[_0x640a9e>>>0x18&0xf]+_0xf6ef55[_0x640a9e>>>0x14&0xf]+_0xf6ef55[_0x640a9e>>>0x10&0xf]+_0xf6ef55[_0x640a9e>>>0xc&0xf]+_0xf6ef55[_0x640a9e>>>0x8&0xf]+_0xf6ef55[_0x640a9e>>>0x4&0xf]+_0xf6ef55[_0x640a9e&0xf]+_0xf6ef55[_0x406836>>>0x1c&0xf]+_0xf6ef55[_0x406836>>>0x18&0xf]+_0xf6ef55[_0x406836>>>0x14&0xf]+_0xf6ef55[_0x406836>>>0x10&0xf]+_0xf6ef55[_0x406836>>>0xc&0xf]+_0xf6ef55[_0x406836>>>0x8&0xf]+_0xf6ef55[_0x406836>>>0x4&0xf]+_0xf6ef55[_0x406836&0xf]+_0xf6ef55[_0x263a45>>>0x1c&0xf]+_0xf6ef55[_0x263a45>>>0x18&0xf]+_0xf6ef55[_0x263a45>>>0x14&0xf]+_0xf6ef55[_0x263a45>>>0x10&0xf]+_0xf6ef55[_0x263a45>>>0xc&0xf]+_0xf6ef55[_0x263a45>>>0x8&0xf]+_0xf6ef55[_0x263a45>>>0x4&0xf]+_0xf6ef55[_0x263a45&0xf]+_0xf6ef55[_0x878762>>>0x1c&0xf]+_0xf6ef55[_0x878762>>>0x18&0xf]+_0xf6ef55[_0x878762>>>0x14&0xf]+_0xf6ef55[_0x878762>>>0x10&0xf]+_0xf6ef55[_0x878762>>>0xc&0xf]+_0xf6ef55[_0x878762>>>0x8&0xf]+_0xf6ef55[_0x878762>>>0x4&0xf]+_0xf6ef55[_0x878762&0xf];return!this['is224']&&(_0x22cac0+=_0xf6ef55[_0x55bc31>>>0x1c&0xf]+_0xf6ef55[_0x55bc31>>>0x18&0xf]+_0xf6ef55[_0x55bc31>>>0x14&0xf]+_0xf6ef55[_0x55bc31>>>0x10&0xf]+_0xf6ef55[_0x55bc31>>>0xc&0xf]+_0xf6ef55[_0x55bc31>>>0x8&0xf]+_0xf6ef55[_0x55bc31>>>0x4&0xf]+_0xf6ef55[_0x55bc31&0xf]),_0x22cac0;},_0x2dc695[_0xdc467d(0x467)][_0xdc467d(0x5b1)]=_0x2dc695[_0x29ae0f(0x23c)][_0xdc467d(0x308)],_0x2dc695[_0xdc467d(0x467)][_0x29ae0f(0x223)]=function(){const _0x27fc92=_0x29ae0f,_0x125688=_0xdc467d;this[_0x125688(0x564)]();var _0x43c0b4=this['h0'],_0x3eb598=this['h1'],_0x5e6cb0=this['h2'],_0x125e6e=this['h3'],_0x1c26b9=this['h4'],_0x468b52=this['h5'],_0x44b691=this['h6'],_0x9135=this['h7'],_0x2b994a=[_0x43c0b4>>>0x18&0xff,_0x43c0b4>>>0x10&0xff,_0x43c0b4>>>0x8&0xff,_0x43c0b4&0xff,_0x3eb598>>>0x18&0xff,_0x3eb598>>>0x10&0xff,_0x3eb598>>>0x8&0xff,_0x3eb598&0xff,_0x5e6cb0>>>0x18&0xff,_0x5e6cb0>>>0x10&0xff,_0x5e6cb0>>>0x8&0xff,_0x5e6cb0&0xff,_0x125e6e>>>0x18&0xff,_0x125e6e>>>0x10&0xff,_0x125e6e>>>0x8&0xff,_0x125e6e&0xff,_0x1c26b9>>>0x18&0xff,_0x1c26b9>>>0x10&0xff,_0x1c26b9>>>0x8&0xff,_0x1c26b9&0xff,_0x468b52>>>0x18&0xff,_0x468b52>>>0x10&0xff,_0x468b52>>>0x8&0xff,_0x468b52&0xff,_0x44b691>>>0x18&0xff,_0x44b691>>>0x10&0xff,_0x44b691>>>0x8&0xff,_0x44b691&0xff];return!this[_0x125688(0x1c5)]&&_0x2b994a[_0x27fc92(0x25b)](_0x9135>>>0x18&0xff,_0x9135>>>0x10&0xff,_0x9135>>>0x8&0xff,_0x9135&0xff),_0x2b994a;},_0x2dc695[_0x29ae0f(0x23c)][_0xdc467d(0x501)]=_0x2dc695[_0xdc467d(0x467)][_0xdc467d(0x4a5)],_0x2dc695[_0xdc467d(0x467)][_0xdc467d(0x1d4)]=function(){const _0x28979e=_0x29ae0f,_0x4cbf11=_0xdc467d;this['finalize']();var _0x39661f=new ArrayBuffer(this[_0x28979e(0x39b)]?0x1c:0x20),_0x213b5d=new DataView(_0x39661f);return _0x213b5d[_0x28979e(0x350)](0x0,this['h0']),_0x213b5d[_0x4cbf11(0x33c)](0x4,this['h1']),_0x213b5d[_0x4cbf11(0x33c)](0x8,this['h2']),_0x213b5d[_0x4cbf11(0x33c)](0xc,this['h3']),_0x213b5d[_0x4cbf11(0x33c)](0x10,this['h4']),_0x213b5d[_0x4cbf11(0x33c)](0x14,this['h5']),_0x213b5d[_0x4cbf11(0x33c)](0x18,this['h6']),!this[_0x4cbf11(0x1c5)]&&_0x213b5d[_0x4cbf11(0x33c)](0x1c,this['h7']),_0x39661f;};function _0x55ab84(_0x18a974,_0x4d5558,_0x3b4808){const _0x3174f6=_0x29ae0f,_0x442f91=_0xdc467d;var _0x30b756,_0x56363f=typeof _0x18a974;if(_0x56363f===_0x442f91(0x4ec)){var _0x31d8e5=[],_0x555b1a=_0x18a974[_0x442f91(0x5d0)],_0x5f4641=0x0,_0x4ee3ee;for(_0x30b756=0x0;_0x30b756<_0x555b1a;++_0x30b756){_0x4ee3ee=_0x18a974[_0x3174f6(0x3a3)](_0x30b756);if(_0x4ee3ee<0x80)_0x31d8e5[_0x5f4641++]=_0x4ee3ee;else{if(_0x4ee3ee<0x800)_0x31d8e5[_0x5f4641++]=0xc0|_0x4ee3ee>>>0x6,_0x31d8e5[_0x5f4641++]=0x80|_0x4ee3ee&0x3f;else _0x4ee3ee<0xd800||_0x4ee3ee>=0xe000?(_0x31d8e5[_0x5f4641++]=0xe0|_0x4ee3ee>>>0xc,_0x31d8e5[_0x5f4641++]=0x80|_0x4ee3ee>>>0x6&0x3f,_0x31d8e5[_0x5f4641++]=0x80|_0x4ee3ee&0x3f):(_0x4ee3ee=0x10000+((_0x4ee3ee&0x3ff)<<0xa|_0x18a974[_0x442f91(0x516)](++_0x30b756)&0x3ff),_0x31d8e5[_0x5f4641++]=0xf0|_0x4ee3ee>>>0x12,_0x31d8e5[_0x5f4641++]=0x80|_0x4ee3ee>>>0xc&0x3f,_0x31d8e5[_0x5f4641++]=0x80|_0x4ee3ee>>>0x6&0x3f,_0x31d8e5[_0x5f4641++]=0x80|_0x4ee3ee&0x3f);}}_0x18a974=_0x31d8e5;}else{if(_0x56363f===_0x442f91(0x592)){if(_0x18a974===null)throw new Error(_0x5f3aaa);else{if(_0x2c5d2f&&_0x18a974[_0x442f91(0x1b9)]===ArrayBuffer)_0x18a974=new Uint8Array(_0x18a974);else{if(!Array[_0x3174f6(0x3c8)](_0x18a974)){if(!_0x2c5d2f||!ArrayBuffer[_0x442f91(0x3d9)](_0x18a974))throw new Error(_0x5f3aaa);}}}}else throw new Error(_0x5f3aaa);}_0x18a974[_0x442f91(0x5d0)]>0x40&&(_0x18a974=new _0x2dc695(_0x4d5558,!![])[_0x442f91(0x3cd)](_0x18a974)[_0x442f91(0x501)]());var _0x1299ad=[],_0x1572d8=[];for(_0x30b756=0x0;_0x30b756<0x40;++_0x30b756){var _0x3f2e44=_0x18a974[_0x30b756]||0x0;_0x1299ad[_0x30b756]=0x5c^_0x3f2e44,_0x1572d8[_0x30b756]=0x36^_0x3f2e44;}_0x2dc695[_0x442f91(0x48c)](this,_0x4d5558,_0x3b4808),this[_0x442f91(0x3cd)](_0x1572d8),this['oKeyPad']=_0x1299ad,this[_0x442f91(0x3c1)]=!![],this[_0x442f91(0x1d3)]=_0x3b4808;}__name(_0x55ab84,'HmacSha256'),_0x55ab84[_0x29ae0f(0x23c)]=new _0x2dc695(),_0x55ab84[_0xdc467d(0x467)][_0xdc467d(0x564)]=function(){const _0x461a3e=_0x29ae0f,_0x3f6941=_0xdc467d;_0x2dc695[_0x3f6941(0x467)][_0x461a3e(0x28a)][_0x3f6941(0x48c)](this);if(this[_0x3f6941(0x3c1)]){this[_0x461a3e(0x279)]=![];var _0x2a0d14=this[_0x461a3e(0x391)]();_0x2dc695[_0x3f6941(0x48c)](this,this[_0x461a3e(0x39b)],this[_0x461a3e(0x511)]),this[_0x3f6941(0x3cd)](this[_0x3f6941(0x40a)]),this[_0x3f6941(0x3cd)](_0x2a0d14),_0x2dc695[_0x3f6941(0x467)][_0x3f6941(0x564)][_0x3f6941(0x48c)](this);}};var _0x2f048f=_0x444dfd();_0x2f048f[_0x29ae0f(0x329)]=_0x2f048f,_0x2f048f[_0xdc467d(0x306)]=_0x444dfd(!![]),_0x2f048f['sha256'][_0xdc467d(0x1f9)]=_0x4001a8(),_0x2f048f[_0xdc467d(0x306)][_0xdc467d(0x1f9)]=_0x4001a8(!![]),_0x2724ce?_0xc38256[_0x29ae0f(0x36a)]=_0x2f048f:(_0x2ff4e3[_0xdc467d(0x2e9)]=_0x2f048f[_0xdc467d(0x2e9)],_0x2ff4e3[_0xdc467d(0x306)]=_0x2f048f[_0x29ae0f(0x5b3)],_0x25941f&&define(function(){return _0x2f048f;}));}());}}),webcrypto_default=crypto,isCryptoKey=__name(_0xcc684b=>_0xcc684b instanceof CryptoKey,a0_0x53d8fc(0x202)),encoder=new TextEncoder(),decoder=new TextDecoder(),MAX_INT32=0x2**0x20;function concat(..._0x51eb82){const _0x5c7c85=a0_0x53d8fc,_0x15e001=_0x51eb82[_0x5c7c85(0x274)]((_0x53f75c,{length:_0x1609ba})=>_0x53f75c+_0x1609ba,0x0),_0x315a64=new Uint8Array(_0x15e001);let _0x5d310c=0x0;for(const _0x136ecb of _0x51eb82){_0x315a64[_0x5c7c85(0x24c)](_0x136ecb,_0x5d310c),_0x5d310c+=_0x136ecb[_0x5c7c85(0x5d0)];}return _0x315a64;}__name(concat,a0_0x53d8fc(0x259));var encodeBase64=__name(_0x3805b0=>{const _0x1a6b2b=a0_0x53d8fc;let _0x26252a=_0x3805b0;typeof _0x26252a===_0x1a6b2b(0x4ec)&&(_0x26252a=encoder['encode'](_0x26252a));const _0x6a8d5a=0x8000,_0x59867c=[];for(let _0x395276=0x0;_0x395276<_0x26252a['length'];_0x395276+=_0x6a8d5a){_0x59867c[_0x1a6b2b(0x550)](String[_0x1a6b2b(0x3d3)][_0x1a6b2b(0x2f6)](null,_0x26252a[_0x1a6b2b(0x2f1)](_0x395276,_0x395276+_0x6a8d5a)));}return btoa(_0x59867c[_0x1a6b2b(0x3ab)](''));},a0_0x53d8fc(0x25a)),encode=__name(_0x1fce55=>{const _0x122292=a0_0x53d8fc;return encodeBase64(_0x1fce55)[_0x122292(0x35b)](/=/g,'')[_0x122292(0x35b)](/\+/g,'-')[_0x122292(0x35b)](/\//g,'_');},a0_0x53d8fc(0x5fb)),decodeBase64=__name(_0x2c8bea=>{const _0x453e11=_0x4c56f3,_0x30c338=a0_0x53d8fc,_0x50c5c7=atob(_0x2c8bea),_0x260265=new Uint8Array(_0x50c5c7[_0x30c338(0x5d0)]);for(let _0x4c7f87=0x0;_0x4c7f87<_0x50c5c7[_0x453e11(0x4ad)];_0x4c7f87++){_0x260265[_0x4c7f87]=_0x50c5c7[_0x30c338(0x516)](_0x4c7f87);}return _0x260265;},_0x4c56f3(0x31e)),decode=__name(_0x112483=>{const _0x59d95c=_0x4c56f3,_0x2b9b9e=a0_0x53d8fc;let _0x184d91=_0x112483;_0x184d91 instanceof Uint8Array&&(_0x184d91=decoder[_0x59d95c(0x4c1)](_0x184d91)),_0x184d91=_0x184d91[_0x2b9b9e(0x35b)](/-/g,'+')[_0x2b9b9e(0x35b)](/_/g,'/')[_0x2b9b9e(0x35b)](/\s/g,'');try{return decodeBase64(_0x184d91);}catch{throw new TypeError(_0x2b9b9e(0x2fb));}},a0_0x53d8fc(0x4e4)),JOSEError=class extends Error{constructor(_0x3b56ad,_0x14604f){const _0x240504=_0x4c56f3,_0x1233fe=a0_0x53d8fc;super(_0x3b56ad,_0x14604f),this[_0x1233fe(0x565)]=_0x240504(0x210),this[_0x1233fe(0x4f2)]=this[_0x1233fe(0x1b9)]['name'],Error[_0x240504(0x4f6)]?.(this,this[_0x1233fe(0x1b9)]);}};__name(JOSEError,_0x4c56f3(0x429)),JOSEError[_0x4c56f3(0x5da)]=a0_0x53d8fc(0x43c);var JWTClaimValidationFailed=class extends JOSEError{constructor(_0x277d66,_0x38acdc,_0x26f845=a0_0x53d8fc(0x19c),_0x13d5f9=_0x4c56f3(0x57f)){const _0x2dc1a7=_0x4c56f3,_0x437bd9=a0_0x53d8fc;super(_0x277d66,{'cause':{'claim':_0x26f845,'reason':_0x13d5f9,'payload':_0x38acdc}}),this[_0x437bd9(0x565)]=_0x437bd9(0x3f7),this[_0x437bd9(0x367)]=_0x26f845,this[_0x437bd9(0x5e4)]=_0x13d5f9,this[_0x2dc1a7(0x452)]=_0x38acdc;}};__name(JWTClaimValidationFailed,_0x4c56f3(0x3a8)),JWTClaimValidationFailed[a0_0x53d8fc(0x565)]=a0_0x53d8fc(0x3f7);var JWTExpired=class extends JOSEError{constructor(_0x3b2ed8,_0x4aae82,_0x5cca02=_0x4c56f3(0x57f),_0x5818da=a0_0x53d8fc(0x19c)){const _0x311e72=_0x4c56f3,_0x4918b6=a0_0x53d8fc;super(_0x3b2ed8,{'cause':{'claim':_0x5cca02,'reason':_0x5818da,'payload':_0x4aae82}}),this[_0x4918b6(0x565)]=_0x4918b6(0x3a9),this[_0x311e72(0x4c8)]=_0x5cca02,this[_0x4918b6(0x5e4)]=_0x5818da,this[_0x311e72(0x452)]=_0x4aae82;}};__name(JWTExpired,a0_0x53d8fc(0x5fc)),JWTExpired[a0_0x53d8fc(0x565)]=_0x4c56f3(0x294);var JOSEAlgNotAllowed=class extends JOSEError{constructor(){const _0x3d6c4a=a0_0x53d8fc;super(...arguments),this[_0x3d6c4a(0x565)]=_0x3d6c4a(0x406);}};__name(JOSEAlgNotAllowed,a0_0x53d8fc(0x4f0)),JOSEAlgNotAllowed[a0_0x53d8fc(0x565)]=a0_0x53d8fc(0x406);var JOSENotSupported=class extends JOSEError{constructor(){const _0x3fea22=a0_0x53d8fc;super(...arguments),this[_0x3fea22(0x565)]=_0x3fea22(0x4f5);}};__name(JOSENotSupported,a0_0x53d8fc(0x3fd)),JOSENotSupported[a0_0x53d8fc(0x565)]='ERR_JOSE_NOT_SUPPORTED';var JWEDecryptionFailed=class extends JOSEError{constructor(_0x4a2589=a0_0x53d8fc(0x39b),_0x139ab9){const _0x94ed1f=a0_0x53d8fc;super(_0x4a2589,_0x139ab9),this[_0x94ed1f(0x565)]=_0x94ed1f(0x21f);}};__name(JWEDecryptionFailed,a0_0x53d8fc(0x5eb)),JWEDecryptionFailed[a0_0x53d8fc(0x565)]=a0_0x53d8fc(0x21f);var JWEInvalid=class extends JOSEError{constructor(){const _0x47b36c=_0x4c56f3,_0x468c13=a0_0x53d8fc;super(...arguments),this[_0x468c13(0x565)]=_0x47b36c(0x28d);}};__name(JWEInvalid,a0_0x53d8fc(0x1dd)),JWEInvalid[a0_0x53d8fc(0x565)]=a0_0x53d8fc(0x280);var JWSInvalid=class extends JOSEError{constructor(){const _0x45a379=_0x4c56f3,_0x5c8ded=a0_0x53d8fc;super(...arguments),this[_0x45a379(0x5da)]=_0x5c8ded(0x3ff);}};__name(JWSInvalid,a0_0x53d8fc(0x4c1)),JWSInvalid[a0_0x53d8fc(0x565)]=a0_0x53d8fc(0x3ff);var JWTInvalid=class extends JOSEError{constructor(){const _0x308334=a0_0x53d8fc;super(...arguments),this[_0x308334(0x565)]=_0x308334(0x1f6);}};__name(JWTInvalid,a0_0x53d8fc(0x2df)),JWTInvalid[a0_0x53d8fc(0x565)]=a0_0x53d8fc(0x1f6);var JWKInvalid=class extends JOSEError{constructor(){const _0x1ce7bb=a0_0x53d8fc;super(...arguments),this[_0x1ce7bb(0x565)]=_0x1ce7bb(0x407);}};__name(JWKInvalid,a0_0x53d8fc(0x50b)),JWKInvalid['code']=a0_0x53d8fc(0x407);var JWKSInvalid=class extends JOSEError{constructor(){const _0x2507bb=a0_0x53d8fc;super(...arguments),this[_0x2507bb(0x565)]=_0x2507bb(0x41b);}};__name(JWKSInvalid,_0x4c56f3(0x3ff)),JWKSInvalid[a0_0x53d8fc(0x565)]=a0_0x53d8fc(0x41b);var JWKSNoMatchingKey=class extends JOSEError{constructor(_0x1d5d8e=_0x4c56f3(0x369),_0x37ea64){const _0x107516=a0_0x53d8fc;super(_0x1d5d8e,_0x37ea64),this[_0x107516(0x565)]=_0x107516(0x36e);}};__name(JWKSNoMatchingKey,a0_0x53d8fc(0x1fb)),JWKSNoMatchingKey[_0x4c56f3(0x5da)]=a0_0x53d8fc(0x36e);var JWKSMultipleMatchingKeys=class extends JOSEError{constructor(_0x568452=a0_0x53d8fc(0x374),_0x2a57e4){const _0x284323=_0x4c56f3,_0x2df5f1=a0_0x53d8fc;super(_0x568452,_0x2a57e4),this[_0x284323(0x5da)]=_0x2df5f1(0x36a);}};__name(JWKSMultipleMatchingKeys,a0_0x53d8fc(0x569)),JWKSMultipleMatchingKeys[_0x4c56f3(0x5da)]=a0_0x53d8fc(0x36a);var JWKSTimeout=class extends JOSEError{constructor(_0x4ba6e7=a0_0x53d8fc(0x265),_0x4818c6){const _0x1e4c49=a0_0x53d8fc;super(_0x4ba6e7,_0x4818c6),this[_0x1e4c49(0x565)]=_0x1e4c49(0x341);}};__name(JWKSTimeout,a0_0x53d8fc(0x247)),JWKSTimeout[a0_0x53d8fc(0x565)]=a0_0x53d8fc(0x341);var JWSSignatureVerificationFailed=class extends JOSEError{constructor(_0x457c7a=a0_0x53d8fc(0x37a),_0x23207e){const _0x24a956=_0x4c56f3,_0x34c499=a0_0x53d8fc;super(_0x457c7a,_0x23207e),this[_0x34c499(0x565)]=_0x24a956(0x3eb);}};__name(JWSSignatureVerificationFailed,a0_0x53d8fc(0x58f)),JWSSignatureVerificationFailed[_0x4c56f3(0x5da)]=a0_0x53d8fc(0x3cb);function unusable(_0x4065c0,_0x2a8b56='algorithm.name'){const _0x3d1d1d=a0_0x53d8fc;return new TypeError(_0x3d1d1d(0x34b)+_0x2a8b56+_0x3d1d1d(0x3b4)+_0x4065c0);}__name(unusable,_0x4c56f3(0x462));function isAlgorithm(_0x46995d,_0x2d2683){const _0x2cb4a5=a0_0x53d8fc;return _0x46995d[_0x2cb4a5(0x4f2)]===_0x2d2683;}__name(isAlgorithm,a0_0x53d8fc(0x5c6));function getHashLength(_0x31d98e){const _0x2c7b50=_0x4c56f3;return parseInt(_0x31d98e[_0x2c7b50(0x58f)][_0x2c7b50(0x5d0)](0x4),0xa);}__name(getHashLength,a0_0x53d8fc(0x3a0));function getNamedCurve(_0x16e710){const _0x5d93d9=_0x4c56f3,_0xa9302e=a0_0x53d8fc;switch(_0x16e710){case'ES256':return _0xa9302e(0x425);case _0x5d93d9(0x290):return _0xa9302e(0x270);case _0x5d93d9(0x456):return _0xa9302e(0x50e);default:throw new Error(_0xa9302e(0x4bd));}}__name(getNamedCurve,a0_0x53d8fc(0x4a6));function checkUsage(_0x2b29ec,_0x1c1fc3){const _0x396014=_0x4c56f3,_0x109c11=a0_0x53d8fc;if(_0x1c1fc3[_0x109c11(0x5d0)]&&!_0x1c1fc3[_0x109c11(0x2ad)](_0x50e970=>_0x2b29ec[_0x109c11(0x538)][_0x109c11(0x4ac)](_0x50e970))){let _0x3a8999=_0x109c11(0x2a3);if(_0x1c1fc3[_0x109c11(0x5d0)]>0x2){const _0x4e06e8=_0x1c1fc3[_0x109c11(0x5bb)]();_0x3a8999+=_0x109c11(0x43e)+_0x1c1fc3[_0x109c11(0x3ab)](',\x20')+_0x109c11(0x4fe)+_0x4e06e8+'.';}else _0x1c1fc3[_0x396014(0x4ad)]===0x2?_0x3a8999+=_0x396014(0x490)+_0x1c1fc3[0x0]+_0x109c11(0x4c7)+_0x1c1fc3[0x1]+'.':_0x3a8999+=_0x1c1fc3[0x0]+'.';throw new TypeError(_0x3a8999);}}__name(checkUsage,_0x4c56f3(0x495));function checkSigCryptoKey(_0x530192,_0x18b09c,..._0x2f0563){const _0x3efed6=_0x4c56f3,_0x5c74dd=a0_0x53d8fc;switch(_0x18b09c){case _0x5c74dd(0x238):case _0x3efed6(0x3da):case _0x5c74dd(0x4a3):{if(!isAlgorithm(_0x530192[_0x5c74dd(0x46f)],_0x5c74dd(0x218)))throw unusable(_0x5c74dd(0x218));const _0x2b46bb=parseInt(_0x18b09c[_0x5c74dd(0x1ef)](0x2),0xa),_0x5c365e=getHashLength(_0x530192[_0x5c74dd(0x46f)][_0x5c74dd(0x419)]);if(_0x5c365e!==_0x2b46bb)throw unusable(_0x3efed6(0x4e4)+_0x2b46bb,_0x5c74dd(0x28d));break;}case _0x3efed6(0x433):case _0x5c74dd(0x5a5):case _0x3efed6(0x580):{if(!isAlgorithm(_0x530192[_0x5c74dd(0x46f)],_0x5c74dd(0x354)))throw unusable(_0x3efed6(0x2c7));const _0x12f20c=parseInt(_0x18b09c[_0x5c74dd(0x1ef)](0x2),0xa),_0x47e6ba=getHashLength(_0x530192[_0x5c74dd(0x46f)][_0x5c74dd(0x419)]);if(_0x47e6ba!==_0x12f20c)throw unusable(_0x5c74dd(0x52a)+_0x12f20c,_0x5c74dd(0x28d));break;}case'PS256':case _0x5c74dd(0x26b):case _0x5c74dd(0x321):{if(!isAlgorithm(_0x530192[_0x5c74dd(0x46f)],_0x5c74dd(0x21a)))throw unusable('RSA-PSS');const _0x159ffd=parseInt(_0x18b09c[_0x5c74dd(0x1ef)](0x2),0xa),_0x336f83=getHashLength(_0x530192[_0x5c74dd(0x46f)][_0x5c74dd(0x419)]);if(_0x336f83!==_0x159ffd)throw unusable(_0x3efed6(0x4e4)+_0x159ffd,_0x5c74dd(0x28d));break;}case _0x5c74dd(0x526):{if(_0x530192[_0x5c74dd(0x46f)][_0x3efed6(0x58f)]!==_0x5c74dd(0x528)&&_0x530192[_0x5c74dd(0x46f)][_0x3efed6(0x58f)]!==_0x5c74dd(0x266))throw unusable(_0x5c74dd(0x5a8));break;}case _0x5c74dd(0x4d5):case _0x5c74dd(0x2ba):case _0x3efed6(0x456):{if(!isAlgorithm(_0x530192['algorithm'],_0x5c74dd(0x51b)))throw unusable(_0x5c74dd(0x51b));const _0x4b2750=getNamedCurve(_0x18b09c),_0x18a871=_0x530192[_0x3efed6(0x3c0)][_0x3efed6(0x1ed)];if(_0x18a871!==_0x4b2750)throw unusable(_0x4b2750,_0x5c74dd(0x5e8));break;}default:throw new TypeError(_0x5c74dd(0x31d));}checkUsage(_0x530192,_0x2f0563);}__name(checkSigCryptoKey,a0_0x53d8fc(0x42e));function message(_0x1f9fae,_0x5179ee,..._0x1e92d7){const _0xd63b8=_0x4c56f3,_0x47c6d8=a0_0x53d8fc;_0x1e92d7=_0x1e92d7[_0x47c6d8(0x469)](Boolean);if(_0x1e92d7[_0xd63b8(0x4ad)]>0x2){const _0x25dc9b=_0x1e92d7[_0x47c6d8(0x5bb)]();_0x1f9fae+=_0x47c6d8(0x25e)+_0x1e92d7[_0x47c6d8(0x3ab)](',\x20')+_0x47c6d8(0x4fe)+_0x25dc9b+'.';}else _0x1e92d7[_0x47c6d8(0x5d0)]===0x2?_0x1f9fae+=_0x47c6d8(0x25e)+_0x1e92d7[0x0]+_0x47c6d8(0x4c7)+_0x1e92d7[0x1]+'.':_0x1f9fae+=_0x47c6d8(0x5e3)+_0x1e92d7[0x0]+'.';if(_0x5179ee==null)_0x1f9fae+='\x20Received\x20'+_0x5179ee;else{if(typeof _0x5179ee==='function'&&_0x5179ee[_0x47c6d8(0x4f2)])_0x1f9fae+=_0x47c6d8(0x401)+_0x5179ee['name'];else typeof _0x5179ee===_0x47c6d8(0x592)&&_0x5179ee!=null&&(_0x5179ee[_0x47c6d8(0x1b9)]?.[_0xd63b8(0x58f)]&&(_0x1f9fae+=_0x47c6d8(0x340)+_0x5179ee[_0x47c6d8(0x1b9)][_0x47c6d8(0x4f2)]));}return _0x1f9fae;}__name(message,a0_0x53d8fc(0x5bf));var invalid_key_input_default=__name((_0x2a9e18,..._0x14eae4)=>{const _0x1263dc=a0_0x53d8fc;return message(_0x1263dc(0x197),_0x2a9e18,..._0x14eae4);},_0x4c56f3(0x320));function withAlg(_0x5e8960,_0x597e93,..._0x29ee72){const _0x54b7fe=a0_0x53d8fc;return message(_0x54b7fe(0x186)+_0x5e8960+_0x54b7fe(0x31f),_0x597e93,..._0x29ee72);}__name(withAlg,a0_0x53d8fc(0x2a0));var is_key_like_default=__name(_0x197e2b=>{const _0x52cc1b=a0_0x53d8fc;if(isCryptoKey(_0x197e2b))return!![];return _0x197e2b?.[Symbol[_0x52cc1b(0x2db)]]===_0x52cc1b(0x3db);},_0x4c56f3(0x320)),types=[a0_0x53d8fc(0x26c)],isDisjoint=__name((..._0x5205fc)=>{const _0x8e725b=_0x4c56f3,_0x5134b1=a0_0x53d8fc,_0x32caaf=_0x5205fc[_0x5134b1(0x469)](Boolean);if(_0x32caaf[_0x5134b1(0x5d0)]===0x0||_0x32caaf[_0x5134b1(0x5d0)]===0x1)return!![];let _0x6a738d;for(const _0x46ab90 of _0x32caaf){const _0x2eef2a=Object[_0x5134b1(0x30d)](_0x46ab90);if(!_0x6a738d||_0x6a738d['size']===0x0){_0x6a738d=new Set(_0x2eef2a);continue;}for(const _0x1dcc66 of _0x2eef2a){if(_0x6a738d[_0x5134b1(0x39d)](_0x1dcc66))return![];_0x6a738d[_0x8e725b(0x544)](_0x1dcc66);}}return!![];},_0x4c56f3(0x250)),is_disjoint_default=isDisjoint;function isObjectLike(_0x33f238){const _0x5d7e7d=a0_0x53d8fc;return typeof _0x33f238===_0x5d7e7d(0x592)&&_0x33f238!==null;}__name(isObjectLike,a0_0x53d8fc(0x20a));function isObject(_0x203062){const _0x17be53=a0_0x53d8fc;if(!isObjectLike(_0x203062)||Object['prototype'][_0x17be53(0x5b1)][_0x17be53(0x48c)](_0x203062)!==_0x17be53(0x4b1))return![];if(Object[_0x17be53(0x1c7)](_0x203062)===null)return!![];let _0x605ca1=_0x203062;while(Object[_0x17be53(0x1c7)](_0x605ca1)!==null){_0x605ca1=Object[_0x17be53(0x1c7)](_0x605ca1);}return Object[_0x17be53(0x1c7)](_0x203062)===_0x605ca1;}__name(isObject,_0x4c56f3(0x5f1));var check_key_length_default=__name((_0x4f05d1,_0xd20028)=>{const _0x5a52d4=_0x4c56f3,_0x2ddf57=a0_0x53d8fc;if(_0x4f05d1[_0x2ddf57(0x461)]('RS')||_0x4f05d1[_0x2ddf57(0x461)]('PS')){const {modulusLength:_0x4019fe}=_0xd20028[_0x2ddf57(0x46f)];if(typeof _0x4019fe!==_0x2ddf57(0x49b)||_0x4019fe<0x800)throw new TypeError(_0x4f05d1+_0x5a52d4(0x415));}},_0x4c56f3(0x320));function isJWK(_0x4af7a0){const _0x12be03=_0x4c56f3,_0x10a5c6=a0_0x53d8fc;return isObject(_0x4af7a0)&&typeof _0x4af7a0[_0x12be03(0x548)]===_0x10a5c6(0x4ec);}__name(isJWK,a0_0x53d8fc(0x5ae));function isPrivateJWK(_0x489716){const _0x509bd9=a0_0x53d8fc;return _0x489716[_0x509bd9(0x23a)]!==_0x509bd9(0x49d)&&typeof _0x489716['d']===_0x509bd9(0x4ec);}__name(isPrivateJWK,a0_0x53d8fc(0x4e0));function isPublicJWK(_0x1cbf89){const _0x33d070=_0x4c56f3,_0x32948f=a0_0x53d8fc;return _0x1cbf89[_0x33d070(0x548)]!==_0x32948f(0x49d)&&typeof _0x1cbf89['d']===_0x32948f(0x387);}__name(isPublicJWK,_0x4c56f3(0x5a1));function isSecretJWK(_0x427028){const _0x2a7c08=_0x4c56f3,_0x3b0c09=a0_0x53d8fc;return isJWK(_0x427028)&&_0x427028[_0x3b0c09(0x23a)]===_0x2a7c08(0x4e3)&&typeof _0x427028['k']===_0x3b0c09(0x4ec);}__name(isSecretJWK,a0_0x53d8fc(0x316));function subtleMapping(_0x2598c8){const _0x20d19d=_0x4c56f3,_0x4e0511=a0_0x53d8fc;let _0x46a521,_0xb0e549;switch(_0x2598c8[_0x4e0511(0x23a)]){case _0x4e0511(0x351):{switch(_0x2598c8[_0x4e0511(0x1b4)]){case _0x4e0511(0x4c0):case _0x20d19d(0x357):case _0x20d19d(0x2a4):_0x46a521={'name':_0x4e0511(0x21a),'hash':_0x4e0511(0x52a)+_0x2598c8[_0x4e0511(0x1b4)][_0x20d19d(0x5d0)](-0x3)},_0xb0e549=_0x2598c8['d']?[_0x4e0511(0x37e)]:[_0x4e0511(0x53a)];break;case _0x4e0511(0x3f2):case _0x4e0511(0x5a5):case _0x4e0511(0x30b):_0x46a521={'name':_0x4e0511(0x354),'hash':_0x20d19d(0x4e4)+_0x2598c8[_0x4e0511(0x1b4)][_0x4e0511(0x1ef)](-0x3)},_0xb0e549=_0x2598c8['d']?[_0x20d19d(0x322)]:[_0x20d19d(0x2dd)];break;case _0x20d19d(0x4fc):case _0x4e0511(0x2bf):case _0x20d19d(0x56b):case _0x4e0511(0x3e6):_0x46a521={'name':_0x4e0511(0x1d1),'hash':_0x4e0511(0x52a)+(parseInt(_0x2598c8[_0x20d19d(0x5b6)][_0x4e0511(0x1ef)](-0x3),0xa)||0x1)},_0xb0e549=_0x2598c8['d']?[_0x20d19d(0x4d9),_0x4e0511(0x333)]:['encrypt',_0x4e0511(0x58c)];break;default:throw new JOSENotSupported(_0x4e0511(0x59c));}break;}case'EC':{switch(_0x2598c8[_0x4e0511(0x1b4)]){case _0x4e0511(0x4d5):_0x46a521={'name':_0x20d19d(0x240),'namedCurve':_0x4e0511(0x425)},_0xb0e549=_0x2598c8['d']?[_0x4e0511(0x37e)]:[_0x4e0511(0x53a)];break;case _0x20d19d(0x290):_0x46a521={'name':_0x4e0511(0x51b),'namedCurve':_0x4e0511(0x270)},_0xb0e549=_0x2598c8['d']?[_0x4e0511(0x37e)]:[_0x4e0511(0x53a)];break;case _0x4e0511(0x20f):_0x46a521={'name':_0x4e0511(0x51b),'namedCurve':_0x20d19d(0x3c7)},_0xb0e549=_0x2598c8['d']?[_0x4e0511(0x37e)]:[_0x4e0511(0x53a)];break;case'ECDH-ES':case _0x4e0511(0x395):case _0x4e0511(0x1cb):case _0x4e0511(0x205):_0x46a521={'name':_0x4e0511(0x4ad),'namedCurve':_0x2598c8[_0x4e0511(0x45c)]},_0xb0e549=_0x2598c8['d']?[_0x20d19d(0x54a)]:[];break;default:throw new JOSENotSupported(_0x4e0511(0x59c));}break;}case _0x4e0511(0x1b8):{switch(_0x2598c8[_0x4e0511(0x1b4)]){case _0x4e0511(0x526):_0x46a521={'name':_0x2598c8[_0x4e0511(0x45c)]},_0xb0e549=_0x2598c8['d']?[_0x4e0511(0x37e)]:[_0x4e0511(0x53a)];break;case _0x4e0511(0x561):case _0x4e0511(0x395):case'ECDH-ES+A192KW':case _0x4e0511(0x205):_0x46a521={'name':_0x2598c8[_0x4e0511(0x45c)]},_0xb0e549=_0x2598c8['d']?[_0x4e0511(0x448)]:[];break;default:throw new JOSENotSupported(_0x20d19d(0x3f0));}break;}default:throw new JOSENotSupported(_0x4e0511(0x37f));}return{'algorithm':_0x46a521,'keyUsages':_0xb0e549};}__name(subtleMapping,a0_0x53d8fc(0x56b));var parse=__name(async _0xc54c35=>{const _0x412519=a0_0x53d8fc;if(!_0xc54c35[_0x412519(0x1b4)])throw new TypeError(_0x412519(0x5ad));const {algorithm:_0xd04e0e,keyUsages:_0x5a2005}=subtleMapping(_0xc54c35),_0x2c29cb=[_0xd04e0e,_0xc54c35[_0x412519(0x1b6)]??![],_0xc54c35[_0x412519(0x53d)]??_0x5a2005],_0x420007={..._0xc54c35};return delete _0x420007[_0x412519(0x1b4)],delete _0x420007[_0x412519(0x315)],webcrypto_default[_0x412519(0x56c)]['importKey'](_0x412519(0x1b2),_0x420007,..._0x2c29cb);},a0_0x53d8fc(0x4d8)),jwk_to_key_default=parse,exportKeyValue=__name(_0x168a7c=>decode(_0x168a7c),a0_0x53d8fc(0x57e)),privCache,pubCache,isKeyObject=__name(_0x8a3fb=>{const _0x1ac20a=_0x4c56f3;return _0x8a3fb?.[Symbol[_0x1ac20a(0x21d)]]===_0x1ac20a(0x561);},a0_0x53d8fc(0x396)),importAndCache=__name(async(_0x5a66c9,_0xd56a59,_0xe88218,_0x20b341,_0x27f0e5=![])=>{const _0x210e0c=_0x4c56f3;let _0x31d191=_0x5a66c9[_0x210e0c(0x3f8)](_0xd56a59);if(_0x31d191?.[_0x20b341])return _0x31d191[_0x20b341];const _0x533ed0=await jwk_to_key_default({..._0xe88218,'alg':_0x20b341});if(_0x27f0e5)Object[_0x210e0c(0x268)](_0xd56a59);return!_0x31d191?_0x5a66c9[_0x210e0c(0x256)](_0xd56a59,{[_0x20b341]:_0x533ed0}):_0x31d191[_0x20b341]=_0x533ed0,_0x533ed0;},a0_0x53d8fc(0x426)),normalizePublicKey=__name((_0x8beaa8,_0x40dc0d)=>{const _0x21d489=a0_0x53d8fc;if(isKeyObject(_0x8beaa8)){let _0x20b11b=_0x8beaa8[_0x21d489(0x431)]({'format':_0x21d489(0x1b2)});delete _0x20b11b['d'],delete _0x20b11b['dp'],delete _0x20b11b['dq'],delete _0x20b11b['p'],delete _0x20b11b['q'],delete _0x20b11b['qi'];if(_0x20b11b['k'])return exportKeyValue(_0x20b11b['k']);return pubCache||(pubCache=new WeakMap()),importAndCache(pubCache,_0x8beaa8,_0x20b11b,_0x40dc0d);}if(isJWK(_0x8beaa8)){if(_0x8beaa8['k'])return decode(_0x8beaa8['k']);pubCache||(pubCache=new WeakMap());const _0x1a9408=importAndCache(pubCache,_0x8beaa8,_0x8beaa8,_0x40dc0d,!![]);return _0x1a9408;}return _0x8beaa8;},a0_0x53d8fc(0x345)),normalizePrivateKey=__name((_0x4903f4,_0x1fd26d)=>{const _0x180132=_0x4c56f3;if(isKeyObject(_0x4903f4)){let _0x14341e=_0x4903f4[_0x180132(0x5a9)]({'format':_0x180132(0x1fc)});if(_0x14341e['k'])return exportKeyValue(_0x14341e['k']);return privCache||(privCache=new WeakMap()),importAndCache(privCache,_0x4903f4,_0x14341e,_0x1fd26d);}if(isJWK(_0x4903f4)){if(_0x4903f4['k'])return decode(_0x4903f4['k']);privCache||(privCache=new WeakMap());const _0x444548=importAndCache(privCache,_0x4903f4,_0x4903f4,_0x1fd26d,!![]);return _0x444548;}return _0x4903f4;},a0_0x53d8fc(0x328)),normalize_key_default={'normalizePublicKey':normalizePublicKey,'normalizePrivateKey':normalizePrivateKey};async function importJWK(_0x44e435,_0x308d1a){const _0x2bed9e=_0x4c56f3,_0x31d7ac=a0_0x53d8fc;if(!isObject(_0x44e435))throw new TypeError(_0x2bed9e(0x55d));_0x308d1a||(_0x308d1a=_0x44e435[_0x31d7ac(0x1b4)]);switch(_0x44e435[_0x31d7ac(0x23a)]){case _0x2bed9e(0x4e3):if(typeof _0x44e435['k']!==_0x31d7ac(0x4ec)||!_0x44e435['k'])throw new TypeError(_0x31d7ac(0x314));return decode(_0x44e435['k']);case _0x2bed9e(0x3de):if(_0x44e435['oth']!==void 0x0)throw new JOSENotSupported(_0x2bed9e(0x5e2));case'EC':case'OKP':return jwk_to_key_default({..._0x44e435,'alg':_0x308d1a});default:throw new JOSENotSupported(_0x31d7ac(0x5a0));}}__name(importJWK,a0_0x53d8fc(0x5c8));function _0x5223(_0x948d16,_0x1d66f4){const _0x5d7c5f=_0x5d7c();return _0x5223=function(_0x5223b7,_0x3315d4){_0x5223b7=_0x5223b7-0x1ad;let _0x599430=_0x5d7c5f[_0x5223b7];return _0x599430;},_0x5223(_0x948d16,_0x1d66f4);}var tag=__name(_0x287a99=>_0x287a99?.[Symbol[a0_0x53d8fc(0x2db)]],a0_0x53d8fc(0x240)),jwkMatchesOp=__name((_0x250ca1,_0x2a85bd,_0x3254f0)=>{const _0x55fe9e=_0x4c56f3,_0x5877ff=a0_0x53d8fc;if(_0x2a85bd[_0x5877ff(0x315)]!==void 0x0&&_0x2a85bd[_0x5877ff(0x315)]!==_0x5877ff(0x252))throw new TypeError(_0x5877ff(0x5ed));if(_0x2a85bd[_0x55fe9e(0x5e0)]!==void 0x0&&_0x2a85bd[_0x5877ff(0x53d)][_0x5877ff(0x4ac)]?.(_0x3254f0)!==!![])throw new TypeError(_0x5877ff(0x553)+_0x3254f0);if(_0x2a85bd[_0x5877ff(0x1b4)]!==void 0x0&&_0x2a85bd[_0x5877ff(0x1b4)]!==_0x250ca1)throw new TypeError(_0x5877ff(0x255)+_0x250ca1);return!![];},a0_0x53d8fc(0x474)),symmetricTypeCheck=__name((_0x4b19dd,_0x22fe7d,_0x280194,_0x6db517)=>{const _0x4ff6e6=_0x4c56f3,_0x67948c=a0_0x53d8fc;if(_0x22fe7d instanceof Uint8Array)return;if(_0x6db517&&isJWK(_0x22fe7d)){if(isSecretJWK(_0x22fe7d)&&jwkMatchesOp(_0x4b19dd,_0x22fe7d,_0x280194))return;throw new TypeError(_0x4ff6e6(0x41a));}if(!is_key_like_default(_0x22fe7d))throw new TypeError(withAlg(_0x4b19dd,_0x22fe7d,...types,_0x4ff6e6(0x278),_0x6db517?_0x67948c(0x2de):null));if(_0x22fe7d[_0x67948c(0x2b7)]!==_0x67948c(0x24a))throw new TypeError(tag(_0x22fe7d)+_0x67948c(0x34c));},a0_0x53d8fc(0x4ed)),asymmetricTypeCheck=__name((_0x4d6743,_0x4d4f29,_0x3cf826,_0x1b8808)=>{const _0x7beb67=_0x4c56f3,_0x43ce1d=a0_0x53d8fc;if(_0x1b8808&&isJWK(_0x4d4f29))switch(_0x3cf826){case _0x7beb67(0x322):if(isPrivateJWK(_0x4d4f29)&&jwkMatchesOp(_0x4d6743,_0x4d4f29,_0x3cf826))return;throw new TypeError(_0x43ce1d(0x454));case _0x7beb67(0x2dd):if(isPublicJWK(_0x4d4f29)&&jwkMatchesOp(_0x4d6743,_0x4d4f29,_0x3cf826))return;throw new TypeError(_0x43ce1d(0x459));}if(!is_key_like_default(_0x4d4f29))throw new TypeError(withAlg(_0x4d6743,_0x4d4f29,...types,_0x1b8808?_0x43ce1d(0x2de):null));if(_0x4d4f29[_0x43ce1d(0x2b7)]===_0x43ce1d(0x24a))throw new TypeError(tag(_0x4d4f29)+'\x20instances\x20for\x20asymmetric\x20algorithms\x20must\x20not\x20be\x20of\x20type\x20\x22secret\x22');if(_0x3cf826===_0x43ce1d(0x37e)&&_0x4d4f29[_0x43ce1d(0x2b7)]===_0x7beb67(0x288))throw new TypeError(tag(_0x4d4f29)+_0x43ce1d(0x29f));if(_0x3cf826===_0x43ce1d(0x355)&&_0x4d4f29[_0x43ce1d(0x2b7)]===_0x43ce1d(0x25d))throw new TypeError(tag(_0x4d4f29)+_0x43ce1d(0x56a));if(_0x4d4f29[_0x43ce1d(0x46f)]&&_0x3cf826===_0x43ce1d(0x53a)&&_0x4d4f29[_0x43ce1d(0x2b7)]===_0x43ce1d(0x1e8))throw new TypeError(tag(_0x4d4f29)+_0x43ce1d(0x53b));if(_0x4d4f29[_0x43ce1d(0x46f)]&&_0x3cf826===_0x43ce1d(0x322)&&_0x4d4f29[_0x43ce1d(0x2b7)]===_0x43ce1d(0x1e8))throw new TypeError(tag(_0x4d4f29)+_0x43ce1d(0x3b9));},a0_0x53d8fc(0x2c8));function checkKeyType(_0x134c17,_0x3cee58,_0x2e1fb0,_0x3515a9){const _0xabd34c=_0x4c56f3,_0x623d8d=a0_0x53d8fc,_0x19371b=_0x3cee58[_0x623d8d(0x461)]('HS')||_0x3cee58===_0xabd34c(0x597)||_0x3cee58[_0x623d8d(0x461)](_0xabd34c(0x274))||/^A\d{3}(?:GCM)?KW$/[_0x623d8d(0x50f)](_0x3cee58);_0x19371b?symmetricTypeCheck(_0x3cee58,_0x2e1fb0,_0x3515a9,_0x134c17):asymmetricTypeCheck(_0x3cee58,_0x2e1fb0,_0x3515a9,_0x134c17);}__name(checkKeyType,a0_0x53d8fc(0x2b9));var check_key_type_default=checkKeyType[a0_0x53d8fc(0x53c)](void 0x0,![]),checkKeyTypeWithJwk=checkKeyType[a0_0x53d8fc(0x53c)](void 0x0,!![]);function validateCrit(_0x3bde60,_0x18ea20,_0x4cc7b2,_0x10a2e5,_0x2fadde){const _0x399f82=_0x4c56f3,_0x10b21c=a0_0x53d8fc;if(_0x2fadde[_0x10b21c(0x4de)]!==void 0x0&&_0x10a2e5?.[_0x399f82(0x261)]===void 0x0)throw new _0x3bde60(_0x10b21c(0x48f));if(!_0x10a2e5||_0x10a2e5[_0x10b21c(0x4de)]===void 0x0)return new Set();if(!Array[_0x10b21c(0x4e5)](_0x10a2e5[_0x10b21c(0x4de)])||_0x10a2e5[_0x10b21c(0x4de)][_0x399f82(0x4ad)]===0x0||_0x10a2e5[_0x10b21c(0x4de)][_0x399f82(0x5e3)](_0x619c22=>typeof _0x619c22!==_0x10b21c(0x4ec)||_0x619c22[_0x10b21c(0x5d0)]===0x0))throw new _0x3bde60(_0x399f82(0x41e));let _0x224f69;_0x4cc7b2!==void 0x0?_0x224f69=new Map([...Object[_0x10b21c(0x305)](_0x4cc7b2),..._0x18ea20[_0x399f82(0x4d5)]()]):_0x224f69=_0x18ea20;for(const _0x31a598 of _0x10a2e5['crit']){if(!_0x224f69[_0x10b21c(0x39d)](_0x31a598))throw new JOSENotSupported(_0x10b21c(0x1cd)+_0x31a598+_0x10b21c(0x1f5));if(_0x2fadde[_0x31a598]===void 0x0)throw new _0x3bde60(_0x399f82(0x383)+_0x31a598+_0x10b21c(0x5cd));if(_0x224f69[_0x399f82(0x3f8)](_0x31a598)&&_0x10a2e5[_0x31a598]===void 0x0)throw new _0x3bde60(_0x10b21c(0x1cd)+_0x31a598+_0x10b21c(0x188));}return new Set(_0x10a2e5[_0x10b21c(0x4de)]);}__name(validateCrit,a0_0x53d8fc(0x302));var validate_crit_default=validateCrit,validateAlgorithms=__name((_0x39f64c,_0x1e47b4)=>{const _0x107137=a0_0x53d8fc;if(_0x1e47b4!==void 0x0&&(!Array[_0x107137(0x4e5)](_0x1e47b4)||_0x1e47b4['some'](_0x1a3a59=>typeof _0x1a3a59!==_0x107137(0x4ec))))throw new TypeError('\x22'+_0x39f64c+_0x107137(0x45b));if(!_0x1e47b4)return void 0x0;return new Set(_0x1e47b4);},a0_0x53d8fc(0x42c)),validate_algorithms_default=validateAlgorithms;function subtleDsa(_0x55aa5d,_0x29d0cc){const _0x514386=_0x4c56f3,_0x1e9929=a0_0x53d8fc,_0x19aa69=_0x1e9929(0x52a)+_0x55aa5d[_0x1e9929(0x1ef)](-0x3);switch(_0x55aa5d){case _0x1e9929(0x238):case _0x1e9929(0x450):case'HS512':return{'hash':_0x19aa69,'name':_0x514386(0x2a9)};case _0x1e9929(0x4c0):case _0x1e9929(0x26b):case _0x1e9929(0x321):return{'hash':_0x19aa69,'name':_0x514386(0x401),'saltLength':_0x55aa5d[_0x1e9929(0x1ef)](-0x3)>>0x3};case _0x1e9929(0x3f2):case _0x1e9929(0x5a5):case _0x514386(0x580):return{'hash':_0x19aa69,'name':_0x514386(0x2c7)};case _0x514386(0x1f8):case _0x514386(0x290):case _0x514386(0x456):return{'hash':_0x19aa69,'name':_0x514386(0x240),'namedCurve':_0x29d0cc[_0x1e9929(0x21d)]};case _0x1e9929(0x526):return{'name':_0x29d0cc[_0x1e9929(0x4f2)]};default:throw new JOSENotSupported(_0x1e9929(0x1ec)+_0x55aa5d+_0x1e9929(0x2bd));}}__name(subtleDsa,a0_0x53d8fc(0x327));async function getCryptoKey(_0x32d951,_0x1d8c15,_0xe21834){const _0xec7d5e=_0x4c56f3,_0x2cc95f=a0_0x53d8fc;_0xe21834===_0xec7d5e(0x322)&&(_0x1d8c15=await normalize_key_default[_0xec7d5e(0x31c)](_0x1d8c15,_0x32d951)),_0xe21834==='verify'&&(_0x1d8c15=await normalize_key_default[_0x2cc95f(0x345)](_0x1d8c15,_0x32d951));if(isCryptoKey(_0x1d8c15))return checkSigCryptoKey(_0x1d8c15,_0x32d951,_0xe21834),_0x1d8c15;if(_0x1d8c15 instanceof Uint8Array){if(!_0x32d951[_0x2cc95f(0x461)]('HS'))throw new TypeError(invalid_key_input_default(_0x1d8c15,...types));return webcrypto_default[_0x2cc95f(0x56c)][_0x2cc95f(0x1f7)](_0xec7d5e(0x566),_0x1d8c15,{'hash':_0x2cc95f(0x52a)+_0x32d951[_0xec7d5e(0x5d0)](-0x3),'name':'HMAC'},![],[_0xe21834]);}throw new TypeError(invalid_key_input_default(_0x1d8c15,...types,_0x2cc95f(0x338),_0x2cc95f(0x2de)));}__name(getCryptoKey,a0_0x53d8fc(0x25b));var verify=__name(async(_0x5bacc7,_0x3349f6,_0x430dc6,_0x47553b)=>{const _0x4ea5d6=a0_0x53d8fc,_0x229fb1=await getCryptoKey(_0x5bacc7,_0x3349f6,_0x4ea5d6(0x53a));check_key_length_default(_0x5bacc7,_0x229fb1);const _0x147677=subtleDsa(_0x5bacc7,_0x229fb1[_0x4ea5d6(0x46f)]);try{return await webcrypto_default[_0x4ea5d6(0x56c)][_0x4ea5d6(0x53a)](_0x147677,_0x229fb1,_0x430dc6,_0x47553b);}catch{return![];}},a0_0x53d8fc(0x53a)),verify_default=verify;async function flattenedVerify(_0x1def28,_0x1ccee6,_0x5edf4e){const _0x5c6427=_0x4c56f3,_0x5508c4=a0_0x53d8fc;if(!isObject(_0x1def28))throw new JWSInvalid(_0x5508c4(0x269));if(_0x1def28[_0x5508c4(0x243)]===void 0x0&&_0x1def28[_0x5508c4(0x3e7)]===void 0x0)throw new JWSInvalid(_0x5508c4(0x5e1));if(_0x1def28[_0x5508c4(0x243)]!==void 0x0&&typeof _0x1def28[_0x5508c4(0x243)]!==_0x5c6427(0x3f5))throw new JWSInvalid(_0x5c6427(0x234));if(_0x1def28[_0x5508c4(0x5be)]===void 0x0)throw new JWSInvalid(_0x5508c4(0x368));if(typeof _0x1def28[_0x5508c4(0x1c9)]!==_0x5508c4(0x4ec))throw new JWSInvalid('JWS\x20Signature\x20missing\x20or\x20incorrect\x20type');if(_0x1def28[_0x5c6427(0x4a7)]!==void 0x0&&!isObject(_0x1def28[_0x5508c4(0x3e7)]))throw new JWSInvalid(_0x5508c4(0x326));let _0xbbfe2e={};if(_0x1def28['protected'])try{const _0x15f0e9=decode(_0x1def28[_0x5c6427(0x25f)]);_0xbbfe2e=JSON[_0x5508c4(0x4d8)](decoder[_0x5508c4(0x4e4)](_0x15f0e9));}catch{throw new JWSInvalid(_0x5508c4(0x58b));}if(!is_disjoint_default(_0xbbfe2e,_0x1def28[_0x5508c4(0x3e7)]))throw new JWSInvalid(_0x5508c4(0x325));const _0x5a6775={..._0xbbfe2e,..._0x1def28[_0x5508c4(0x3e7)]},_0x5c87c8=validate_crit_default(JWSInvalid,new Map([[_0x5508c4(0x476),!![]]]),_0x5edf4e?.[_0x5c6427(0x261)],_0xbbfe2e,_0x5a6775);let _0x143676=!![];if(_0x5c87c8[_0x5508c4(0x39d)](_0x5c6427(0x405))){_0x143676=_0xbbfe2e[_0x5508c4(0x476)];if(typeof _0x143676!==_0x5508c4(0x4df))throw new JWSInvalid(_0x5508c4(0x353));}const {alg:_0x3b3c89}=_0x5a6775;if(typeof _0x3b3c89!==_0x5508c4(0x4ec)||!_0x3b3c89)throw new JWSInvalid(_0x5508c4(0x1ee));const _0x2916e4=_0x5edf4e&&validate_algorithms_default(_0x5508c4(0x2b8),_0x5edf4e[_0x5508c4(0x2b8)]);if(_0x2916e4&&!_0x2916e4[_0x5508c4(0x39d)](_0x3b3c89))throw new JOSEAlgNotAllowed(_0x5508c4(0x3a8));if(_0x143676){if(typeof _0x1def28['payload']!==_0x5508c4(0x4ec))throw new JWSInvalid(_0x5c6427(0x5bf));}else{if(typeof _0x1def28[_0x5508c4(0x5be)]!==_0x5508c4(0x4ec)&&!(_0x1def28[_0x5508c4(0x5be)]instanceof Uint8Array))throw new JWSInvalid('JWS\x20Payload\x20must\x20be\x20a\x20string\x20or\x20an\x20Uint8Array\x20instance');}let _0x118536=![];typeof _0x1ccee6===_0x5508c4(0x493)?(_0x1ccee6=await _0x1ccee6(_0xbbfe2e,_0x1def28),_0x118536=!![],checkKeyTypeWithJwk(_0x3b3c89,_0x1ccee6,_0x5508c4(0x53a)),isJWK(_0x1ccee6)&&(_0x1ccee6=await importJWK(_0x1ccee6,_0x3b3c89))):checkKeyTypeWithJwk(_0x3b3c89,_0x1ccee6,_0x5508c4(0x53a));const _0x726618=concat(encoder[_0x5508c4(0x5fb)](_0x1def28[_0x5508c4(0x243)]??''),encoder[_0x5508c4(0x5fb)]('.'),typeof _0x1def28[_0x5c6427(0x452)]===_0x5508c4(0x4ec)?encoder[_0x5508c4(0x5fb)](_0x1def28['payload']):_0x1def28['payload']);let _0x556399;try{_0x556399=decode(_0x1def28[_0x5508c4(0x1c9)]);}catch{throw new JWSInvalid(_0x5508c4(0x2b1));}const _0x42c263=await verify_default(_0x3b3c89,_0x1ccee6,_0x556399,_0x726618);if(!_0x42c263)throw new JWSSignatureVerificationFailed();let _0x43a5ad;if(_0x143676)try{_0x43a5ad=decode(_0x1def28[_0x5508c4(0x5be)]);}catch{throw new JWSInvalid(_0x5508c4(0x30c));}else typeof _0x1def28[_0x5508c4(0x5be)]===_0x5508c4(0x4ec)?_0x43a5ad=encoder[_0x5508c4(0x5fb)](_0x1def28[_0x5c6427(0x452)]):_0x43a5ad=_0x1def28[_0x5508c4(0x5be)];const _0x50059f={'payload':_0x43a5ad};_0x1def28[_0x5508c4(0x243)]!==void 0x0&&(_0x50059f[_0x5508c4(0x3a5)]=_0xbbfe2e),_0x1def28[_0x5508c4(0x3e7)]!==void 0x0&&(_0x50059f[_0x5508c4(0x51e)]=_0x1def28[_0x5508c4(0x3e7)]);if(_0x118536)return{..._0x50059f,'key':_0x1ccee6};return _0x50059f;}__name(flattenedVerify,'flattenedVerify');async function compactVerify(_0x1db670,_0xf7c15b,_0x475f6a){const _0x3635be=_0x4c56f3,_0xa29d30=a0_0x53d8fc;_0x1db670 instanceof Uint8Array&&(_0x1db670=decoder[_0x3635be(0x4c1)](_0x1db670));if(typeof _0x1db670!==_0x3635be(0x3f5))throw new JWSInvalid(_0xa29d30(0x349));const {0x0:_0x579088,0x1:_0x25a0cd,0x2:_0x1f41c,length:_0x37ad6c}=_0x1db670[_0x3635be(0x331)]('.');if(_0x37ad6c!==0x3)throw new JWSInvalid(_0x3635be(0x32c));const _0x383cdf=await flattenedVerify({'payload':_0x25a0cd,'protected':_0x579088,'signature':_0x1f41c},_0xf7c15b,_0x475f6a),_0x49ff4b={'payload':_0x383cdf[_0x3635be(0x452)],'protectedHeader':_0x383cdf[_0xa29d30(0x3a5)]};if(typeof _0xf7c15b===_0xa29d30(0x493))return{..._0x49ff4b,'key':_0x383cdf[_0xa29d30(0x2ef)]};return _0x49ff4b;}__name(compactVerify,a0_0x53d8fc(0x393));var epoch_default=__name(_0x5160f6=>Math[a0_0x53d8fc(0x595)](_0x5160f6[a0_0x53d8fc(0x4d9)]()/0x3e8),a0_0x53d8fc(0x49a)),minute=0x3c,hour=minute*0x3c,day=hour*0x18,week=day*0x7,year=day*365.25,REGEX=/^(\+|\-)? ?(\d+|\d+\.\d+) ?(seconds?|secs?|s|minutes?|mins?|m|hours?|hrs?|h|days?|d|weeks?|w|years?|yrs?|y)(?: (ago|from now))?$/i,secs_default=__name(_0x1dcf87=>{const _0x71113a=_0x4c56f3,_0x39f92f=a0_0x53d8fc,_0x3358eb=REGEX[_0x39f92f(0x293)](_0x1dcf87);if(!_0x3358eb||_0x3358eb[0x4]&&_0x3358eb[0x1])throw new TypeError(_0x39f92f(0x21b));const _0x4bcd97=parseFloat(_0x3358eb[0x2]),_0x129623=_0x3358eb[0x3][_0x39f92f(0x566)]();let _0x4659c6;switch(_0x129623){case _0x39f92f(0x225):case _0x39f92f(0x44b):case'second':case _0x39f92f(0x4fc):case's':_0x4659c6=Math[_0x71113a(0x2ae)](_0x4bcd97);break;case _0x39f92f(0x548):case'minutes':case _0x39f92f(0x444):case _0x39f92f(0x4fb):case'm':_0x4659c6=Math[_0x39f92f(0x3f5)](_0x4bcd97*minute);break;case _0x71113a(0x347):case _0x39f92f(0x57a):case'hr':case _0x71113a(0x2a5):case'h':_0x4659c6=Math[_0x39f92f(0x3f5)](_0x4bcd97*hour);break;case _0x71113a(0x54b):case _0x71113a(0x4ce):case'd':_0x4659c6=Math[_0x39f92f(0x3f5)](_0x4bcd97*day);break;case _0x39f92f(0x5c4):case _0x39f92f(0x32a):case'w':_0x4659c6=Math[_0x39f92f(0x3f5)](_0x4bcd97*week);break;default:_0x4659c6=Math[_0x71113a(0x2ae)](_0x4bcd97*year);break;}if(_0x3358eb[0x1]==='-'||_0x3358eb[0x4]===_0x39f92f(0x57f))return-_0x4659c6;return _0x4659c6;},_0x4c56f3(0x320)),normalizeTyp=__name(_0x5b8d6b=>_0x5b8d6b[_0x4c56f3(0x2f0)]()[_0x4c56f3(0x277)](/^application\//,''),a0_0x53d8fc(0x2f3)),checkAudiencePresence=__name((_0x5c2167,_0xf7da82)=>{const _0x6f424a=_0x4c56f3,_0xbc7834=a0_0x53d8fc;if(typeof _0x5c2167===_0xbc7834(0x4ec))return _0xf7da82[_0xbc7834(0x4ac)](_0x5c2167);if(Array[_0xbc7834(0x4e5)](_0x5c2167))return _0xf7da82[_0xbc7834(0x2ad)](Set[_0xbc7834(0x467)]['has'][_0x6f424a(0x414)](new Set(_0x5c2167)));return![];},a0_0x53d8fc(0x370)),jwt_claims_set_default=__name((_0x397f29,_0x218fe2,_0x35ca00={})=>{const _0x24091d=_0x4c56f3,_0x4d885a=a0_0x53d8fc;let _0x378cd7;try{_0x378cd7=JSON[_0x4d885a(0x4d8)](decoder[_0x4d885a(0x4e4)](_0x218fe2));}catch{}if(!isObject(_0x378cd7))throw new JWTInvalid(_0x4d885a(0x356));const {typ:_0x582114}=_0x35ca00;if(_0x582114&&(typeof _0x397f29[_0x4d885a(0x4ab)]!==_0x24091d(0x3f5)||normalizeTyp(_0x397f29[_0x4d885a(0x4ab)])!==normalizeTyp(_0x582114)))throw new JWTClaimValidationFailed(_0x4d885a(0x5dc),_0x378cd7,_0x4d885a(0x4ab),_0x4d885a(0x216));const {requiredClaims:requiredClaims=[],issuer:_0x59d8a0,subject:_0x39ac21,audience:_0x5a0022,maxTokenAge:_0x5344cd}=_0x35ca00,_0x1bab51=[...requiredClaims];if(_0x5344cd!==void 0x0)_0x1bab51[_0x4d885a(0x550)](_0x24091d(0x419));if(_0x5a0022!==void 0x0)_0x1bab51[_0x4d885a(0x550)](_0x4d885a(0x190));if(_0x39ac21!==void 0x0)_0x1bab51[_0x24091d(0x25b)](_0x4d885a(0x211));if(_0x59d8a0!==void 0x0)_0x1bab51[_0x4d885a(0x550)](_0x4d885a(0x213));for(const _0x9ba230 of new Set(_0x1bab51[_0x4d885a(0x2b0)]())){if(!(_0x9ba230 in _0x378cd7))throw new JWTClaimValidationFailed(_0x24091d(0x2ec)+_0x9ba230+_0x24091d(0x4aa),_0x378cd7,_0x9ba230,_0x4d885a(0x503));}if(_0x59d8a0&&!(Array[_0x24091d(0x3c8)](_0x59d8a0)?_0x59d8a0:[_0x59d8a0])[_0x24091d(0x3f6)](_0x378cd7[_0x4d885a(0x213)]))throw new JWTClaimValidationFailed(_0x4d885a(0x378),_0x378cd7,_0x4d885a(0x213),_0x4d885a(0x216));if(_0x39ac21&&_0x378cd7[_0x4d885a(0x211)]!==_0x39ac21)throw new JWTClaimValidationFailed(_0x4d885a(0x2e1),_0x378cd7,_0x4d885a(0x211),_0x4d885a(0x216));if(_0x5a0022&&!checkAudiencePresence(_0x378cd7[_0x24091d(0x29f)],typeof _0x5a0022===_0x4d885a(0x4ec)?[_0x5a0022]:_0x5a0022))throw new JWTClaimValidationFailed(_0x4d885a(0x373),_0x378cd7,_0x4d885a(0x190),_0x4d885a(0x216));let _0x16e3a7;switch(typeof _0x35ca00[_0x4d885a(0x4bb)]){case _0x4d885a(0x4ec):_0x16e3a7=secs_default(_0x35ca00[_0x4d885a(0x4bb)]);break;case _0x4d885a(0x49b):_0x16e3a7=_0x35ca00[_0x24091d(0x3dc)];break;case _0x4d885a(0x387):_0x16e3a7=0x0;break;default:throw new TypeError(_0x4d885a(0x230));}const {currentDate:_0xf2b3ea}=_0x35ca00,_0xb7c1d8=epoch_default(_0xf2b3ea||new Date());if((_0x378cd7[_0x24091d(0x419)]!==void 0x0||_0x5344cd)&&typeof _0x378cd7[_0x4d885a(0x4a7)]!==_0x24091d(0x42c))throw new JWTClaimValidationFailed(_0x4d885a(0x416),_0x378cd7,_0x4d885a(0x4a7),_0x4d885a(0x465));if(_0x378cd7[_0x24091d(0x1c6)]!==void 0x0){if(typeof _0x378cd7[_0x24091d(0x1c6)]!==_0x24091d(0x42c))throw new JWTClaimValidationFailed(_0x4d885a(0x1a5),_0x378cd7,_0x4d885a(0x372),_0x4d885a(0x465));if(_0x378cd7[_0x24091d(0x1c6)]>_0xb7c1d8+_0x16e3a7)throw new JWTClaimValidationFailed(_0x4d885a(0x210),_0x378cd7,_0x4d885a(0x372),_0x4d885a(0x216));}if(_0x378cd7[_0x4d885a(0x2dd)]!==void 0x0){if(typeof _0x378cd7[_0x4d885a(0x2dd)]!==_0x4d885a(0x49b))throw new JWTClaimValidationFailed(_0x4d885a(0x409),_0x378cd7,_0x24091d(0x457),_0x24091d(0x335));if(_0x378cd7[_0x4d885a(0x2dd)]<=_0xb7c1d8-_0x16e3a7)throw new JWTExpired(_0x4d885a(0x5f5),_0x378cd7,_0x4d885a(0x2dd),'check_failed');}if(_0x5344cd){const _0x64df96=_0xb7c1d8-_0x378cd7[_0x4d885a(0x4a7)],_0x2fd95f=typeof _0x5344cd===_0x4d885a(0x49b)?_0x5344cd:secs_default(_0x5344cd);if(_0x64df96-_0x16e3a7>_0x2fd95f)throw new JWTExpired(_0x4d885a(0x5d2),_0x378cd7,_0x4d885a(0x4a7),_0x24091d(0x285));if(_0x64df96<0x0-_0x16e3a7)throw new JWTClaimValidationFailed(_0x4d885a(0x2f0),_0x378cd7,'iat',_0x4d885a(0x216));}return _0x378cd7;},a0_0x53d8fc(0x49a));async function jwtVerify(_0x284ecd,_0x1cb5e5,_0x3e5ed6){const _0x2755fc=_0x4c56f3,_0x19402f=a0_0x53d8fc,_0x4a0dc0=await compactVerify(_0x284ecd,_0x1cb5e5,_0x3e5ed6);if(_0x4a0dc0[_0x19402f(0x3a5)][_0x19402f(0x4de)]?.[_0x19402f(0x4ac)](_0x19402f(0x476))&&_0x4a0dc0[_0x2755fc(0x241)][_0x19402f(0x476)]===![])throw new JWTInvalid(_0x2755fc(0x308));const _0x4065bb=jwt_claims_set_default(_0x4a0dc0[_0x19402f(0x3a5)],_0x4a0dc0['payload'],_0x3e5ed6),_0x4dca13={'payload':_0x4065bb,'protectedHeader':_0x4a0dc0[_0x19402f(0x3a5)]};if(typeof _0x1cb5e5===_0x19402f(0x493))return{..._0x4dca13,'key':_0x4a0dc0[_0x19402f(0x2ef)]};return _0x4dca13;}__name(jwtVerify,_0x4c56f3(0x4d3));var sign=__name(async(_0x3e31e4,_0x433c98,_0x5c3b4f)=>{const _0x27444d=_0x4c56f3,_0x3d8637=a0_0x53d8fc,_0xb7e50e=await getCryptoKey(_0x3e31e4,_0x433c98,_0x3d8637(0x37e));check_key_length_default(_0x3e31e4,_0xb7e50e);const _0x16882d=await webcrypto_default[_0x3d8637(0x56c)][_0x27444d(0x322)](subtleDsa(_0x3e31e4,_0xb7e50e[_0x3d8637(0x46f)]),_0xb7e50e,_0x5c3b4f);return new Uint8Array(_0x16882d);},'sign'),sign_default=sign,FlattenedSign=class{constructor(_0x43d5ca){const _0x48d2d7=a0_0x53d8fc;if(!(_0x43d5ca instanceof Uint8Array))throw new TypeError(_0x48d2d7(0x3d7));this[_0x48d2d7(0x27f)]=_0x43d5ca;}[_0x4c56f3(0x51a)](_0x2ba154){const _0x3e2575=a0_0x53d8fc;if(this[_0x3e2575(0x423)])throw new TypeError(_0x3e2575(0x499));return this[_0x3e2575(0x423)]=_0x2ba154,this;}[_0x4c56f3(0x57b)](_0x393648){const _0x2b1444=a0_0x53d8fc;if(this[_0x2b1444(0x2bc)])throw new TypeError(_0x2b1444(0x1e6));return this['_unprotectedHeader']=_0x393648,this;}async[_0x4c56f3(0x322)](_0x5e04db,_0x228807){const _0x1fffdd=_0x4c56f3,_0x1613e0=a0_0x53d8fc;if(!this[_0x1613e0(0x423)]&&!this[_0x1613e0(0x2bc)])throw new JWSInvalid(_0x1613e0(0x43b));if(!is_disjoint_default(this['_protectedHeader'],this[_0x1613e0(0x2bc)]))throw new JWSInvalid(_0x1613e0(0x325));const _0x1b0719={...this[_0x1fffdd(0x564)],...this[_0x1613e0(0x2bc)]},_0x330700=validate_crit_default(JWSInvalid,new Map([[_0x1613e0(0x476),!![]]]),_0x228807?.[_0x1613e0(0x4de)],this[_0x1fffdd(0x564)],_0x1b0719);let _0x5515b2=!![];if(_0x330700[_0x1613e0(0x39d)](_0x1fffdd(0x405))){_0x5515b2=this[_0x1613e0(0x423)][_0x1613e0(0x476)];if(typeof _0x5515b2!==_0x1613e0(0x4df))throw new JWSInvalid(_0x1613e0(0x353));}const {alg:_0x15c3ab}=_0x1b0719;if(typeof _0x15c3ab!==_0x1613e0(0x4ec)||!_0x15c3ab)throw new JWSInvalid('JWS\x20\x22alg\x22\x20(Algorithm)\x20Header\x20Parameter\x20missing\x20or\x20invalid');checkKeyTypeWithJwk(_0x15c3ab,_0x5e04db,_0x1613e0(0x37e));let _0x1d3072=this[_0x1613e0(0x27f)];_0x5515b2&&(_0x1d3072=encoder[_0x1613e0(0x5fb)](encode(_0x1d3072)));let _0x40e113;this[_0x1613e0(0x423)]?_0x40e113=encoder[_0x1613e0(0x5fb)](encode(JSON[_0x1fffdd(0x5c7)](this[_0x1613e0(0x423)]))):_0x40e113=encoder[_0x1613e0(0x5fb)]('');const _0x56d2c5=concat(_0x40e113,encoder[_0x1613e0(0x5fb)]('.'),_0x1d3072),_0x3a2c81=await sign_default(_0x15c3ab,_0x5e04db,_0x56d2c5),_0x240b3b={'signature':encode(_0x3a2c81),'payload':''};return _0x5515b2&&(_0x240b3b[_0x1fffdd(0x452)]=decoder[_0x1613e0(0x4e4)](_0x1d3072)),this[_0x1613e0(0x2bc)]&&(_0x240b3b[_0x1613e0(0x3e7)]=this[_0x1fffdd(0x407)]),this[_0x1613e0(0x423)]&&(_0x240b3b[_0x1fffdd(0x25f)]=decoder['decode'](_0x40e113)),_0x240b3b;}};__name(FlattenedSign,a0_0x53d8fc(0x5f6));var CompactSign=class{constructor(_0x365732){const _0x1a70c8=a0_0x53d8fc;this[_0x1a70c8(0x593)]=new FlattenedSign(_0x365732);}[a0_0x53d8fc(0x33b)](_0x389d6d){const _0x2f8a08=a0_0x53d8fc;return this['_flattened'][_0x2f8a08(0x33b)](_0x389d6d),this;}async[a0_0x53d8fc(0x37e)](_0x466177,_0x538844){const _0x39d345=_0x4c56f3,_0x57677b=a0_0x53d8fc,_0x3b71f3=await this[_0x57677b(0x593)][_0x57677b(0x37e)](_0x466177,_0x538844);if(_0x3b71f3[_0x57677b(0x5be)]===void 0x0)throw new TypeError(_0x57677b(0x228));return _0x3b71f3[_0x39d345(0x25f)]+'.'+_0x3b71f3['payload']+'.'+_0x3b71f3[_0x57677b(0x1c9)];}};__name(CompactSign,a0_0x53d8fc(0x485));function validateInput(_0x583c3d,_0x146416){const _0x3d9e9a=a0_0x53d8fc;if(!Number[_0x3d9e9a(0x42f)](_0x146416))throw new TypeError(_0x3d9e9a(0x1a3)+_0x583c3d+_0x3d9e9a(0x2b4));return _0x146416;}__name(validateInput,a0_0x53d8fc(0x20e));var ProduceJWT=class{constructor(_0x5bbfc0={}){const _0x532086=a0_0x53d8fc;if(!isObject(_0x5bbfc0))throw new TypeError(_0x532086(0x1f4));this[_0x532086(0x27f)]=_0x5bbfc0;}[a0_0x53d8fc(0x22b)](_0x33185d){const _0x3aab8e=a0_0x53d8fc;return this[_0x3aab8e(0x27f)]={...this[_0x3aab8e(0x27f)],'iss':_0x33185d},this;}[a0_0x53d8fc(0x2a2)](_0xe5f1f3){const _0x39d0b5=_0x4c56f3,_0x1c8ca6=a0_0x53d8fc;return this[_0x39d0b5(0x3d4)]={...this[_0x1c8ca6(0x27f)],'sub':_0xe5f1f3},this;}[a0_0x53d8fc(0x3ca)](_0x190308){const _0x5a833c=a0_0x53d8fc;return this[_0x5a833c(0x27f)]={...this[_0x5a833c(0x27f)],'aud':_0x190308},this;}[_0x4c56f3(0x2b8)](_0x1681a6){const _0x4208e9=a0_0x53d8fc;return this[_0x4208e9(0x27f)]={...this[_0x4208e9(0x27f)],'jti':_0x1681a6},this;}[a0_0x53d8fc(0x559)](_0x2f5d5c){const _0x3f3f36=_0x4c56f3,_0x2a8bf1=a0_0x53d8fc;if(typeof _0x2f5d5c==='number')this[_0x3f3f36(0x3d4)]={...this[_0x2a8bf1(0x27f)],'nbf':validateInput(_0x2a8bf1(0x559),_0x2f5d5c)};else _0x2f5d5c instanceof Date?this[_0x2a8bf1(0x27f)]={...this[_0x3f3f36(0x3d4)],'nbf':validateInput(_0x2a8bf1(0x559),epoch_default(_0x2f5d5c))}:this[_0x2a8bf1(0x27f)]={...this[_0x2a8bf1(0x27f)],'nbf':epoch_default(new Date())+secs_default(_0x2f5d5c)};return this;}[_0x4c56f3(0x3c3)](_0x5c527f){const _0x973c8b=_0x4c56f3,_0x428cb4=a0_0x53d8fc;if(typeof _0x5c527f===_0x428cb4(0x49b))this[_0x428cb4(0x27f)]={...this[_0x428cb4(0x27f)],'exp':validateInput(_0x973c8b(0x3c3),_0x5c527f)};else _0x5c527f instanceof Date?this[_0x428cb4(0x27f)]={...this[_0x428cb4(0x27f)],'exp':validateInput(_0x973c8b(0x3c3),epoch_default(_0x5c527f))}:this[_0x428cb4(0x27f)]={...this[_0x973c8b(0x3d4)],'exp':epoch_default(new Date())+secs_default(_0x5c527f)};return this;}[a0_0x53d8fc(0x28a)](_0x1c33ca){const _0x1e9f56=_0x4c56f3,_0x3b10b9=a0_0x53d8fc;if(typeof _0x1c33ca===_0x3b10b9(0x387))this[_0x3b10b9(0x27f)]={...this[_0x3b10b9(0x27f)],'iat':epoch_default(new Date())};else{if(_0x1c33ca instanceof Date)this[_0x3b10b9(0x27f)]={...this[_0x3b10b9(0x27f)],'iat':validateInput(_0x3b10b9(0x28a),epoch_default(_0x1c33ca))};else typeof _0x1c33ca===_0x3b10b9(0x4ec)?this[_0x1e9f56(0x3d4)]={...this[_0x1e9f56(0x3d4)],'iat':validateInput(_0x3b10b9(0x28a),epoch_default(new Date())+secs_default(_0x1c33ca))}:this[_0x1e9f56(0x3d4)]={...this[_0x3b10b9(0x27f)],'iat':validateInput(_0x3b10b9(0x28a),_0x1c33ca)};}return this;}};__name(ProduceJWT,_0x4c56f3(0x1b4));var SignJWT=class extends ProduceJWT{[a0_0x53d8fc(0x33b)](_0x4a4882){const _0x1db72c=a0_0x53d8fc;return this[_0x1db72c(0x423)]=_0x4a4882,this;}async[a0_0x53d8fc(0x37e)](_0x33d7ba,_0x32f967){const _0x458b38=_0x4c56f3,_0x1863ee=a0_0x53d8fc,_0x14e56a=new CompactSign(encoder[_0x1863ee(0x5fb)](JSON[_0x1863ee(0x294)](this['_payload'])));_0x14e56a[_0x1863ee(0x33b)](this[_0x1863ee(0x423)]);if(Array[_0x1863ee(0x4e5)](this[_0x458b38(0x564)]?.[_0x1863ee(0x4de)])&&this[_0x1863ee(0x423)][_0x458b38(0x261)][_0x458b38(0x3f6)](_0x1863ee(0x476))&&this[_0x458b38(0x564)][_0x1863ee(0x476)]===![])throw new JWTInvalid('JWTs\x20MUST\x20NOT\x20use\x20unencoded\x20payload');return _0x14e56a[_0x1863ee(0x37e)](_0x33d7ba,_0x32f967);}};__name(SignJWT,a0_0x53d8fc(0x277));var import_tweetnacl=__toESM(require_nacl_fast());async function renderLoginPage(){const _0x20cc5a=_0x4c56f3,_0x196e8a=a0_0x53d8fc,_0x5b5b5a=_0x196e8a(0x2f7)+globalThis[_0x196e8a(0x358)]+_0x196e8a(0x2f4);return new Response(_0x5b5b5a,{'status':0xc8,'headers':{'Content-Type':_0x20cc5a(0x434),'Access-Control-Allow-Origin':globalThis[_0x20cc5a(0x1f4)],'Access-Control-Allow-Methods':_0x196e8a(0x31e),'Access-Control-Allow-Headers':_0x20cc5a(0x36b),'X-Content-Type-Options':_0x196e8a(0x510),'X-Frame-Options':_0x196e8a(0x424),'Referrer-Policy':_0x196e8a(0x311),'Cache-Control':_0x196e8a(0x57c),'CDN-Cache-Control':_0x196e8a(0x5af)}});}__name(renderLoginPage,'renderLoginPage');async function generateJWTToken(_0x3dbb0b,_0x306726){const _0x364a7d=_0x4c56f3,_0x11cd03=a0_0x53d8fc,_0x26ef5b=await _0x3dbb0b[_0x11cd03(0x3dc)](),_0x3e3561=await _0x306726[_0x11cd03(0x334)][_0x11cd03(0x522)](_0x11cd03(0x403));if(_0x26ef5b!==_0x3e3561)return new Response(_0x364a7d(0x1c9),{'status':0x195});let _0x52aea8=await _0x306726[_0x11cd03(0x334)][_0x11cd03(0x522)](_0x11cd03(0x4c4));!_0x52aea8&&(_0x52aea8=generateSecretKey(),await _0x306726[_0x11cd03(0x334)][_0x11cd03(0x3d2)](_0x11cd03(0x4c4),_0x52aea8));const _0x1d21ea=new TextEncoder()[_0x11cd03(0x5fb)](_0x52aea8),_0xb68983=await new SignJWT({'userID':globalThis[_0x11cd03(0x513)]})[_0x11cd03(0x33b)]({'alg':_0x11cd03(0x238)})[_0x11cd03(0x28a)]()[_0x11cd03(0x3ed)](_0x364a7d(0x5d2))[_0x11cd03(0x37e)](_0x1d21ea);return new Response(_0x364a7d(0x319),{'status':0xc8,'headers':{'Set-Cookie':_0x11cd03(0x2fe)+_0xb68983+_0x11cd03(0x27e)+0x7*0x18*0x3c*0x3c+_0x364a7d(0x38e),'Content-Type':_0x11cd03(0x24d)}});}__name(generateJWTToken,a0_0x53d8fc(0x2ed));function generateSecretKey(){const _0x2ce1c6=a0_0x53d8fc,_0x54ddd8=import_tweetnacl[_0x2ce1c6(0x49a)][_0x2ce1c6(0x381)](0x20);return Array[_0x2ce1c6(0x4b2)](_0x54ddd8,_0x507b78=>_0x507b78[_0x2ce1c6(0x5b1)](0x10)[_0x2ce1c6(0x295)](0x2,'0'))[_0x2ce1c6(0x3ab)]('');}__name(generateSecretKey,a0_0x53d8fc(0x434));async function Authenticate(_0x3711a7,_0x29482a){const _0x55be9b=_0x4c56f3,_0x12a3fa=a0_0x53d8fc;try{const _0x3a27af=await _0x29482a[_0x12a3fa(0x334)][_0x12a3fa(0x522)](_0x12a3fa(0x4c4)),_0x51a196=new TextEncoder()[_0x12a3fa(0x5fb)](_0x3a27af),_0xec878d=_0x3711a7[_0x55be9b(0x542)][_0x12a3fa(0x522)](_0x12a3fa(0x313))?.[_0x12a3fa(0x2f9)](/(^|;\s*)jwtToken=([^;]*)/),_0x2c1507=_0xec878d?_0xec878d[0x2]:null;if(!_0x2c1507)return console[_0x55be9b(0x4f8)](_0x12a3fa(0x1c3)),![];const {payload:_0x526d77}=await jwtVerify(_0x2c1507,_0x51a196);return console[_0x12a3fa(0x2c9)](_0x55be9b(0x49f)+_0x526d77[_0x55be9b(0x330)]),!![];}catch(_0x11c148){return console[_0x12a3fa(0x2c9)](_0x11c148),![];}}__name(Authenticate,_0x4c56f3(0x2df));function logout(){const _0x487ff4=a0_0x53d8fc;return new Response(_0x487ff4(0x562),{'status':0xc8,'headers':{'Set-Cookie':_0x487ff4(0x531),'Content-Type':_0x487ff4(0x24d)}});}__name(logout,a0_0x53d8fc(0x2a5));async function resetPassword(_0x136739,_0x461209){const _0x24e7d0=_0x4c56f3,_0x568847=a0_0x53d8fc;let _0x1b672e=await Authenticate(_0x136739,_0x461209);const _0xd08421=await _0x461209[_0x568847(0x334)][_0x24e7d0(0x3f8)](_0x568847(0x403));if(_0xd08421&&!_0x1b672e)return new Response(_0x568847(0x451),{'status':0x191});const _0x52ad71=await _0x136739[_0x568847(0x3dc)]();if(_0x52ad71===_0xd08421)return new Response(_0x568847(0x3d4),{'status':0x190});return await _0x461209[_0x568847(0x334)][_0x568847(0x3d2)](_0x24e7d0(0x37a),_0x52ad71),new Response(_0x24e7d0(0x319),{'status':0xc8,'headers':{'Set-Cookie':_0x568847(0x3e0),'Content-Type':_0x568847(0x24d)}});}__name(resetPassword,a0_0x53d8fc(0x224));async function login(_0x236eac,_0x552e71){const _0x68082c=_0x4c56f3,_0x34c4aa=a0_0x53d8fc,_0x358af2=await Authenticate(_0x236eac,_0x552e71);if(_0x358af2)return Response[_0x34c4aa(0x38a)](globalThis[_0x34c4aa(0x5ea)]+_0x34c4aa(0x494),0x12e);if(_0x236eac[_0x34c4aa(0x36b)]===_0x68082c(0x2d2))return await generateJWTToken(_0x236eac,_0x552e71);return await renderLoginPage();}__name(login,'login');var import_tweetnacl2=__toESM(require_nacl_fast());async function fetchWarpConfigs(_0x3ae88e,_0x9aee0){const _0x2009aa=_0x4c56f3,_0xab850e=a0_0x53d8fc;let _0x1ceb05=[];const _0x506e2f=_0xab850e(0x4b8),{warpPlusLicense:_0x3776ad}=_0x9aee0,_0x12ec77=[generateKeyPair(),generateKeyPair()],_0x352e48={'install_id':'','fcm_token':'','tos':new Date()[_0xab850e(0x233)](),'type':_0xab850e(0x1e7),'model':'PC','locale':_0xab850e(0x495),'warp_enabled':!![]},_0x3fae19=__name(async _0x58cabb=>{const _0xc6ab4c=_0x5223,_0x258cc4=_0xab850e,_0x1f16f3=await fetch(_0x506e2f,{'method':_0xc6ab4c(0x2d2),'headers':{'User-Agent':_0x258cc4(0x3ce),'Content-Type':_0xc6ab4c(0x32a)},'body':JSON[_0x258cc4(0x294)]({..._0x352e48,'key':_0x58cabb[_0x258cc4(0x50a)]})});return await _0x1f16f3[_0x258cc4(0x59a)]();},_0xab850e(0x285)),_0x58a068=__name(async(_0x581bf2,_0x12f58c)=>{const _0x21fb91=_0x5223,_0x582e5f=_0xab850e,_0x530c78=await fetch(_0x506e2f+'/'+_0x581bf2['id']+_0x582e5f(0x2c7),{'method':_0x21fb91(0x4bf),'headers':{'User-Agent':_0x582e5f(0x3ce),'Content-Type':_0x582e5f(0x2ce),'Authorization':_0x582e5f(0x455)+_0x581bf2[_0x582e5f(0x32b)]},'body':JSON[_0x582e5f(0x294)]({..._0x352e48,'key':_0x12f58c[_0x582e5f(0x50a)],'license':_0x3776ad})});return{'status':_0x530c78[_0x582e5f(0x1c8)],'data':await _0x530c78[_0x582e5f(0x59a)]()};},_0xab850e(0x489));for(const _0x4d3790 of _0x12ec77){const _0x168260=await _0x3fae19(_0x4d3790);_0x1ceb05[_0x2009aa(0x25b)]({'privateKey':_0x4d3790[_0xab850e(0x456)],'account':_0x168260});if(_0x3776ad){const {status:_0xacf136,data:_0xc21dd4}=await _0x58a068(_0x168260,_0x4d3790);if(_0xacf136!==0xc8&&!_0xc21dd4[_0xab850e(0x5c5)])return{'error':_0xc21dd4[_0xab850e(0x246)][0x0]?.[_0xab850e(0x5bf)],'configs':null};}}const _0x149f8c=JSON[_0x2009aa(0x5c7)](_0x1ceb05);return await _0x3ae88e[_0x2009aa(0x216)][_0xab850e(0x3d2)](_0xab850e(0x23c),_0x149f8c),{'error':null,'configs':_0x149f8c};}__name(fetchWarpConfigs,a0_0x53d8fc(0x4c9));var generateKeyPair=__name(()=>{const _0x32f939=_0x4c56f3,_0x2cfc4a=a0_0x53d8fc,_0x598661=__name(_0x409652=>btoa(String[_0x2cfc4a(0x3d3)][_0x2cfc4a(0x2f6)](null,_0x409652)),_0x2cfc4a(0x3c2));let _0x46b9a1=import_tweetnacl2[_0x2cfc4a(0x49a)][_0x2cfc4a(0x381)](0x20);_0x46b9a1[0x0]&=0xf8,_0x46b9a1[0x1f]&=0x7f,_0x46b9a1[0x1f]|=0x40;let _0x32f8c8=import_tweetnacl2[_0x32f939(0x320)][_0x2cfc4a(0x281)][_0x32f939(0x46c)](_0x46b9a1);const _0x2298cc=_0x598661(_0x32f8c8),_0x155bfb=_0x598661(_0x46b9a1);return{'publicKey':_0x2298cc,'privateKey':_0x155bfb};},_0x4c56f3(0x421));async function getDataset(_0x4fc899,_0x1afbb3){const _0x485f05=_0x4c56f3,_0x169761=a0_0x53d8fc;let _0x3790e1,_0x3e90f1;try{_0x3790e1=await _0x1afbb3[_0x169761(0x334)][_0x169761(0x522)](_0x169761(0x545),{'type':_0x169761(0x59a)}),_0x3e90f1=await _0x1afbb3[_0x485f05(0x216)][_0x485f05(0x3f8)](_0x169761(0x23c),{'type':_0x485f05(0x263)});}catch(_0x380a4b){console[_0x169761(0x2c9)](_0x380a4b);throw new Error(_0x169761(0x272)+_0x380a4b);}if(!_0x3790e1){_0x3790e1=await updateDataset(_0x4fc899,_0x1afbb3);const {error:_0x205d82,configs:_0x56db83}=await fetchWarpConfigs(_0x1afbb3,_0x3790e1);if(_0x205d82)throw new Error(_0x169761(0x347)+_0x205d82);_0x3e90f1=_0x56db83;}if(globalThis[_0x169761(0x358)]!==_0x3790e1[_0x169761(0x358)])_0x3790e1=await updateDataset(_0x4fc899,_0x1afbb3);return{'proxySettings':_0x3790e1,'warpConfigs':_0x3e90f1};}__name(getDataset,_0x4c56f3(0x34c));async function updateDataset(_0x5197d0,_0x2b425d){const _0x4e91c1=_0x4c56f3,_0x41c5f4=a0_0x53d8fc;let _0x27555e=_0x5197d0[_0x41c5f4(0x36b)]===_0x4e91c1(0x2d2)?await _0x5197d0[_0x41c5f4(0x519)]():null;const _0x1e8808=_0x27555e?.[_0x4e91c1(0x3f8)](_0x4e91c1(0x284))==='true';let _0x5af47f;if(!_0x1e8808)try{_0x5af47f=await _0x2b425d[_0x41c5f4(0x334)][_0x41c5f4(0x522)](_0x41c5f4(0x545),{'type':_0x41c5f4(0x59a)});}catch(_0x316973){console[_0x41c5f4(0x2c9)](_0x316973);throw new Error(_0x4e91c1(0x26c)+_0x316973);}else await _0x2b425d[_0x4e91c1(0x216)][_0x41c5f4(0x339)](_0x41c5f4(0x23c)),_0x27555e=null;const _0x4f4b2d=__name(_0x3fb4f5=>{const _0x546b62=_0x41c5f4,_0x2bcc5d=_0x27555e?.[_0x546b62(0x522)](_0x3fb4f5);if(_0x2bcc5d===void 0x0)return null;if(_0x2bcc5d==='true')return!![];if(_0x2bcc5d===_0x546b62(0x3ec))return![];return _0x2bcc5d;},_0x41c5f4(0x50c)),_0x36b897=_0x4f4b2d(_0x41c5f4(0x4f4))??_0x5af47f?.[_0x41c5f4(0x4f4)]??_0x41c5f4(0x440),_0x192ca4=_0x4f4b2d(_0x41c5f4(0x5d3))??_0x5af47f?.[_0x41c5f4(0x5d3)]??!![],_0x289e41=new URL(_0x36b897),_0x53203f=_0x289e41[_0x41c5f4(0x3bc)],_0x57a664=isDomain(_0x53203f);let _0x20d928={};if(_0x57a664)try{const _0x1022d3=await resolveDNS(_0x53203f);_0x20d928={'server':_0x53203f,'staticIPs':_0x192ca4?[..._0x1022d3[_0x4e91c1(0x29c)],..._0x1022d3[_0x41c5f4(0x5b8)]]:_0x1022d3[_0x41c5f4(0x27b)]};}catch(_0x3d9305){console[_0x4e91c1(0x4f8)](_0x3d9305);throw new Error(_0x41c5f4(0x348)+_0x3d9305);}const _0x33d0e8={'remoteDNS':_0x36b897,'resolvedRemoteDNS':_0x20d928,'localDNS':_0x4f4b2d(_0x4e91c1(0x536))??_0x5af47f?.[_0x4e91c1(0x536)]??_0x41c5f4(0x55d),'vlessTrojanFakeDNS':_0x4f4b2d(_0x41c5f4(0x1df))??_0x5af47f?.[_0x41c5f4(0x1df)]??![],'proxyIP':_0x4f4b2d(_0x4e91c1(0x385))?.[_0x4e91c1(0x31a)]('\x20','')??_0x5af47f?.[_0x41c5f4(0x2eb)]??'','outProxy':_0x4f4b2d(_0x4e91c1(0x507))??_0x5af47f?.[_0x41c5f4(0x371)]??'','outProxyParams':extractChainProxyParams(_0x4f4b2d(_0x41c5f4(0x371)))??_0x5af47f?.[_0x41c5f4(0x4e3)]??{},'cleanIPs':_0x4f4b2d(_0x41c5f4(0x462))?.[_0x41c5f4(0x3ad)]('\x20','')??_0x5af47f?.[_0x41c5f4(0x462)]??'','enableIPv6':_0x192ca4,'customCdnAddrs':_0x4f4b2d(_0x4e91c1(0x51e))?.[_0x41c5f4(0x3ad)]('\x20','')??_0x5af47f?.[_0x41c5f4(0x47c)]??'','customCdnHost':_0x4f4b2d(_0x41c5f4(0x5ee))?.[_0x4e91c1(0x44c)]()??_0x5af47f?.[_0x41c5f4(0x5ee)]??'','customCdnSni':_0x4f4b2d(_0x41c5f4(0x369))?.[_0x4e91c1(0x44c)]()??_0x5af47f?.[_0x41c5f4(0x369)]??'','bestVLESSTrojanInterval':_0x4f4b2d(_0x41c5f4(0x3f0))??_0x5af47f?.[_0x41c5f4(0x3f0)]??'30','vlessConfigs':_0x4f4b2d(_0x41c5f4(0x532))??_0x5af47f?.[_0x4e91c1(0x599)]??!![],'trojanConfigs':_0x4f4b2d('trojanConfigs')??_0x5af47f?.[_0x4e91c1(0x5ec)]??![],'ports':_0x4f4b2d(_0x41c5f4(0x2be))?.[_0x41c5f4(0x18a)](',')??_0x5af47f?.[_0x41c5f4(0x2be)]??[_0x41c5f4(0x207)],'lengthMin':_0x4f4b2d(_0x41c5f4(0x45a))??_0x5af47f?.[_0x41c5f4(0x3cf)]??_0x41c5f4(0x515),'lengthMax':_0x4f4b2d(_0x4e91c1(0x314))??_0x5af47f?.[_0x41c5f4(0x5d5)]??_0x4e91c1(0x504),'intervalMin':_0x4f4b2d(_0x41c5f4(0x580))??_0x5af47f?.[_0x4e91c1(0x501)]??'1','intervalMax':_0x4f4b2d(_0x41c5f4(0x1fa))??_0x5af47f?.[_0x4e91c1(0x4b0)]??'1','fragmentPackets':_0x4f4b2d(_0x41c5f4(0x5f8))??_0x5af47f?.[_0x41c5f4(0x5f8)]??_0x41c5f4(0x5ec),'bypassLAN':_0x4f4b2d(_0x41c5f4(0x540))??_0x5af47f?.[_0x41c5f4(0x1ab)]??![],'bypassIran':_0x4f4b2d(_0x41c5f4(0x1e0))??_0x5af47f?.[_0x41c5f4(0x3c4)]??![],'bypassChina':_0x4f4b2d(_0x41c5f4(0x404))??_0x5af47f?.[_0x41c5f4(0x492)]??![],'bypassRussia':_0x4f4b2d(_0x41c5f4(0x436))??_0x5af47f?.[_0x4e91c1(0x3a5)]??![],'blockAds':_0x4f4b2d(_0x41c5f4(0x2ee))??_0x5af47f?.[_0x41c5f4(0x483)]??![],'blockPorn':_0x4f4b2d(_0x41c5f4(0x41e))??_0x5af47f?.[_0x41c5f4(0x2a1)]??![],'blockUDP443':_0x4f4b2d(_0x4e91c1(0x5e5))??_0x5af47f?.[_0x41c5f4(0x48d)]??![],'customBypassRules':_0x4f4b2d('customBypassRules')?.[_0x41c5f4(0x3ad)]('\x20','')??_0x5af47f?.[_0x41c5f4(0x2da)]??'','customBlockRules':_0x4f4b2d(_0x41c5f4(0x2cc))?.['replaceAll']('\x20','')??_0x5af47f?.[_0x41c5f4(0x2cc)]??'','warpEndpoints':_0x4f4b2d(_0x41c5f4(0x39f))?.[_0x4e91c1(0x31a)]('\x20','')??_0x5af47f?.[_0x41c5f4(0x39f)]??_0x41c5f4(0x1c6),'warpFakeDNS':_0x4f4b2d(_0x41c5f4(0x464))??_0x5af47f?.[_0x41c5f4(0x464)]??![],'warpEnableIPv6':_0x4f4b2d(_0x41c5f4(0x220))??_0x5af47f?.[_0x41c5f4(0x220)]??!![],'warpPlusLicense':_0x4f4b2d(_0x41c5f4(0x2c6))??_0x5af47f?.[_0x41c5f4(0x2c6)]??'','bestWarpInterval':_0x4f4b2d(_0x41c5f4(0x1de))??_0x5af47f?.[_0x41c5f4(0x1de)]??'30','hiddifyNoiseMode':_0x4f4b2d(_0x41c5f4(0x1a9))??_0x5af47f?.[_0x41c5f4(0x1a9)]??'m4','nikaNGNoiseMode':_0x4f4b2d(_0x4e91c1(0x390))??_0x5af47f?.[_0x4e91c1(0x390)]??_0x41c5f4(0x4ea),'noiseCountMin':_0x4f4b2d('noiseCountMin')??_0x5af47f?.[_0x41c5f4(0x442)]??'10','noiseCountMax':_0x4f4b2d(_0x41c5f4(0x1b5))??_0x5af47f?.[_0x41c5f4(0x1b5)]??'15','noiseSizeMin':_0x4f4b2d(_0x41c5f4(0x487))??_0x5af47f?.[_0x41c5f4(0x487)]??'5','noiseSizeMax':_0x4f4b2d(_0x41c5f4(0x2d8))??_0x5af47f?.[_0x41c5f4(0x2d8)]??'10','noiseDelayMin':_0x4f4b2d(_0x41c5f4(0x4ca))??_0x5af47f?.['noiseDelayMin']??'1','noiseDelayMax':_0x4f4b2d(_0x41c5f4(0x3aa))??_0x5af47f?.[_0x41c5f4(0x3aa)]??'1','panelVersion':globalThis[_0x41c5f4(0x358)]};try{await _0x2b425d[_0x41c5f4(0x334)][_0x4e91c1(0x28b)](_0x41c5f4(0x545),JSON[_0x41c5f4(0x294)](_0x33d0e8));}catch(_0x2ea335){console[_0x4e91c1(0x4f8)](_0x2ea335);throw new Error(_0x41c5f4(0x3f9)+_0x2ea335);}return _0x33d0e8;}__name(updateDataset,'updateDataset');function extractChainProxyParams(_0x323b50){const _0x2b899e=_0x4c56f3,_0x39ce27=a0_0x53d8fc;let _0xc394a3={};if(!_0x323b50)return{};const _0x3fa92d=new URL(_0x323b50),_0x79f90=_0x3fa92d[_0x39ce27(0x42d)][_0x39ce27(0x1ef)](0x0,-0x1);if(_0x79f90===_0x2b899e(0x205)){const _0x1b401c=new URLSearchParams(_0x3fa92d[_0x39ce27(0x1b7)]);_0xc394a3={'protocol':_0x79f90,'uuid':_0x3fa92d[_0x39ce27(0x539)],'server':_0x3fa92d[_0x39ce27(0x3bc)],'port':_0x3fa92d[_0x39ce27(0x214)]},_0x1b401c[_0x2b899e(0x384)]((_0x39e823,_0x1795e1)=>{_0xc394a3[_0x1795e1]=_0x39e823;});}else _0xc394a3={'protocol':_0x79f90,'user':_0x3fa92d[_0x39ce27(0x539)],'pass':_0x3fa92d[_0x39ce27(0x1fe)],'server':_0x3fa92d[_0x39ce27(0x19e)],'port':_0x3fa92d[_0x39ce27(0x214)]};return JSON[_0x39ce27(0x294)](_0xc394a3);}__name(extractChainProxyParams,a0_0x53d8fc(0x3f8));async function updateWarpConfigs(_0x2a479c,_0x1e66f7){const _0x504c97=_0x4c56f3,_0x55f364=a0_0x53d8fc,_0x15ec20=await Authenticate(_0x2a479c,_0x1e66f7);if(!_0x15ec20)return new Response('Unauthorized',{'status':0x191});if(_0x2a479c[_0x55f364(0x36b)]===_0x55f364(0x3ef))try{const {proxySettings:_0x5c3de8}=await getDataset(_0x2a479c,_0x1e66f7),{error:_0x3d773c}=await fetchWarpConfigs(_0x1e66f7,_0x5c3de8);if(_0x3d773c)return new Response(_0x3d773c,{'status':0x190});return new Response(_0x55f364(0x361),{'status':0xc8});}catch(_0x494349){return console[_0x504c97(0x4f8)](_0x494349),new Response(_0x55f364(0x5e0)+_0x494349,{'status':0x1f4});}else return new Response(_0x55f364(0x3e9),{'status':0x195});}__name(updateWarpConfigs,_0x4c56f3(0x484));async function renderHomePage(_0x1278f0,_0x45f5cb){const _0x882fb0=_0x4c56f3,_0x336fd4=a0_0x53d8fc,{remoteDNS:_0x47c65b,localDNS:_0xd01b0b,vlessTrojanFakeDNS:_0x47ff4c,proxyIP:_0x4cafb2,outProxy:_0x2d4d58,cleanIPs:_0x4d97cf,enableIPv6:_0x19b6e0,customCdnAddrs:_0x35e3bb,customCdnHost:_0x876bfd,customCdnSni:_0x2aeb62,bestVLESSTrojanInterval:_0x8bbe81,vlessConfigs:_0x4a2299,trojanConfigs:_0x4ff073,ports:_0x1aff4c,lengthMin:_0x46eca7,lengthMax:_0x4c08db,intervalMin:_0x4c2683,intervalMax:_0x5d4d48,fragmentPackets:_0x155c96,warpEndpoints:_0x185afd,warpFakeDNS:_0x340e82,warpEnableIPv6:_0x45dbb9,warpPlusLicense:_0x4c3479,bestWarpInterval:_0x143d86,hiddifyNoiseMode:_0x2aae5b,nikaNGNoiseMode:_0xf09c0d,noiseCountMin:_0xe44bb3,noiseCountMax:_0x262abb,noiseSizeMin:_0x2004fd,noiseSizeMax:_0x2851ce,noiseDelayMin:_0x5a0820,noiseDelayMax:_0x431dcb,bypassLAN:_0x56ff9b,bypassIran:_0x141632,bypassChina:_0x4e1983,bypassRussia:_0x1b29cb,blockAds:_0x48b30c,blockPorn:_0x342067,blockUDP443:_0x2d7412,customBypassRules:_0x1f6e68,customBlockRules:_0x1f0083}=_0x1278f0,_0x5b28d3=_0x4c3479?!![]:![],_0x11eb5b=(_0x4a2299?0x1:0x0)+(_0x4ff073?0x1:0x0);let _0xad347f='',_0x2cbd0f='';const _0x3aa293=[...globalThis[_0x336fd4(0x486)][_0x336fd4(0x4ac)](_0x336fd4(0x227))?globalThis[_0x336fd4(0x201)]:[],...globalThis[_0x336fd4(0x44c)]];_0x3aa293[_0x336fd4(0x5f9)](_0x484a25=>{const _0x57e08a=_0x336fd4,_0xc18368=_0x57e08a(0x52e)+_0x484a25,_0x312d9a=_0x1aff4c[_0x57e08a(0x4ac)](_0x484a25)?'checked':'',_0x25f662=_0x57e08a(0x21e)+_0xc18368+_0x57e08a(0x282)+_0x484a25+_0x57e08a(0x497)+_0x312d9a+_0x57e08a(0x2cb)+_0xc18368+'>'+_0x484a25+_0x57e08a(0x3e1);globalThis[_0x57e08a(0x44c)][_0x57e08a(0x4ac)](_0x484a25)?_0x2cbd0f+=_0x25f662:_0xad347f+=_0x25f662;});const _0x4423a2=__name(_0x5d49b5=>_0x5d49b5[_0x336fd4(0x46e)](_0xbbf17c=>_0x336fd4(0x2ab)+_0xbbf17c+_0x882fb0(0x3ad))[_0x336fd4(0x3ab)](''),_0x882fb0(0x267)),_0x37d4ae=__name((_0x47ded1,_0x470214,_0x18eed9,_0x393082,_0xbf3e5b)=>{const _0x157eb9=_0x882fb0,_0x56eb8e=_0x336fd4,_0x52def6=(_0xbf3e5b?_0x157eb9(0x286):'')+_0x56eb8e(0x1ce)+globalThis[_0x56eb8e(0x486)]+'/'+_0x47ded1+'/'+globalThis[_0x157eb9(0x330)]+(_0x470214?_0x56eb8e(0x47a)+_0x470214:'')+'#'+_0x18eed9;return _0x56eb8e(0x572)+_0x52def6+_0x56eb8e(0x44f)+_0x393082+_0x56eb8e(0x1d9);},_0x336fd4(0x296)),_0x3933a2=__name((_0x4f3f5c,_0x3c2952,_0x25ec1f)=>{const _0xbb7a0c=_0x882fb0,_0x23c549=_0x336fd4,_0x280456=_0x23c549(0x1ce)+globalThis[_0xbb7a0c(0x1df)]+'/'+_0x4f3f5c+'/'+globalThis[_0x23c549(0x513)]+(_0x3c2952?_0x23c549(0x47a)+_0x3c2952:'')+'#'+_0x25ec1f;return _0x23c549(0x583)+_0x280456+_0x23c549(0x3e4);},_0x336fd4(0x575)),_0x1b472a=_0x882fb0(0x516)+Date[_0x882fb0(0x4f3)]()+_0x336fd4(0x443)+globalThis[_0x336fd4(0x358)]+_0x336fd4(0x4ff)+globalThis[_0x336fd4(0x358)]+_0x882fb0(0x439)+_0x47c65b+_0x336fd4(0x2a6)+_0xd01b0b+_0x336fd4(0x5b9)+(_0x47ff4c?_0x336fd4(0x28e):'')+_0x882fb0(0x5bc)+(!_0x47ff4c?_0x336fd4(0x28e):'')+_0x336fd4(0x4fa)+_0x4cafb2[_0x336fd4(0x3ad)](',',_0x336fd4(0x1c0))+_0x882fb0(0x3b2)+_0x2d4d58+_0x336fd4(0x3e5)+_0x4d97cf[_0x336fd4(0x3ad)](',',_0x336fd4(0x1c0))+_0x336fd4(0x523)+atob(_0x336fd4(0x3f6))+_0x336fd4(0x22d)+(_0x19b6e0?_0x336fd4(0x28e):'')+_0x336fd4(0x1da)+(!_0x19b6e0?_0x336fd4(0x28e):'')+_0x882fb0(0x1fd)+_0x35e3bb[_0x336fd4(0x3ad)](',',_0x336fd4(0x1c0))+_0x336fd4(0x32f)+_0x876bfd+_0x336fd4(0x23b)+_0x2aeb62+_0x336fd4(0x2b3)+_0x8bbe81+_0x336fd4(0x52d)+(_0x4a2299?_0x336fd4(0x5c3):'')+_0x336fd4(0x2f8)+(_0x4ff073?_0x336fd4(0x5c3):'')+_0x336fd4(0x3eb)+_0x2cbd0f+_0x336fd4(0x2cf)+(!_0xad347f?'':_0x882fb0(0x3dd)+_0xad347f+_0x336fd4(0x2ff))+_0x882fb0(0x2e6)+_0x46eca7+_0x336fd4(0x1e5)+_0x4c08db+_0x336fd4(0x1a8)+_0x4c2683+_0x336fd4(0x1ff)+_0x5d4d48+_0x336fd4(0x549)+(_0x155c96===_0x336fd4(0x5ec)?_0x336fd4(0x28e):'')+_0x336fd4(0x4a4)+(_0x155c96===_0x336fd4(0x5b5)?'selected':'')+_0x336fd4(0x4cc)+(_0x155c96===_0x882fb0(0x2f2)?_0x336fd4(0x28e):'')+_0x336fd4(0x1ea)+(_0x155c96===_0x336fd4(0x3e2)?_0x882fb0(0x1c2):'')+_0x882fb0(0x39d)+(_0x155c96===_0x336fd4(0x49f)?_0x336fd4(0x28e):'')+_0x336fd4(0x536)+_0x185afd[_0x882fb0(0x31a)](',',_0x336fd4(0x1c0))+_0x336fd4(0x254)+atob(_0x336fd4(0x336))+'/warp-script/refs/heads/main/endip/install.sh)\x27,\x20false)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Copy\x20Script<span\x20class=\x22material-symbols-outlined\x22>terminal</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22warpFakeDNS\x22>🧢\x20Fake\x20DNS</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22input-with-select\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22warpFakeDNS\x22\x20name=\x22warpFakeDNS\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22true\x22\x20'+(_0x340e82?_0x336fd4(0x28e):'')+_0x336fd4(0x1da)+(!_0x340e82?_0x336fd4(0x28e):'')+_0x336fd4(0x590)+(_0x45dbb9?_0x336fd4(0x28e):'')+_0x336fd4(0x1da)+(!_0x45dbb9?_0x336fd4(0x28e):'')+_0x336fd4(0x23d)+_0x4c3479+_0x336fd4(0x192)+_0x143d86+_0x336fd4(0x2ec)+_0x2aae5b+_0x336fd4(0x408)+_0xf09c0d+_0x336fd4(0x30a)+_0xe44bb3+_0x882fb0(0x3ed)+_0x262abb+_0x336fd4(0x278)+_0x2004fd+_0x336fd4(0x34f)+_0x2851ce+_0x336fd4(0x1e1)+_0x5a0820+'\x22\x20min=\x221\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>\x20-\x20</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22noiseDelayMax\x22\x20name=\x22noiseDelayMax\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20value=\x22'+_0x431dcb+_0x336fd4(0x45d)+(_0x56ff9b?_0x336fd4(0x5c3):'')+'>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22bypass-lan\x22>Bypass\x20LAN</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22routing\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22block-ads\x22\x20name=\x22block-ads\x22\x20value=\x22true\x22\x20'+(_0x48b30c?_0x882fb0(0x29e):'')+_0x336fd4(0x57d)+(_0x141632?_0x882fb0(0x29e):'')+_0x336fd4(0x222)+(_0x342067?_0x336fd4(0x5c3):'')+_0x882fb0(0x328)+(_0x4e1983?_0x336fd4(0x5c3):'')+_0x336fd4(0x40d)+(_0x2d7412?_0x336fd4(0x5c3):'')+_0x336fd4(0x488)+(_0x1b29cb?_0x336fd4(0x5c3):'')+_0x336fd4(0x377)+_0x1f6e68[_0x336fd4(0x3ad)](',','\x20,\x20')+_0x882fb0(0x237)+_0x1f0083[_0x336fd4(0x3ad)](',',_0x882fb0(0x44a))+_0x336fd4(0x1e2)+_0x4423a2([_0x882fb0(0x3f7),_0x336fd4(0x1cc),_0x336fd4(0x319),_0x336fd4(0x5f0),_0x336fd4(0x1a0),_0x882fb0(0x27e),_0x882fb0(0x56f),_0x336fd4(0x5a9),_0x336fd4(0x4db)])+_0x336fd4(0x1be)+_0x37d4ae(_0x336fd4(0x211),'',_0x336fd4(0x551),_0x336fd4(0x3a7))+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x3933a2(_0x336fd4(0x211),'',_0x336fd4(0x551))+_0x882fb0(0x535)+_0x4423a2([_0x882fb0(0x367),_0x336fd4(0x573),_0x882fb0(0x201),_0x336fd4(0x3f3)])+_0x336fd4(0x1be)+_0x3933a2(_0x336fd4(0x211),'singbox',_0x336fd4(0x551))+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>🔗\x20FULL\x20NORMAL\x20SUB</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22table-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22full-normal-configs-table\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Application</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Subscription</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4423a2([_0x336fd4(0x49e),_0x336fd4(0x1cc),_0x336fd4(0x319),_0x336fd4(0x5f0),_0x336fd4(0x1a0),'Streisand'])+_0x336fd4(0x1be)+_0x37d4ae(_0x336fd4(0x211),_0x336fd4(0x405),_0x336fd4(0x560),_0x336fd4(0x3b0))+_0x882fb0(0x327)+_0x3933a2(_0x336fd4(0x211),_0x882fb0(0x1d1),_0x336fd4(0x560))+_0x336fd4(0x209)+_0x4423a2([_0x336fd4(0x587),_0x336fd4(0x5da)])+_0x336fd4(0x1be)+_0x37d4ae(_0x336fd4(0x211),_0x882fb0(0x280),_0x336fd4(0x560),_0x336fd4(0x3b0),!![])+_0x336fd4(0x40f)+_0x3933a2(_0x336fd4(0x211),'sfa',_0x336fd4(0x560))+_0x336fd4(0x209)+_0x4423a2([_0x336fd4(0x38b),_0x336fd4(0x529),_0x336fd4(0x2c1),'Stash',_0x882fb0(0x3fb)])+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x37d4ae(_0x336fd4(0x211),_0x882fb0(0x41d),_0x882fb0(0x1fa),_0x336fd4(0x3b0))+_0x336fd4(0x40f)+_0x3933a2('sub',_0x336fd4(0x258),_0x336fd4(0x560))+_0x336fd4(0x310)+_0x4423a2([_0x882fb0(0x3f7),_0x336fd4(0x1cc),_0x336fd4(0x319),_0x336fd4(0x5f0),_0x336fd4(0x1a0),_0x336fd4(0x4d6)])+_0x336fd4(0x1be)+_0x37d4ae('fragsub','',_0x882fb0(0x4e1),_0x336fd4(0x39c))+_0x882fb0(0x327)+_0x3933a2(_0x336fd4(0x29d),'',_0x336fd4(0x40c))+_0x336fd4(0x1fd)+_0x4423a2([_0x336fd4(0x5a9)])+_0x336fd4(0x1be)+_0x37d4ae('fragsub',_0x882fb0(0x3f2),_0x336fd4(0x40c),_0x336fd4(0x39c))+_0x336fd4(0x40f)+_0x3933a2(_0x336fd4(0x29d),'hiddify','BPB-Fragment')+_0x336fd4(0x241)+_0x4423a2([_0x336fd4(0x49e),_0x336fd4(0x5f0),_0x336fd4(0x4d6)])+_0x336fd4(0x1be)+_0x37d4ae(_0x336fd4(0x1e9),_0x336fd4(0x405),'BPB-Warp',_0x336fd4(0x3a3))+_0x336fd4(0x40f)+_0x3933a2(_0x882fb0(0x5de),_0x336fd4(0x405),_0x336fd4(0x39e))+'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20'+_0x4423a2([_0x336fd4(0x5a9),_0x336fd4(0x587),_0x336fd4(0x5da)])+_0x336fd4(0x1be)+_0x37d4ae(_0x336fd4(0x211),_0x336fd4(0x463),_0x336fd4(0x39e),_0x336fd4(0x3a3),!![])+_0x336fd4(0x40f)+_0x3933a2(_0x336fd4(0x1e9),_0x336fd4(0x463),'BPB-Warp')+_0x336fd4(0x209)+_0x4423a2([_0x336fd4(0x38b),_0x336fd4(0x529),_0x336fd4(0x2c1),_0x336fd4(0x2d9),_0x336fd4(0x576)])+_0x336fd4(0x1be)+_0x37d4ae('warpsub',_0x882fb0(0x41d),'BPB-Warp',_0x882fb0(0x363))+_0x336fd4(0x40f)+_0x3933a2(_0x336fd4(0x1e9),_0x882fb0(0x41d),_0x336fd4(0x39e))+_0x336fd4(0x51d)+_0x4423a2(['NikaNG',_0x336fd4(0x319),_0x882fb0(0x440)])+_0x336fd4(0x1be)+_0x37d4ae(_0x336fd4(0x1e9),_0x336fd4(0x4d7),_0x336fd4(0x439),_0x336fd4(0x1c1))+_0x336fd4(0x40f)+_0x3933a2(_0x336fd4(0x1e9),_0x336fd4(0x4d7),_0x336fd4(0x439))+_0x336fd4(0x209)+_0x4423a2([_0x336fd4(0x5a9)])+_0x336fd4(0x1be)+_0x37d4ae(_0x336fd4(0x1e9),_0x336fd4(0x3c7),_0x336fd4(0x439),_0x882fb0(0x229),!![])+_0x336fd4(0x40f)+_0x3933a2(_0x882fb0(0x5de),_0x336fd4(0x3c7),_0x336fd4(0x439))+_0x336fd4(0x3b1)+atob(_0x336fd4(0x55a))+_0x882fb0(0x450)+_0x1aff4c[_0x336fd4(0x5d0)]+_0x336fd4(0x5e5)+_0x1aff4c[_0x336fd4(0x469)](_0x35615d=>globalThis[_0x336fd4(0x44c)][_0x336fd4(0x4ac)](_0x35615d))[_0x336fd4(0x5d0)]+_0x336fd4(0x19f)+_0x11eb5b+_0x336fd4(0x28c)+_0x4c3479+_0x336fd4(0x4d4)+_0x45f5cb+_0x336fd4(0x3e8)+(_0x5b28d3?_0x336fd4(0x41a):_0x336fd4(0x5dd))+_0x336fd4(0x5bc);return new Response(_0x1b472a,{'status':0xc8,'headers':{'Content-Type':_0x336fd4(0x41f),'Access-Control-Allow-Origin':globalThis[_0x336fd4(0x5ea)],'Access-Control-Allow-Methods':_0x336fd4(0x31e),'Access-Control-Allow-Headers':_0x336fd4(0x478),'X-Content-Type-Options':_0x336fd4(0x510),'X-Frame-Options':_0x336fd4(0x424),'Referrer-Policy':_0x882fb0(0x5ae),'Cache-Control':_0x882fb0(0x1b8),'CDN-Cache-Control':_0x336fd4(0x5af)}});}__name(renderHomePage,_0x4c56f3(0x3f3));function isValidUUID(_0x5322ae){const _0x5c1697=a0_0x53d8fc,_0x486684=/^[0-9a-f]{8}-[0-9a-f]{4}-[4][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;return _0x486684[_0x5c1697(0x50f)](_0x5322ae);}__name(isValidUUID,_0x4c56f3(0x428));async function resolveDNS(_0x14de59){const _0x39b6e7=_0x4c56f3,_0x1f0854=a0_0x53d8fc,_0x2c5a93=_0x1f0854(0x5b2),_0x17d0ff=_0x2c5a93+_0x1f0854(0x470)+encodeURIComponent(_0x14de59)+'&type=A',_0x40d075=_0x2c5a93+_0x1f0854(0x470)+encodeURIComponent(_0x14de59)+_0x1f0854(0x1b0);try{const [_0x219a33,_0x274c24]=await Promise[_0x1f0854(0x48b)]([fetch(_0x17d0ff,{'headers':{'accept':_0x1f0854(0x3d0)}}),fetch(_0x40d075,{'headers':{'accept':_0x1f0854(0x3d0)}})]),_0x346f26=await _0x219a33['json'](),_0xc18704=await _0x274c24[_0x1f0854(0x59a)](),_0x1d8e27=_0x346f26[_0x1f0854(0x498)]?_0x346f26[_0x1f0854(0x498)][_0x1f0854(0x46e)](_0x3d5b66=>_0x3d5b66[_0x1f0854(0x54b)]):[],_0x333df6=_0xc18704[_0x39b6e7(0x1cd)]?_0xc18704[_0x1f0854(0x498)][_0x1f0854(0x46e)](_0xb43bc7=>_0xb43bc7[_0x1f0854(0x54b)]):[];return{'ipv4':_0x1d8e27,'ipv6':_0x333df6};}catch(_0x3212a7){console[_0x1f0854(0x26f)](_0x1f0854(0x18d),_0x3212a7);throw new Error(_0x1f0854(0x52c)+_0x3212a7);}}__name(resolveDNS,a0_0x53d8fc(0x5c9));function isDomain(_0x3ea498){const _0x29074c=/^(?!\-)(?:[A-Za-z0-9\-]{1,63}\.)+[A-Za-z]{2,}$/;return _0x29074c['test'](_0x3ea498);}__name(isDomain,a0_0x53d8fc(0x2ca));async function handlePanel(_0x3b87c0,_0x38b0d5){const _0x2eb4ef=_0x4c56f3,_0x80476a=a0_0x53d8fc,_0x4cee41=await Authenticate(_0x3b87c0,_0x38b0d5);if(_0x3b87c0[_0x2eb4ef(0x4f1)]===_0x2eb4ef(0x2d2)){if(!_0x4cee41)return new Response(_0x80476a(0x27d),{'status':0x191});return await updateDataset(_0x3b87c0,_0x38b0d5),new Response(_0x80476a(0x562),{'status':0xc8});}const {proxySettings:_0x5047c0}=await getDataset(_0x3b87c0,_0x38b0d5),_0x2c7bcb=await _0x38b0d5[_0x2eb4ef(0x216)][_0x80476a(0x522)](_0x2eb4ef(0x37a));if(_0x2c7bcb&&!_0x4cee41)return Response[_0x80476a(0x38a)](globalThis[_0x2eb4ef(0x1f4)]+_0x80476a(0x2e7),0x12e);const _0x51e5ed=_0x2c7bcb?.[_0x80476a(0x5d0)]>=0x8;return await renderHomePage(_0x5047c0,_0x51e5ed);}__name(handlePanel,a0_0x53d8fc(0x21c));async function fallback(_0xb1e865){const _0x36ad74=_0x4c56f3,_0x2bb3e0=a0_0x53d8fc,_0x2d5eb2=new URL(_0xb1e865[_0x2bb3e0(0x58d)]);return _0x2d5eb2[_0x2bb3e0(0x3bc)]=_0x36ad74(0x306),_0x2d5eb2[_0x2bb3e0(0x42d)]=_0x36ad74(0x317),_0xb1e865=new Request(_0x2d5eb2,_0xb1e865),await fetch(_0xb1e865);}__name(fallback,a0_0x53d8fc(0x1ba));async function getMyIP(_0x34034d){const _0x34e42e=_0x4c56f3,_0x409b71=a0_0x53d8fc,_0x2f8177=await _0x34034d[_0x34e42e(0x467)]();try{const _0x2b4722=await fetch(_0x409b71(0x25f)+_0x2f8177+_0x409b71(0x5c1)+Date[_0x409b71(0x2d1)]()),_0x2db3b1=await _0x2b4722[_0x409b71(0x59a)]();return new Response(JSON[_0x409b71(0x294)](_0x2db3b1),{'status':0xc8,'headers':{'Content-Type':_0x409b71(0x28f)}});}catch(_0x29ee1c){console[_0x409b71(0x26f)](_0x409b71(0x2e0),_0x29ee1c);}}__name(getMyIP,_0x4c56f3(0x4a5));function initializeParams(_0x12f994,_0x1d6f53){const _0x37c2ec=_0x4c56f3,_0x165e35=a0_0x53d8fc,_0x567be1=_0x1d6f53[_0x37c2ec(0x4cf)]?.[_0x165e35(0x18a)](',')[_0x165e35(0x46e)](_0x21c96e=>_0x21c96e['trim']()),_0x4b8a39=new URL(_0x12f994[_0x165e35(0x58d)]),_0x5cb6f2=new URLSearchParams(_0x4b8a39[_0x165e35(0x1b7)]);globalThis[_0x165e35(0x358)]=_0x165e35(0x251),globalThis[_0x165e35(0x201)]=['80',_0x165e35(0x1d2),_0x165e35(0x4e6),_0x165e35(0x570),_0x165e35(0x2b2),'2095',_0x165e35(0x4f1)],globalThis[_0x165e35(0x44c)]=['443',_0x165e35(0x256),_0x165e35(0x4a2),_0x165e35(0x56e),'2087',_0x165e35(0x193)],globalThis[_0x165e35(0x513)]=_0x1d6f53[_0x165e35(0x586)],globalThis[_0x165e35(0x50d)]=_0x1d6f53[_0x165e35(0x5db)],globalThis[_0x165e35(0x2eb)]=_0x567be1?_0x567be1[Math['floor'](Math[_0x165e35(0x4ba)]()*_0x567be1[_0x37c2ec(0x4ad)])]:_0x165e35(0x46a),globalThis[_0x165e35(0x486)]=_0x12f994[_0x165e35(0x5b0)][_0x37c2ec(0x3f8)](_0x165e35(0x2d7)),globalThis[_0x165e35(0x414)]=_0x4b8a39[_0x37c2ec(0x226)],globalThis[_0x165e35(0x1f1)]=_0x5cb6f2[_0x37c2ec(0x3f8)](_0x37c2ec(0x2c4)),globalThis[_0x165e35(0x5ea)]=_0x4b8a39[_0x165e35(0x49c)],globalThis[_0x165e35(0x5e6)]=_0x1d6f53[_0x165e35(0x2c2)]||_0x165e35(0x5b2);if(pathName!==_0x165e35(0x212)){if(typeof _0x1d6f53[_0x165e35(0x334)]!==_0x165e35(0x592))throw new Error(_0x165e35(0x3b5),{'cause':_0x165e35(0x5d4)});if(!userID||!trojanPassword)throw new Error(_0x165e35(0x32e)+hostName+_0x165e35(0x36c),{'cause':_0x165e35(0x5d4)});if(userID&&!isValidUUID(userID))throw new Error(_0x37c2ec(0x1dd)+userID,{'cause':_0x165e35(0x5d4)});}}__name(initializeParams,a0_0x53d8fc(0x3c3));import{connect}from'cloudflare:sockets';async function vlessOverWSHandler(_0x373879){const _0x4b9ff6=_0x4c56f3,_0x295214=a0_0x53d8fc,_0x477917=new WebSocketPair(),[_0x2d0212,_0x2c498a]=Object[_0x295214(0x2e8)](_0x477917);_0x2c498a[_0x295214(0x5cc)]();let _0x5a1d4a='',_0x534f21='';const _0x2a3ed4=__name((_0x45fb63,_0x12cb0b)=>{const _0x130dd4=_0x295214;console[_0x130dd4(0x2c9)]('['+_0x5a1d4a+':'+_0x534f21+']\x20'+_0x45fb63,_0x12cb0b||'');},_0x295214(0x2c9)),_0x4b840f=_0x373879[_0x295214(0x5b0)][_0x295214(0x522)]('sec-websocket-protocol')||'',_0x4b3e2b=makeReadableWebSocketStream(_0x2c498a,_0x4b840f,_0x2a3ed4);let _0x55df48={'value':null},_0x1129ab=null,_0x5c42a9=![];return _0x4b3e2b[_0x4b9ff6(0x578)](new WritableStream({async 'write'(_0x35f6a7,_0x5ad6c8){const _0x1f0637=_0x4b9ff6,_0x17dff9=_0x295214;if(_0x5c42a9&&_0x1129ab)return _0x1129ab(_0x35f6a7);if(_0x55df48[_0x1f0637(0x336)]){const _0x503d49=_0x55df48[_0x17dff9(0x4b5)][_0x17dff9(0x217)][_0x17dff9(0x350)]();await _0x503d49[_0x17dff9(0x594)](_0x35f6a7),_0x503d49[_0x17dff9(0x4aa)]();return;}const {hasError:_0x2c207a,message:_0x182426,portRemote:portRemote=0x1bb,addressRemote:addressRemote='',rawDataIndex:_0x2c2bc3,vlessVersion:vlessVersion=new Uint8Array([0x0,0x0]),isUDP:_0x338f75}=await processVlessHeader(_0x35f6a7,globalThis[_0x17dff9(0x513)]);_0x5a1d4a=addressRemote,_0x534f21=portRemote+'--'+Math[_0x17dff9(0x4ba)]()+'\x20'+(_0x338f75?_0x17dff9(0x26d):_0x17dff9(0x20c))+'\x20';if(_0x2c207a){throw new Error(_0x182426);return;}if(_0x338f75){if(portRemote===0x35)_0x5c42a9=!![];else{throw new Error(_0x17dff9(0x346));return;}}const _0x2bebb1=new Uint8Array([vlessVersion[0x0],0x0]),_0xc81206=_0x35f6a7[_0x17dff9(0x1ef)](_0x2c2bc3);if(_0x5c42a9){const {write:_0x52d41b}=await handleUDPOutBound(_0x2c498a,_0x2bebb1,_0x2a3ed4);_0x1129ab=_0x52d41b,_0x1129ab(_0xc81206);return;}handleTCPOutBound(_0x55df48,addressRemote,portRemote,_0xc81206,_0x2c498a,_0x2bebb1,_0x2a3ed4);},'close'(){const _0x240bc3=_0x295214;_0x2a3ed4(_0x240bc3(0x48e));},'abort'(_0xbeabcc){const _0x4325b2=_0x4b9ff6;_0x2a3ed4('readableWebSocketStream\x20is\x20abort',JSON[_0x4325b2(0x5c7)](_0xbeabcc));}}))[_0x295214(0x22e)](_0x29bae8=>{const _0x197f6f=_0x295214;_0x2a3ed4(_0x197f6f(0x236),_0x29bae8);}),new Response(null,{'status':0x65,'webSocket':_0x2d0212});}__name(vlessOverWSHandler,a0_0x53d8fc(0x577));async function checkUuidInApiResponse(_0x553f43){const _0x286658=_0x4c56f3,_0x32b33a=a0_0x53d8fc;try{const _0x58bf25=await getApiResponse();if(!_0x58bf25)return![];const _0x447118=_0x58bf25['users'][_0x32b33a(0x2ad)](_0x2641a6=>_0x2641a6[_0x32b33a(0x375)]===_0x553f43);return _0x447118;}catch(_0xd972b9){return console[_0x286658(0x1d0)](_0x286658(0x454),_0xd972b9),![];}}__name(checkUuidInApiResponse,a0_0x53d8fc(0x55e));async function handleTCPOutBound(_0x3574fa,_0x2637cf,_0x25cec9,_0x29cff3,_0x20c176,_0x3f3687,_0x4aff34){async function _0x4cbdf8(_0x3d4b4e,_0x1f2b7b){const _0x4cbf66=_0x5223,_0x2e788c=a0_0x100c;if(/^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?).){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/[_0x2e788c(0x50f)](_0x3d4b4e))_0x3d4b4e=''+atob(_0x2e788c(0x4a9))+_0x3d4b4e+atob(_0x2e788c(0x507));const _0x40c359=connect({'hostname':_0x3d4b4e,'port':_0x1f2b7b});_0x3574fa[_0x2e788c(0x4b5)]=_0x40c359,_0x4aff34(_0x4cbf66(0x586)+_0x3d4b4e+':'+_0x1f2b7b);const _0x20a5e9=_0x40c359['writable'][_0x2e788c(0x350)]();return await _0x20a5e9[_0x4cbf66(0x404)](_0x29cff3),_0x20a5e9[_0x2e788c(0x4aa)](),_0x40c359;}__name(_0x4cbdf8,'connectAndWrite');async function _0x3c7b41(){const _0x25fa66=_0x5223,_0x3afe99=a0_0x100c,_0x3ed007=globalThis[_0x3afe99(0x414)][_0x25fa66(0x331)]('/')[0x2],_0x34af9c=_0x3ed007?atob(_0x3ed007)[_0x3afe99(0x18a)](','):void 0x0,_0x5504fd=_0x34af9c?_0x34af9c[Math[_0x3afe99(0x595)](Math[_0x3afe99(0x4ba)]()*_0x34af9c[_0x3afe99(0x5d0)])]:globalThis[_0x3afe99(0x2eb)]||_0x2637cf,_0x2eda3f=await _0x4cbdf8(_0x5504fd,_0x25cec9);_0x2eda3f[_0x25fa66(0x44e)][_0x3afe99(0x22e)](_0x596ea6=>{const _0x1254a5=_0x3afe99;console[_0x1254a5(0x2c9)](_0x1254a5(0x418),_0x596ea6);})[_0x3afe99(0x249)](()=>{safeCloseWebSocket(_0x20c176);}),vlessRemoteSocketToWS(_0x2eda3f,_0x20c176,_0x3f3687,null,_0x4aff34);}__name(_0x3c7b41,'retry');const _0x4ef5e6=await _0x4cbdf8(_0x2637cf,_0x25cec9);vlessRemoteSocketToWS(_0x4ef5e6,_0x20c176,_0x3f3687,_0x3c7b41,_0x4aff34);}__name(handleTCPOutBound,a0_0x53d8fc(0x359));function makeReadableWebSocketStream(_0x468b48,_0x3ebab0,_0x1b762a){let _0x9f2810=![];const _0x1eb6e3=new ReadableStream({'start'(_0x1d32b6){const _0x38eea2=_0x5223,_0x5b39b7=a0_0x100c;_0x468b48[_0x5b39b7(0x41c)](_0x38eea2(0x3ba),_0x281a5a=>{const _0x1af317=_0x5b39b7;if(_0x9f2810)return;const _0x12c131=_0x281a5a[_0x1af317(0x54b)];_0x1d32b6[_0x1af317(0x2a8)](_0x12c131);}),_0x468b48[_0x5b39b7(0x41c)](_0x38eea2(0x413),()=>{safeCloseWebSocket(_0x468b48);if(_0x9f2810)return;_0x1d32b6['close']();}),_0x468b48[_0x5b39b7(0x41c)](_0x5b39b7(0x26f),_0x3326cb=>{const _0x20a698=_0x38eea2,_0x4a275f=_0x5b39b7;_0x1b762a(_0x4a275f(0x56d)),_0x1d32b6[_0x20a698(0x1d0)](_0x3326cb);});const {earlyData:_0x379394,error:_0x547105}=base64ToArrayBuffer(_0x3ebab0);if(_0x547105)_0x1d32b6[_0x5b39b7(0x26f)](_0x547105);else _0x379394&&_0x1d32b6[_0x5b39b7(0x2a8)](_0x379394);},'pull'(_0x2857b3){},'cancel'(_0x2f5a25){const _0x5105c9=_0x5223;if(_0x9f2810)return;_0x1b762a(_0x5105c9(0x4de)+_0x2f5a25),_0x9f2810=!![],safeCloseWebSocket(_0x468b48);}});return _0x1eb6e3;}__name(makeReadableWebSocketStream,a0_0x53d8fc(0x40e));async function processVlessHeader(_0x192ba8,_0x51ff77){const _0x4becf0=_0x4c56f3,_0x780da6=a0_0x53d8fc;if(_0x192ba8[_0x780da6(0x5aa)]<0x18)return{'hasError':!![],'message':_0x780da6(0x320)};const _0x26a2e9=new Uint8Array(_0x192ba8[_0x780da6(0x1ef)](0x0,0x1));let _0x25c973=![],_0xf7f3af=![];const _0x4e7dcd=new Uint8Array(_0x192ba8[_0x780da6(0x1ef)](0x1,0x11)),_0x2b0b80=stringify(_0x4e7dcd),_0x19f0a9=_0x51ff77[_0x780da6(0x4ac)](',')?_0x51ff77['split'](','):[_0x51ff77],_0x56ac8e=await checkUuidInApiResponse(_0x2b0b80);_0x25c973=_0x19f0a9[_0x780da6(0x2ad)](_0x1a9c7b=>_0x56ac8e||_0x2b0b80===_0x1a9c7b[_0x780da6(0x47d)]()),console[_0x780da6(0x2c9)](_0x780da6(0x5df)+await checkUuidInApiResponse(_0x2b0b80)+_0x780da6(0x5c7)+_0x2b0b80);if(!_0x25c973)return{'hasError':!![],'message':_0x780da6(0x4dd)};const _0x4f1ff9=new Uint8Array(_0x192ba8[_0x780da6(0x1ef)](0x11,0x12))[0x0],_0x6c12b9=new Uint8Array(_0x192ba8[_0x780da6(0x1ef)](0x12+_0x4f1ff9,0x12+_0x4f1ff9+0x1))[0x0];if(_0x6c12b9===0x1){}else{if(_0x6c12b9===0x2)_0xf7f3af=!![];else return{'hasError':!![],'message':_0x780da6(0x5d9)+_0x6c12b9+_0x780da6(0x195)};}const _0x511011=0x12+_0x4f1ff9+0x1,_0x46e4e7=_0x192ba8[_0x780da6(0x1ef)](_0x511011,_0x511011+0x2),_0x4b5434=new DataView(_0x46e4e7)[_0x780da6(0x2e6)](0x0);let _0x205228=_0x511011+0x2;const _0x50242f=new Uint8Array(_0x192ba8[_0x4becf0(0x5d0)](_0x205228,_0x205228+0x1)),_0xa3af05=_0x50242f[0x0];let _0x39cd18=0x0,_0x3a21f9=_0x205228+0x1,_0x53bb51='';switch(_0xa3af05){case 0x1:_0x39cd18=0x4,_0x53bb51=new Uint8Array(_0x192ba8[_0x780da6(0x1ef)](_0x3a21f9,_0x3a21f9+_0x39cd18))[_0x780da6(0x3ab)]('.');break;case 0x2:_0x39cd18=new Uint8Array(_0x192ba8[_0x780da6(0x1ef)](_0x3a21f9,_0x3a21f9+0x1))[0x0],_0x3a21f9+=0x1,_0x53bb51=new TextDecoder()[_0x780da6(0x4e4)](_0x192ba8[_0x780da6(0x1ef)](_0x3a21f9,_0x3a21f9+_0x39cd18));break;case 0x3:_0x39cd18=0x10;const _0x9d664=new DataView(_0x192ba8[_0x4becf0(0x5d0)](_0x3a21f9,_0x3a21f9+_0x39cd18)),_0x2cff2d=[];for(let _0xa8aef2=0x0;_0xa8aef2<0x8;_0xa8aef2++){_0x2cff2d[_0x780da6(0x550)](_0x9d664[_0x780da6(0x2e6)](_0xa8aef2*0x2)[_0x780da6(0x5b1)](0x10));}_0x53bb51=_0x2cff2d[_0x780da6(0x3ab)](':');break;default:return{'hasError':!![],'message':_0x780da6(0x242)+_0xa3af05};}if(!_0x53bb51)return{'hasError':!![],'message':_0x780da6(0x342)+_0xa3af05};return{'hasError':![],'addressRemote':_0x53bb51,'addressType':_0xa3af05,'portRemote':_0x4b5434,'rawDataIndex':_0x3a21f9+_0x39cd18,'vlessVersion':_0x26a2e9,'isUDP':_0xf7f3af};}__name(processVlessHeader,a0_0x53d8fc(0x3ea));async function vlessRemoteSocketToWS(_0xef738b,_0x8583e3,_0x36fb7a,_0x2cf10d,_0x52f731){const _0x72dd18=_0x4c56f3,_0x29a6bc=a0_0x53d8fc;let _0x1301d4=0x0,_0x274ea9=[],_0x56f057=_0x36fb7a,_0x2b5247=![];await _0xef738b[_0x72dd18(0x55f)][_0x29a6bc(0x245)](new WritableStream({'start'(){},async 'write'(_0x3bd52f,_0x4c346b){const _0xc76bdf=_0x72dd18,_0x1f5ac4=_0x29a6bc;_0x2b5247=!![],_0x8583e3[_0x1f5ac4(0x400)]!==WS_READY_STATE_OPEN&&_0x4c346b[_0x1f5ac4(0x26f)](_0xc76bdf(0x1c0)),_0x56f057?(_0x8583e3[_0xc76bdf(0x27f)](await new Blob([_0x56f057,_0x3bd52f])[_0xc76bdf(0x5c4)]()),_0x56f057=null):_0x8583e3[_0xc76bdf(0x27f)](_0x3bd52f);},'close'(){const _0x539189=_0x29a6bc;_0x52f731(_0x539189(0x1f3)+_0x2b5247);},'abort'(_0x4bd00e){const _0x38fa57=_0x29a6bc;console[_0x38fa57(0x26f)](_0x38fa57(0x574),_0x4bd00e);}}))[_0x29a6bc(0x22e)](_0x415276=>{const _0xc82d1e=_0x72dd18,_0xde299d=_0x29a6bc;console[_0xde299d(0x26f)](_0xc82d1e(0x33c),_0x415276[_0xde299d(0x468)]||_0x415276),safeCloseWebSocket(_0x8583e3);}),_0x2b5247===![]&&_0x2cf10d&&(_0x52f731(_0x29a6bc(0x3d6)),_0x2cf10d());}__name(vlessRemoteSocketToWS,a0_0x53d8fc(0x5d1));function base64ToArrayBuffer(_0x11f5a5){const _0x4b3071=_0x4c56f3,_0x3f531f=a0_0x53d8fc;if(!_0x11f5a5)return{'earlyData':null,'error':null};try{_0x11f5a5=_0x11f5a5['replace'](/-/g,'+')[_0x3f531f(0x35b)](/_/g,'/');const _0x10ee2=atob(_0x11f5a5),_0x5a5d34=Uint8Array['from'](_0x10ee2,_0x1494fd=>_0x1494fd[_0x3f531f(0x516)](0x0));return{'earlyData':_0x5a5d34[_0x4b3071(0x5cf)],'error':null};}catch(_0x46e7c0){return{'earlyData':null,'error':_0x46e7c0};}}__name(base64ToArrayBuffer,_0x4c56f3(0x576));var WS_READY_STATE_OPEN=0x1,WS_READY_STATE_CLOSING=0x2;function safeCloseWebSocket(_0x35236e){const _0x46e7e7=_0x4c56f3,_0x3f131c=a0_0x53d8fc;try{(_0x35236e['readyState']===WS_READY_STATE_OPEN||_0x35236e[_0x46e7e7(0x32d)]===WS_READY_STATE_CLOSING)&&_0x35236e[_0x3f131c(0x506)]();}catch(_0x2ba9bb){console[_0x46e7e7(0x1d0)](_0x46e7e7(0x4fb),_0x2ba9bb);}}__name(safeCloseWebSocket,a0_0x53d8fc(0x4fd));var byteToHex=[];for(let i=0x0;i<0x100;++i){byteToHex[a0_0x53d8fc(0x550)]((i+0x100)[a0_0x53d8fc(0x5b1)](0x10)['slice'](0x1));}function unsafeStringify(_0x5505de,_0x369f8e=0x0){const _0x38c770=a0_0x53d8fc;return(byteToHex[_0x5505de[_0x369f8e+0x0]]+byteToHex[_0x5505de[_0x369f8e+0x1]]+byteToHex[_0x5505de[_0x369f8e+0x2]]+byteToHex[_0x5505de[_0x369f8e+0x3]]+'-'+byteToHex[_0x5505de[_0x369f8e+0x4]]+byteToHex[_0x5505de[_0x369f8e+0x5]]+'-'+byteToHex[_0x5505de[_0x369f8e+0x6]]+byteToHex[_0x5505de[_0x369f8e+0x7]]+'-'+byteToHex[_0x5505de[_0x369f8e+0x8]]+byteToHex[_0x5505de[_0x369f8e+0x9]]+'-'+byteToHex[_0x5505de[_0x369f8e+0xa]]+byteToHex[_0x5505de[_0x369f8e+0xb]]+byteToHex[_0x5505de[_0x369f8e+0xc]]+byteToHex[_0x5505de[_0x369f8e+0xd]]+byteToHex[_0x5505de[_0x369f8e+0xe]]+byteToHex[_0x5505de[_0x369f8e+0xf]])[_0x38c770(0x566)]();}__name(unsafeStringify,a0_0x53d8fc(0x5e7));function _0x5d7c(){const _0x9bfd9d=['payload','algorithm.hash','Error:','invalid\x20password','ES512','exp','ECDH-ES+A256KW','servers','buildXrayRoutingRules','crypto_verify_32','finally','function','Karing','tcpNoDelay','&eh=Sec-WebSocket-Protocol&ed=2560','bpb.yousef.isegaro.com','unusable','ERR_JWT_CLAIM_VALIDATION_FAILED','IP-CIDR','\x20-\x20','port-','text','JS_SHA256_NO_ARRAY_BUFFER','geosite-category-ru','812148uKHQTE','invalid\x20addressType\x20is\x20','base','security','noiseDelayMin','phishing','remoteConnection!.readable\x20is\x20close\x20with\x20hasIncomingData\x20is\x20','10-30','Failed\x20to\x20base64url\x20decode\x20the\x20payload','AAAA','isView','groupElementLength','dialerProxy','buildRuleProvider','JWT\x20Claims\x20Set\x20must\x20be\x20a\x20top-level\x20JSON\x20object','💦\x20Warp\x20-\x20Best\x20Ping\x20🚀','toISOString','match','60-80','fake-ip','rules','https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-category-ads-all.srs','blocks','warpEndpoints','asymmetricTypeCheck','8880','updateWarpConfigs','v2rayN\x20(sing-box)','30s','nosniff','Stash','fake-outbound','hBytes','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22customCdnHost\x22>💀\x20Custom\x20CDN\x20Host</label>\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22customCdnHost\x22\x20name=\x22customCdnHost\x22\x20value=\x22','par25519','0123456789abcdef','cloudflare-dns.com','fallbackTag','one\x20of\x20','binary','getOwnPropertyDescriptor','&fp=randomized&alpn=','2.7.8','checkUsage','975890OIZZFT','logical','JWSInvalid','proxies','MahsaNG','Rule','staticIPs','UseIPv4','makeReadableWebSocketStream','Successfully\x20authenticated,\x20User\x20ID:\x20','setIssuer','buildClashTrojanOutbound','signatureLength','google.com','crypto_onetimeauth_verify','getMyIP','rcode://success','header','getRandomPath','Invalid\x20key\x20for\x20this\x20operation,\x20when\x20present\x20its\x20key_ops\x20must\x20include\x20','\x22\x20claim','bad\x20key\x20size','setSubject','length','fin','Trojan','intervalMax','checkArrayTypes','dmxlc3M6Ly8=','catch','path','\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22endpointScanner\x22\x20style=\x22line-height:\x201.5;\x22>🔎\x20Scan\x20Endpoint</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20id=\x22endpointScanner\x22\x20class=\x22button\x22\x20style=\x22padding:\x2010px\x200;\x22\x20onclick=\x22copyToClipboard(\x27bash\x20<(curl\x20-fsSL\x20','secretKeyLength','all-proxy','private','handlePanel','none','tun','\x20Received\x20an\x20instance\x20of\x20','any:53','proxy','PUT','subtleDsa','decode','extractChainProxyParams','Host','ECDH-ES+A192KW','bestWarpInterval','writable','Key\x20for\x20the\x20','claim','blackhole','\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22nikaNGNoiseMode\x22>😵‍💫\x20NikaNG\x20Mode</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22nikaNGNoiseMode\x22\x20name=\x22nikaNGNoiseMode\x22\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20pattern=\x22^(none|quic|random|[0-9A-Fa-f]+)$\x22\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20title=\x22Enter\x20\x27none\x27,\x20\x27quic\x27,\x20\x27random\x27,\x20or\x20any\x20HEX\x20string\x20like\x20\x27ee0000000108aaaa\x27\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20value=\x22','getCryptoKey','\x20-\x20Warp','encodeBase64','days','PROXYIP','hashLength','webSocket\x20connection\x20is\x20not\x20open','buildSingBoxDNS','jwtVerify','quic','entries','PS256','week','2606:4700:4700::1001','decrypt','token','hash','Invalid\x20or\x20unsupported\x20JWK\x20\x22kty\x22\x20(Key\x20Type)\x20Parameter\x20value','createHash','ReadableStream\x20was\x20canceled,\x20due\x20to\x20','selector','0.0.0.0:1053','BPB-Fragment','createMethod','oct','SHA-','#💦\x20Warp\x20-\x20Best\x20Ping\x20🚀','</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>','unpack25519','buildClashRoutingRules','txt','geoip-ir','\x22\x20min=\x221\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22noiseDelayMin\x22>🕞\x20Noise\x20Delay</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22min-max\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22noiseDelayMin\x22\x20name=\x22noiseDelayMin\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20value=\x22','createHmacOutputMethod','getXrayWarpConfigs','toString','lengthMin','💦\x20WoW\x20-\x20Best\x20Ping\x20🚀','method','use\x20the\x20flattened\x20module\x20for\x20creating\x20JWS\x20with\x20b64:\x20false','now','8095744CPAwNe','GET','captureStackTrace','>Disabled</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22proxyIP\x22>📍\x20Proxy\x20IPs\x20/\x20Domains</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22proxyIP\x22\x20name=\x22proxyIP\x22\x20value=\x22','log','processRules','invild\x20\x20addressType\x20is\x20','safeCloseWebSocket\x20error','RSA-OAEP','crypto_sign','>Disabled</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22warpEnableIPv6\x22>🔛\x20IPv6</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22input-with-select\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22warpEnableIPv6\x22\x20name=\x22warpEnableIPv6\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22true\x22\x20','https://github.com/MetaCubeX/metacubexd/archive/refs/heads/gh-pages.zip','insomnia/8.6.1','intervalMin','field','floor','200','VLESS','cswap','outProxy','2083','/panel/password','Compact\x20JWS\x20must\x20be\x20a\x20string\x20or\x20Uint8Array','finish','errors','geoip:ru','2053','JWKSNoMatchingKey','JWS\x20Payload\x20missing','sharedMemory',',no-resolve','crypto_scalarmult_base','Direct','prox-2','\x0a\x20\x20\x20\x20<!DOCTYPE\x20html>\x0a\x20\x20\x20\x20<html\x20lang=\x22en\x22>\x0a\x20\x20\x20\x20<head>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<meta\x20charset=\x22UTF-8\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<meta\x20name=\x22viewport\x22\x20content=\x22width=device-width,\x20initial-scale=1.0\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<meta\x20name=\x22timestamp\x22\x20content=','hiddifyNoiseMode','isDomain','1406699tTfLIQ','setProtectedHeader','isJWK','randomized','auto','customCdnAddrs','https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/cn.yaml','invalid\x20user','invalid\x20header\x20format\x20(missing\x20CR\x20LF)','bypassLAN','websocket','MATCH,✅\x20Selector','keep-alive','Sha256','geoip:ir','filter','ip_cidr','prefer_ipv4','2082','0.0.0.0/0','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22vlessConfigs\x22\x20style=\x22margin:\x200\x205px;\x20font-weight:\x20normal;\x20font-size:\x20unset;\x22>VLESS</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style\x20=\x20\x22display:\x20flex;\x20justify-content:\x20center;\x20align-items:\x20center;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22trojanConfigs\x22\x20name=\x22trojanConfigs\x22\x20onchange=\x22handleProtocolChange(event)\x22\x20value=\x22true\x22\x20','engage.cloudflareclient.com:2408','socks5','LnNzbGlwLmlv','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22routing\x22\x20style=\x22grid-template-columns:\x201fr\x202fr;\x20margin-right:\x2010px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=','1084230VDDREf','inv25519','bad\x20n\x20size','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','localDNS','typ','encode','ipv4_only','\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22noiseCountMin\x22>🎚️\x20Noise\x20Count</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22min-max\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22noiseCountMin\x22\x20name=\x22noiseCountMin\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20value=\x22','JWKInvalid','tcpKeepAliveIdle','validateAlgorithms','http/1.1','no-store','https://raw.githubusercontent.com/SagerNet/sing-geoip/rule-set/geoip-ru.srs','remarks','headers','geoip:cn','add','198.18.0.1/16','yaml','public_key','kty','buildXrayWarpOutbound','deriveBits','day','remote','An\x20error\x20occurred\x20while\x20updating\x20KV\x20-\x20','geoip-cn','[object\x20Array]','https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ir.txt','bypass-iran','The\x20\x22b64\x22\x20(base64url-encode\x20payload)\x20Header\x20Parameter\x20must\x20be\x20a\x20boolean','request\x20timed\x20out','172.18.0.1/28','password','\x20:\x20','generateSecretKey','validateInput','crv','-\x20Best\x20Ping\x20🚀','5YEQBkR','logout','JWK\x20must\x20be\x20an\x20object','fakeip','readable','status','KeyObject','80-100','bypass-china','_protectedHeader','geoip-ru','raw','detached','proxySettings','either\x20setProtectedHeader\x20or\x20setUnprotectedHeader\x20must\x20be\x20called\x20before\x20#sign()','GET,\x20POST','RSA-OAEP-384','UseIPv4v6','IPv6','jwtToken=','Streisand','dns-direct','multiple\x20matching\x20keys\x20found\x20in\x20the\x20JSON\x20Web\x20Key\x20Set','box','/warpsub/','JWS\x20\x22alg\x22\x20(Algorithm)\x20Header\x20Parameter\x20missing\x20or\x20invalid','ports','base64ToArrayBuffer','BPB-Normal','pipeTo','./ruleset/','\x0a\x20\x20\x20\x20<!DOCTYPE\x20html>\x0a\x20\x20\x20\x20<html\x20lang=\x22en\x22>\x0a\x20\x20\x20\x20<head>\x0a\x20\x20\x20\x20<meta\x20charset=\x22UTF-8\x22>\x0a\x20\x20\x20\x20<meta\x20name=\x22viewport\x22\x20content=\x22width=device-width,\x20initial-scale=1.0\x22>\x0a\x20\x20\x20\x20<title>User\x20Login</title>\x0a\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20:root\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--color:\x20black;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--primary-color:\x20#09639f;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-color:\x20#09639f;\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--background-color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--form-background-color:\x20#f9f9f9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--lable-text-color:\x20#333;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--h2-color:\x20#3b3b3b;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--border-color:\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--input-background-color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-shadow:\x202px\x202px\x204px\x20rgba(0,\x200,\x200,\x200.25);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20html,\x20body\x20{\x20height:\x20100%;\x20margin:\x200;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20body\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20system-ui;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20body.dark-mode\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--primary-color:\x20#09639F;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-color:\x20#3498DB;\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--background-color:\x20#121212;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--form-background-color:\x20#121212;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--lable-text-color:\x20#DFDFDF;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--h2-color:\x20#D5D5D5;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--border-color:\x20#353535;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--input-background-color:\x20#252525;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-shadow:\x202px\x202px\x204px\x20rgba(255,\x20255,\x20255,\x200.25);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20html,\x20body\x20{\x20height:\x20100%;\x20margin:\x200;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2090%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20h1\x20{\x20font-size:\x202.5rem;\x20text-align:\x20center;\x20color:\x20var(--header-color);\x20margin:\x200\x20auto\x2030px;\x20text-shadow:\x20var(--header-shadow);\x20}\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20h2\x20{\x20text-align:\x20center;\x20color:\x20var(--h2-color)\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.form-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20var(--form-background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20var(--border-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x202px\x204px\x20rgba(0,\x200,\x200,\x200.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.form-control\x20{\x20margin-bottom:\x2015px;\x20display:\x20flex;\x20align-items:\x20center;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20label\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding-right:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x20110%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20600;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20var(--lable-text-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20input[type=\x22text\x22],\x0a\x20\x20\x20\x20\x20\x20\x20\x20input[type=\x22password\x22]\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20var(--border-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20var(--lable-text-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--input-background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20600;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--primary-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20background-color\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.button:hover,\x0a\x20\x20\x20\x20\x20\x20\x20\x20button:focus\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#2980b9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x208px\x2015px\x20rgba(0,\x200,\x200,\x200.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translateY(-2px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20button.button:hover\x20{\x20color:\x20white;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.button:active\x20{\x20transform:\x20translateY(1px);\x20box-shadow:\x200\x203px\x207px\x20rgba(0,\x200,\x200,\x200.3);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20@media\x20only\x20screen\x20and\x20(min-width:\x20768px)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.container\x20{\x20width:\x2030%;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20</head>\x0a\x20\x20\x20\x20<body>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h1>BPB\x20Panel\x20<span\x20style=\x22font-size:\x20smaller;\x22>','setUnprotectedHeader','readableWebSocketStream\x20is\x20aborted','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','exec','unspecified','RS512','getNormalConfigs','Stringified\x20UUID\x20is\x20invalid','buildXrayBestFragmentConfig','symmetricTypeCheck','fragmentPackets','connected\x20to\x20','crypto_core_salsa20','buildSingBoxWarpOutbound','\x22\x20max=\x22500\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22fragmentIntervalMin\x22>🕞\x20Interval</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22min-max\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22fragmentIntervalMin\x22\x20name=\x22fragmentIntervalMin\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20value=\x22','core_salsa20','TROJAN_PASS','Invalid\x20time\x20period\x20format','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22\x20style=\x22padding-top:\x2010px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22vlessConfigs\x22>⚙️\x20Protocols</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22width:\x20100%;\x20display:\x20grid;\x20grid-template-columns:\x201fr\x201fr;\x20align-items:\x20baseline;\x20margin-top:\x2010px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style\x20=\x20\x22display:\x20flex;\x20justify-content:\x20center;\x20align-items:\x20center;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22vlessConfigs\x22\x20name=\x22vlessConfigs\x22\x20onchange=\x22handleProtocolChange(event)\x22\x20value=\x22true\x22\x20','💦\x20Best\x20Ping\x20💥','name','bad\x20nonce\x20size','ERR_JWKS_TIMEOUT','tcpSettings','customBlockRules','crypto','subarray','https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/private.yaml','dir','20-40','vlessConfigs','ts64','setNotBefore','open','JS_SHA256_NO_NODE_JS','\x20-\x20Warp\x20🇮🇷','/logout','proxy-groups','isPublicJWK','RULE-SET,','JOSEAlgNotAllowed','call','no-store,\x20no-cache,\x20must-revalidate,\x20proxy-revalidate','tls_fragment','checkUuidInApi:\x20','dHJvamFuOi8v','export','start','overheadLength','outProxyParams','getOwnPropertyNames','strict-origin-when-cross-origin','of\x20type\x20','https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-nsfw.srs','fromSecretKey','JWSSignatureVerificationFailed','sha224','routing','https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.txt','alg','warn','first','socks','40-50','udp\x20','>Enabled</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22false\x22\x20','\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20pattern=\x22^(?:\x5cd{1,3}\x5c.){3}\x5cd{1,3}$\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20title=\x22Please\x20enter\x20a\x20valid\x20DNS\x20IP\x20Address!\x22\x20\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22vlessTrojanFakeDNS\x22>🧢\x20Fake\x20DNS</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22input-with-select\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22vlessTrojanFakeDNS\x22\x20name=\x22vlessTrojanFakeDNS\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22true\x22\x20','publicKeyLength','JWS\x20Payload\x20must\x20be\x20a\x20string','grpc-opts','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22cleanIPs\x22>✨\x20Clean\x20IPs\x20/\x20Domains</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22cleanIPs\x22\x20name=\x22cleanIPs\x22\x20value=\x22','\x22\x20min=\x221\x22\x20max=\x2230\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>\x20-\x20</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22fragmentIntervalMax\x22\x20name=\x22fragmentIntervalMax\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20value=\x22','🇮🇷','arrayBuffer','amd','644TZfHAq','stringify','command\x20','setPRNG','\x20tcp','reduce','2052','checkLengths','30-50','buffer','slice','\x22alg\x22\x20(Algorithm)\x20Header\x20Parameter\x20value\x20not\x20allowed','24h','https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-phishing.srs','70-80','isIPv4','bypass-russia','uuid','aHR0cHM6Ly9naXRodWIuY29tL2JpYS1wYWluLWJhY2hlL0JQQi1Xb3JrZXItUGFuZWw=','8080','code','missing','d3d3Lg==','proxy-1','warpsub','</title>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<link\x20rel=\x22stylesheet\x22\x20href=\x22https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<link\x20rel=\x22stylesheet\x22\x20href=\x22https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200\x22\x20/>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<title>Collapsible\x20Sections</title>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20:root\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--color:\x20black;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--primary-color:\x20#09639f;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--secondary-color:\x20#3498db;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-color:\x20#09639f;\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--background-color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--form-background-color:\x20#f9f9f9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--table-active-color:\x20#f2f2f2;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--hr-text-color:\x20#3b3b3b;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--lable-text-color:\x20#333;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--border-color:\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--button-color:\x20#09639f;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--input-background-color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-shadow:\x202px\x202px\x204px\x20rgba(0,\x200,\x200,\x200.25);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body\x20{\x20font-family:\x20Twemoji\x20Country\x20Flags,\x20system-ui;\x20background-color:\x20var(--background-color);\x20color:\x20var(--color)\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body.dark-mode\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--primary-color:\x20#09639F;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--secondary-color:\x20#3498DB;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-color:\x20#3498DB;\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--background-color:\x20#121212;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--form-background-color:\x20#121212;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--table-active-color:\x20#252525;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--hr-text-color:\x20#D5D5D5;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--lable-text-color:\x20#DFDFDF;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--border-color:\x20#353535;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--button-color:\x20#3498DB;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--input-background-color:\x20#252525;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-shadow:\x202px\x202px\x204px\x20rgba(255,\x20255,\x20255,\x200.25);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.material-symbols-outlined\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-left:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-variation-settings:\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x27FILL\x27\x200,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x27wght\x27\x20400,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x27GRAD\x27\x200,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x27opsz\x27\x2024\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20details\x20{\x20border-bottom:\x201px\x20solid\x20var(--border-color);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20summary\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20bold;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-wrap:\x20nowrap;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20summary::marker\x20{\x20font-size:\x201.5rem;\x20color:\x20var(--secondary-color);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20summary\x20h2\x20{\x20display:\x20inline-flex;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20h1\x20{\x20font-size:\x202.5em;\x20text-align:\x20center;\x20color:\x20var(--header-color);\x20text-shadow:\x20var(--header-shadow);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20h2,h3\x20{\x20margin:\x2030px\x200;\x20text-align:\x20center;\x20color:\x20var(--hr-text-color);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20hr\x20{\x20border:\x201px\x20solid\x20var(--border-color);\x20margin:\x2020px\x200;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.footer\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20600;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2010px\x20auto\x200\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.footer\x20button\x20{margin:\x200\x2020px;\x20background:\x20#212121;\x20max-width:\x20fit-content;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.footer\x20button:hover,\x20.footer\x20button:focus\x20{\x20background:\x20#3b3b3b;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.form-control\x20a,\x20a.link\x20{\x20text-decoration:\x20none;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.form-control\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20Arial,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20flex-direction:\x20column;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.form-control\x20button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--form-background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x201.1rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20600;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20var(--button-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-color:\x20var(--primary-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#apply\x20{display:\x20block;\x20margin-top:\x2020px;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20input.button\x20{font-weight:\x20600;\x20padding:\x2015px\x200;\x20font-size:\x201.1rem;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20label\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x20110%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20600;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20var(--lable-text-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20input[type=\x22text\x22],\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20input[type=\x22number\x22],\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20input[type=\x22url\x22],\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20textarea,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20select\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20var(--border-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20var(--lable-text-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--input-background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20border-color\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x09\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20input[type=\x22text\x22]:focus,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20input[type=\x22number\x22]:focus,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20input[type=\x22url\x22]:focus,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20textarea:focus,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20select:focus\x20{\x20border-color:\x20var(--secondary-color);\x20outline:\x20none;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.button,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20table\x20button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20white-space:\x20nowrap;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20600;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20letter-spacing:\x201px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--primary-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20outline:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x205px\x2010px\x20rgba(0,\x200,\x200,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20all\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20input[type=\x22checkbox\x22]\x20{\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--input-background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20style=\x22margin:\x200;\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20grid-column:\x202;\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20table\x20button\x20{\x20margin:\x20auto;\x20width:\x20auto;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.button.disabled\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#ccc;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20not-allowed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20pointer-events:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.button:hover,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20table\x20button:hover,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20table\x20button:focus\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#2980b9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x208px\x2015px\x20rgba(0,\x200,\x200,\x200.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translateY(-2px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.header-container\x20button:hover\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20scale(1.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20button.button:hover\x20{\x20color:\x20white;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.button:active,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20table\x20button:active\x20{\x20transform:\x20translateY(1px);\x20box-shadow:\x200\x203px\x207px\x20rgba(0,\x200,\x200,\x200.3);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.form-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20max-width:\x2090%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20var(--form-background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20var(--border-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x202px\x204px\x20rgba(0,\x200,\x200,\x200.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x20100px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.table-container\x20{\x20margin-top:\x2020px;\x20overflow-x:\x20auto;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20table\x20{\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20var(--border-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-collapse:\x20separate;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-spacing:\x200;\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20th,\x20td\x20{\x20padding:\x2010px;\x20border-bottom:\x201px\x20solid\x20var(--border-color);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20td\x20div\x20{\x20display:\x20flex;\x20align-items:\x20center;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20th\x20{\x20background-color:\x20var(--secondary-color);\x20color:\x20white;\x20font-weight:\x20bold;\x20font-size:\x201.1rem;\x20width:\x2050%;}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20td:last-child\x20{\x20background-color:\x20var(--table-active-color);\x20}\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20tr:hover\x20{\x20background-color:\x20var(--table-active-color);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.modal\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgba(0,\x200,\x200,\x200.4);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.modal-content\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--form-background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px\x2020px\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20var(--border-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x202px\x204px\x20rgba(0,\x200,\x200,\x200.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2080%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.close\x20{\x20color:\x20var(--color);\x20float:\x20right;\x20font-size:\x2028px;\x20font-weight:\x20bold;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.close:hover,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.close:focus\x20{\x20color:\x20black;\x20text-decoration:\x20none;\x20cursor:\x20pointer;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.form-control\x20label\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x208px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x20110%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20600;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20var(--lable-text-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20line-height:\x201.3em;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.form-control\x20input[type=\x22password\x22]\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20var(--border-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20var(--lable-text-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--input-background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-sizing:\x20border-box;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20border-color\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.routing\x20{\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20grid;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20flex-start;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20grid-template-columns:\x201fr\x201fr\x2010fr\x201fr;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.form-control\x20.routing\x20input\x20{\x20grid-column:\x202\x20/\x203;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#routing-rules.form-control\x20{\x20display:\x20grid;\x20grid-template-columns:\x201fr\x201fr;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.routing\x20label\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20left;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200\x200\x200\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20400;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-wrap:\x20nowrap;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.form-control\x20input[type=\x22password\x22]:focus\x20{\x20border-color:\x20var(--secondary-color);\x20outline:\x20none;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#passwordError\x20{\x20color:\x20red;\x20margin-bottom:\x2010px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.symbol\x20{\x20margin-right:\x208px;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.modalQR\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20z-index:\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20auto;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20rgba(0,\x200,\x200,\x200.4);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.floating-button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20fixed;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20bottom:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2060px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x2060px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2024px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x204px\x208px\x20rgba(0,\x200,\x200,\x200.2);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20background-color\x200.3s,\x20transform\x200.3s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.floating-button:hover\x20{\x20transform:\x20scale(1.1);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.min-max\x20{\x20display:\x20grid;\x20grid-template-columns:\x201fr\x20auto\x201fr;\x20align-items:\x20baseline;\x20width:\x20100%;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.min-max\x20span\x20{\x20text-align:\x20center;\x20white-space:\x20pre;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.input-with-select\x20{\x20width:\x20100%;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body.dark-mode\x20.floating-button\x20{\x20background-color:\x20var(--color);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body.dark-mode\x20.floating-button:hover\x20{\x20transform:\x20scale(1.1);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#ips\x20th\x20{\x20background-color:\x20var(--hr-text-color);\x20color:\x20var(--background-color);\x20width:\x20unset;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#ips\x20td\x20{\x20background-color:\x20unset;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#ips\x20td:first-child\x20{\x20background-color:\x20var(--table-active-color);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.header-container\x20{\x20display:\x20flex;\x20align-items:\x20center;\x20justify-content:\x20center;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20@media\x20only\x20screen\x20and\x20(min-width:\x20768px)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.form-container\x20{\x20max-width:\x2070%;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.form-control\x20{\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin-bottom:\x2015px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20grid;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20grid-template-columns:\x201fr\x201fr;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20baseline;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20flex-end;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20Arial,\x20sans-serif;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#apply\x20{\x20display:\x20block;\x20margin:\x2020px\x20auto\x200\x20auto;\x20max-width:\x2050%;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.modal-content\x20{\x20width:\x2030%\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.routing\x20{\x20display:\x20grid;\x20grid-template-columns:\x204fr\x201fr\x203fr\x204fr;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20</head>\x0a\x20\x20\x20\x20<body>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<h1>BPB\x20Panel\x20<span\x20style=\x22font-size:\x20smaller;\x22>','key_ops','singbox','RSA\x20JWK\x20\x22oth\x22\x20(Other\x20Primes\x20Info)\x20Parameter\x20value\x20is\x20not\x20supported','some','unexpected\x20type,\x20use\x20Uint8Array','block-udp-443','tcp','ext','noiseDelayMax','tcp,udp','\x22\x20min=\x221\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22noiseSizeMin\x22>📏\x20Noise\x20Size</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22min-max\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22noiseSizeMin\x22\x20name=\x22noiseSizeMin\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20value=\x22','/panel','trojanConfigs','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22trojanConfigs\x22\x20style=\x22margin:\x200\x205px;\x20font-weight:\x20normal;\x20font-size:\x20unset;\x22>Trojan</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22table-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22ports-block\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th\x20style=\x22text-wrap:\x20nowrap;\x20background-color:\x20gray;\x22>Config\x20type</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th\x20style=\x22text-wrap:\x20nowrap;\x20background-color:\x20gray;\x22>Ports</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22text-align:\x20center;\x20font-size:\x20larger;\x22><b>TLS</b></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:\x20grid;\x20grid-template-columns:\x201fr\x201fr\x201fr\x201fr;\x22>','⚠️\x20','accept','car25519','isObject','RS384','bestVLESSTrojanInterval','\x0a\x20\x20\x20\x20<!DOCTYPE\x20html>\x0a\x20\x20\x20\x20<html\x20lang=\x22en\x22>\x0a\x20\x20\x20\x20<head>\x0a\x20\x20\x20\x20<meta\x20charset=\x22UTF-8\x22>\x0a\x20\x20\x20\x20<meta\x20name=\x22viewport\x22\x20content=\x22width=device-width,\x20initial-scale=1.0\x22>\x0a\x20\x20\x20\x20<title>User\x20Login</title>\x0a\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20:root\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--color:\x20black;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--primary-color:\x20#09639f;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-color:\x20#09639f;\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--background-color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--form-background-color:\x20#f9f9f9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--lable-text-color:\x20#333;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--h2-color:\x20#3b3b3b;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--border-color:\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--input-background-color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-shadow:\x202px\x202px\x204px\x20rgba(0,\x200,\x200,\x200.25);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20html,\x20body\x20{\x20height:\x20100%;\x20margin:\x200;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20body\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20system-ui;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20relative;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20overflow:\x20hidden;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text-align:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20body.dark-mode\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--primary-color:\x20#09639F;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-color:\x20#3498DB;\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--background-color:\x20#121212;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--form-background-color:\x20#121212;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--lable-text-color:\x20#DFDFDF;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--h2-color:\x20#D5D5D5;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--border-color:\x20#353535;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--input-background-color:\x20#252525;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-shadow:\x202px\x202px\x204px\x20rgba(255,\x20255,\x20255,\x200.25);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20html,\x20body\x20{\x20height:\x20100%;\x20margin:\x200;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20position:\x20absolute;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20top:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20left:\x2050%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translate(-50%,\x20-50%);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x2090%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20h1\x20{\x20font-size:\x202.5rem;\x20text-align:\x20center;\x20color:\x20var(--header-color);\x20margin:\x200\x20auto\x2030px;\x20text-shadow:\x20var(--header-shadow);\x20}\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20h2\x20{\x20text-align:\x20center;\x20color:\x20var(--h2-color)\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20strong\x20{\x20color:\x20var(--lable-text-color);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.output-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20space-between;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x2015px\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--input-background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20var(--lable-text-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20var(--border-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20monospace;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x201rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20word-wrap:\x20break-word;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.output\x20{\x20flex:\x201;\x20margin-right:\x2010px;\x20overflow-wrap:\x20break-word;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.copy-icon\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x201.2rem;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20var(--primary-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20color\x200.2s;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.copy-icon:hover\x20{\x20color:\x20#2980b9;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.form-container\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background:\x20var(--form-background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x201px\x20solid\x20var(--border-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x202px\x204px\x20rgba(0,\x200,\x200,\x200.1);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2020px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.form-control\x20{\x20margin-bottom:\x2015px;\x20display:\x20flex;\x20align-items:\x20center;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20button\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20block;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20padding:\x2010px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-size:\x2016px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-weight:\x20600;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border:\x20none;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20border-radius:\x205px;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--primary-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20cursor:\x20pointer;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transition:\x20background-color\x200.3s\x20ease;\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.button:hover,\x0a\x20\x20\x20\x20\x20\x20\x20\x20button:focus\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20#2980b9;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20box-shadow:\x200\x208px\x2015px\x20rgba(0,\x200,\x200,\x200.3);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20transform:\x20translateY(-2px);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20button.button:hover\x20{\x20color:\x20white;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20.button:active\x20{\x20transform:\x20translateY(1px);\x20box-shadow:\x200\x203px\x207px\x20rgba(0,\x200,\x200,\x200.3);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20@media\x20only\x20screen\x20and\x20(min-width:\x20768px)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.container\x20{\x20width:\x2040%;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20</head>\x0a\x20\x20\x20\x20<body>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h1>BPB\x20Panel\x20<span\x20style=\x22font-size:\x20smaller;\x22>','isFinite','💦\x20','leftover','buildSingBoxRoutingRules','detour','198.18.0.0/15','ProduceJWT','prox','checkKeyType','validateCrit','no-store,\x20no-cache,\x20must-revalidate,\x20proxy-revalidate,\x20no-transform','buildXrayTrojanOutbound','bad\x20signature\x20size','ERR_JOSE_NOT_SUPPORTED','safeCloseWebSocket','\x20algorithm\x20must\x20be\x20','workers.dev','\x20instances\x20for\x20asymmetric\x20algorithm\x20signing\x20must\x20be\x20of\x20type\x20\x22private\x22','webSocket.readyState\x20is\x20not\x20open,\x20maybe\x20close','boolean','selected','https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ads.txt','bufferFrom','Upgrade','nbf','Unauthorized!','crypto_stream_xor','Method\x20Not\x20Allowed','The\x20input\x20to\x20be\x20decoded\x20is\x20not\x20correctly\x20encoded.','tls','exportKeyValue','Answer','all','initializeParams','error','xray','remoteSocket.readable\x20abort','9PYHanz','9526727FdgEJH','lengthMax','nameserver-policy','sel25519','base64Encode','8443','enableIPv6','2096','Fragment\x20Subscription','Invalid\x20UUID:\x20','&security=none','hostName','trojanPassword','customCdnHost','CryptoKey','Error\x20fetching\x20IP\x20address:','An\x20error\x20occured\x20while\x20parsing\x20chain\x20proxy:\x20','releaseLock','dns\x20udp\x20has\x20error','FlClash','redirect','💦\x20Chain\x20Best\x20Ping\x20💥','127.0.0.1:9090','byteLength','\x20instances\x20for\x20asymmetric\x20algorithm\x20verifying\x20must\x20be\x20of\x20type\x20\x22public\x22','namedCurve','validateField','url-test','cryptominers','url',';\x20HttpOnly;\x20Secure;\x20Max-Age=','1-1','urlOrigin','nacl','getClashNormalConfig','generateRemark','ES256','http-in','BPB-Full-Normal','undefined','jwk','>Disabled</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22customCdnAddrs\x22>💀\x20Custom\x20CDN\x20Addrs</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22customCdnAddrs\x22\x20name=\x22customCdnAddrs\x22\x20value=\x22','reality','utf8','geosite-cryptominers','Nekoray\x20(sing-Box)','Bearer\x20','IPIfNonMatch','full:','vless','private-cidr','Normal\x20Subscription','prox-','\x20instances\x20for\x20symmetric\x20algorithms\x20must\x20be\x20of\x20type\x20\x22secret\x22','fragmentIntervalMin','destOverride','connectAndWrite','crypto_core_hsalsa20','buildClashDNS','trojanRemoteSocketToWS','ERR_JOSE_GENERIC','fdfe:dcba:9876::1/126','frag-','checkUuidInApiResponse','pow2523','Key\x20must\x20be\x20','bpb','bad\x20public\x20key\x20size','encrypt','dns','dohURL','1-3','crypto_onetimeauth','toStringTag','tlsSettings','\x0a\x20\x20\x20\x20<!DOCTYPE\x20html>\x0a\x20\x20\x20\x20<html\x20lang=\x22en\x22>\x0a\x20\x20\x20\x20<head>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<meta\x20charset=\x22UTF-8\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<meta\x20name=\x22viewport\x22\x20content=\x22width=device-width,\x20initial-scale=1.0\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<title>Error\x20Page</title>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<style>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20:root\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--color:\x20black;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-color:\x20#09639f;\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--background-color:\x20#fff;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--border-color:\x20#ddd;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-shadow:\x202px\x202px\x204px\x20rgba(0,\x200,\x200,\x200.25);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body,\x20html\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20100%;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20margin:\x200;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20display:\x20flex;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20justify-content:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20align-items:\x20center;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20font-family:\x20system-ui;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20color:\x20var(--color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20background-color:\x20var(--background-color);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body.dark-mode\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--color:\x20white;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-color:\x20#3498DB;\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--background-color:\x20#121212;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20--header-shadow:\x202px\x202px\x204px\x20rgba(255,\x20255,\x20255,\x200.25);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20h1\x20{\x20font-size:\x202.5rem;\x20text-align:\x20center;\x20color:\x20var(--header-color);\x20text-shadow:\x20var(--header-shadow);\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20#error-container\x20{\x20text-align:\x20center;\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20</style>\x0a\x20\x20\x20\x20</head>\x0a\x20\x20\x20\x20<body>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22error-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h1>BPB\x20Panel\x20<span\x20style=\x22font-size:\x20smaller;\x22>','text/plain','warning','wrapKey','digest','An\x20error\x20occurred\x20while\x20updating\x20Warp\x20configs!\x20-\x20','getUint8','pathname','https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/ircidr.txt','UUID','Warp\x20Pro\x20Subscription','100','generateRule','secretKey','Global','JS_SHA256_NO_BUFFER_FROM','client','JWTExpired','bad\x20seed\x20size','noiseCountMax','outbounds','JWS\x20Protected\x20Header\x20incorrect\x20type','isIPv6','1.1','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22customBlockRules\x22>🟥\x20Block\x20IPs\x20/\x20Domains</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22customBlockRules\x22\x20name=\x22customBlockRules\x22\x20value=\x22','Domain','mixed-in','setIssuedAt','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20style=\x22margin-bottom:\x203px;\x22\x20for=','prototype','use','select','warpFakeDNS','ECDSA','protectedHeader','leastPing','geosite-phishing','\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20localStorage.getItem(\x27darkMode\x27)\x20===\x20\x27enabled\x27\x20&&\x20document.body.classList.add(\x27dark-mode\x27);\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20document.addEventListener(\x27DOMContentLoaded\x27,\x20async\x20()\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20configForm\x20=\x20document.getElementById(\x27configForm\x27);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20changePass\x20=\x20document.getElementById(\x27openModalBtn\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20closeBtn\x20=\x20document.querySelector(\x22.close\x22);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20passwordChangeForm\x20=\x20document.getElementById(\x27passwordChangeForm\x27);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20initialFormData\x20=\x20new\x20FormData(configForm);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20modal\x20=\x20document.getElementById(\x27myModal\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20closeQR\x20=\x20document.getElementById(\x27closeQRModal\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20resetSettings\x20=\x20document.getElementById(\x27resetSettings\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20let\x20modalQR\x20=\x20document.getElementById(\x27myQRModal\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20let\x20qrcodeContainer\x20=\x20document.getElementById(\x27qrcode-container\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20let\x20forcedPassChange\x20=\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20darkModeToggle\x20=\x20document.getElementById(\x27darkModeToggle\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20hasFormDataChanged\x20=\x20()\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20currentFormData\x20=\x20new\x20FormData(configForm);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20currentFormDataEntries\x20=\x20[...currentFormData.entries()];\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20nonCheckboxFieldsChanged\x20=\x20currentFormDataEntries.some(\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20([key,\x20value])\x20=>\x20!initialFormData.has(key)\x20||\x20initialFormData.get(key)\x20!==\x20value\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20);\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20checkboxFieldsChanged\x20=\x20Array.from(configForm.elements)\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.filter((element)\x20=>\x20element.type\x20===\x20\x27checkbox\x27)\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.some((checkbox)\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20initialValue\x20=\x20initialFormData.has(checkbox.name)\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20?\x20initialFormData.get(checkbox.name)\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20:\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20currentValue\x20=\x20currentFormDataEntries.find(([key])\x20=>\x20key\x20===\x20checkbox.name)?.[1]\x20||\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20initialValue\x20!==\x20currentValue;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20nonCheckboxFieldsChanged\x20||\x20checkboxFieldsChanged;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20};\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20enableApplyButton\x20=\x20()\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20isChanged\x20=\x20hasFormDataChanged();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20applyButton.disabled\x20=\x20!isChanged;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20applyButton.classList.toggle(\x27disabled\x27,\x20!isChanged);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20};\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20passwordChangeForm.addEventListener(\x27submit\x27,\x20event\x20=>\x20resetPassword(event));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.getElementById(\x27logout\x27).addEventListener(\x27click\x27,\x20event\x20=>\x20logout(event));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20configForm.addEventListener(\x27submit\x27,\x20(event)\x20=>\x20applySettings(event,\x20configForm));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20configForm.addEventListener(\x27input\x27,\x20enableApplyButton);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20configForm.addEventListener(\x27change\x27,\x20enableApplyButton);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20changePass.addEventListener(\x27click\x27,\x20()\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20forcedPassChange\x20?\x20closeBtn.style.display\x20=\x20\x27none\x27\x20:\x20closeBtn.style.display\x20=\x20\x27\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20modal.style.display\x20=\x20\x22block\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.style.overflow\x20=\x20\x22hidden\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20forcedPassChange\x20=\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20closeBtn.addEventListener(\x27click\x27,\x20()\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20modal.style.display\x20=\x20\x22none\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.style.overflow\x20=\x20\x22\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20closeQR.addEventListener(\x27click\x27,\x20()\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20modalQR.style.display\x20=\x20\x22none\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20qrcodeContainer.lastElementChild.remove();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20resetSettings.addEventListener(\x27click\x27,\x20async\x20()\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20confirmReset\x20=\x20confirm(\x27⚠️\x20This\x20will\x20reset\x20all\x20panel\x20settings.\x5cnAre\x20you\x20sure?\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if(!confirmReset)\x20return;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20formData\x20=\x20new\x20FormData();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20formData.append(\x27resetSettings\x27,\x20\x27true\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20try\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.style.cursor\x20=\x20\x27wait\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20refreshButtonVal\x20=\x20refreshBtn.innerHTML;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20refreshBtn.innerHTML\x20=\x20\x27⌛\x20Loading...\x27;\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20response\x20=\x20await\x20fetch(\x27/panel\x27,\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20method:\x20\x27POST\x27,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body:\x20formData,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20credentials:\x20\x27include\x27\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.style.cursor\x20=\x20\x27default\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20refreshBtn.innerHTML\x20=\x20refreshButtonVal;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(!response.ok)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20errorMessage\x20=\x20await\x20response.text();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(errorMessage,\x20response.status);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27⚠️\x20An\x20error\x20occured,\x20Please\x20try\x20again!\x5cn⛔\x20\x27\x20+\x20errorMessage);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27✅\x20Panel\x20settings\x20reset\x20to\x20default\x20successfully!\x20😎\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20window.location.reload(true);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20catch\x20(error)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(\x27Error:\x27,\x20error);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20window.onclick\x20=\x20(event)\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(event.target\x20==\x20modalQR)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20modalQR.style.display\x20=\x20\x22none\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20qrcodeContainer.lastElementChild.remove();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20darkModeToggle.addEventListener(\x27click\x27,\x20()\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20isDarkMode\x20=\x20document.body.classList.toggle(\x27dark-mode\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20localStorage.setItem(\x27darkMode\x27,\x20isDarkMode\x20?\x20\x27enabled\x27\x20:\x20\x27disabled\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20isPassSet\x20=\x20','oKeyPad','scalarbase','alpn','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22bestVLESSTrojanInterval\x22>🔄\x20Best\x20Interval</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22bestVLESSTrojanInterval\x22\x20name=\x22bestVLESSTrojanInterval\x22\x20min=\x2210\x22\x20max=\x2290\x22\x20value=\x22','jwtToken=;\x20Path=/;\x20Secure;\x20SameSite=None;\x20Expires=Thu,\x2001\x20Jan\x201970\x2000:00:00\x20GMT','https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.yaml','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22block-udp-443\x22>Block\x20QUIC</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22routing\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22bypass-russia\x22\x20name=\x22bypass-russia\x22\x20value=\x22true\x22\x20','vlessOverWSHandler','updateAccount','/Cloudflare-Clean-IP-Scanner/releases/tag/v2.2.5\x22\x20name=\x22scanner\x22\x20target=\x22_blank\x22\x20style=\x22width:\x20100%;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20id=\x22scanner\x22\x20class=\x22button\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Download\x20Scanner\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22material-symbols-outlined\x22>open_in_new</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22enableIPv6\x22>🔛\x20IPv6</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22input-with-select\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22enableIPv6\x22\x20name=\x22enableIPv6\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22true\x22\x20','dns-remote','isDisjoint','unexpected\x20\x22aud\x22\x20claim\x20value','20-30','/tr','crypto_box_keypair','usages','set','ERR_JWS_INVALID','defaultHttpsPorts','isSecretJWK','https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/nsfw.txt','push','cause','RSA-OAEP-256','secret','protected','JWEInvalid','crit','1.1.1.1','json','sockopt','An\x20error\x20occurred\x20while\x20getting\x20Warp\x20configs\x20-\x20','8362592UFHDHq','supportedApps','freeze','any','geoip-phishing','direct','An\x20error\x20occurred\x20while\x20getting\x20current\x20KV\x20settings\x20-\x20','chromeBugWorkAround','pushRuleIfNotEmpty','peers','object','flatMap','hashed','crypto_sign_keypair','PBES2','172.16.0.2/32','realitySettings','replace','Uint8Array','inner','30-40','Dynamic\x20require\x20of\x20\x22','test','0.0.0.0','Shadowrocket','send','sfa','randomBytes','💦\x20BPB\x20F\x20-\x20Best\x20Fragment\x20😎','and','resetSettings','check_failed','sing-box://import-remote-profile?url=','>Disabled</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22warpPlusLicense\x22>➕\x20Warp+\x20License</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22warpPlusLicense\x22\x20name=\x22warpPlusLicense\x22\x20value=\x22','public','/login','finalize','put','JWTInvalid','ERR_JWE_INVALID','\x20instances\x20for\x20asymmetric\x20algorithm\x20decryption\x20must\x20be\x20of\x20type\x20\x22private\x22','buildSingBoxChainOutbound','ES384','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22customCdnSni\x22>💀\x20Custom\x20CDN\x20SNI</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22customCdnSni\x22\x20name=\x22customCdnSni\x22\x20value=\x22','addEventListener','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</details>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<details>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<summary><h2>WARP\x20PRO\x20⚙️</h2></summary>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22hiddifyNoiseMode\x22>😵‍💫\x20Hiddify\x20Mode</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22hiddifyNoiseMode\x22\x20name=\x22hiddifyNoiseMode\x22\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20pattern=\x22^(m[1-6]|h_[0-9A-Fa-f]{2}|g_([0-9A-Fa-f]{2}_){2}[0-9A-Fa-f]{2})$\x22\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20title=\x22Enter\x20\x27m1-m6\x27,\x20\x27h_HEX\x27,\x20\x27g_HEX_HEX_HEX\x27\x20which\x20HEX\x20can\x20be\x20between\x2000\x20to\x20ff\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20value=\x22','ERR_JWT_EXPIRED','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','?app=','data','setAudience','1947219pnoQGt','resolveDNS','Sec-WebSocket-Protocol','ipv4','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22bypass-china\x22>Bypass\x20China</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22routing\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22block-udp-443\x22\x20name=\x22block-udp-443\x22\x20value=\x22true\x22\x20','checked','aud','[2606:4700:4700::1111]','normalizeTyp','geosite:category-ru','buildSingBoxTrojanOutbound','PS512','hrs','normalizePublicKey','pathName','geosite:category-ads-all','HMAC','Android','observatory','?path=/','missing\x20\x22k\x22\x20(Key\x20Value)\x20Parameter\x20value','round','\x27,\x20\x27','\x22iat\x22\x20claim\x20must\x20be\x20a\x20number','getNamedCurve','mins','readableWebSocketStream\x20is\x20close','unsafeStringify','\x22iat\x22\x20claim\x20timestamp\x20check\x20failed\x20(too\x20far\x20in\x20the\x20past)','defineProperty','node','setJti','retry\x20tcpSocket\x20closed\x20error','subQR','SignJWT','?ed=','tun-in','from','isKeyObject','💦\x20WoW','constructor','\x20is\x20not\x20supported\x20either\x20by\x20JOSE\x20or\x20your\x20javascript\x20runtime','mixed','app','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22scanner\x22>🔎\x20Clean\x20IP\x20Scanner</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20href=\x22','Unauthorized:\x20Token\x20not\x20available!','RSASSA-PKCS1-v1_5','NikaNG','reject','buildClashVLESSOutbound','concat','formData','DOH_URL','time.apple.com','invalid\x20SOCKS5\x20request\x20data','IP-CIDR6','jwtToken=;\x20Secure;\x20SameSite=None;\x20Expires=Thu,\x2001\x20Jan\x201970\x2000:00:00\x20GMT','POST','geoip:private','application/dns-message','defaultHttpPorts','dns-out','apply','unshift','Unauthorized\x20or\x20expired\x20session!','seconds','/my-ip','dialer-proxy','verify','type','Authenticate','\x22\x20min=\x221\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</details>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<details>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<summary><h2>ROUTING\x20RULES\x20⚙️</h2></summary>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22routing-rules\x22\x20class=\x22form-control\x22\x20style=\x22margin-bottom:\x2020px;\x22>\x09\x09\x09\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22routing\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22bypass-lan\x22\x20name=\x22bypass-lan\x22\x20value=\x22true\x22\x20','&type=ws','https://api.cloudflareclient.com/v0a4005/reg','panelVersion','isObjectLike','ir-cidr','\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</details>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<details>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<summary><h2>FRAGMENT\x20⚙️</h2></summary>\x09\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22fragmentLengthMin\x22>📐\x20Length</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22min-max\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22fragmentLengthMin\x22\x20name=\x22fragmentLengthMin\x22\x20value=\x22','sniffing','https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-malware.srs','\x22crit\x22\x20(Critical)\x20Header\x20Parameter\x20MUST\x20be\x20integrity\x20protected','JWS\x20Protected\x20Header\x20is\x20invalid','pad','missing\x20required\x20\x22','Clash\x20Meta','\x27)\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Copy\x20Sub<span\x20class=\x22material-symbols-outlined\x22>format_list_bulleted</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>','compactVerify','toLowerCase','1.0.0.1','1-2','ads','UseIP','💦\x20BPB\x20F\x20-\x20Best\x20Ping\x20💥','💦\x20Warp','fakedns','keys','CryptoKey\x20does\x20not\x20support\x20this\x20operation','modL','https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-cn.srs','ERR_JWKS_INVALID','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>🔗\x20FRAGMENT\x20SUB</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22table-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22frag-sub-table\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th\x20style=\x22text-wrap:\x20nowrap;\x22>Application</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th\x20style=\x22text-wrap:\x20nowrap;\x22>Subscription</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22text-wrap:\x20nowrap;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','domain_suffix','after','ERR_JWKS_MULTIPLE_MATCHING_KEYS','sec','chain','crypto_hash','crypto_box_beforenm','enumerable','www.speedtest.net','getSingBoxWarpConfig','JWTs\x20MUST\x20NOT\x20use\x20unencoded\x20payload','domainStrategy','grpcSettings','withAlg',';\x0a\x20\x20\x20\x20\x20\x20\x20\x20const\x20warpPlusLicense\x20=\x20\x27','before','An\x20error\x20occurred\x20while\x20getting\x20KV\x20-\x20','\x22\x20is\x20not\x20recognized','webSocketServer\x20has\x20error','nikang','CryptoKey\x20does\x20not\x20support\x20this\x20operation,\x20its\x20','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20catch\x20(error)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(\x27Error:\x27,\x20error);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20const\x20handlePortChange\x20=\x20(event)\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if(event.target.checked)\x20{\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20activePortsNo++\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20defaultHttpsPorts.includes(event.target.name)\x20&&\x20activeHttpsPortsNo++;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20else\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20activePortsNo--;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20defaultHttpsPorts.includes(event.target.name)\x20&&\x20activeHttpsPortsNo--;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(activePortsNo\x20===\x200)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20event.preventDefault();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20event.target.checked\x20=\x20!event.target.checked;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x22⛔\x20At\x20least\x20one\x20port\x20should\x20be\x20selected!\x20🫤\x22);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20activePortsNo\x20=\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20defaultHttpsPorts.includes(event.target.name)\x20&&\x20activeHttpsPortsNo++;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(activeHttpsPortsNo\x20===\x200)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20event.preventDefault();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20event.target.checked\x20=\x20!event.target.checked;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x22⛔\x20At\x20least\x20one\x20TLS(https)\x20port\x20should\x20be\x20selected!\x20🫤\x22);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20activeHttpsPortsNo\x20=\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20const\x20handleProtocolChange\x20=\x20(event)\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if(event.target.checked)\x20{\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20activeProtocols++\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20else\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20activeProtocols--;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(activeProtocols\x20===\x200)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20event.preventDefault();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20event.target.checked\x20=\x20!event.target.checked;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x22⛔\x20At\x20least\x20one\x20Protocol\x20should\x20be\x20selected!\x20🫤\x22);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20activeProtocols\x20=\x201;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20const\x20openQR\x20=\x20(url,\x20title)\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20let\x20qrcodeContainer\x20=\x20document.getElementById(\x22qrcode-container\x22);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20let\x20qrcodeTitle\x20=\x20document.getElementById(\x22qrcodeTitle\x22);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20modalQR\x20=\x20document.getElementById(\x22myQRModal\x22);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20qrcodeTitle.textContent\x20=\x20title;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20modalQR.style.display\x20=\x20\x22block\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20let\x20qrcodeDiv\x20=\x20document.createElement(\x22div\x22);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20qrcodeDiv.className\x20=\x20\x22qrcode\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20qrcodeDiv.style.padding\x20=\x20\x222px\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20qrcodeDiv.style.backgroundColor\x20=\x20\x22#ffffff\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20new\x20QRCode(qrcodeDiv,\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20text:\x20url,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20width:\x20256,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20height:\x20256,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20colorDark:\x20\x22#000000\x22,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20colorLight:\x20\x22#ffffff\x22,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20correctLevel:\x20QRCode.CorrectLevel.H\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20qrcodeContainer.appendChild(qrcodeDiv);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20const\x20copyToClipboard\x20=\x20(text)\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20textarea\x20=\x20document.createElement(\x27textarea\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20textarea.value\x20=\x20text;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.appendChild(textarea);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20textarea.select();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.execCommand(\x27copy\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.removeChild(textarea);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27📋\x20Copied\x20to\x20clipboard:\x5cn\x5cn\x27\x20+\x20\x20text);\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20const\x20applySettings\x20=\x20async\x20(event,\x20configForm)\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20event.preventDefault();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20event.stopPropagation();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20applyButton\x20=\x20document.getElementById(\x27applyButton\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20getValue\x20=\x20(id)\x20=>\x20parseInt(document.getElementById(id).value,\x2010);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20lengthMin\x20=\x20getValue(\x27fragmentLengthMin\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20lengthMax\x20=\x20getValue(\x27fragmentLengthMax\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20intervalMin\x20=\x20getValue(\x27fragmentIntervalMin\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20intervalMax\x20=\x20getValue(\x27fragmentIntervalMax\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20customCdnAddrs\x20=\x20document.getElementById(\x27customCdnAddrs\x27).value?.split(\x27,\x27).filter(addr\x20=>\x20addr\x20!==\x20\x27\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20customCdnHost\x20=\x20document.getElementById(\x27customCdnHost\x27).value;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20customCdnSni\x20=\x20document.getElementById(\x27customCdnSni\x27).value;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20isCustomCdn\x20=\x20customCdnAddrs.length\x20||\x20customCdnHost\x20!==\x20\x27\x27\x20||\x20customCdnSni\x20!==\x20\x27\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20warpEndpoints\x20=\x20document.getElementById(\x27warpEndpoints\x27).value?.replaceAll(\x27\x20\x27,\x20\x27\x27).split(\x27,\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20noiseCountMin\x20=\x20getValue(\x27noiseCountMin\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20noiseCountMax\x20=\x20getValue(\x27noiseCountMax\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20noiseSizeMin\x20=\x20getValue(\x27noiseSizeMin\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20noiseSizeMax\x20=\x20getValue(\x27noiseSizeMax\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20noiseDelayMin\x20=\x20getValue(\x27noiseDelayMin\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20noiseDelayMax\x20=\x20getValue(\x27noiseDelayMax\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20cleanIPs\x20=\x20document.getElementById(\x27cleanIPs\x27).value?.split(\x27,\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20proxyIPs\x20=\x20document.getElementById(\x27proxyIP\x27).value?.split(\x27,\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20chainProxy\x20=\x20document.getElementById(\x27outProxy\x27).value?.trim();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20customBypassRules\x20=\x20document.getElementById(\x27customBypassRules\x27).value?.split(\x27,\x27);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20customBlockRules\x20=\x20document.getElementById(\x27customBlockRules\x27).value?.split(\x27,\x27);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20formData\x20=\x20new\x20FormData(configForm);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20isVless\x20=\x20/vless:\x5c/\x5c/[^s@]+@[^\x5cs:]+:[^\x5cs]+/.test(chainProxy);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20isSocksHttp\x20=\x20/^(http|socks):\x5c/\x5c/(?:([^:@]+):([^:@]+)@)?([^:@]+):(\x5cd+)$/.test(chainProxy);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20hasSecurity\x20=\x20/security=/.test(chainProxy);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20securityRegex\x20=\x20/security=(tls|none|reality)/;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20validSecurityType\x20=\x20securityRegex.test(chainProxy);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20let\x20match\x20=\x20chainProxy.match(securityRegex);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20securityType\x20=\x20match\x20?\x20match[1]\x20:\x20null;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20match\x20=\x20chainProxy.match(/:(\x5cd+)\x5c?/);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20vlessPort\x20=\x20match\x20?\x20match[1]\x20:\x20null;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20validTransmission\x20=\x20/type=(tcp|grpc|ws)/.test(chainProxy);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20validIPDomain\x20=\x20/^((?:(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\x5c.)+[a-zA-Z]{2,})|(?:(?:25[0-5]|2[0-4]\x5cd|[01]?\x5cd\x5cd?)\x5c.){3}(?:25[0-5]|2[0-4]\x5cd|[01]?\x5cd\x5cd?)(?:\x5c/(?:\x5cd|[12]\x5cd|3[0-2]))?|\x5c[(?:(?:[a-fA-F0-9]{1,4}:){7}[a-fA-F0-9]{1,4}|(?:[a-fA-F0-9]{1,4}:){1,7}:|(?:[a-fA-F0-9]{1,4}:){1,6}:[a-fA-F0-9]{1,4}|(?:[a-fA-F0-9]{1,4}:){1,5}(?::[a-fA-F0-9]{1,4}){1,2}|(?:[a-fA-F0-9]{1,4}:){1,4}(?::[a-fA-F0-9]{1,4}){1,3}|(?:[a-fA-F0-9]{1,4}:){1,3}(?::[a-fA-F0-9]{1,4}){1,4}|(?:[a-fA-F0-9]{1,4}:){1,2}(?::[a-fA-F0-9]{1,4}){1,5}|[a-fA-F0-9]{1,4}:(?::[a-fA-F0-9]{1,4}){1,6}|:(?::[a-fA-F0-9]{1,4}){1,7})\x5c](?:\x5c/(?:12[0-8]|1[0-1]\x5cd|[0-9]?\x5cd))?)$/i;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20validEndpoint\x20=\x20/^(?:(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\x5c.)+[a-zA-Z]{2,}|(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\x5c.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)|\x5c[(?:[a-fA-F0-9]{1,4}:){7}[a-fA-F0-9]{1,4}\x5c]|\x5c[(?:[a-fA-F0-9]{1,4}:){1,7}:\x5c]|\x5c[(?:[a-fA-F0-9]{1,4}:){1,6}:[a-fA-F0-9]{1,4}\x5c]|\x5c[(?:[a-fA-F0-9]{1,4}:){1,5}(?::[a-fA-F0-9]{1,4}){1,2}\x5c]|\x5c[(?:[a-fA-F0-9]{1,4}:){1,4}(?::[a-fA-F0-9]{1,4}){1,3}\x5c]|\x5c[(?:[a-fA-F0-9]{1,4}:){1,3}(?::[a-fA-F0-9]{1,4}){1,4}\x5c]|\x5c[(?:[a-fA-F0-9]{1,4}:){1,2}(?::[a-fA-F0-9]{1,4}){1,5}\x5c]|\x5c[[a-fA-F0-9]{1,4}:(?::[a-fA-F0-9]{1,4}){1,6}\x5c]|\x5c[:(?::[a-fA-F0-9]{1,4}){1,7}\x5c]|\x5c[::(?::[a-fA-F0-9]{1,4}){0,7}\x5c]):(?:[0-9]{1,5})$/;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20checkedPorts\x20=\x20Array.from(document.querySelectorAll(\x27input[id^=\x22port-\x22]:checked\x27)).map(input\x20=>\x20input.id.split(\x27-\x27)[1]);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20formData.append(\x27ports\x27,\x20checkedPorts);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20configForm.querySelectorAll(\x27input[type=\x22checkbox\x22]\x27).forEach(checkbox\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20!formData.has(checkbox.name)\x20&&\x20formData.append(checkbox.name,\x20\x27false\x27);\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20invalidIPs\x20=\x20[...cleanIPs,\x20...proxyIPs,\x20...customCdnAddrs,\x20...customBypassRules,\x20...customBlockRules,\x20customCdnHost,\x20customCdnSni]?.filter(value\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(value)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20trimmedValue\x20=\x20value.trim();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20!validIPDomain.test(trimmedValue);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20invalidEndpoints\x20=\x20warpEndpoints?.filter(value\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(value)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20trimmedValue\x20=\x20value.trim();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20!validEndpoint.test(trimmedValue);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(invalidIPs.length)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27⛔\x20Invalid\x20IPs\x20or\x20Domains\x20🫤\x5cn\x5cn\x27\x20+\x20invalidIPs.map(ip\x20=>\x20\x27⚠️\x20\x27\x20+\x20ip).join(\x27\x5cn\x27));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(invalidEndpoints.length)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27⛔\x20Invalid\x20endpoint\x20🫤\x5cn\x5cn\x27\x20+\x20invalidEndpoints.map(endpoint\x20=>\x20\x27⚠️\x20\x27\x20+\x20endpoint).join(\x27\x5cn\x27));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(lengthMin\x20>=\x20lengthMax\x20||\x20intervalMin\x20>\x20intervalMax\x20||\x20noiseCountMin\x20>\x20noiseCountMax\x20||\x20noiseSizeMin\x20>\x20noiseSizeMax\x20||\x20noiseDelayMin\x20>\x20noiseDelayMax)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27⛔\x20Minimum\x20should\x20be\x20smaller\x20or\x20equal\x20to\x20Maximum!\x20🫤\x27);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(!(isVless\x20&&\x20(hasSecurity\x20&&\x20validSecurityType\x20||\x20!hasSecurity)\x20&&\x20validTransmission)\x20&&\x20!isSocksHttp\x20&&\x20chainProxy)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27⛔\x20Invalid\x20Config!\x20🫤\x20\x5cn\x20-\x20The\x20chain\x20proxy\x20should\x20be\x20VLESS,\x20Socks\x20or\x20Http!\x5cn\x20-\x20VLESS\x20transmission\x20should\x20be\x20GRPC,WS\x20or\x20TCP\x5cn\x20-\x20VLESS\x20security\x20should\x20be\x20TLS,Reality\x20or\x20None\x5cn\x20-\x20socks\x20or\x20http\x20should\x20be\x20like:\x5cn\x20+\x20(socks\x20or\x20http)://user:pass@host:port\x5cn\x20+\x20(socks\x20or\x20http)://host:port\x27);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(isVless\x20&&\x20securityType\x20===\x20\x27tls\x27\x20&&\x20vlessPort\x20!==\x20\x27443\x27)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27⛔\x20VLESS\x20TLS\x20port\x20can\x20be\x20only\x20443\x20to\x20be\x20used\x20as\x20a\x20proxy\x20chain!\x20🫤\x27);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(isCustomCdn\x20&&\x20!(customCdnAddrs.length\x20&&\x20customCdnHost\x20&&\x20customCdnSni))\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27⛔\x20All\x20\x22Custom\x22\x20fields\x20should\x20be\x20filled\x20or\x20deleted\x20together!\x20🫤\x27);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20try\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.style.cursor\x20=\x20\x27wait\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20applyButtonVal\x20=\x20applyButton.value;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20applyButton.value\x20=\x20\x27⌛\x20Loading...\x27;\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20response\x20=\x20await\x20fetch(\x27/panel\x27,\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20method:\x20\x27POST\x27,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body:\x20formData,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20credentials:\x20\x27include\x27\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.style.cursor\x20=\x20\x27default\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20applyButton.value\x20=\x20applyButtonVal;\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(!response.ok)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20errorMessage\x20=\x20await\x20response.text();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(errorMessage,\x20response.status);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27⚠️\x20Session\x20expired!\x20Please\x20login\x20again.\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20window.location.href\x20=\x20\x27/login\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27✅\x20Parameters\x20applied\x20successfully\x20😎\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20window.location.reload();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20catch\x20(error)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(\x27Error:\x27,\x20error);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20const\x20logout\x20=\x20async\x20(event)\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20event.preventDefault();\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20try\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20response\x20=\x20await\x20fetch(\x27/logout\x27,\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20method:\x20\x27GET\x27,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20credentials:\x20\x27same-origin\x27\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(!response.ok)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(\x27Failed\x20to\x20log\x20out:\x27,\x20response.status);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20window.location.href\x20=\x20\x27/login\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20catch\x20(error)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(\x27Error:\x27,\x20error);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20const\x20resetPassword\x20=\x20async\x20(event)\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20event.preventDefault();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20modal\x20=\x20document.getElementById(\x27myModal\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20newPasswordInput\x20=\x20document.getElementById(\x27newPassword\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20confirmPasswordInput\x20=\x20document.getElementById(\x27confirmPassword\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20passwordError\x20=\x20document.getElementById(\x27passwordError\x27);\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20newPassword\x20=\x20newPasswordInput.value;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20confirmPassword\x20=\x20confirmPasswordInput.value;\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(newPassword\x20!==\x20confirmPassword)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20passwordError.textContent\x20=\x20\x22Passwords\x20do\x20not\x20match\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20hasCapitalLetter\x20=\x20/[A-Z]/.test(newPassword);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20hasNumber\x20=\x20/[0-9]/.test(newPassword);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20isLongEnough\x20=\x20newPassword.length\x20>=\x208;\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(!(hasCapitalLetter\x20&&\x20hasNumber\x20&&\x20isLongEnough))\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20passwordError.textContent\x20=\x20\x27⚠️\x20Password\x20must\x20contain\x20at\x20least\x20one\x20capital\x20letter,\x20one\x20number,\x20and\x20be\x20at\x20least\x208\x20characters\x20long.\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20try\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20response\x20=\x20await\x20fetch(\x27/panel/password\x27,\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20method:\x20\x27POST\x27,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20headers:\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x27Content-Type\x27:\x20\x27text/plain\x27\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20},\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body:\x20newPassword,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20credentials:\x20\x27same-origin\x27\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(response.ok)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20modal.style.display\x20=\x20\x22none\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.style.overflow\x20=\x20\x22\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x22✅\x20Password\x20changed\x20successfully!\x20👍\x22);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20window.location.href\x20=\x20\x27/login\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20else\x20if\x20(response.status\x20===\x20401)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20errorMessage\x20=\x20await\x20response.text();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20passwordError.textContent\x20=\x20\x27⚠️\x20\x27\x20+\x20errorMessage;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(errorMessage,\x20response.status);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27⚠️\x20Session\x20expired!\x20Please\x20login\x20again.\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20window.location.href\x20=\x20\x27/login\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20else\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20errorMessage\x20=\x20await\x20response.text();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20passwordError.textContent\x20=\x20\x27⚠️\x20\x27\x20+\x20errorMessage;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(errorMessage,\x20response.status);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20catch\x20(error)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(\x27Error:\x27,\x20error);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20</script>\x0a\x20\x20\x20\x20</body>\x09\x0a\x20\x20\x20\x20</html>','fragmentLengthMax','\x22\x20option\x20must\x20be\x20an\x20array\x20of\x20strings','fragment','https:','>tlshello</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x221-1\x22\x20','Success','replaceAll','\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22localDNS\x22>🏚️\x20Local\x20DNS</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22localDNS\x22\x20name=\x22localDNS\x22\x20value=\x22','normalizePrivateKey','</span>\x20💦</h1>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Secrets\x20generator</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<strong>Random\x20UUID</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22output-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22uuid\x22\x20class=\x22output\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22copy-icon\x22\x20onclick=\x22copyToClipboard(\x27uuid\x27)\x22>📋</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<strong>Random\x20Trojan\x20Password</strong>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22output-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22trojan-password\x22\x20class=\x22output\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22copy-icon\x22\x20onclick=\x22copyToClipboard(\x27trojan-password\x27)\x22>📋</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20class=\x22button\x22\x20onclick=\x22generateCredentials()\x22>Generate\x20Again\x20♻️</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<script>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20localStorage.getItem(\x27darkMode\x27)\x20===\x20\x27enabled\x27\x20&&\x20document.body.classList.add(\x27dark-mode\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20function\x20generateUUID()\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20crypto.randomUUID();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20function\x20generateStrongPassword()\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20charset\x20=\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x22ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+[]{}|;:\x27,.<>?\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20let\x20password\x20=\x20\x27\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20randomValues\x20=\x20new\x20Uint8Array(16);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20crypto.getRandomValues(randomValues);\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20for\x20(let\x20i\x20=\x200;\x20i\x20<\x2016;\x20i++)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20password\x20+=\x20charset[randomValues[i]\x20%\x20charset.length];\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20password;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20function\x20generateCredentials()\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20uuid\x20=\x20generateUUID();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20password\x20=\x20generateStrongPassword();\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.getElementById(\x27uuid\x27).textContent\x20=\x20uuid;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.getElementById(\x27trojan-password\x27).textContent\x20=\x20password;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20function\x20copyToClipboard(elementId)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20textToCopy\x20=\x20document.getElementById(elementId).textContent;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20navigator.clipboard.writeText(textToCopy)\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.then(()\x20=>\x20alert(\x27✅\x20Copied\x20to\x20clipboard!\x27))\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20.catch(err\x20=>\x20console.error(\x27Failed\x20to\x20copy\x20text:\x27,\x20err));\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20generateCredentials();\x0a\x20\x20\x20\x20\x20\x20\x20\x20</script>\x0a\x20\x20\x20\x20</body>\x0a\x20\x20\x20\x20</html>','decodeBase64','en_US','default','search','sign','customBypassRules','sec-websocket-protocol','iss','OKP','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22block-porn\x22>Block\x20Porn</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22routing\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22bypass-china\x22\x20name=\x22bypass-china\x22\x20value=\x22true\x22\x20','sha256','application/json','key','Invalid\x20Compact\x20JWS','readyState','noauth','JS_SHA256_NO_ARRAY_BUFFER_IS_VIEW','userID','split','Clean\x20IP','username','buildXrayWorkerLessConfig','invalid','value','streamSettings','scalarMult','socks-in','Nekobox','parse','vlessRemoteSocketToWS\x20has\x20exception\x20','remoteConnection!.readable\x20abort','fromSeed','http-opts','JWKSMultipleMatchingKeys','fc00::/18','ERR_JWKS_NO_MATCHING_KEY','HS512','application/dns-json','\x22nbf\x22\x20claim\x20timestamp\x20check\x20failed','tag','hour','buildXrayDNS','nsfw','\x22nbf\x22\x20claim\x20must\x20be\x20a\x20number','https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/cn.yaml','getDataset','create','</span>\x20💦</h1>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22error-message\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>❌\x20Something\x20went\x20wrong!</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p><b>','secretbox','setUint32','&type=AAAA','\x20Pro\x20','90-100','Ed448','geosite:category-ads-ir','1920720KrRtuG','PS384','crypto_stream_salsa20','subtle','false','rule','fetchAccount','block','Please\x20enter\x20a\x20new\x20Password!','host','Full\x20normal\x20Subscription','handleTCPOutBound','\x22\x20is\x20missing','Warp\x20Subscription','Invalid\x20clockTolerance\x20option\x20type','alert(\x27✅\x20Warp\x20configs\x20updated\x20successfully!\x20😎\x27);','isAlgorithm','husi','http','no\x20applicable\x20key\x20found\x20in\x20the\x20JSON\x20Web\x20Key\x20Set','exports','Content-Type,\x20Authorization','set25519','geosite:private','\x22\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20pattern=\x22^[a-zA-Z0-9]{8}-[a-zA-Z0-9]{8}-[a-zA-Z0-9]{8}$\x22\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20title=\x22Please\x20enter\x20a\x20valid\x20Warp\x20Plus\x20license\x20in\x20xxxxxxxx-xxxxxxxx-xxxxxxxx\x20format\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22refreshBtn\x22>♻️\x20Warp\x20Configs</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22refreshBtn\x22\x20type=\x22button\x22\x20class=\x22button\x22\x20style=\x22padding:\x2010px\x200;\x22\x20onclick=\x22getWarpConfigs()\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Update<span\x20class=\x22material-symbols-outlined\x22>autorenew</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22bestWarpInterval\x22>🔄\x20Best\x20Interval</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22bestWarpInterval\x22\x20name=\x22bestWarpInterval\x22\x20min=\x2210\x22\x20max=\x2290\x22\x20value=\x22','setProtectedHeader\x20can\x20only\x20be\x20called\x20once','CompactSign','publicKey','crypto_scalarmult','transport','unsupported\x20command,\x20only\x20TCP\x20(CONNECT)\x20is\x20allowed','udp','input\x20is\x20invalid\x20type','pop','importJWK','createRule','pwd','JSON\x20Web\x20Key\x20for\x20this\x20operation\x20be\x20a\x20private\x20JWK','block-porn','trojanRemoteSocketToWS\x20error:','blockUDP443','sig','JWEDecryptionFailed','assign','HS256','Extension\x20Header\x20Parameter\x20\x22','forEach','proxyIP','BPB-Warp','https://','ws-opts','aHR0cHM6Ly9naXRodWIuY29tL2JpYS1wYWluLWJhY2hl','trojanOverWSHandler','50-70','join','getWriter',';\x20Path=/;\x20SameSite=Strict','resetPassword','nikaNGNoiseMode','array','subURL','blockAds','values','ECDH-ES','has','checkSigCryptoKey','client_id','bypass-lan','geosite-malware','is224','text/plain;charset=utf-8','>1-3</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x221-5\x22\x20','dash.cloudflare.com','wsSettings','address\x20is\x20empty,\x20addressType\x20is\x20','https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.txt','remoteSocket.readable\x20is\x20closed,\x20hasIncomingData:\x20','charCodeAt','https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-category-ru.srs','bypassRussia','Unsupported\x20\x22kty\x22\x20(Key\x20Type)\x20Parameter\x20value','shift','JWTClaimValidationFailed','bypassIran','\x20-\x20WoW','getTime','#proxy-1','</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>','fetchWarpConfigs','127.0.0.1','JSON\x20Web\x20Key\x20for\x20this\x20operation\x20be\x20a\x20public\x20JWK','retry','\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22outProxy\x22>✈️\x20Chain\x20Proxy</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22outProxy\x22\x20name=\x22outProxy\x22\x20value=\x22','weeks','trojan','readableWebSocketStream\x20pipeTo\x20error','geosite-nsfw','interval','https://www.gstatic.com/generate_204','JOSENotSupported','message','/account','crypto_box_open','unexpected\x20\x22sub\x22\x20claim\x20value','\x22\x20min=\x221\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>\x20-\x20</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22noiseSizeMax\x22\x20name=\x22noiseSizeMax\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20value=\x22','hex','algorithm','JSON\x20Web\x20Key','Invalid\x20','setExpirationTime','?name=','\x22exp\x22\x20claim\x20timestamp\x20check\x20failed','Flattened\x20JWS\x20must\x20have\x20either\x20of\x20the\x20\x22protected\x22\x20or\x20\x22header\x22\x20members','P-521','isArray','unpackneg','✅\x20Selector','[2606:4700:4700::1001]','hmac','https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geoip/ru.yaml','wireguard','crypto_secretbox','balancerTag','settings','Warp\x20configs\x20updated\x20successfully','update','_payload',';\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(!isPassSet)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20forcedPassChange\x20=\x20true;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20changePass.click();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20await\x20fetchIPInfo();\x0a\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20const\x20fetchIPInfo\x20=\x20async\x20()\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20updateUI\x20=\x20(ip\x20=\x20\x27-\x27,\x20country\x20=\x20\x27-\x27,\x20countryCode\x20=\x20\x27-\x27,\x20city\x20=\x20\x27-\x27,\x20isp\x20=\x20\x27-\x27,\x20cfIP)\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20flag\x20=\x20countryCode\x20!==\x20\x27-\x27\x20?\x20String.fromCodePoint(...[...countryCode].map(c\x20=>\x200x1F1E6\x20+\x20c.charCodeAt(0)\x20-\x2065))\x20:\x20\x27\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.getElementById(cfIP\x20?\x20\x27cf-ip\x27\x20:\x20\x27ip\x27).textContent\x20=\x20ip;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.getElementById(cfIP\x20?\x20\x27cf-country\x27\x20:\x20\x27country\x27).textContent\x20=\x20country\x20+\x20\x27\x20\x27\x20+\x20flag;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.getElementById(cfIP\x20?\x20\x27cf-city\x27\x20:\x20\x27city\x27).textContent\x20=\x20city;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.getElementById(cfIP\x20?\x20\x27cf-isp\x27\x20:\x20\x27isp\x27).textContent\x20=\x20isp;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20};\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20refreshIcon\x20=\x20document.getElementById(\x22refresh-geo-location\x22).querySelector(\x27i\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20refreshIcon.classList.add(\x27fa-spin\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.style.cursor\x20=\x20\x27wait\x27;\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20try\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20ipResponse\x20=\x20await\x20fetch(\x27https://ipwho.is/\x27\x20+\x20\x27?nocache=\x27\x20+\x20Date.now(),\x20{\x20cache:\x20\x22no-store\x22\x20});\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20ipResponseObj\x20=\x20await\x20ipResponse.json();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20geoResponse\x20=\x20await\x20fetch(\x27/my-ip\x27,\x20{\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20method:\x20\x27POST\x27,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body:\x20ipResponseObj.ip\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20ipGeoLocation\x20=\x20await\x20geoResponse.json();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20updateUI(ipResponseObj.ip,\x20ipGeoLocation.country,\x20ipGeoLocation.countryCode,\x20ipGeoLocation.city,\x20ipGeoLocation.isp);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20cfIPresponse\x20=\x20await\x20fetch(\x27https://ipv4.icanhazip.com/?nocache=\x27\x20+\x20Date.now(),\x20{\x20cache:\x20\x22no-store\x22\x20});\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20cfIP\x20=\x20await\x20cfIPresponse.text();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20cfGeoResponse\x20=\x20await\x20fetch(\x27/my-ip\x27,\x20{\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20method:\x20\x27POST\x27,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body:\x20cfIP.trim()\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20cfIPGeoLocation\x20=\x20await\x20cfGeoResponse.json();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20updateUI(cfIP,\x20cfIPGeoLocation.country,\x20cfIPGeoLocation.countryCode,\x20cfIPGeoLocation.city,\x20cfIPGeoLocation.isp,\x20true);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20refreshIcon.classList.remove(\x27fa-spin\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.style.cursor\x20=\x20\x27default\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20catch\x20(error)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(\x27Error\x20fetching\x20IP\x20address:\x27,\x20error);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20const\x20getWarpConfigs\x20=\x20async\x20()\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20license\x20=\x20document.getElementById(\x27warpPlusLicense\x27).value;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(license\x20!==\x20warpPlusLicense)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27⚠️\x20First\x20APPLY\x20SETTINGS\x20and\x20then\x20update\x20Warp\x20configs!\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return\x20false;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20confirmReset\x20=\x20confirm(\x27⚠️\x20Are\x20you\x20sure?\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if(!confirmReset)\x20return;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20refreshBtn\x20=\x20document.getElementById(\x27refreshBtn\x27);\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20try\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.style.cursor\x20=\x20\x27wait\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20refreshButtonVal\x20=\x20refreshBtn.innerHTML;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20refreshBtn.innerHTML\x20=\x20\x27⌛\x20Loading...\x27;\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20response\x20=\x20await\x20fetch(\x27/update-warp\x27,\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20method:\x20\x27POST\x27,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20credentials:\x20\x27include\x27\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20document.body.style.cursor\x20=\x20\x27default\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20refreshBtn.innerHTML\x20=\x20refreshButtonVal;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(!response.ok)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20errorMessage\x20=\x20await\x20response.text();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(errorMessage,\x20response.status);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20alert(\x27⚠️\x20An\x20error\x20occured,\x20Please\x20try\x20again!\x5cn⛔\x20\x27\x20+\x20errorMessage);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','1-5','lowlevel','ipcidr','map','HS384','bytes','clockTolerance','<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22text-align:\x20center;\x20font-size:\x20larger;\x22><b>Non\x20TLS</b></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:\x20grid;\x20grid-template-columns:\x201fr\x201fr\x201fr\x201fr;\x22>','RSA','startsWith','port','&security=tls&sni=','warpConfigs','Invalid\x20key\x20for\x20this\x20operation,\x20when\x20present\x20its\x20alg\x20must\x20be\x20','renderErrorPage','charAt','random','importAndCache','/fragsub/','83BtdSfM','lastByteIndex','ERR_JWS_SIGNATURE_VERIFICATION_FAILED','rule_set','\x22\x20min=\x221\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>\x20-\x20</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22noiseCountMax\x22\x20name=\x22noiseCountMax\x22\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20value=\x22','geoip-malware','\x20-\x20WoW\x20🌍','Invalid\x20or\x20unsupported\x20JWK\x20\x22alg\x22\x20(Algorithm)\x20Parameter\x20value','BPB-Warp-Pro','hiddify','renderHomePage','>1-1</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x221-2\x22\x20','string','includes','v2rayNG','get','route','domains','v2rayN\x20(mihomo)','RSA-OAEP-512','stack','algorithms','JWKSInvalid','tlshello','RSA-PSS','addresses','tcp\x20','write','b64','nonceLength','_unprotectedHeader','</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>','\x22\x20is\x20not\x20supported','Invalid\x20key\x20for\x20this\x20operation,\x20when\x20present\x20its\x20use\x20must\x20be\x20sig','expectIPs','jwkMatchesOp','fragmentLengthMin','domain','noiseSizeMin','secs','10-20','Unsupported\x20request','close','bind','\x20requires\x20key\x20modulusLength\x20to\x20be\x202048\x20bits\x20or\x20larger','dokodemo-door','ago','\x22\x20min=\x2210\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>\x20-\x20</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22number\x22\x20id=\x22fragmentLengthMax\x22\x20name=\x22fragmentLengthMax\x22\x20value=\x22','iat','JSON\x20Web\x20Key\x20for\x20symmetric\x20algorithms\x20must\x20have\x20JWK\x20\x22kty\x22\x20(Key\x20Type)\x20equal\x20to\x20\x22oct\x22\x20and\x20the\x20JWK\x20\x22k\x22\x20(Key\x20Value)\x20present','no\x20PRNG','ipv6','clash','\x22crit\x22\x20(Critical)\x20Header\x20Parameter\x20MUST\x20be\x20an\x20array\x20of\x20non-empty\x20strings\x20when\x20present','toUpperCase','fromCharCode','generateKeyPair','https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-ir.srs','geosite-cn','>1-5</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</select>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</details>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<details>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<summary><h2>WARP\x20GENERAL\x20⚙️</h2></summary>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22warpEndpoints\x22>✨\x20Endpoints</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22warpEndpoints\x22\x20name=\x22warpEndpoints\x22\x20value=\x22','11408HNpWyP','generateJWTToken','minute','isValidUUID','JOSEError','protocol','#✅\x20Selector','number','customCdnSni','Nekoray\x20(Xray)','https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-cryptominers.srs','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','hasOwnProperty','50-60','RS256','text/html;charset=utf-8','alg\x20','ru-cidr','inbounds','server','</span>\x20💦</h1>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<form\x20id=\x22configForm\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<details\x20open>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<summary><h2>VLESS\x20-\x20TROJAN\x20⚙️</h2></summary>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22remoteDNS\x22>🌏\x20Remote\x20DNS</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22url\x22\x20id=\x22remoteDNS\x22\x20name=\x22remoteDNS\x22\x20value=\x22','geosite:category-ir','createHmacMethod','crypto_stream','8.8.8.8','block-ads','alert(\x27✅\x20Warp\x20configs\x20upgraded\x20to\x20PLUS\x20successfully!\x20😎\x27);','v2rayN-PRO','poly1305','30m','?ed=2560','Flattened\x20JWS\x20must\x20be\x20an\x20object','geosite:category-porn','dns-in','probeInterval','sub','one\x20of\x20type\x20','\x20,\x20','cn-cidr','trim','processVlessHeader','closed','\x20input','\x22\x20style=\x22color:\x20var(--color);\x20text-decoration:\x20underline;\x22\x20target=\x22_blank\x22>Github</a>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22openModalBtn\x22\x20class=\x22button\x22>Change\x20Password</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20id=\x22logout\x22\x20style=\x22background:\x20none;\x20color:\x20var(--color);\x20margin:\x200;\x20border:\x20none;\x20cursor:\x20pointer;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22fa\x20fa-power-off\x20fa-2x\x22\x20aria-hidden=\x22true\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22darkModeToggle\x22\x20class=\x22floating-button\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20id=\x22modeIcon\x22\x20class=\x22fa\x20fa-2x\x20fa-adjust\x22\x20style=\x22color:\x20var(--background-color);\x22\x20aria-hidden=\x22true\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20<script\x20type=\x22module\x22\x20defer>\x0a\x20\x20\x20\x20\x20\x20\x20\x20import\x20{\x20polyfillCountryFlagEmojis\x20}\x20from\x20\x22https://cdn.skypack.dev/country-flag-emoji-polyfill\x22;\x0a\x20\x20\x20\x20\x20\x20\x20\x20polyfillCountryFlagEmojis();\x0a\x20\x20\x20\x20</script>\x0a\x20\x20\x20\x20<script\x20src=\x22https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js\x22></script>\x0a\x20\x20\x20\x20<script>\x0a\x20\x20\x20\x20\x20\x20\x20\x20const\x20defaultHttpsPorts\x20=\x20[\x27443\x27,\x20\x278443\x27,\x20\x272053\x27,\x20\x272083\x27,\x20\x272087\x27,\x20\x272096\x27];\x0a\x20\x20\x20\x20\x20\x20\x20\x20let\x20activePortsNo\x20=\x20','_flattened'];_0x5d7c=function(){return _0x9bfd9d;};return _0x5d7c();}function a0_0x15e3(){const _0x68de5e=_0x4c56f3,_0x59b61d=['buildXrayConfig','_protectedHeader','DENY','P-256',_0x68de5e(0x3e7),'crypto_hashblocks_hl',_0x68de5e(0x2fa),_0x68de5e(0x208),'getClashWarpConfig',_0x68de5e(0x262),_0x68de5e(0x53d),_0x68de5e(0x42a),_0x68de5e(0x397),_0x68de5e(0x1ae),_0x68de5e(0x27d),_0x68de5e(0x5a9),'buildXrayBestPingConfig',_0x68de5e(0x3ec),_0x68de5e(0x557),_0x68de5e(0x556),_0x68de5e(0x5d6),_0x68de5e(0x4a3),_0x68de5e(0x423),_0x68de5e(0x3f1),_0x68de5e(0x5d4),_0x68de5e(0x569),_0x68de5e(0x210),_0x68de5e(0x30d),'one\x20of\x20','bad\x20secret\x20key\x20size','https://8.8.8.8/dns-query',_0x68de5e(0x469),'noiseCountMin','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20<title>BPB\x20Panel\x20','min',_0x68de5e(0x529),'48655BNEVkM','REJECT','deriveBits','createOutputMethod',_0x68de5e(0x299),_0x68de5e(0x410),'defaultHttpsPorts','connected\x20to\x20',_0x68de5e(0x1b2),_0x68de5e(0x2af),'HS384',_0x68de5e(0x1c7),_0x68de5e(0x32e),_0x68de5e(0x5b7),_0x68de5e(0x37b),_0x68de5e(0x202),'privateKey',_0x68de5e(0x543),'20mRsSVW',_0x68de5e(0x3b0),_0x68de5e(0x40d),_0x68de5e(0x315),_0x68de5e(0x559),_0x68de5e(0x2e0),_0x68de5e(0x58e),_0x68de5e(0x4b1),_0x68de5e(0x2f5),_0x68de5e(0x3df),'cleanIPs',_0x68de5e(0x5e1),_0x68de5e(0x23f),_0x68de5e(0x335),'tcp,udp',_0x68de5e(0x23c),_0x68de5e(0x3fd),_0x68de5e(0x528),_0x68de5e(0x461),_0x68de5e(0x4d1),'999780yCTlel',_0x68de5e(0x5c6),_0x68de5e(0x3d9),_0x68de5e(0x3c0),_0x68de5e(0x3c4),_0x68de5e(0x4ae),'doh\x20success\x20and\x20dns\x20message\x20length\x20is\x20',_0x68de5e(0x243),_0x68de5e(0x40c),'JS_SHA256_NO_COMMON_JS','b64',_0x68de5e(0x492),_0x68de5e(0x36b),_0x68de5e(0x280),_0x68de5e(0x296),_0x68de5e(0x3bc),_0x68de5e(0x51e),_0x68de5e(0x44c),_0x68de5e(0x5b5),'core_hsalsa20',_0x68de5e(0x5be),_0x68de5e(0x47d),_0x68de5e(0x334),_0x68de5e(0x393),_0x68de5e(0x505),_0x68de5e(0x370),'hostName',_0x68de5e(0x40f),_0x68de5e(0x24b),_0x68de5e(0x24d),_0x68de5e(0x379),_0x68de5e(0x1ce),_0x68de5e(0x5a4),_0x68de5e(0x37e),_0x68de5e(0x2b3),_0x68de5e(0x2e9),_0x68de5e(0x1f5),'cleanup','bypassChina',_0x68de5e(0x45d),_0x68de5e(0x5eb),_0x68de5e(0x31f),_0x68de5e(0x473),'\x20onchange=\x22handlePortChange(event)\x22\x20value=\x22true\x22\x20',_0x68de5e(0x1cd),_0x68de5e(0x36f),_0x68de5e(0x320),'number','origin','oct','v2rayNG',_0x68de5e(0x3d6),_0x68de5e(0x4e7),'nodeMethod',_0x68de5e(0x50e),_0x68de5e(0x343),_0x68de5e(0x318),_0x68de5e(0x223),_0x68de5e(0x2b1),_0x68de5e(0x419),'https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.txt','d3d3Lg==',_0x68de5e(0x1e5),_0x68de5e(0x537),'includes','ECDH',_0x68de5e(0x35b),_0x68de5e(0x2dc),_0x68de5e(0x545),'[object\x20Object]',_0x68de5e(0x2be),_0x68de5e(0x20d),'DOMAIN-SUFFIX,','value',_0x68de5e(0x2f6),_0x68de5e(0x332),_0x68de5e(0x2e2),_0x68de5e(0x59c),_0x68de5e(0x3e6),_0x68de5e(0x3dc),_0x68de5e(0x3b8),'unreachable','mux','</b></p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20<script>\x0a\x20\x20\x20\x20\x20\x20\x20\x20localStorage.getItem(\x27darkMode\x27)\x20===\x20\x27enabled\x27\x20&&\x20document.body.classList.add(\x27dark-mode\x27);\x0a\x20\x20\x20\x20</script>\x0a\x20\x20\x20\x20</body>\x0a\x20\x20\x20\x20</html>',_0x68de5e(0x4d6),_0x68de5e(0x498),_0x68de5e(0x4e9),_0x68de5e(0x2cf),_0x68de5e(0x22c),_0x68de5e(0x23e),_0x68de5e(0x3ac),'\x20or\x20',_0x68de5e(0x231),_0x68de5e(0x3ae),_0x68de5e(0x46e),'6450664ptfguJ',_0x68de5e(0x3f4),_0x68de5e(0x437),_0x68de5e(0x27a),_0x68de5e(0x55a),'geosite-ir',_0x68de5e(0x349),_0x68de5e(0x358),_0x68de5e(0x4c9),_0x68de5e(0x244),'ES256',_0x68de5e(0x56f),_0x68de5e(0x311),_0x68de5e(0x33b),_0x68de5e(0x3ab),_0x68de5e(0x3fa),_0x68de5e(0x42e),_0x68de5e(0x4a6),_0x68de5e(0x520),'crit',_0x68de5e(0x1c1),'isPrivateJWK','buildClashChainOutbound',_0x68de5e(0x1ad),_0x68de5e(0x5ac),_0x68de5e(0x4c1),_0x68de5e(0x3c8),_0x68de5e(0x5cc),_0x68de5e(0x2a0),_0x68de5e(0x355),'getRandomValues',_0x68de5e(0x4d4),'box',_0x68de5e(0x3f5),_0x68de5e(0x584),'subjectSelector',_0x68de5e(0x24f),_0x68de5e(0x5a3),_0x68de5e(0x483),'name',_0x68de5e(0x337),'remoteDNS',_0x68de5e(0x1bb),_0x68de5e(0x264),'crypto_verify_16',_0x68de5e(0x1ef),_0x68de5e(0x459),_0x68de5e(0x4f7),_0x68de5e(0x2b2),_0x68de5e(0x2da),_0x68de5e(0x1bc),',\x20or\x20',_0x68de5e(0x5df),'💦\x20Chain\x20proxy\x20🔗',_0x68de5e(0x391),'sharedKeyLength',_0x68de5e(0x5db),_0x68de5e(0x25a),_0x68de5e(0x58a),_0x68de5e(0x413),_0x68de5e(0x530),_0x68de5e(0x587),_0x68de5e(0x1d4),_0x68de5e(0x371),_0x68de5e(0x53b),_0x68de5e(0x1ee),'trojanPassword',_0x68de5e(0x3c7),_0x68de5e(0x27c),_0x68de5e(0x487),_0x68de5e(0x217),_0x68de5e(0x373),'userID',_0x68de5e(0x352),_0x68de5e(0x22a),_0x68de5e(0x3a3),'bad\x20p\x20size','crypto_secretbox_open',_0x68de5e(0x2cc),'getConfigAddresses',_0x68de5e(0x240),'buildClashWarpOutbound','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>🔗\x20WARP\x20PRO\x20SUB</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22table-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22warp-pro-configs-table\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Application</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Subscription</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','unprotectedHeader',_0x68de5e(0x1c5),'rule-set:','splice',_0x68de5e(0x3f8),_0x68de5e(0x2c5),'grpc',_0x68de5e(0x53e),'EdDSA',_0x68de5e(0x3aa),'Ed25519','Clash\x20Verge',_0x68de5e(0x4e4),'packets','An\x20error\x20occurred\x20while\x20resolving\x20DNS\x20-\x20',_0x68de5e(0x58d),_0x68de5e(0x466),_0x68de5e(0x374),_0x68de5e(0x486),_0x68de5e(0x2d1),_0x68de5e(0x599),_0x68de5e(0x525),_0x68de5e(0x324),_0x68de5e(0x2a2),_0x68de5e(0x424),'parseTrojanHeader',_0x68de5e(0x255),_0x68de5e(0x333),'verify',_0x68de5e(0x1ec),_0x68de5e(0x414),_0x68de5e(0x5e0),'all-proxy',_0x68de5e(0x4f0),_0x68de5e(0x399),_0x68de5e(0x1f7),_0x68de5e(0x527),'pack',_0x68de5e(0x3a1),_0x68de5e(0x568),_0x68de5e(0x581),_0x68de5e(0x1b1),_0x68de5e(0x427),'\x22\x20min=\x221\x22\x20max=\x2230\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22fragmentPackets\x22>📦\x20Packets</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22input-with-select\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<select\x20id=\x22fragmentPackets\x22\x20name=\x22fragmentPackets\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x22tlshello\x22\x20',_0x68de5e(0x30a),_0x68de5e(0x297),_0x68de5e(0x33f),_0x68de5e(0x272),_0x68de5e(0x221),_0x68de5e(0x4af),_0x68de5e(0x25b),_0x68de5e(0x577),_0x68de5e(0x583),_0x68de5e(0x4a9),_0x68de5e(0x464),_0x68de5e(0x4d0),_0x68de5e(0x233),_0x68de5e(0x52a),_0x68de5e(0x5ce),_0x68de5e(0x59b),_0x68de5e(0x5d8),_0x68de5e(0x567),'account',_0x68de5e(0x43d),_0x68de5e(0x213),_0x68de5e(0x502),_0x68de5e(0x1fa),_0x68de5e(0x395),_0x68de5e(0x319),_0x68de5e(0x1f0),_0x68de5e(0x28a),_0x68de5e(0x5da),_0x68de5e(0x2f0),_0x68de5e(0x1ea),'cloudflare.com',_0x68de5e(0x340),_0x68de5e(0x28e),'subtleMapping',_0x68de5e(0x359),_0x68de5e(0x310),_0x68de5e(0x508),_0x68de5e(0x468),_0x68de5e(0x52b),_0x68de5e(0x443),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20onclick=\x22openQR(\x27',_0x68de5e(0x33a),_0x68de5e(0x33d),_0x68de5e(0x392),_0x68de5e(0x3fb),_0x68de5e(0x24c),'urltest','AND,((NETWORK,udp),(DST-PORT,443)),REJECT','hours',_0x68de5e(0x422),'no-store,\x20no-cache,\x20must-revalidate,\x20proxy-revalidate,\x20no-transform','>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22block-ads\x22>Block\x20Ads.</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22routing\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22bypass-iran\x22\x20name=\x22bypass-iran\x22\x20value=\x22true\x22\x20',_0x68de5e(0x1cc),_0x68de5e(0x417),_0x68de5e(0x20a),_0x68de5e(0x42b),_0x68de5e(0x3cd),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20onclick=\x22copyToClipboard(\x27',_0x68de5e(0x4dd),'rule-providers',_0x68de5e(0x228),'sing-box',_0x68de5e(0x480),_0x68de5e(0x219),_0x68de5e(0x33e),_0x68de5e(0x2ea),_0x68de5e(0x222),_0x68de5e(0x1f1),'UseIP',_0x68de5e(0x5b2),_0x68de5e(0x4fe),'application/octet-stream','object',_0x68de5e(0x451),_0x68de5e(0x404),'floor',_0x68de5e(0x2eb),_0x68de5e(0x2d8),_0x68de5e(0x59a),'#DIRECT',_0x68de5e(0x263),'pack25519',_0x68de5e(0x3f0),_0x68de5e(0x2f7),_0x68de5e(0x22e),_0x68de5e(0x4f4),_0x68de5e(0x3a6),_0x68de5e(0x55f),'versions',_0x68de5e(0x2fb),_0x68de5e(0x4fb),_0x68de5e(0x5f2),'https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-malware.srs','randombytes','Ed25519\x20or\x20Ed448','Hiddify','byteLength',_0x68de5e(0x5b4),_0x68de5e(0x56c),'\x22alg\x22\x20argument\x20is\x20required\x20when\x20\x22jwk.alg\x22\x20is\x20not\x20present',_0x68de5e(0x51b),_0x68de5e(0x53f),'headers',_0x68de5e(0x4ee),'https://cloudflare-dns.com/dns-query','buildXrayChainOutbound','💦\x20BPB\x20-\x20Best\x20Ping\x20💥',_0x68de5e(0x1f3),_0x68de5e(0x438),_0x68de5e(0x5ad),_0x68de5e(0x41c),_0x68de5e(0x5bd),_0x68de5e(0x3af),_0x68de5e(0x377),_0x68de5e(0x313),_0x68de5e(0x49b),_0x68de5e(0x452),_0x68de5e(0x3ba),_0x68de5e(0x4bb),'?nocache=','neq25519','checked',_0x68de5e(0x4d7),'success',_0x68de5e(0x366),',\x20userID:\x20',_0x68de5e(0x378),_0x68de5e(0x29a),_0x68de5e(0x55e),_0x68de5e(0x442),'accept',_0x68de5e(0x362),'freedom','::/0',_0x68de5e(0x4ad),'vlessRemoteSocketToWS',_0x68de5e(0x2b5),_0x68de5e(0x1da),'init',_0x68de5e(0x1d5),_0x68de5e(0x39e),_0x68de5e(0x51f),_0x68de5e(0x416),_0x68de5e(0x5c8),_0x68de5e(0x485),_0x68de5e(0x58b),'unexpected\x20\x22typ\x22\x20JWT\x20header\x20value',_0x68de5e(0x365),_0x68de5e(0x4de),_0x68de5e(0x5a7),_0x68de5e(0x224),_0x68de5e(0x3c6),_0x68de5e(0x402),_0x68de5e(0x5af),'reason',';\x0a\x20\x20\x20\x20\x20\x20\x20\x20let\x20activeHttpsPortsNo\x20=\x20','dohURL',_0x68de5e(0x2b4),'algorithm.namedCurve',_0x68de5e(0x5cd),_0x68de5e(0x1f4),_0x68de5e(0x380),_0x68de5e(0x400),_0x68de5e(0x40a),_0x68de5e(0x1e1),'msCrypto','v2rayN',_0x68de5e(0x514),_0x68de5e(0x3cb),'shift','handleUDPOutBound',_0x68de5e(0x3c5),'FlattenedSign',_0x68de5e(0x42f),_0x68de5e(0x585),_0x68de5e(0x384),_0x68de5e(0x48f),_0x68de5e(0x538),_0x68de5e(0x230),'geoip-ir',_0x68de5e(0x5e4),_0x68de5e(0x4c7),'h2,http/1.1','\x22\x20MUST\x20be\x20integrity\x20protected',_0x68de5e(0x239),_0x68de5e(0x331),_0x68de5e(0x4b6),_0x68de5e(0x305),'Error\x20resolving\x20DNS:',_0x68de5e(0x34f),'keyLength',_0x68de5e(0x29f),_0x68de5e(0x41f),_0x68de5e(0x36e),_0x68de5e(0x1db),_0x68de5e(0x227),'\x20is\x20not\x20support,\x20command\x2001-tcp,02-udp,03-mux','socks',_0x68de5e(0x215),_0x68de5e(0x5a2),'chain-2','UseIPv4',_0x68de5e(0x283),_0x68de5e(0x57f),_0x68de5e(0x5cf),_0x68de5e(0x35f),';\x0a\x20\x20\x20\x20\x20\x20\x20\x20let\x20activeProtocols\x20=\x20',_0x68de5e(0x440),_0x68de5e(0x1ba),_0x68de5e(0x5b1),_0x68de5e(0x3c2),_0x68de5e(0x5ca),_0x68de5e(0x34a),_0x68de5e(0x4b4),_0x68de5e(0x4ba),_0x68de5e(0x589),_0x68de5e(0x517),_0x68de5e(0x534),_0x68de5e(0x522),_0x68de5e(0x5c5),_0x68de5e(0x2a8),'nodeWrap',_0x68de5e(0x40e),_0x68de5e(0x351),_0x68de5e(0x1b9),_0x68de5e(0x1fc),_0x68de5e(0x4fd),_0x68de5e(0x5b6),_0x68de5e(0x232),_0x68de5e(0x5e7),_0x68de5e(0x321),_0x68de5e(0x326),_0x68de5e(0x2c1),'fallback','https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/category-ru.yaml',_0x68de5e(0x4be),_0x68de5e(0x546),_0x68de5e(0x57d),_0x68de5e(0x2c9),_0x68de5e(0x44a),_0x68de5e(0x229),'8446iyejsW',_0x68de5e(0x2c6),_0x68de5e(0x3c9),'is224',_0x68de5e(0x52e),'getPrototypeOf',_0x68de5e(0x560),'signature',_0x68de5e(0x588),_0x68de5e(0x4c4),_0x68de5e(0x2c8),_0x68de5e(0x383),_0x68de5e(0x387),_0x68de5e(0x3b7),_0x68de5e(0x3d0),_0x68de5e(0x4fc),_0x68de5e(0x5d9),'sharedMemory',_0x68de5e(0x5c4),_0x68de5e(0x5aa),_0x68de5e(0x48d),_0x68de5e(0x51d),_0x68de5e(0x22d),'\x27)\x22\x20style=\x22margin-bottom:\x208px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20QR\x20Code&nbsp;<span\x20class=\x22material-symbols-outlined\x22>qr_code</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>',_0x68de5e(0x5bc),_0x68de5e(0x5a0),_0x68de5e(0x236),_0x68de5e(0x260),_0x68de5e(0x4c5),'vlessTrojanFakeDNS',_0x68de5e(0x551),_0x68de5e(0x4eb),'\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</details>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22apply\x22\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22grid-column:\x202;\x20width:\x20100%;\x20display:\x20inline-flex;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22submit\x22\x20id=\x22applyButton\x22\x20style=\x22margin-right:\x2010px;\x22\x20class=\x22button\x20disabled\x22\x20value=\x22APPLY\x20SETTINGS\x20💥\x22\x20form=\x22configForm\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20id=\x22resetSettings\x22\x20style=\x22background:\x20none;\x20margin:\x200;\x20border:\x20none;\x20cursor:\x20pointer;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22fa\x20fa-refresh\x20fa-2x\x20fa-border\x22\x20style=\x22border-radius:\x20.2em;\x20border-color:\x20var(--border-color);\x22\x20aria-hidden=\x22true\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</form>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<hr>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>🔗\x20NORMAL\x20SUB</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22table-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22normal-configs-table\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Application</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Subscription</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',_0x68de5e(0x20c),_0x68de5e(0x2d0),_0x68de5e(0x418),'setUnprotectedHeader\x20can\x20only\x20be\x20called\x20once',_0x68de5e(0x2aa),_0x68de5e(0x4b8),_0x68de5e(0x5de),'>1-2</option>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<option\x20value=\x221-3\x22\x20','outboundTag',_0x68de5e(0x435),_0x68de5e(0x242),_0x68de5e(0x574),'slice',_0x68de5e(0x276),'client',_0x68de5e(0x5a6),_0x68de5e(0x470),'JWT\x20Claims\x20Set\x20MUST\x20be\x20an\x20object',_0x68de5e(0x30f),'ERR_JWT_INVALID','importKey',_0x68de5e(0x35d),_0x68de5e(0x3cc),'fragmentIntervalMax',_0x68de5e(0x50f),_0x68de5e(0x596),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20style=\x22text-wrap:\x20nowrap;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',_0x68de5e(0x555),_0x68de5e(0x5c2),_0x68de5e(0x471),_0x68de5e(0x2d5),'isCryptoKey','70-90',_0x68de5e(0x46f),_0x68de5e(0x458),_0x68de5e(0x2d3),'443',_0x68de5e(0x54c),_0x68de5e(0x535),_0x68de5e(0x2e4),_0x68de5e(0x4b2),_0x68de5e(0x403),_0x68de5e(0x4ff),_0x68de5e(0x558),_0x68de5e(0x456),_0x68de5e(0x345),_0x68de5e(0x448),'/secrets',_0x68de5e(0x325),_0x68de5e(0x3e0),_0x68de5e(0x431),_0x68de5e(0x285),_0x68de5e(0x4c6),_0x68de5e(0x2a9),_0x68de5e(0x5d5),_0x68de5e(0x401),_0x68de5e(0x58c),_0x68de5e(0x4b9),'namedCurve',_0x68de5e(0x531),'ERR_JWE_DECRYPTION_FAILED','warpEnableIPv6',_0x68de5e(0x41b),'>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22bypass-iran\x22>Bypass\x20Iran</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22routing\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22checkbox\x22\x20id=\x22block-porn\x22\x20name=\x22block-porn\x22\x20value=\x22true\x22\x20','exports',_0x68de5e(0x38f),_0x68de5e(0x301),_0x68de5e(0x57c),_0x68de5e(0x1be),_0x68de5e(0x4f2),_0x68de5e(0x3d1),_0x68de5e(0x1ff),_0x68de5e(0x4a0),_0x68de5e(0x46c),_0x68de5e(0x24e),'catch','crypto_stream_salsa20_xor',_0x68de5e(0x364),'2606:4700:4700::1111',_0x68de5e(0x376),_0x68de5e(0x47a),'chain-',_0x68de5e(0x512),_0x68de5e(0x3b5),_0x68de5e(0x3e1),_0x68de5e(0x382),_0x68de5e(0x5ba),'kty',_0x68de5e(0x291),_0x68de5e(0x3e2),_0x68de5e(0x287),_0x68de5e(0x26d),_0x68de5e(0x45f),'tag','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>🔗\x20WARP\x20SUB</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22table-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22normal-configs-table\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Application</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Subscription</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20',_0x68de5e(0x4fa),_0x68de5e(0x25f),_0x68de5e(0x5ab),_0x68de5e(0x578),_0x68de5e(0x50c),'JWKSTimeout',_0x68de5e(0x45a),_0x68de5e(0x45c),_0x68de5e(0x25e),_0x68de5e(0x252),_0x68de5e(0x256),_0x68de5e(0x220),_0x68de5e(0x3a2),'dns-block',_0x68de5e(0x2ff),_0x68de5e(0x494),_0x68de5e(0x37f),_0x68de5e(0x4e5),_0x68de5e(0x4b5),_0x68de5e(0x3e3),_0x68de5e(0x1d9),'readableWebSocketStream\x20is\x20closed',_0x68de5e(0x41d),_0x68de5e(0x2cb),_0x68de5e(0x4cd),_0x68de5e(0x4cb),_0x68de5e(0x504),_0x68de5e(0x288),_0x68de5e(0x449),'http://ip-api.com/json/',_0x68de5e(0x549),_0x68de5e(0x3ce),'inet6_range',_0x68de5e(0x2ca),_0x68de5e(0x4e0),_0x68de5e(0x553),_0x68de5e(0x354),_0x68de5e(0x547),_0x68de5e(0x52f),_0x68de5e(0x444),_0x68de5e(0x1d3),_0x68de5e(0x357),_0x68de5e(0x1e2),_0x68de5e(0x5bb),_0x68de5e(0x3e5),_0x68de5e(0x1d0),'P-384',_0x68de5e(0x46d),_0x68de5e(0x30e),_0x68de5e(0x254),_0x68de5e(0x5cb),_0x68de5e(0x206),'keyPair',_0x68de5e(0x2bb),_0x68de5e(0x5ea),_0x68de5e(0x465),_0x68de5e(0x1cb),_0x68de5e(0x29c),_0x68de5e(0x460),_0x68de5e(0x2d9),_0x68de5e(0x1f2),_0x68de5e(0x3d4),_0x68de5e(0x28d),_0x68de5e(0x338),'\x20name=',_0x68de5e(0x212),_0x68de5e(0x39a),_0x68de5e(0x35c),_0x68de5e(0x1f6),_0x68de5e(0x3e8),_0x68de5e(0x5d3),'geosite-category-ads-all',_0x68de5e(0x23a),_0x68de5e(0x3e4),_0x68de5e(0x30c),_0x68de5e(0x453),_0x68de5e(0x1c2),'text/plain;charset=utf-8',_0x68de5e(0x2fe),_0x68de5e(0x579),_0x68de5e(0x302),_0x68de5e(0x57e),_0x68de5e(0x5c7),'padStart',_0x68de5e(0x2ba),_0x68de5e(0x4f9),_0x68de5e(0x271),'randomUpperCase',_0x68de5e(0x506),_0x68de5e(0x598),'https://raw.githubusercontent.com/SagerNet/sing-geoip/rule-set/geoip-cn.srs','fragsub','💦\x20WoW',_0x68de5e(0x1bf),_0x68de5e(0x30b),'blockPorn',_0x68de5e(0x4ac),'CryptoKey\x20does\x20not\x20support\x20this\x20operation,\x20its\x20usages\x20must\x20include\x20','nameserver-policy',_0x68de5e(0x55c),_0x68de5e(0x31b),'&type=ws','enqueue','direct',_0x68de5e(0x1e4),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22material-symbols-outlined\x20symbol\x22>verified</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span>',_0x68de5e(0x26e),_0x68de5e(0x5e3),_0x68de5e(0x388),'💦\x20','reverse','Failed\x20to\x20base64url\x20decode\x20the\x20signature','2086',_0x68de5e(0x248),_0x68de5e(0x44f),_0x68de5e(0x570),_0x68de5e(0x214),_0x68de5e(0x2de),_0x68de5e(0x3fe),_0x68de5e(0x1b6),'ES384',_0x68de5e(0x4d8),_0x68de5e(0x407),_0x68de5e(0x2c2),_0x68de5e(0x575),_0x68de5e(0x25d),'scalarLength',_0x68de5e(0x1e7),_0x68de5e(0x2cd),'hosts',_0x68de5e(0x509),_0x68de5e(0x4ec),'warpPlusLicense',_0x68de5e(0x3bb),_0x68de5e(0x482),_0x68de5e(0x4f8),_0x68de5e(0x518),_0x68de5e(0x23b),_0x68de5e(0x593),_0x68de5e(0x48e),_0x68de5e(0x32a),_0x68de5e(0x295),_0x68de5e(0x47f),_0x68de5e(0x4f3),_0x68de5e(0x339),'tlsSettings',_0x68de5e(0x45b),_0x68de5e(0x22b),'geosite-cryptominers',_0x68de5e(0x4c3),'noiseSizeMax',_0x68de5e(0x488),_0x68de5e(0x323),_0x68de5e(0x21d),'text/html',_0x68de5e(0x457),_0x68de5e(0x3c1),_0x68de5e(0x28c),_0x68de5e(0x1e3),_0x68de5e(0x3bd),_0x68de5e(0x4f5),_0x68de5e(0x4a1),'geosite:cn','Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/127.0.0.0\x20Safari/537.36','getUint16','/login',_0x68de5e(0x394),_0x68de5e(0x329),_0x68de5e(0x1fe),'proxyIP',_0x68de5e(0x293),_0x68de5e(0x426),_0x68de5e(0x43e),_0x68de5e(0x32b),'\x22iat\x22\x20claim\x20timestamp\x20check\x20failed\x20(it\x20should\x20be\x20in\x20the\x20past)',_0x68de5e(0x595),_0x68de5e(0x2ab),_0x68de5e(0x2a1),'</span>\x20💦</h1>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>User\x20Login</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<form\x20id=\x22loginForm\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22password\x22>Password</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22password\x22\x20id=\x22password\x22\x20name=\x22password\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22passwordError\x22\x20style=\x22color:\x20red;\x20margin-bottom:\x2010px;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22submit\x22\x20class=\x22button\x22>Login</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</form>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20<script>\x0a\x20\x20\x20\x20\x20\x20\x20\x20localStorage.getItem(\x27darkMode\x27)\x20===\x20\x27enabled\x27\x20&&\x20document.body.classList.add(\x27dark-mode\x27);\x0a\x20\x20\x20\x20\x20\x20\x20\x20document.getElementById(\x27loginForm\x27).addEventListener(\x27submit\x27,\x20async\x20(event)\x20=>\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20event.preventDefault();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20password\x20=\x20document.getElementById(\x27password\x27).value;\x0a\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20try\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20response\x20=\x20await\x20fetch(\x27/login\x27,\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20method:\x20\x27POST\x27,\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20headers:\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x27Content-Type\x27:\x20\x27text/plain\x27\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20},\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20body:\x20password\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20if\x20(!response.ok)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20passwordError.textContent\x20=\x20\x27⚠️\x20Wrong\x20Password!\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20const\x20errorMessage\x20=\x20await\x20response.text();\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(\x27Login\x20failed:\x27,\x20errorMessage);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20return;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20window.location.href\x20=\x20\x27/panel\x27;\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x20catch\x20(error)\x20{\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20console.error(\x27Error\x20during\x20login:\x27,\x20error);\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20}\x0a\x20\x20\x20\x20\x20\x20\x20\x20});\x0a\x20\x20\x20\x20</script>\x0a\x20\x20\x20\x20</body>\x0a\x20\x20\x20\x20</html>',_0x68de5e(0x38b),_0x68de5e(0x2d7),_0x68de5e(0x57a),_0x68de5e(0x52d),_0x68de5e(0x47b),_0x68de5e(0x32f),_0x68de5e(0x1ca),_0x68de5e(0x447),_0x68de5e(0x31d),_0x68de5e(0x56e),_0x68de5e(0x408),_0x68de5e(0x4e8),_0x68de5e(0x1e6),_0x68de5e(0x1b7),_0x68de5e(0x2e7),'proxies',_0x68de5e(0x4d5),_0x68de5e(0x5b3),'balancers',_0x68de5e(0x3bf),_0x68de5e(0x309),_0x68de5e(0x53a),_0x68de5e(0x580),_0x68de5e(0x472),_0x68de5e(0x2f8),_0x68de5e(0x269),'buildSingBoxVLESSOutbound',_0x68de5e(0x2fd),_0x68de5e(0x5ae),'JS_SHA256_NO_WINDOW','Cookie',_0x68de5e(0x2ad),_0x68de5e(0x23d),_0x68de5e(0x259),'ipv4_only',_0x68de5e(0x1d7),_0x68de5e(0x49a),_0x68de5e(0x20f),'dns-fake',_0x68de5e(0x43a),_0x68de5e(0x2f9),_0x68de5e(0x56a),_0x68de5e(0x1bd),'invalid\x20data',_0x68de5e(0x2a4),_0x68de5e(0x218),'proxy-',_0x68de5e(0x247),'JWS\x20Protected\x20and\x20JWS\x20Unprotected\x20Header\x20Parameter\x20names\x20must\x20be\x20disjoint','JWS\x20Unprotected\x20Header\x20incorrect\x20type',_0x68de5e(0x4c0),_0x68de5e(0x31c),_0x68de5e(0x1b0),_0x68de5e(0x3b3),_0x68de5e(0x4da),'\x20-\x20Warp\x20🇮🇷',_0x68de5e(0x29b),'Please\x20set\x20UUID\x20and\x20Trojan\x20password\x20first.\x20Please\x20go\x20to\x20🟢\x20https://',_0x68de5e(0x48b),'scalarmult',_0x68de5e(0x37d),_0x68de5e(0x5b0),'unwrapKey',_0x68de5e(0x216),'IPv4','aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2JpYS1wYWluLWJhY2hl',_0x68de5e(0x59d),_0x68de5e(0x278),'delete',_0x68de5e(0x39f),_0x68de5e(0x51a),'setUint32',_0x68de5e(0x4a8),_0x68de5e(0x26f),_0x68de5e(0x3f9),_0x68de5e(0x4bc),_0x68de5e(0x591),'addressValue\x20is\x20empty,\x20addressType\x20is\x20',_0x68de5e(0x5b8),_0x68de5e(0x3db),_0x68de5e(0x2a6),'UDP\x20proxy\x20only\x20enable\x20for\x20DNS\x20which\x20is\x20port\x2053',_0x68de5e(0x265),'An\x20error\x20occurred\x20while\x20resolving\x20remote\x20DNS\x20server,\x20please\x20try\x20agian!\x20-\x20',_0x68de5e(0x50a),_0x68de5e(0x476),_0x68de5e(0x312),_0x68de5e(0x209),'domain:','/sub/',_0x68de5e(0x3be),_0x68de5e(0x38d),_0x68de5e(0x3de),_0x68de5e(0x406),_0x68de5e(0x552),_0x68de5e(0x2c7),_0x68de5e(0x4d9),_0x68de5e(0x478),_0x68de5e(0x28f),_0x68de5e(0x2e3),_0x68de5e(0x361),'tcpKeepAliveIdle','replace',_0x68de5e(0x51c),_0x68de5e(0x524),_0x68de5e(0x5a5),_0x68de5e(0x225),_0x68de5e(0x56d),_0x68de5e(0x3d2),'getXrayCustomConfigs',_0x68de5e(0x2b6),_0x68de5e(0x36c),'send',_0x68de5e(0x24a),_0x68de5e(0x4c8),_0x68de5e(0x510),_0x68de5e(0x42d),_0x68de5e(0x300),_0x68de5e(0x4f1),'/secrets\x20🟢\x20to\x20generate\x20them.',_0x68de5e(0x40b),_0x68de5e(0x342),_0x68de5e(0x47e),'checkAudiencePresence',_0x68de5e(0x507),_0x68de5e(0x1c6),_0x68de5e(0x251),_0x68de5e(0x571),_0x68de5e(0x5d7),_0x68de5e(0x3ca),'>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22bypass-russia\x22>Bypass\x20Russia</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h3>CUSTOM\x20RULES\x20🔧</h3>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22customBypassRules\x22>🟩\x20Bypass\x20IPs\x20/\x20Domains</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22text\x22\x20id=\x22customBypassRules\x22\x20name=\x22customBypassRules\x22\x20value=\x22','unexpected\x20\x22iss\x22\x20claim\x20value',_0x68de5e(0x253),'signature\x20verification\x20failed',_0x68de5e(0x3b4),_0x68de5e(0x381),'?ed=',_0x68de5e(0x322),_0x68de5e(0x4dc),_0x68de5e(0x316),_0x68de5e(0x281),_0x68de5e(0x34d),_0x68de5e(0x455),_0x68de5e(0x211),_0x68de5e(0x375),_0x68de5e(0x533),_0x68de5e(0x1fb),_0x68de5e(0x411),_0x68de5e(0x5e6),_0x68de5e(0x1e8),_0x68de5e(0x2ed),_0x68de5e(0x5a8),_0x68de5e(0x513),_0x68de5e(0x20b),'config',_0x68de5e(0x2f1),_0x68de5e(0x5ee),_0x68de5e(0x477),_0x68de5e(0x2ef),_0x68de5e(0x34b),'ECDH-ES+A128KW',_0x68de5e(0x2bf),'finalized',_0x68de5e(0x2c3),_0x68de5e(0x246),'checkBoxLengths','decryption\x20operation\x20failed',_0x68de5e(0x1dc),_0x68de5e(0x396),_0x68de5e(0x386),_0x68de5e(0x481),'getHashLength','60-70',_0x68de5e(0x2d6),'Warp\x20Subscription',_0x68de5e(0x3d8),'protectedHeader','DIRECT',_0x68de5e(0x207),_0x68de5e(0x5d1),'ERR_JWT_EXPIRED',_0x68de5e(0x5e8),_0x68de5e(0x38c),_0x68de5e(0x5dd),_0x68de5e(0x31a),'http',_0x68de5e(0x3cf),_0x68de5e(0x360),'\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22myModal\x22\x20class=\x22modal\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-content\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20class=\x22close\x22>&times;</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<form\x20id=\x22passwordChangeForm\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2>Change\x20Password</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22newPassword\x22>New\x20Password</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22password\x22\x20id=\x22newPassword\x22\x20name=\x22newPassword\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22form-control\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<label\x20for=\x22confirmPassword\x22>Confirm\x20Password</label>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<input\x20type=\x22password\x22\x20id=\x22confirmPassword\x22\x20name=\x22confirmPassword\x22\x20required>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22passwordError\x22\x20style=\x22color:\x20red;\x20margin-bottom:\x2010px;\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20id=\x22changePasswordBtn\x22\x20type=\x22submit\x22\x20class=\x22button\x22>Change\x20Password</button>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</form>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22myQRModal\x22\x20class=\x22modalQR\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22modal-content\x22\x20style=\x22width:\x20auto;\x20text-align:\x20center;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22display:\x20flex;\x20flex-direction:\x20column;\x20align-items:\x20center;\x20margin-bottom:\x2010px;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22closeQRModal\x22\x20class=\x22close\x22\x20style=\x22align-self:\x20flex-end;\x22>&times;</span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<span\x20id=\x22qrcodeTitle\x22\x20style=\x22align-self:\x20center;\x20font-weight:\x20bold;\x22></span>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20id=\x22qrcode-container\x22></div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<hr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22header-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<h2\x20style=\x22margin:\x200\x205px;\x22>💡\x20MY\x20IP</h2>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<button\x20type=\x22button\x22\x20id=\x22refresh-geo-location\x22\x20onclick=\x22fetchIPInfo()\x22\x20style=\x22background:\x20none;\x20margin:\x200;\x20border:\x20none;\x20cursor:\x20pointer;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22fa\x20fa-refresh\x20fa-2x\x22\x20style=\x22color:\x20var(--button-color);\x22\x20aria-hidden=\x22true\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</button>\x20\x20\x20\x20\x20\x20\x20\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22table-container\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<table\x20id=\x22ips\x22\x20style=\x22text-align:\x20center;\x20margin-bottom:\x2015px;\x20text-wrap-mode:\x20nowrap;\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Target\x20Address</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>IP</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>Country</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>City</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<th>ISP</th>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Cloudflare\x20CDN</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20id=\x22cf-ip\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><b\x20id=\x22cf-country\x22></b></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><b\x20id=\x22cf-city\x22></b></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><b\x20id=\x22cf-isp\x22></b></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td>Others</td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td\x20id=\x22ip\x22></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><b\x20id=\x22country\x22></b></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><b\x20id=\x22city\x22></b></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<td><b\x20id=\x22isp\x22></b></td>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</tr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</table>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<hr>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20class=\x22footer\x22>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<i\x20class=\x22fa\x20fa-github\x22\x20style=\x22font-size:36px;\x20margin-right:\x2010px;\x22></i>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<a\x20class=\x22link\x22\x20href=\x22',_0x68de5e(0x489),_0x68de5e(0x554),'\x20must\x20be\x20','KV\x20Dataset\x20is\x20not\x20properly\x20set!\x20Please\x20refer\x20to\x20tutorials.',_0x68de5e(0x3ef),_0x68de5e(0x44b),'?path=/tr','\x20instances\x20for\x20asymmetric\x20algorithm\x20encryption\x20must\x20be\x20of\x20type\x20\x22public\x22','version',_0x68de5e(0x2db),'hostname',_0x68de5e(0x205),'Buffer',_0x68de5e(0x27b),_0x68de5e(0x1c4),_0x68de5e(0x279),_0x68de5e(0x1d8),_0x68de5e(0x1cf),_0x68de5e(0x3a9),_0x68de5e(0x275),_0x68de5e(0x523),'hiddify',_0x68de5e(0x3e9),_0x68de5e(0x592),_0x68de5e(0x298),'ERR_JWS_SIGNATURE_VERIFICATION_FAILED','base64ToDecimal',_0x68de5e(0x3d3),_0x68de5e(0x500),_0x68de5e(0x4ef),_0x68de5e(0x344),_0x68de5e(0x446),_0x68de5e(0x28b),_0x68de5e(0x420),_0x68de5e(0x35e),_0x68de5e(0x4a2),_0x68de5e(0x3b1),'payload\x20must\x20be\x20an\x20instance\x20of\x20Uint8Array',_0x68de5e(0x3ea),_0x68de5e(0x474),_0x68de5e(0x48c),_0x68de5e(0x561),_0x68de5e(0x467),_0x68de5e(0x526),_0x68de5e(0x238),'setPRNG',_0x68de5e(0x249),_0x68de5e(0x4e6),_0x68de5e(0x21b),_0x68de5e(0x2e5),_0x68de5e(0x2ee),_0x68de5e(0x5c1),_0x68de5e(0x3fc),_0x68de5e(0x4a7),_0x68de5e(0x3d5),_0x68de5e(0x412),_0x68de5e(0x44d),_0x68de5e(0x5ed),_0x68de5e(0x35a),_0x68de5e(0x3c3),_0x68de5e(0x2ce),'POST',_0x68de5e(0x5f3),'/32',_0x68de5e(0x433),_0x68de5e(0x45e),_0x68de5e(0x3b6),'round',_0x68de5e(0x389),_0x68de5e(0x463),_0x68de5e(0x4c2),_0x68de5e(0x54d),_0x68de5e(0x1b5),_0x68de5e(0x341),_0x68de5e(0x43c),_0x68de5e(0x3b9),_0x68de5e(0x4cc),_0x68de5e(0x257),_0x68de5e(0x32d),'\x20Received\x20function\x20','www.speedtest.net',_0x68de5e(0x37a),_0x68de5e(0x563),_0x68de5e(0x1d1),'ERR_JOSE_ALG_NOT_ALLOWED','ERR_JWK_INVALID',_0x68de5e(0x4ca),'\x22exp\x22\x20claim\x20must\x20be\x20a\x20number',_0x68de5e(0x245),'crypto_sign_open',_0x68de5e(0x4e1),_0x68de5e(0x29d),_0x68de5e(0x49e),_0x68de5e(0x327),_0x68de5e(0x590),_0x68de5e(0x497),_0x68de5e(0x1d2),_0x68de5e(0x372),_0x68de5e(0x2a7),_0x68de5e(0x445),_0x68de5e(0x2b0),_0x68de5e(0x1c3),_0x68de5e(0x2b9),_0x68de5e(0x4db),_0x68de5e(0x43f),_0x68de5e(0x2fc),_0x68de5e(0x292),'80-90',_0x68de5e(0x37c),_0x68de5e(0x434),_0x68de5e(0x48a),_0x68de5e(0x4a4)];return a0_0x15e3=function(){return _0x59b61d;},a0_0x15e3();}function stringify(_0x46b252,_0x1eec02=0x0){const _0x53b2a0=_0x4c56f3,_0x52fa0a=unsafeStringify(_0x46b252,_0x1eec02);if(!isValidUUID(_0x52fa0a))throw TypeError(_0x53b2a0(0x582));return _0x52fa0a;}__name(stringify,a0_0x53d8fc(0x294));async function handleUDPOutBound(_0xe731c6,_0x157d47,_0x298c5a){const _0x1b7e7d=_0x4c56f3,_0x478099=a0_0x53d8fc;let _0x272129=![];const _0x27fb33=new TransformStream({'start'(_0x2262c6){},'transform'(_0x2868e0,_0x6835ce){const _0x1faf7e=a0_0x100c;for(let _0x2aa478=0x0;_0x2aa478<_0x2868e0[_0x1faf7e(0x5aa)];){const _0x3bd805=_0x2868e0[_0x1faf7e(0x1ef)](_0x2aa478,_0x2aa478+0x2),_0x40accb=new DataView(_0x3bd805)[_0x1faf7e(0x2e6)](0x0),_0x177470=new Uint8Array(_0x2868e0[_0x1faf7e(0x1ef)](_0x2aa478+0x2,_0x2aa478+0x2+_0x40accb));_0x2aa478=_0x2aa478+0x2+_0x40accb,_0x6835ce[_0x1faf7e(0x2a8)](_0x177470);}},'flush'(_0x5d896c){}});_0x27fb33[_0x1b7e7d(0x55f)][_0x478099(0x245)](new WritableStream({async 'write'(_0x4bc4ff){const _0x6650c0=_0x1b7e7d,_0x32cb64=_0x478099,_0x5cc5cd=await fetch(globalThis[_0x6650c0(0x21a)],{'method':_0x6650c0(0x2d2),'headers':{'content-type':_0x6650c0(0x2d4)},'body':_0x4bc4ff}),_0x14f196=await _0x5cc5cd[_0x6650c0(0x5c4)](),_0x32fb93=_0x14f196[_0x32cb64(0x5aa)],_0x24e0fa=new Uint8Array([_0x32fb93>>0x8&0xff,_0x32fb93&0xff]);_0xe731c6[_0x6650c0(0x32d)]===WS_READY_STATE_OPEN&&(_0x298c5a(_0x32cb64(0x472)+_0x32fb93),_0x272129?_0xe731c6[_0x32cb64(0x365)](await new Blob([_0x24e0fa,_0x14f196])[_0x32cb64(0x1d4)]()):(_0xe731c6[_0x6650c0(0x27f)](await new Blob([_0x157d47,_0x24e0fa,_0x14f196])['arrayBuffer']()),_0x272129=!![]));}}))[_0x478099(0x22e)](_0x10ce6c=>{const _0x42c034=_0x478099;_0x298c5a(_0x42c034(0x301)+_0x10ce6c);});const _0x41382=_0x27fb33[_0x1b7e7d(0x4c6)][_0x1b7e7d(0x38d)]();return{'write'(_0x3e875c){const _0x20a290=_0x478099;_0x41382[_0x20a290(0x594)](_0x3e875c);}};}__name(handleUDPOutBound,a0_0x53d8fc(0x5f4));var import_js_sha256=__toESM(require_sha256());import{connect as _0x21dd0e}from'cloudflare:sockets';async function trojanOverWSHandler(_0x4f2325){const _0x32449b=_0x4c56f3,_0x574d3a=a0_0x53d8fc,_0x3f90b7=new WebSocketPair(),[_0xde6085,_0x1a1918]=Object[_0x574d3a(0x2e8)](_0x3f90b7);_0x1a1918[_0x32449b(0x5ef)]();let _0x4d8f33='',_0x35df9b='';const _0x351ccc=__name((_0x43cd6c,_0x39d610)=>{const _0x3fe30f=_0x32449b;console[_0x3fe30f(0x4f8)]('['+_0x4d8f33+':'+_0x35df9b+']\x20'+_0x43cd6c,_0x39d610||'');},_0x574d3a(0x2c9)),_0x5e1ee7=_0x4f2325[_0x574d3a(0x5b0)][_0x32449b(0x3f8)](_0x574d3a(0x534))||'',_0x2b60a8=makeReadableWebSocketStream2(_0x1a1918,_0x5e1ee7,_0x351ccc);let _0x62364d={'value':null},_0x58e80d=null;return _0x2b60a8[_0x574d3a(0x245)](new WritableStream({async 'write'(_0x21a0bb,_0x351a97){const _0x2092f7=_0x32449b,_0x593a09=_0x574d3a;if(_0x58e80d)return _0x58e80d(_0x21a0bb);if(_0x62364d[_0x593a09(0x4b5)]){const _0x57fa58=_0x62364d['value'][_0x593a09(0x217)][_0x2092f7(0x38d)]();await _0x57fa58[_0x2092f7(0x404)](_0x21a0bb),_0x57fa58[_0x593a09(0x4aa)]();return;}const {hasError:_0x196460,message:_0x534691,portRemote:portRemote=0x1bb,addressRemote:addressRemote='',rawClientData:_0x6add94}=await parseTrojanHeader(_0x21a0bb);_0x4d8f33=addressRemote,_0x35df9b=portRemote+'--'+Math[_0x593a09(0x4ba)]()+_0x593a09(0x1a4);if(_0x196460){throw new Error(_0x534691);return;}handleTCPOutBound2(_0x62364d,addressRemote,portRemote,_0x6add94,_0x1a1918,_0x351ccc);},'close'(){const _0x390541=_0x574d3a;_0x351ccc(_0x390541(0x257));},'abort'(_0x17d043){const _0x1b0b90=_0x32449b,_0x1c15a3=_0x574d3a;_0x351ccc(_0x1c15a3(0x226),JSON[_0x1b0b90(0x5c7)](_0x17d043));}}))[_0x32449b(0x4b3)](_0x16de7f=>{const _0x1a125b=_0x32449b;_0x351ccc(_0x1a125b(0x3b5),_0x16de7f);}),new Response(null,{'status':0x65,'webSocket':_0xde6085});}__name(trojanOverWSHandler,_0x4c56f3(0x38a));async function parseTrojanHeader(_0x5681cb){const _0x3511d7=_0x4c56f3,_0x40f3aa=a0_0x53d8fc;if(_0x5681cb[_0x40f3aa(0x5aa)]<0x38)return{'hasError':!![],'message':'invalid\x20data'};let _0x479f43=0x38;if(new Uint8Array(_0x5681cb[_0x40f3aa(0x1ef)](0x38,0x39))[0x0]!==0xd||new Uint8Array(_0x5681cb[_0x40f3aa(0x1ef)](0x39,0x3a))[0x0]!==0xa)return{'hasError':!![],'message':_0x3511d7(0x521)};const _0x53ef65=new TextDecoder()[_0x3511d7(0x4c1)](_0x5681cb[_0x40f3aa(0x1ef)](0x0,_0x479f43));if(_0x53ef65!==import_js_sha256[_0x3511d7(0x320)][_0x3511d7(0x5b3)](globalThis[_0x40f3aa(0x50d)]))return{'hasError':!![],'message':_0x40f3aa(0x383)};const _0x3c0ff2=_0x5681cb[_0x40f3aa(0x1ef)](_0x479f43+0x2);if(_0x3c0ff2[_0x3511d7(0x1eb)]<0x6)return{'hasError':!![],'message':_0x40f3aa(0x4c3)};const _0x435e31=new DataView(_0x3c0ff2),_0x363e81=_0x435e31[_0x3511d7(0x225)](0x0);if(_0x363e81!==0x1)return{'hasError':!![],'message':_0x40f3aa(0x52f)};const _0x418b4d=_0x435e31[_0x40f3aa(0x35f)](0x1);let _0x9f065d=0x0,_0x41bad5=0x2,_0x5892c8='';switch(_0x418b4d){case 0x1:_0x9f065d=0x4,_0x5892c8=new Uint8Array(_0x3c0ff2[_0x3511d7(0x5d0)](_0x41bad5,_0x41bad5+_0x9f065d))[_0x40f3aa(0x3ab)]('.');break;case 0x3:_0x9f065d=new Uint8Array(_0x3c0ff2[_0x40f3aa(0x1ef)](_0x41bad5,_0x41bad5+0x1))[0x0],_0x41bad5+=0x1,_0x5892c8=new TextDecoder()[_0x40f3aa(0x4e4)](_0x3c0ff2[_0x40f3aa(0x1ef)](_0x41bad5,_0x41bad5+_0x9f065d));break;case 0x4:_0x9f065d=0x10;const _0x548e1a=new DataView(_0x3c0ff2[_0x40f3aa(0x1ef)](_0x41bad5,_0x41bad5+_0x9f065d)),_0x19a746=[];for(let _0x60fab=0x0;_0x60fab<0x8;_0x60fab++){_0x19a746[_0x40f3aa(0x550)](_0x548e1a[_0x40f3aa(0x2e6)](_0x60fab*0x2)[_0x40f3aa(0x5b1)](0x10));}_0x5892c8=_0x19a746[_0x40f3aa(0x3ab)](':');break;default:return{'hasError':!![],'message':_0x3511d7(0x46b)+_0x418b4d};}if(!_0x5892c8)return{'hasError':!![],'message':_0x3511d7(0x3a0)+_0x418b4d};const _0x53b8c7=_0x41bad5+_0x9f065d,_0x461b30=_0x3c0ff2[_0x40f3aa(0x1ef)](_0x53b8c7,_0x53b8c7+0x2),_0x4b2a6a=new DataView(_0x461b30)[_0x40f3aa(0x2e6)](0x0);return{'hasError':![],'addressRemote':_0x5892c8,'portRemote':_0x4b2a6a,'rawClientData':_0x3c0ff2[_0x40f3aa(0x1ef)](_0x53b8c7+0x4)};}__name(parseTrojanHeader,a0_0x53d8fc(0x537));async function handleTCPOutBound2(_0x117009,_0x445335,_0x2f75e0,_0x32fead,_0x2ebef4,_0x3e0b3c){const _0x23764a=_0x4c56f3,_0x36bc50=a0_0x53d8fc;async function _0x1a2363(_0xd9ba86,_0x3599d7){const _0x5b887f=_0x5223,_0x2229ef=a0_0x100c;if(/^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?).){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/[_0x2229ef(0x50f)](_0xd9ba86))_0xd9ba86=''+atob(_0x5b887f(0x5dc))+_0xd9ba86+atob(_0x2229ef(0x507));const _0x2a1071=_0x21dd0e({'hostname':_0xd9ba86,'port':_0x3599d7});_0x117009[_0x2229ef(0x4b5)]=_0x2a1071,_0x3e0b3c(_0x2229ef(0x44d)+_0xd9ba86+':'+_0x3599d7);const _0x94a78=_0x2a1071[_0x2229ef(0x217)][_0x5b887f(0x38d)]();return await _0x94a78[_0x5b887f(0x404)](_0x32fead),_0x94a78[_0x2229ef(0x4aa)](),_0x2a1071;}__name(_0x1a2363,_0x36bc50(0x1e3));async function _0x232cd1(){const _0xecb627=_0x5223,_0x152689=_0x36bc50,_0x486c22=globalThis[_0x152689(0x414)][_0xecb627(0x331)]('/')[0x2],_0x666e6=_0x486c22?atob(_0x486c22)[_0x152689(0x18a)](','):void 0x0,_0x1650aa=_0x666e6?_0x666e6[Math['floor'](Math[_0x152689(0x4ba)]()*_0x666e6[_0x152689(0x5d0)])]:globalThis[_0x152689(0x2eb)]||_0x445335,_0x14e1ba=await _0x1a2363(_0x1650aa,_0x2f75e0);_0x14e1ba[_0xecb627(0x44e)][_0x152689(0x22e)](_0x35406c=>{const _0x23181f=_0x152689;console[_0x23181f(0x2c9)](_0x23181f(0x418),_0x35406c);})[_0x152689(0x249)](()=>{safeCloseWebSocket2(_0x2ebef4);}),trojanRemoteSocketToWS(_0x14e1ba,_0x2ebef4,null,_0x3e0b3c);}__name(_0x232cd1,_0x23764a(0x3b1));const _0x1b49fc=await _0x1a2363(_0x445335,_0x2f75e0);trojanRemoteSocketToWS(_0x1b49fc,_0x2ebef4,_0x232cd1,_0x3e0b3c);}__name(handleTCPOutBound2,a0_0x53d8fc(0x359));function makeReadableWebSocketStream2(_0x4a8f61,_0x4553fb,_0x19d9e3){let _0x5dc511=![];const _0x1582fb=new ReadableStream({'start'(_0x15e3e6){const _0x22a52a=_0x5223,_0x27a716=a0_0x100c;_0x4a8f61[_0x27a716(0x41c)](_0x27a716(0x5bf),_0x3144fe=>{const _0x52d6c2=_0x27a716;if(_0x5dc511)return;const _0x314724=_0x3144fe[_0x52d6c2(0x54b)];_0x15e3e6[_0x52d6c2(0x2a8)](_0x314724);}),_0x4a8f61[_0x27a716(0x41c)](_0x22a52a(0x413),()=>{const _0x40d7f2=_0x27a716;safeCloseWebSocket2(_0x4a8f61);if(_0x5dc511)return;_0x15e3e6[_0x40d7f2(0x506)]();}),_0x4a8f61[_0x27a716(0x41c)](_0x27a716(0x26f),_0x57bb7f=>{const _0x394c08=_0x27a716;_0x19d9e3(_0x394c08(0x56d)),_0x15e3e6[_0x394c08(0x26f)](_0x57bb7f);});const {earlyData:_0x20a6f8,error:_0x27ceae}=base64ToArrayBuffer2(_0x4553fb);if(_0x27ceae)_0x15e3e6[_0x27a716(0x26f)](_0x27ceae);else _0x20a6f8&&_0x15e3e6[_0x27a716(0x2a8)](_0x20a6f8);},'pull'(_0x20b1a5){},'cancel'(_0x22cb16){const _0x9047af=a0_0x100c;if(_0x5dc511)return;_0x19d9e3(_0x9047af(0x5de)+_0x22cb16),_0x5dc511=!![],safeCloseWebSocket2(_0x4a8f61);}});return _0x1582fb;}__name(makeReadableWebSocketStream2,a0_0x53d8fc(0x40e));async function trojanRemoteSocketToWS(_0x3a1230,_0x610e56,_0x20688b,_0x3ef99e){const _0x2ae41c=_0x4c56f3,_0x4c7b67=a0_0x53d8fc;let _0x72016b=![];await _0x3a1230[_0x4c7b67(0x5a1)][_0x4c7b67(0x245)](new WritableStream({'start'(){},async 'write'(_0x45f3d3,_0x57c18f){const _0x570252=_0x4c7b67;_0x72016b=!![],_0x610e56[_0x570252(0x400)]!==WS_READY_STATE_OPEN2&&_0x57c18f[_0x570252(0x26f)](_0x570252(0x46b)),_0x610e56[_0x570252(0x365)](_0x45f3d3);},'close'(){const _0x1b29c6=_0x4c7b67;_0x3ef99e(_0x1b29c6(0x24e)+_0x72016b);},'abort'(_0x5f199b){const _0x28763f=_0x5223,_0x34c4bf=_0x4c7b67;console[_0x28763f(0x1d0)](_0x34c4bf(0x412),_0x5f199b);}}))[_0x4c7b67(0x22e)](_0x4f5683=>{const _0x2875c1=_0x4c7b67;console[_0x2875c1(0x26f)](_0x2875c1(0x331),_0x4f5683[_0x2875c1(0x468)]||_0x4f5683),safeCloseWebSocket2(_0x610e56);}),_0x72016b===![]&&_0x20688b&&(_0x3ef99e(_0x2ae41c(0x3b1)),_0x20688b());}__name(trojanRemoteSocketToWS,a0_0x53d8fc(0x31a));function base64ToArrayBuffer2(_0x1c7b5d){const _0x5d4a5c=_0x4c56f3,_0x35b517=a0_0x53d8fc;if(!_0x1c7b5d)return{'earlyData':null,'error':null};try{_0x1c7b5d=_0x1c7b5d[_0x35b517(0x35b)](/-/g,'+')[_0x5d4a5c(0x277)](/_/g,'/');const _0x276de0=atob(_0x1c7b5d),_0x1805a8=Uint8Array[_0x35b517(0x4b2)](_0x276de0,_0x5b4a2e=>_0x5b4a2e[_0x35b517(0x516)](0x0));return{'earlyData':_0x1805a8[_0x35b517(0x19d)],'error':null};}catch(_0x46efeb){return{'earlyData':null,'error':_0x46efeb};}}__name(base64ToArrayBuffer2,_0x4c56f3(0x576));function a0_0x100c(_0x470714,_0x12c9cf){const _0x54c255=a0_0x15e3();return a0_0x100c=function(_0x6719b3,_0x4de7c8){_0x6719b3=_0x6719b3-0x184;let _0x500403=_0x54c255[_0x6719b3];return _0x500403;},a0_0x100c(_0x470714,_0x12c9cf);}var WS_READY_STATE_OPEN2=0x1,WS_READY_STATE_CLOSING2=0x2;function safeCloseWebSocket2(_0x341af6){const _0x4805e6=_0x4c56f3,_0x1acae7=a0_0x53d8fc;try{(_0x341af6[_0x4805e6(0x32d)]===WS_READY_STATE_OPEN2||_0x341af6[_0x1acae7(0x400)]===WS_READY_STATE_CLOSING2)&&_0x341af6[_0x1acae7(0x506)]();}catch(_0x3c36d1){console[_0x4805e6(0x1d0)](_0x1acae7(0x5a4),_0x3c36d1);}}__name(safeCloseWebSocket2,a0_0x53d8fc(0x4fd));async function renderErrorPage(_0x32c263){const _0x8fdd25=_0x4c56f3,_0x2d6217=a0_0x53d8fc,_0x573416=_0x8fdd25(0x21f)+globalThis[_0x2d6217(0x358)]+_0x8fdd25(0x34e)+(_0x32c263?_0x2d6217(0x391)+(_0x32c263[_0x8fdd25(0x25c)]?_0x32c263['message'][_0x8fdd25(0x4ee)]():_0x32c263[_0x2d6217(0x468)][_0x2d6217(0x5b1)]()):'')+_0x2d6217(0x4bf);return new Response(_0x573416,{'status':0xc8,'headers':{'Content-Type':_0x2d6217(0x2dc)}});}__name(renderErrorPage,a0_0x53d8fc(0x28b));async function getConfigAddresses(_0x3a209b,_0x344c77){const _0x4f5de1=_0x4c56f3,_0x46f7e1=a0_0x53d8fc,_0x132bf5=await resolveDNS(globalThis[_0x46f7e1(0x486)]),_0x5b5687=_0x344c77?_0x132bf5[_0x46f7e1(0x5b8)][_0x46f7e1(0x46e)](_0x278dbb=>'['+_0x278dbb+']'):[];return[globalThis[_0x46f7e1(0x486)],_0x46f7e1(0x402),..._0x132bf5['ipv4'],..._0x5b5687,..._0x3a209b?_0x3a209b[_0x4f5de1(0x331)](','):[]];}__name(getConfigAddresses,a0_0x53d8fc(0x51a));function extractWireguardParams(_0x17f783,_0x4a94c3){const _0x336ef5=_0x4c56f3,_0x2b1063=a0_0x53d8fc,_0x1f54d5=_0x4a94c3?0x1:0x0,_0x4820f7=_0x17f783[_0x1f54d5][_0x2b1063(0x55c)][_0x2b1063(0x38f)];return{'warpIPv6':_0x4820f7['interface'][_0x2b1063(0x5e2)]['v6']+'/128','reserved':_0x4820f7[_0x336ef5(0x398)],'publicKey':_0x4820f7[_0x2b1063(0x33e)][0x0][_0x2b1063(0x267)],'privateKey':_0x17f783[_0x1f54d5][_0x2b1063(0x456)]};}__name(extractWireguardParams,'extractWireguardParams');function generateRemark(_0x149789,_0x180cc8,_0x6f5ad3,_0x1f4b5c,_0x5b4daa,_0x3059a1){const _0x52b2fc=_0x4c56f3,_0x2ea7fb=a0_0x53d8fc;let _0x58da86;const _0x583286=_0x3059a1?'\x20'+_0x3059a1:'';return _0x1f4b5c[_0x2ea7fb(0x4ac)](_0x6f5ad3)?_0x58da86=_0x2ea7fb(0x4b7):_0x58da86=isDomain(_0x6f5ad3)?_0x2ea7fb(0x3de):isIPv4(_0x6f5ad3)?_0x2ea7fb(0x335):isIPv6(_0x6f5ad3)?_0x2ea7fb(0x360):'',_0x2ea7fb(0x2af)+_0x149789+_0x52b2fc(0x465)+_0x5b4daa+_0x583286+_0x2ea7fb(0x279)+_0x58da86+_0x2ea7fb(0x435)+_0x180cc8;}__name(generateRemark,a0_0x53d8fc(0x541));function randomUpperCase(_0x218a5d){const _0x32241e=a0_0x53d8fc;let _0x452403='';for(let _0x109356=0x0;_0x109356<_0x218a5d[_0x32241e(0x5d0)];_0x109356++){_0x452403+=Math[_0x32241e(0x4ba)]()<0.5?_0x218a5d[_0x109356][_0x32241e(0x191)]():_0x218a5d[_0x109356];}return _0x452403;}__name(randomUpperCase,a0_0x53d8fc(0x299));function getRandomPath(_0x1796a7){const _0x15674b=_0x4c56f3,_0x32a4ee=a0_0x53d8fc;let _0x1738ee='';const _0x468329=_0x15674b(0x430),_0x5e576f=_0x468329[_0x32a4ee(0x5d0)];for(let _0x4e6c0d=0x0;_0x4e6c0d<_0x1796a7;_0x4e6c0d++){_0x1738ee+=_0x468329[_0x32a4ee(0x26e)](Math[_0x32a4ee(0x595)](Math[_0x32a4ee(0x4ba)]()*_0x5e576f));}return _0x1738ee;}__name(getRandomPath,a0_0x53d8fc(0x33d));function base64ToDecimal(_0x528fb3){const _0x4e1519=_0x4c56f3,_0x333c68=a0_0x53d8fc,_0x398a4e=atob(_0x528fb3),_0x36d3be=Array[_0x333c68(0x4b2)](_0x398a4e)[_0x333c68(0x46e)](_0x3a5399=>_0x3a5399[_0x333c68(0x516)](0x0)[_0x333c68(0x5b1)](0x10)[_0x333c68(0x295)](0x2,'0'))[_0x333c68(0x3ab)](''),_0x13fd9e=_0x36d3be[_0x4e1519(0x47b)](/.{2}/g)[_0x333c68(0x46e)](_0x43f6a4=>parseInt(_0x43f6a4,0x10));return _0x13fd9e;}__name(base64ToDecimal,a0_0x53d8fc(0x3cc));function isIPv4(_0x1caf6c){const _0x37942c=a0_0x53d8fc,_0x56caa4=/^(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)(?:\/([0-9]|[1-2][0-9]|3[0-2]))?$/;return _0x56caa4[_0x37942c(0x50f)](_0x1caf6c);}__name(isIPv4,a0_0x53d8fc(0x219));function isIPv6(_0x30ecec){const _0x39ae48=_0x4c56f3,_0x55275=/^\[(?:(?:[a-fA-F0-9]{1,4}:){7}[a-fA-F0-9]{1,4}|(?:[a-fA-F0-9]{1,4}:){1,7}:|::(?:[a-fA-F0-9]{1,4}:){0,7}|(?:[a-fA-F0-9]{1,4}:){1,6}:[a-fA-F0-9]{1,4}|(?:[a-fA-F0-9]{1,4}:){1,5}(?::[a-fA-F0-9]{1,4}){1,2}|(?:[a-fA-F0-9]{1,4}:){1,4}(?::[a-fA-F0-9]{1,4}){1,3}|(?:[a-fA-F0-9]{1,4}:){1,3}(?::[a-fA-F0-9]{1,4}){1,4}|(?:[a-fA-F0-9]{1,4}:){1,2}(?::[a-fA-F0-9]{1,4}){1,5}|[a-fA-F0-9]{1,4}:(?::[a-fA-F0-9]{1,4}){1,6})\](?:\/(1[0-1][0-9]|12[0-8]|[0-9]?[0-9]))?$/;return _0x55275[_0x39ae48(0x27c)](_0x30ecec);}__name(isIPv6,_0x4c56f3(0x235));async function buildXrayDNS(_0xac44b2,_0x1e04c5,_0x30261d,_0xf67545,_0x5286e6){const _0x2037a8=_0x4c56f3,_0x4d668f=a0_0x53d8fc,{remoteDNS:_0x56b6cd,resolvedRemoteDNS:_0x449980,localDNS:_0x319909,vlessTrojanFakeDNS:_0x394dfd,enableIPv6:_0x15f4ce,warpFakeDNS:_0x2bd22c,warpEnableIPv6:_0x95acd2,blockAds:_0x3616c6,bypassIran:_0x54f40c,bypassChina:_0x3c17ff,blockPorn:_0x3974b0,bypassRussia:_0x4c0372,customBypassRules:_0x2d4af5,customBlockRules:_0x2a67d3}=_0xac44b2,_0x43e56f=[{'rule':_0x54f40c,'domain':_0x4d668f(0x31c),'ip':_0x4d668f(0x542)},{'rule':_0x3c17ff,'domain':_0x4d668f(0x2e4),'ip':_0x4d668f(0x457)},{'rule':_0x4c0372,'domain':_0x4d668f(0x535),'ip':_0x2037a8(0x50d)}],_0x22fc99=[{'rule':_0x3616c6,'host':_0x4d668f(0x1ad)},{'rule':_0x3616c6,'host':_0x2037a8(0x355)},{'rule':_0x3974b0,'host':_0x4d668f(0x415)}],_0x555caf=_0x394dfd&&!_0x5286e6||_0x2bd22c&&_0x5286e6,_0x4430cb=_0x15f4ce&&!_0x5286e6||_0x95acd2&&_0x5286e6,_0x5f438f=_0x1e04c5[_0x4d668f(0x469)](_0x45b607=>isDomain(_0x45b607)),_0x20a3f9=_0x2d4af5[_0x4d668f(0x18a)](',')[_0x4d668f(0x469)](_0x4061ec=>isDomain(_0x4061ec)),_0x42528=_0x2a67d3[_0x4d668f(0x18a)](',')[_0x4d668f(0x469)](_0x4b76d6=>isDomain(_0x4b76d6)),_0x23bf99=[...new Set(_0x5f438f)],_0x1fc657=[..._0x23bf99,..._0x20a3f9][_0x2037a8(0x4ad)]>0x0,_0x572b72=_0x54f40c||_0x3c17ff||_0x4c0372,_0x5bd753=_0x3616c6||_0x3974b0||_0x42528[_0x4d668f(0x5d0)]>0x0,_0x37e9ac=_0xf67545?[_0x4d668f(0x5b2)]:_0x5286e6?_0x95acd2?[_0x2037a8(0x262),_0x2037a8(0x2f1),_0x4d668f(0x231),_0x4d668f(0x2bb)]:[_0x4d668f(0x42b),_0x4d668f(0x390)]:[_0x56b6cd],_0x368a1e={};_0x5bd753&&(_0x22fc99[_0x4d668f(0x5f9)](({rule:_0x2ca5f5,host:_0x5328c3})=>{const _0x24cc89=_0x4d668f;if(_0x2ca5f5)_0x368a1e[_0x5328c3]=[_0x24cc89(0x5ba)];}),_0x42528[_0x4d668f(0x5f9)](_0x3ebdd7=>{const _0x4a82b2=_0x4d668f;_0x368a1e[_0x4a82b2(0x34d)+_0x3ebdd7]=['127.0.0.1'];}));const _0x57de49=_0x30261d?await resolveDNS(_0x30261d):void 0x0;if(_0x57de49)_0x368a1e[_0x30261d]=_0x15f4ce?[..._0x57de49[_0x2037a8(0x29c)],..._0x57de49[_0x4d668f(0x5b8)]]:_0x57de49[_0x4d668f(0x27b)];if(_0x449980[_0x4d668f(0x5b6)]&&!_0xf67545&&!_0x5286e6)_0x368a1e[_0x449980[_0x4d668f(0x5b6)]]=_0x449980[_0x2037a8(0x49c)];if(_0xf67545){const _0x30f80e=[_0x4d668f(0x2cd),_0x4d668f(0x568),_0x4d668f(0x5d6)],_0x1ea1b0=await Promise[_0x4d668f(0x48b)](_0x30f80e[_0x4d668f(0x46e)](resolveDNS)),_0x4e0048=_0x1ea1b0[_0x4d668f(0x298)](_0x2cfcbd=>_0x2cfcbd[_0x4d668f(0x27b)]),_0x21550f=_0x15f4ce?_0x1ea1b0[_0x2037a8(0x271)](_0x4d4ed0=>_0x4d4ed0[_0x4d668f(0x5b8)]):[];_0x368a1e[_0x4d668f(0x2cd)]=[..._0x4e0048,..._0x21550f];}const _0x52bf45=Object[_0x2037a8(0x2f8)](_0x368a1e)[_0x2037a8(0x4ad)]?{'hosts':_0x368a1e}:{},_0x1c479a={..._0x52bf45,'servers':_0x37e9ac,'queryStrategy':_0x4430cb?_0x4d668f(0x58e):_0x4d668f(0x19a),'tag':_0x4d668f(0x589)};if(_0x1fc657){const _0x42aa0a=_0x23bf99[_0x4d668f(0x46e)](_0x201130=>_0x2037a8(0x204)+_0x201130),_0x49449c=_0x20a3f9[_0x4d668f(0x46e)](_0x4a21dd=>_0x4d668f(0x34d)+_0x4a21dd);_0x1c479a[_0x4d668f(0x4f9)][_0x4d668f(0x550)]({'address':_0x319909,'domains':[..._0x42aa0a,..._0x49449c],'skipFallback':!![]});}const _0x1a06e9={'address':_0x319909,'domains':[],'expectIPs':[],'skipFallback':!![]};!_0xf67545&&_0x572b72&&(_0x43e56f['forEach'](({rule:_0x1c8758,domain:_0x4ea3eb,ip:_0x1e875d})=>{const _0x33b8af=_0x4d668f;_0x1c8758&&(_0x1a06e9[_0x33b8af(0x4da)][_0x33b8af(0x550)](_0x4ea3eb),_0x1a06e9[_0x33b8af(0x36d)][_0x33b8af(0x550)](_0x1e875d));}),_0x1c479a[_0x4d668f(0x4f9)][_0x4d668f(0x550)](_0x1a06e9));if(_0x555caf){const _0x415fe1=_0x572b72&&!_0xf67545?{'address':_0x4d668f(0x59d),'domains':_0x1a06e9[_0x4d668f(0x4da)]}:_0x2037a8(0x2f7);_0x1c479a[_0x4d668f(0x4f9)][_0x4d668f(0x597)](_0x415fe1);}return _0x1c479a;}__name(buildXrayDNS,_0x4c56f3(0x348));function buildXrayRoutingRules(_0x5931fc,_0x1a2d1c,_0x538894,_0x34aec9,_0x33ef33,_0x56a95a){const _0x5ee4a0=_0x4c56f3,_0x5041c1=a0_0x53d8fc,{remoteDNS:_0x2ddc96,localDNS:_0x21cc03,bypassLAN:_0x5a0b6e,bypassIran:_0x46fdfe,bypassChina:_0x2c9cde,bypassRussia:_0x37a8e7,blockAds:_0x3833c6,blockPorn:_0x2a8232,blockUDP443:_0x3df013,customBypassRules:_0x3dc2ad,customBlockRules:_0x619462}=_0x5931fc,_0x471a16=[{'rule':_0x5a0b6e,'type':_0x5041c1(0x2a9),'domain':_0x5ee4a0(0x36d),'ip':_0x5041c1(0x206)},{'rule':_0x46fdfe,'type':_0x5041c1(0x2a9),'domain':_0x5041c1(0x31c),'ip':_0x5041c1(0x542)},{'rule':_0x2c9cde,'type':_0x5041c1(0x2a9),'domain':_0x5041c1(0x2e4),'ip':_0x5041c1(0x457)},{'rule':_0x3833c6,'type':'block','domain':_0x5041c1(0x1ad)},{'rule':_0x3833c6,'type':_0x5041c1(0x1f8),'domain':_0x5041c1(0x4e8)},{'rule':_0x2a8232,'type':_0x5ee4a0(0x35d),'domain':_0x5041c1(0x415)}],_0x2f1c8b=_0x1a2d1c[_0x5041c1(0x469)](_0x4a5c31=>isDomain(_0x4a5c31)),_0x4598d5=_0x3dc2ad?_0x3dc2ad[_0x5041c1(0x18a)](','):[],_0x5dae8a=_0x619462?_0x619462[_0x5ee4a0(0x331)](','):[],_0x26018d=_0x4598d5[_0x5041c1(0x469)](_0x4688fd=>isDomain(_0x4688fd)),_0x4ba65f=[..._0x2f1c8b,..._0x26018d][_0x5041c1(0x5d0)]>0x0,_0xb93561=_0x3833c6||_0x2a8232||_0x5dae8a[_0x5041c1(0x5d0)]>0x0,_0x2c3e71=_0x46fdfe||_0x2c9cde||_0x37a8e7||_0x4598d5[_0x5041c1(0x5d0)]>0x0,_0xf069c8=[{'inboundTag':[_0x5041c1(0x3d1)],'outboundTag':_0x5041c1(0x3a2),'type':_0x5041c1(0x55f)},{'inboundTag':[_0x5041c1(0x2d2),'http-in'],'port':'53','outboundTag':_0x5041c1(0x3a2),'type':_0x5041c1(0x55f)}];if(!_0x33ef33&&(_0x4ba65f||_0x2c3e71))_0xf069c8[_0x5041c1(0x550)]({'ip':[_0x21cc03],'port':'53','network':_0x5ee4a0(0x375),'outboundTag':_0x5041c1(0x2a9),'type':_0x5ee4a0(0x502)});if(_0x2c3e71||_0xb93561){const _0x1e9ace=__name((_0x45c649,_0x47aa80)=>({[_0x45c649]:[],'outboundTag':_0x47aa80,'type':_0x5041c1(0x55f)}),'createRule');let _0x229c01,_0x2e581c;!_0x33ef33&&(_0x229c01=_0x1e9ace(_0x5041c1(0x1af),_0x5041c1(0x2a9)),_0x2e581c=_0x1e9ace('ip',_0x5041c1(0x2a9)));let _0x225201=_0x1e9ace(_0x5041c1(0x1af),_0x5041c1(0x1f8)),_0x5595ff=_0x1e9ace('ip',_0x5041c1(0x1f8));_0x471a16[_0x5041c1(0x5f9)](({rule:_0x347674,type:_0x34178d,domain:_0x1c19f2,ip:_0x117b09})=>{const _0x1f0543=_0x5ee4a0,_0x223aa4=_0x5041c1;_0x347674&&(_0x34178d===_0x223aa4(0x2a9)?(_0x229c01?.[_0x1f0543(0x40e)][_0x223aa4(0x550)](_0x1c19f2),_0x2e581c?.['ip']?.[_0x223aa4(0x550)](_0x117b09)):_0x225201[_0x223aa4(0x1af)][_0x1f0543(0x25b)](_0x1c19f2));}),_0x4598d5[_0x5041c1(0x5f9)](_0x17866a=>{const _0x483038=_0x5041c1;isDomain(_0x17866a)?_0x229c01?.[_0x483038(0x1af)][_0x483038(0x550)](_0x483038(0x34d)+_0x17866a):_0x2e581c?.['ip'][_0x483038(0x550)](_0x17866a);}),_0x5dae8a[_0x5041c1(0x5f9)](_0x4307d0=>{const _0x37f96a=_0x5041c1;isDomain(_0x4307d0)?_0x225201[_0x37f96a(0x1af)][_0x37f96a(0x550)](_0x37f96a(0x34d)+_0x4307d0):_0x5595ff['ip'][_0x37f96a(0x550)](_0x4307d0);}),!_0x33ef33&&(_0x229c01[_0x5041c1(0x1af)][_0x5ee4a0(0x4ad)]&&_0xf069c8[_0x5041c1(0x550)](_0x229c01),_0x2e581c['ip'][_0x5ee4a0(0x4ad)]&&_0xf069c8[_0x5041c1(0x550)](_0x2e581c)),_0x225201[_0x5041c1(0x1af)][_0x5041c1(0x5d0)]&&_0xf069c8[_0x5041c1(0x550)](_0x225201),_0x5595ff['ip'][_0x5041c1(0x5d0)]&&_0xf069c8[_0x5041c1(0x550)](_0x5595ff);}_0x3df013&&_0xf069c8[_0x5041c1(0x550)]({'network':_0x5041c1(0x385),'port':_0x5041c1(0x207),'outboundTag':_0x5041c1(0x1f8),'type':'field'});if(_0x538894){const _0x10deca={[_0x34aec9?_0x5041c1(0x1d0):_0x5041c1(0x1eb)]:_0x34aec9?_0x5041c1(0x53e):_0x5041c1(0x1bc),'type':_0x5041c1(0x55f)};if(!_0x56a95a){const _0x55d57a=new URL(_0x2ddc96),_0x5b4700=_0x55d57a[_0x5041c1(0x3bc)];_0xf069c8[_0x5041c1(0x550)]({[isDomain(_0x5b4700)?_0x5041c1(0x1af):'ip']:[_0x5b4700],'network':_0x5041c1(0x389),..._0x10deca});}else _0xf069c8[_0x5041c1(0x550)]({'network':_0x5041c1(0x385),'port':'53',..._0x10deca});}return _0x34aec9?_0xf069c8[_0x5041c1(0x550)]({'network':_0x5041c1(0x466),'balancerTag':_0x5041c1(0x48b),'type':_0x5041c1(0x55f)}):_0xf069c8[_0x5041c1(0x550)]({'network':_0x5ee4a0(0x5e9),'outboundTag':_0x538894?_0x5041c1(0x292):_0x33ef33?_0x5ee4a0(0x316):_0x5041c1(0x1bc),'type':_0x5ee4a0(0x502)}),_0xf069c8;}__name(buildXrayRoutingRules,a0_0x53d8fc(0x248));function buildXrayVLESSOutbound(_0x5cdb76,_0x5b0429,_0x2cf7c4,_0x159284,_0x458cd4,_0x364462,_0x50bc64,_0x304ae1,_0x7d9b63){const _0x3e07e7=_0x4c56f3,_0x13765a=a0_0x53d8fc,_0x211773={'protocol':_0x3e07e7(0x205),'settings':{'vnext':[{'address':_0x5b0429,'port':+_0x2cf7c4,'users':[{'id':globalThis[_0x13765a(0x513)],'encryption':_0x13765a(0x1a7),'level':0x8}]}]},'streamSettings':{'network':'ws','security':_0x3e07e7(0x4ba),'sockopt':{},'wsSettings':{'headers':{'Host':_0x159284,'User-Agent':_0x13765a(0x2e5)},'path':'/'+getRandomPath(0x10)+(_0x364462?'/'+btoa(_0x364462):'')+_0x13765a(0x571)}},'tag':_0x5cdb76};globalThis[_0x13765a(0x44c)][_0x3e07e7(0x3f6)](_0x2cf7c4)&&(_0x211773[_0x13765a(0x4f3)][_0x13765a(0x271)]=_0x13765a(0x27a),_0x211773[_0x13765a(0x4f3)][_0x13765a(0x2d3)]={'allowInsecure':_0x304ae1,'fingerprint':_0x13765a(0x35c),'alpn':['h2',_0x13765a(0x525)],'serverName':_0x458cd4});const _0x4404db=_0x211773[_0x3e07e7(0x337)]['sockopt'];return _0x50bc64?_0x4404db[_0x13765a(0x34a)]=_0x13765a(0x380):(_0x4404db[_0x13765a(0x35a)]=0x1e,_0x4404db[_0x13765a(0x23f)]=!![],_0x4404db[_0x13765a(0x309)]=_0x7d9b63?_0x3e07e7(0x56c):_0x13765a(0x19a)),_0x211773;}__name(buildXrayVLESSOutbound,'buildXrayVLESSOutbound');function buildXrayTrojanOutbound(_0x5fccdb,_0x445636,_0x4c6c74,_0x5abd67,_0x598a39,_0x199072,_0x553c21,_0x26c35c,_0x55b282){const _0x598e3c=_0x4c56f3,_0x2aa49b=a0_0x53d8fc,_0xd974ca={'protocol':_0x598e3c(0x3b4),'settings':{'servers':[{'address':_0x445636,'port':+_0x4c6c74,'password':globalThis[_0x598e3c(0x1e0)],'level':0x8}]},'streamSettings':{'network':'ws','security':_0x2aa49b(0x1a7),'sockopt':{},'wsSettings':{'headers':{'Host':_0x5abd67},'path':_0x2aa49b(0x379)+getRandomPath(0x10)+(_0x199072?'/'+btoa(_0x199072):'')+_0x2aa49b(0x571)}},'tag':_0x5fccdb};globalThis[_0x2aa49b(0x44c)][_0x598e3c(0x3f6)](_0x4c6c74)&&(_0xd974ca[_0x2aa49b(0x4f3)][_0x2aa49b(0x271)]=_0x2aa49b(0x27a),_0xd974ca[_0x2aa49b(0x4f3)][_0x598e3c(0x21e)]={'allowInsecure':_0x26c35c,'fingerprint':_0x2aa49b(0x35c),'alpn':['h2',_0x2aa49b(0x525)],'serverName':_0x598a39});const _0xa4162=_0xd974ca['streamSettings'][_0x2aa49b(0x4f6)];return _0x553c21?_0xa4162[_0x2aa49b(0x34a)]=_0x598e3c(0x316):(_0xa4162[_0x598e3c(0x53c)]=0x1e,_0xa4162[_0x2aa49b(0x23f)]=!![],_0xa4162[_0x598e3c(0x309)]=_0x55b282?_0x2aa49b(0x5ac):_0x2aa49b(0x19a)),_0xd974ca;}__name(buildXrayTrojanOutbound,a0_0x53d8fc(0x1b1));function buildXrayWarpOutbound(_0x5b7257,_0x8cf633,_0x1013ea,_0x4d8e72,_0x42d090){const _0x20b533=_0x4c56f3,_0x2ddf32=a0_0x53d8fc,{warpEnableIPv6:_0x33743c,nikaNGNoiseMode:_0x1396b7,noiseCountMin:_0x5e71ca,noiseCountMax:_0x28f0b7,noiseSizeMin:_0x20aabb,noiseSizeMax:_0xa51ac2,noiseDelayMin:_0x32c40a,noiseDelayMax:_0x476be8}=_0x5b7257,{warpIPv6:_0x40ec07,reserved:_0x1ccc9c,publicKey:_0xa1c41e,privateKey:_0x35fdff}=extractWireguardParams(_0x8cf633,_0x4d8e72),_0x6c0163={'protocol':_0x2ddf32(0x261),'settings':{'address':[_0x2ddf32(0x3c5),_0x40ec07],'mtu':0x500,'peers':[{'endpoint':_0x1013ea,'publicKey':_0xa1c41e,'keepAlive':0x5}],'reserved':base64ToDecimal(_0x1ccc9c),'secretKey':_0x35fdff},'streamSettings':{'sockopt':{'dialerProxy':_0x2ddf32(0x1bc),'domainStrategy':_0x33743c?_0x2ddf32(0x5ac):_0x2ddf32(0x19a)}},'tag':_0x4d8e72?_0x20b533(0x302):_0x2ddf32(0x1bc)};return!_0x4d8e72&&delete _0x6c0163[_0x20b533(0x337)],_0x42d090===_0x2ddf32(0x4d7)&&!_0x4d8e72&&Object['assign'](_0x6c0163[_0x20b533(0x3d1)],{'wnoise':_0x1396b7,'wnoisecount':_0x5e71ca===_0x28f0b7?_0x5e71ca:_0x5e71ca+'-'+_0x28f0b7,'wpayloadsize':_0x20aabb===_0xa51ac2?_0x20aabb:_0x20aabb+'-'+_0xa51ac2,'wnoisedelay':_0x32c40a===_0x476be8?_0x32c40a:_0x32c40a+'-'+_0x476be8}),_0x6c0163;}__name(buildXrayWarpOutbound,a0_0x53d8fc(0x260));function buildXrayChainOutbound(_0x4cf388,_0x3e4ab){const _0x494226=_0x4c56f3,_0x3fe492=a0_0x53d8fc;if([_0x3fe492(0x196),_0x3fe492(0x3ae)][_0x3fe492(0x4ac)](_0x4cf388[_0x3fe492(0x42d)])){const {protocol:_0x228cb5,server:_0xfdc46c,port:_0x1cf039,user:_0x289a29,pass:_0x3bf3b7}=_0x4cf388;return{'protocol':_0x228cb5,'settings':{'servers':[{'address':_0xfdc46c,'port':+_0x1cf039,'users':[{'user':_0x289a29,'pass':_0x3bf3b7,'level':0x8}]}]},'streamSettings':{'network':_0x494226(0x5e6),'sockopt':{'dialerProxy':_0x3fe492(0x1bc),'domainStrategy':_0x3e4ab?_0x3fe492(0x5ac):_0x3fe492(0x19a),'tcpNoDelay':!![]}},'mux':{'enabled':!![],'concurrency':0x8,'xudpConcurrency':0x10,'xudpProxyUDP443':_0x3fe492(0x1bf)},'tag':_0x3fe492(0x292)};}const {server:_0x110738,port:_0x461407,uuid:_0x47367c,flow:_0x4c1804,security:_0x2e7c46,type:_0x45596d,sni:_0x2181e5,fp:_0x3ef0fc,alpn:_0xa93bac,pbk:_0x13a783,sid:_0x5bdbb1,spx:_0x3f20da,headerType:_0x1ff20f,host:_0x3157f,path:_0x3c62e8,authority:_0xf59d4,serviceName:_0x2bfc38,mode:_0x41b312}=_0x4cf388,_0x369835={'mux':{'concurrency':0x8,'enabled':!![],'xudpConcurrency':0x10,'xudpProxyUDP443':_0x3fe492(0x1bf)},'protocol':_0x3fe492(0x3bd),'settings':{'vnext':[{'address':_0x110738,'port':+_0x461407,'users':[{'encryption':_0x494226(0x4ba),'flow':_0x4c1804,'id':_0x47367c,'level':0x8,'security':_0x3fe492(0x1d7)}]}]},'streamSettings':{'network':_0x45596d,'security':_0x2e7c46,'sockopt':{'dialerProxy':_0x3fe492(0x1bc),'domainStrategy':_0x3e4ab?_0x3fe492(0x5ac):_0x3fe492(0x19a),'tcpNoDelay':!![]}},'tag':_0x3fe492(0x292)};if(_0x2e7c46===_0x3fe492(0x27a)){const _0x16699e=_0xa93bac?_0xa93bac?.[_0x3fe492(0x18a)](','):[];_0x369835[_0x3fe492(0x4f3)][_0x494226(0x21e)]={'allowInsecure':![],'fingerprint':_0x3ef0fc,'alpn':_0x16699e,'serverName':_0x2181e5};}_0x2e7c46==='reality'&&(delete _0x369835[_0x3fe492(0x4be)],_0x369835[_0x3fe492(0x4f3)][_0x3fe492(0x1f0)]={'fingerprint':_0x3ef0fc,'publicKey':_0x13a783,'serverName':_0x2181e5,'shortId':_0x5bdbb1,'spiderX':_0x3f20da});if(_0x1ff20f===_0x3fe492(0x3ae)){const _0x1d18cf=_0x3c62e8?.[_0x494226(0x331)](','),_0x1c86d0=_0x3157f?.[_0x3fe492(0x18a)](',');_0x369835['streamSettings'][_0x494226(0x592)]={'header':{'request':{'headers':{'Host':_0x1c86d0},'method':_0x3fe492(0x2e2),'path':_0x1d18cf,'version':_0x3fe492(0x1dc)},'response':{'headers':{'Content-Type':[_0x3fe492(0x591)]},'reason':'OK','status':_0x3fe492(0x25c),'version':_0x3fe492(0x1dc)},'type':_0x3fe492(0x3ae)}};}if(_0x45596d===_0x3fe492(0x389)&&_0x2e7c46!==_0x3fe492(0x2ea)&&!_0x1ff20f)_0x369835[_0x3fe492(0x4f3)][_0x3fe492(0x3c9)]={'header':{'type':_0x3fe492(0x1a7)}};if(_0x45596d==='ws')_0x369835[_0x3fe492(0x4f3)][_0x3fe492(0x33a)]={'headers':{'Host':_0x3157f},'path':_0x3c62e8};return _0x45596d===_0x3fe492(0x524)&&(delete _0x369835[_0x3fe492(0x4be)],_0x369835[_0x3fe492(0x4f3)][_0x3fe492(0x54a)]={'authority':_0xf59d4,'multiMode':_0x41b312==='multi','serviceName':_0x2bfc38}),_0x369835;}__name(buildXrayChainOutbound,a0_0x53d8fc(0x5b3));function buildXrayConfig(_0x34f6b6,_0x501641,_0x4f1a0b,_0x46a6e6,_0x3bda1e,_0x175c9a,_0x6a370d){const _0x2d4f31=_0x4c56f3,_0x32a4bd=a0_0x53d8fc,{vlessTrojanFakeDNS:_0x155ec0,enableIPv6:_0x53526d,warpFakeDNS:_0x4cf66c,bestVLESSTrojanInterval:_0x19a26c,bestWarpInterval:_0x559330,lengthMin:_0x31c248,lengthMax:_0x253646,intervalMin:_0x1e1545,intervalMax:_0x2e2959,fragmentPackets:_0x4d03d0}=_0x34f6b6,_0x1290e1=_0x155ec0&&!_0x6a370d||_0x4cf66c&&_0x6a370d,_0x36eb72=structuredClone(xrayConfigTemp);_0x36eb72[_0x2d4f31(0x541)]=_0x501641,_0x1290e1&&(_0x36eb72[_0x2d4f31(0x437)][0x0][_0x32a4bd(0x303)][_0x2d4f31(0x20b)][_0x2d4f31(0x25b)](_0x2d4f31(0x2f7)),_0x36eb72[_0x32a4bd(0x4cd)][0x1][_0x32a4bd(0x303)][_0x32a4bd(0x38e)][_0x32a4bd(0x550)](_0x32a4bd(0x59d)));if(_0x4f1a0b){const _0xb54700=_0x36eb72[_0x2d4f31(0x233)][0x0]['settings'][_0x32a4bd(0x380)];_0xb54700[_0x32a4bd(0x5d0)]=_0x31c248+'-'+_0x253646,_0xb54700[_0x32a4bd(0x1cf)]=_0x1e1545+'-'+_0x2e2959,_0xb54700[_0x32a4bd(0x52b)]=_0x4d03d0,_0x36eb72[_0x32a4bd(0x556)][0x0][_0x2d4f31(0x3d1)][_0x32a4bd(0x309)]=_0x53526d?_0x32a4bd(0x5ac):_0x2d4f31(0x49d);}else _0x36eb72['outbounds'][_0x32a4bd(0x5f3)]();if(_0x46a6e6){const _0x16c86c=_0x6a370d?_0x559330:_0x19a26c;_0x36eb72[_0x32a4bd(0x2f2)][_0x32a4bd(0x2fc)]=_0x16c86c+'s';if(_0x175c9a)_0x36eb72[_0x2d4f31(0x5b4)]['balancers'][0x0][_0x32a4bd(0x5fa)]=_0x2d4f31(0x515);if(_0x3bda1e){_0x36eb72[_0x2d4f31(0x2ab)][_0x32a4bd(0x4ee)][_0x32a4bd(0x550)](_0x2d4f31(0x302));const _0x1b9751=structuredClone(_0x36eb72[_0x32a4bd(0x5ab)][_0x32a4bd(0x307)][0x0]);if(_0x175c9a)_0x1b9751[_0x32a4bd(0x5fa)]=_0x32a4bd(0x199);_0x36eb72[_0x32a4bd(0x5ab)][_0x32a4bd(0x307)][_0x2d4f31(0x25b)]({..._0x1b9751,'selector':[_0x2d4f31(0x302)]}),_0x36eb72[_0x32a4bd(0x5ab)][_0x32a4bd(0x307)][0x0][_0x32a4bd(0x240)]=_0x2d4f31(0x4b7);}}else delete _0x36eb72[_0x32a4bd(0x2f2)],delete _0x36eb72[_0x2d4f31(0x5b4)][_0x32a4bd(0x307)];return _0x36eb72;}__name(buildXrayConfig,a0_0x53d8fc(0x422));async function buildXrayBestPingConfig(_0x23a128,_0x52427d,_0x29b1e8,_0x441f41,_0x29228f){const _0x9c9431=a0_0x53d8fc,_0x23f31f=_0x29228f?_0x9c9431(0x460):_0x9c9431(0x5b4),_0x55c35e=buildXrayConfig(_0x23a128,_0x23f31f,_0x29228f,!![],_0x29b1e8,!![]);return _0x55c35e[_0x9c9431(0x589)]=await buildXrayDNS(_0x23a128,_0x52427d,void 0x0,![],![]),_0x55c35e[_0x9c9431(0x5ab)][_0x9c9431(0x36f)]=buildXrayRoutingRules(_0x23a128,_0x52427d,_0x29b1e8,!![],![],![]),_0x55c35e[_0x9c9431(0x556)][_0x9c9431(0x597)](..._0x441f41),_0x55c35e;}__name(buildXrayBestPingConfig,a0_0x53d8fc(0x432));async function buildXrayBestFragmentConfig(_0x7f748f,_0x2b01d8,_0x47d37f,_0x4ff8d4){const _0x5980b5=_0x4c56f3,_0x1a32a8=a0_0x53d8fc,_0x1f3efa=[_0x1a32a8(0x388),_0x1a32a8(0x24b),_0x1a32a8(0x4ce),_0x1a32a8(0x239),_0x5980b5(0x432),_0x1a32a8(0x3a1),_0x1a32a8(0x43a),_0x1a32a8(0x41d),_0x5980b5(0x353),_0x1a32a8(0x200),_0x1a32a8(0x29b),_0x1a32a8(0x558),'40-60',_0x1a32a8(0x2f5),_0x5980b5(0x47c),_0x1a32a8(0x203),_0x5980b5(0x562),'100-200'],_0x41cc81=buildXrayConfig(_0x7f748f,_0x5980b5(0x282),!![],!![],_0x47d37f,![],![]);_0x41cc81[_0x1a32a8(0x589)]=await buildXrayDNS(_0x7f748f,[],_0x2b01d8,![],![]),_0x41cc81[_0x5980b5(0x5b4)][_0x1a32a8(0x36f)]=buildXrayRoutingRules(_0x7f748f,[],_0x47d37f,!![],![],![]);const _0x4336df=_0x41cc81[_0x1a32a8(0x556)][_0x5980b5(0x3a7)](),_0x5e72bd=[];return _0x1f3efa[_0x1a32a8(0x5f9)]((_0x27549b,_0xb8e711)=>{const _0x2dd629=_0x5980b5,_0x487f8c=_0x1a32a8;if(_0x47d37f){const _0x17a4c1=structuredClone(_0x47d37f);_0x17a4c1[_0x487f8c(0x240)]=_0x487f8c(0x234)+(_0xb8e711+0x1),_0x17a4c1[_0x2dd629(0x337)][_0x487f8c(0x4f6)][_0x487f8c(0x34a)]=_0x2dd629(0x208)+(_0xb8e711+0x1),_0x5e72bd[_0x487f8c(0x550)](_0x17a4c1);}const _0x1414fd=structuredClone(_0x4ff8d4[_0x47d37f?0x1:0x0]);_0x1414fd[_0x487f8c(0x240)]=_0x487f8c(0x429)+(_0xb8e711+0x1),_0x1414fd[_0x487f8c(0x4f3)][_0x487f8c(0x4f6)][_0x487f8c(0x34a)]=_0x487f8c(0x283)+(_0xb8e711+0x1);const _0x3f5e2f=structuredClone(_0x4336df);_0x3f5e2f[_0x487f8c(0x240)]=_0x487f8c(0x283)+(_0xb8e711+0x1),_0x3f5e2f[_0x487f8c(0x229)][_0x487f8c(0x380)][_0x487f8c(0x5d0)]=_0x27549b,_0x3f5e2f[_0x487f8c(0x229)][_0x487f8c(0x380)][_0x487f8c(0x1cf)]=_0x2dd629(0x1f3),_0x5e72bd[_0x487f8c(0x550)](_0x1414fd,_0x3f5e2f);}),_0x41cc81[_0x5980b5(0x233)][_0x1a32a8(0x597)](..._0x5e72bd),_0x41cc81;}__name(buildXrayBestFragmentConfig,a0_0x53d8fc(0x552));async function buildXrayWorkerLessConfig(_0x156e22){const _0x2bc335=_0x4c56f3,_0x1ebe4b=a0_0x53d8fc,_0x339c8e=buildXrayConfig(_0x156e22,'💦\x20BPB\x20F\x20-\x20WorkerLess\x20⭐',!![],![],![],![],![]);_0x339c8e[_0x1ebe4b(0x589)]=await buildXrayDNS(_0x156e22,[],void 0x0,!![]),_0x339c8e[_0x1ebe4b(0x5ab)][_0x1ebe4b(0x36f)]=buildXrayRoutingRules(_0x156e22,[],![],![],!![],![]);const _0x207b59=buildXrayVLESSOutbound(_0x1ebe4b(0x3b2),_0x1ebe4b(0x437),_0x1ebe4b(0x207),globalThis[_0x2bc335(0x330)],_0x2bc335(0x4a3),_0x1ebe4b(0x437),'',!![],![]);return delete _0x207b59[_0x2bc335(0x337)][_0x1ebe4b(0x4f6)],_0x207b59[_0x1ebe4b(0x4f3)][_0x1ebe4b(0x33a)][_0x1ebe4b(0x1a6)]='/',_0x339c8e[_0x1ebe4b(0x556)][_0x1ebe4b(0x550)](_0x207b59),_0x339c8e;}__name(buildXrayWorkerLessConfig,a0_0x53d8fc(0x482));async function getXrayCustomConfigs(_0x348b81,_0x1a201c,_0x3551e3){const _0x152399=_0x4c56f3,_0x3db3ef=a0_0x53d8fc,{proxySettings:_0x46eab0}=await getDataset(_0x348b81,_0x1a201c);let _0x4c2e69=[],_0x54d19c=[],_0x350865=[],_0x654bd2;const {proxyIP:_0x4e6d72,outProxy:_0x5e5168,outProxyParams:_0x2fbb77,cleanIPs:_0x1a2bd8,enableIPv6:_0x4186ed,customCdnAddrs:_0x1d0448,customCdnHost:_0x3a589b,customCdnSni:_0x16770a,vlessConfigs:_0x547b1e,trojanConfigs:_0x1d99ed,ports:_0x52b532}=_0x46eab0;if(_0x5e5168){const _0x165572=JSON[_0x3db3ef(0x4d8)](_0x2fbb77);try{_0x654bd2=buildXrayChainOutbound(_0x165572,_0x4186ed);}catch(_0x527353){console[_0x3db3ef(0x2c9)](_0x3db3ef(0x2aa),_0x527353),_0x654bd2=void 0x0,await _0x1a201c[_0x3db3ef(0x334)][_0x3db3ef(0x3d2)](_0x3db3ef(0x545),JSON[_0x152399(0x5c7)]({..._0x46eab0,'outProxy':'','outProxyParams':{}}));}}const _0x5a0aac=await getConfigAddresses(_0x1a2bd8,_0x4186ed),_0x3f9561=_0x1d0448?_0x1d0448[_0x3db3ef(0x18a)](','):[],_0x5b3ced=_0x3551e3?[..._0x5a0aac]:[..._0x5a0aac,..._0x3f9561],_0x1a4030=_0x52b532[_0x152399(0x528)](_0x32f768=>_0x3551e3?globalThis[_0x3db3ef(0x44c)][_0x3db3ef(0x4ac)](_0x32f768):!![]);_0x547b1e&&_0x350865[_0x3db3ef(0x550)](_0x3db3ef(0x484)),_0x1d99ed&&_0x350865[_0x3db3ef(0x550)]('Trojan');let _0x10f925=0x1;for(const _0x3d0c4e of _0x350865){let _0x3565b4=0x1;for(const _0x90c59e of _0x1a4030){for(const _0xef59c8 of _0x5b3ced){const _0x35a75b=_0x3f9561['includes'](_0xef59c8),_0x47ae37=_0x35a75b?'C':_0x3551e3?'F':'',_0x12cafd=_0x35a75b?_0x16770a:randomUpperCase(globalThis[_0x152399(0x1df)]),_0x1a53e3=_0x35a75b?_0x3a589b:globalThis[_0x3db3ef(0x486)],_0x4501aa=generateRemark(_0x3565b4,_0x90c59e,_0xef59c8,_0x1a2bd8,_0x3d0c4e,_0x47ae37),_0x18287b=buildXrayConfig(_0x46eab0,_0x4501aa,_0x3551e3,![],_0x654bd2,![],![]);_0x18287b[_0x152399(0x219)]=await buildXrayDNS(_0x46eab0,[_0xef59c8],void 0x0),_0x18287b[_0x3db3ef(0x5ab)][_0x3db3ef(0x36f)]=buildXrayRoutingRules(_0x46eab0,[_0xef59c8],_0x654bd2,![],![],![]);const _0x559dbd=_0x3d0c4e===_0x3db3ef(0x484)?buildXrayVLESSOutbound(_0x3db3ef(0x1bc),_0xef59c8,_0x90c59e,_0x1a53e3,_0x12cafd,_0x4e6d72,_0x3551e3,_0x35a75b,_0x4186ed):buildXrayTrojanOutbound(_0x3db3ef(0x1bc),_0xef59c8,_0x90c59e,_0x1a53e3,_0x12cafd,_0x4e6d72,_0x3551e3,_0x35a75b,_0x4186ed);_0x18287b[_0x3db3ef(0x556)][_0x152399(0x2d8)]({..._0x559dbd}),_0x559dbd[_0x3db3ef(0x240)]=_0x3db3ef(0x429)+_0x10f925;if(_0x654bd2){_0x18287b[_0x152399(0x233)][_0x3db3ef(0x597)](_0x654bd2);const _0x1702a5=structuredClone(_0x654bd2);_0x1702a5[_0x3db3ef(0x240)]=_0x3db3ef(0x234)+_0x10f925,_0x1702a5[_0x152399(0x337)][_0x3db3ef(0x4f6)][_0x3db3ef(0x34a)]=_0x3db3ef(0x429)+_0x10f925,_0x54d19c[_0x3db3ef(0x550)](_0x1702a5);}_0x54d19c[_0x3db3ef(0x550)](_0x559dbd),_0x4c2e69[_0x3db3ef(0x550)](_0x18287b),_0x10f925++,_0x3565b4++;}}}const _0x2d9218=await buildXrayBestPingConfig(_0x46eab0,_0x5b3ced,_0x654bd2,_0x54d19c,_0x3551e3),_0x2f2fce=[..._0x4c2e69,_0x2d9218];if(_0x3551e3){const _0x2f34e0=await buildXrayBestFragmentConfig(_0x46eab0,globalThis[_0x3db3ef(0x486)],_0x654bd2,_0x54d19c),_0x5713b8=await buildXrayWorkerLessConfig(_0x46eab0);_0x2f2fce[_0x3db3ef(0x550)](_0x2f34e0,_0x5713b8);}return new Response(JSON[_0x3db3ef(0x294)](_0x2f2fce,null,0x4),{'status':0xc8,'headers':{'Content-Type':_0x3db3ef(0x28f),'Cache-Control':_0x3db3ef(0x35e),'CDN-Cache-Control':_0x3db3ef(0x5af)}});}__name(getXrayCustomConfigs,a0_0x53d8fc(0x362));async function getXrayWarpConfigs(_0x149eba,_0xc9590f,_0x2d1ccc){const _0xf54cf5=_0x4c56f3,_0x4a2152=a0_0x53d8fc,{proxySettings:_0x51a139,warpConfigs:_0x5c367d}=await getDataset(_0x149eba,_0xc9590f),_0x1ec859=[],_0x2f2e21=[],_0xc2589f=[],_0x34c70e=[],{warpEndpoints:_0x16e0b8}=_0x51a139,_0x2afd1c=_0x16e0b8[_0xf54cf5(0x331)](',')[_0x4a2152(0x46e)](_0x9f6b84=>_0x9f6b84[_0xf54cf5(0x331)](':')[0x0])[_0x4a2152(0x469)](_0x1c556c=>isDomain(_0x1c556c)),_0x48f6cf=_0x2d1ccc===_0x4a2152(0x4d7)?_0x4a2152(0x514):'\x20';for(const [_0x54d7ec,_0x1aca04]of _0x16e0b8[_0xf54cf5(0x331)](',')[_0x4a2152(0x305)]()){const _0x3b2112=_0x1aca04[_0xf54cf5(0x331)](':')[0x0],_0x1d9081=buildXrayConfig(_0x51a139,_0xf54cf5(0x1af)+(_0x54d7ec+0x1)+_0x4a2152(0x3fe)+_0x48f6cf+_0xf54cf5(0x5c3),![],![],![],![],!![]),_0x450214=buildXrayConfig(_0x51a139,_0x4a2152(0x2af)+(_0x54d7ec+0x1)+_0x4a2152(0x527)+_0x48f6cf+'🌍',![],![],!![],![],!![]);_0x1d9081[_0x4a2152(0x589)]=_0x450214[_0x4a2152(0x589)]=await buildXrayDNS(_0x51a139,[_0x3b2112],void 0x0,![],!![]),_0x1d9081[_0xf54cf5(0x5b4)][_0x4a2152(0x36f)]=buildXrayRoutingRules(_0x51a139,[_0x3b2112],![],![],![],!![]),_0x450214[_0x4a2152(0x5ab)][_0x4a2152(0x36f)]=buildXrayRoutingRules(_0x51a139,[_0x3b2112],!![],![],![],!![]);const _0x2250e7=buildXrayWarpOutbound(_0x51a139,_0x5c367d,_0x1aca04,![],_0x2d1ccc),_0x4499e2=buildXrayWarpOutbound(_0x51a139,_0x5c367d,_0x1aca04,!![],_0x2d1ccc);_0x1d9081[_0x4a2152(0x556)][_0x4a2152(0x597)](_0x2250e7),_0x450214[_0x4a2152(0x556)][_0x4a2152(0x597)](_0x4499e2,_0x2250e7),_0x1ec859[_0x4a2152(0x550)](_0x1d9081),_0x2f2e21[_0xf54cf5(0x25b)](_0x450214);const _0x187526=structuredClone(_0x2250e7);_0x187526[_0x4a2152(0x240)]=_0x4a2152(0x429)+(_0x54d7ec+0x1);const _0x271c10=structuredClone(_0x4499e2);_0x271c10[_0xf54cf5(0x346)]=_0x4a2152(0x234)+(_0x54d7ec+0x1),_0x271c10[_0x4a2152(0x4f3)][_0x4a2152(0x4f6)][_0xf54cf5(0x476)]=_0x4a2152(0x429)+(_0x54d7ec+0x1),_0xc2589f[_0x4a2152(0x550)](_0x187526),_0x34c70e[_0x4a2152(0x550)](_0x271c10);}const _0x46be30=await buildXrayDNS(_0x51a139,_0x2afd1c,void 0x0,![],!![]),_0x570f2a=buildXrayConfig(_0x51a139,_0x4a2152(0x4b6)+_0x48f6cf+_0x4a2152(0x4cf),![],!![],![],![],!![]);_0x570f2a[_0x4a2152(0x589)]=_0x46be30,_0x570f2a[_0x4a2152(0x5ab)][_0x4a2152(0x36f)]=buildXrayRoutingRules(_0x51a139,_0x2afd1c,![],!![],![],!![]),_0x570f2a[_0x4a2152(0x556)][_0x4a2152(0x597)](..._0xc2589f);const _0x1405a9=buildXrayConfig(_0x51a139,_0x4a2152(0x29e)+_0x48f6cf+_0x4a2152(0x4cf),![],!![],!![],![],!![]);_0x1405a9[_0x4a2152(0x589)]=_0x46be30,_0x1405a9[_0xf54cf5(0x5b4)][_0x4a2152(0x36f)]=buildXrayRoutingRules(_0x51a139,_0x2afd1c,!![],!![],![],!![]),_0x1405a9[_0x4a2152(0x556)][_0x4a2152(0x597)](..._0x34c70e,..._0xc2589f);const _0x3056c7=[..._0x1ec859,..._0x2f2e21,_0x570f2a,_0x1405a9];return new Response(JSON['stringify'](_0x3056c7,null,0x4),{'status':0xc8,'headers':{'Content-Type':_0xf54cf5(0x39c),'Cache-Control':_0x4a2152(0x35e),'CDN-Cache-Control':_0x4a2152(0x5af)}});}__name(getXrayWarpConfigs,_0x4c56f3(0x4ed));var xrayConfigTemp={'remarks':'','log':{'loglevel':a0_0x53d8fc(0x54e)},'dns':{},'inbounds':[{'port':0x2a38,'protocol':a0_0x53d8fc(0x196),'settings':{'auth':_0x4c56f3(0x32e),'udp':!![],'userLevel':0x8},'sniffing':{'destOverride':[a0_0x53d8fc(0x3ae),a0_0x53d8fc(0x27a)],'enabled':!![],'routeOnly':!![]},'tag':a0_0x53d8fc(0x2d2)},{'port':0x2a39,'protocol':a0_0x53d8fc(0x3ae),'settings':{'auth':a0_0x53d8fc(0x452),'udp':!![],'userLevel':0x8},'sniffing':{'destOverride':[_0x4c56f3(0x368),_0x4c56f3(0x1cb)],'enabled':!![],'routeOnly':!![]},'tag':_0x4c56f3(0x1f9)},{'listen':a0_0x53d8fc(0x5ba),'port':0x2a65,'protocol':a0_0x53d8fc(0x5d8),'settings':{'address':a0_0x53d8fc(0x42b),'network':a0_0x53d8fc(0x466),'port':0x35},'tag':a0_0x53d8fc(0x3d1)}],'outbounds':[{'tag':a0_0x53d8fc(0x380),'protocol':a0_0x53d8fc(0x5ce),'settings':{'fragment':{'packets':a0_0x53d8fc(0x5ec),'length':'','interval':''},'domainStrategy':_0x4c56f3(0x2f4)},'streamSettings':{'sockopt':{'tcpKeepAliveIdle':0x1e,'tcpNoDelay':!![]}}},{'protocol':'dns','tag':_0x4c56f3(0x2d6)},{'protocol':a0_0x53d8fc(0x5ce),'settings':{},'tag':a0_0x53d8fc(0x2a9)},{'protocol':a0_0x53d8fc(0x4d3),'settings':{'response':{'type':a0_0x53d8fc(0x3ae)}},'tag':_0x4c56f3(0x35d)}],'policy':{'levels':{0x8:{'connIdle':0x12c,'downlinkOnly':0x1,'handshake':0x4,'uplinkOnly':0x1}},'system':{'statsOutboundUplink':!![],'statsOutboundDownlink':!![]}},'routing':{'domainStrategy':_0x4c56f3(0x203),'rules':[],'balancers':[{'tag':a0_0x53d8fc(0x48b),'selector':[a0_0x53d8fc(0x3fa)],'strategy':{'type':a0_0x53d8fc(0x1ed)}}]},'observatory':{'probeInterval':a0_0x53d8fc(0x530),'probeURL':_0x4c56f3(0x3b8),'subjectSelector':[a0_0x53d8fc(0x3fa)],'EnableConcurrency':!![]},'stats':{}};function buildSingBoxDNS(_0x25aaf0,_0x163230,_0x56471c,_0x1f368e){const _0x348ac8=_0x4c56f3,_0x52f67f=a0_0x53d8fc,{remoteDNS:_0x25e9e3,localDNS:_0x4c1386,vlessTrojanFakeDNS:_0x503b87,enableIPv6:_0x4d408f,warpFakeDNS:_0x28fa87,warpEnableIPv6:_0x2d408f,bypassIran:_0x1900bc,bypassChina:_0x37d602,bypassRussia:_0x2faad2,blockAds:_0x24dcc0,blockPorn:_0x30cbbe,customBypassRules:_0x577345,customBlockRules:_0x3339cd}=_0x25aaf0;let _0x39b9e7;const _0x243663=_0x503b87&&!_0x56471c||_0x28fa87&&_0x56471c,_0x195c4c=_0x4d408f&&!_0x56471c||_0x2d408f&&_0x56471c,_0x58ab86=_0x577345[_0x52f67f(0x18a)](',')[_0x52f67f(0x469)](_0x2488f8=>isDomain(_0x2488f8)),_0x197c5d=_0x3339cd[_0x348ac8(0x331)](',')[_0x52f67f(0x469)](_0x4ba518=>isDomain(_0x4ba518)),_0x2631db=[{'rule':_0x1900bc,'type':'direct','geosite':_0x52f67f(0x4d0),'geoip':_0x348ac8(0x4ea)},{'rule':_0x37d602,'type':_0x52f67f(0x2a9),'geosite':_0x52f67f(0x438),'geoip':_0x348ac8(0x54e)},{'rule':_0x2faad2,'type':_0x52f67f(0x2a9),'geosite':_0x52f67f(0x441),'geoip':_0x348ac8(0x565)},{'rule':!![],'type':_0x348ac8(0x35d),'geosite':'geosite-malware'},{'rule':!![],'type':_0x348ac8(0x35d),'geosite':_0x52f67f(0x473)},{'rule':!![],'type':_0x348ac8(0x35d),'geosite':_0x348ac8(0x200)},{'rule':_0x24dcc0,'type':_0x348ac8(0x35d),'geosite':_0x52f67f(0x289)},{'rule':_0x30cbbe,'type':_0x52f67f(0x1f8),'geosite':_0x52f67f(0x3f4)}],_0x492635=[{'address':_0x56471c?_0x52f67f(0x42b):_0x25e9e3,'address_resolver':_0x52f67f(0x2b5),'strategy':_0x195c4c?_0x52f67f(0x557):_0x52f67f(0x317),'detour':_0x1f368e,'tag':_0x52f67f(0x4ef)},{'address':_0x4c1386,'strategy':_0x195c4c?_0x52f67f(0x557):_0x52f67f(0x317),'detour':_0x52f67f(0x2a9),'tag':_0x348ac8(0x570)},{'address':_0x52f67f(0x4dc),'tag':_0x52f67f(0x24f)}];let _0x2695ad;if(_0x56471c)_0x2695ad={'outbound':_0x52f67f(0x30e),'server':_0x348ac8(0x570)};else{const _0x395ccd=_0x163230[_0x348ac8(0x528)](_0x120275=>isDomain(_0x120275)),_0x436e89=[...new Set(_0x395ccd)];_0x2695ad={'domain':_0x436e89,'server':_0x52f67f(0x2b5)};}const _0x37781d=[_0x2695ad,{'clash_mode':_0x52f67f(0x5f1),'server':_0x348ac8(0x570)},{'clash_mode':_0x52f67f(0x1d8),'server':_0x52f67f(0x4ef)}];let _0x6be9f7={'disable_cache':!![],'rule_set':[],'server':_0x52f67f(0x24f)};_0x2631db[_0x52f67f(0x5f9)](({rule:_0x583b84,type:_0x1c6ac0,geosite:_0x3aa78a,geoip:_0x3d2cf0})=>{const _0x1a1bf5=_0x348ac8,_0x52f666=_0x52f67f;_0x583b84&&_0x1c6ac0===_0x52f666(0x2a9)&&_0x37781d[_0x52f666(0x550)]({'type':_0x1a1bf5(0x497),'mode':_0x52f666(0x19b),'rules':[{'rule_set':_0x3aa78a},{'rule_set':_0x3d2cf0}],'server':_0x52f666(0x2b5)}),_0x583b84&&_0x1c6ac0===_0x52f666(0x1f8)&&_0x6be9f7[_0x52f666(0x433)][_0x52f666(0x550)](_0x3aa78a);}),_0x37781d[_0x52f67f(0x550)](_0x6be9f7);const _0x590f09=__name(_0x54360d=>({'domain_suffix':[],'server':_0x54360d}),_0x52f67f(0x48a));let _0x33d12e,_0x13285e;_0x58ab86[_0x52f67f(0x5d0)]&&(_0x33d12e=_0x590f09(_0x52f67f(0x2b5)),_0x58ab86[_0x52f67f(0x5f9)](_0x21ed36=>{const _0x2ad42b=_0x52f67f;_0x33d12e['domain_suffix'][_0x2ad42b(0x550)](_0x21ed36);}),_0x37781d[_0x348ac8(0x25b)](_0x33d12e)),_0x197c5d[_0x52f67f(0x5d0)]&&(_0x13285e=_0x590f09(_0x52f67f(0x24f)),_0x197c5d[_0x52f67f(0x5f9)](_0x403b3c=>{const _0xf121fb=_0x348ac8,_0x51e726=_0x52f67f;_0x13285e[_0x51e726(0x290)][_0xf121fb(0x25b)](_0x403b3c);}),_0x37781d[_0x52f67f(0x550)](_0x13285e));if(_0x243663){_0x492635[_0x52f67f(0x550)]({'address':_0x348ac8(0x55e),'tag':_0x52f67f(0x31b)}),_0x37781d[_0x52f67f(0x550)]({'disable_cache':!![],'inbound':_0x348ac8(0x2bd),'query_type':['A',_0x52f67f(0x496)],'server':_0x52f67f(0x31b)}),_0x39b9e7={'enabled':!![],'inet4_range':_0x348ac8(0x1b3)};if(_0x195c4c)_0x39b9e7[_0x52f67f(0x262)]=_0x52f67f(0x3fb);}return{'servers':_0x492635,'rules':_0x37781d,'fakeip':_0x39b9e7};}__name(buildSingBoxDNS,_0x4c56f3(0x4d2));function buildSingBoxRoutingRules(_0x592acc){const _0x5f2295=_0x4c56f3,_0x3afa9b=a0_0x53d8fc,{bypassLAN:_0x162a74,bypassIran:_0x185769,bypassChina:_0x3eb118,bypassRussia:_0x2851a5,blockAds:_0xbaf2fd,blockPorn:_0x34f053,blockUDP443:_0x33844e,customBypassRules:_0x456b66,customBlockRules:_0x1ae7d3}=_0x592acc,_0x12ed14=_0x456b66?_0x456b66[_0x5f2295(0x331)](','):[],_0x32b411=_0x1ae7d3?_0x1ae7d3['split'](','):[],_0x49da8e=[{'type':_0x3afa9b(0x411),'mode':'or','rules':[{'inbound':_0x3afa9b(0x3d1)},{'network':_0x5f2295(0x375),'port':0x35}],'outbound':_0x3afa9b(0x3a2)},{'clash_mode':_0x3afa9b(0x5f1),'outbound':_0x5f2295(0x26b)},{'clash_mode':_0x3afa9b(0x1d8),'outbound':_0x3afa9b(0x376)}],_0x389260=[{'rule':_0x185769,'type':_0x5f2295(0x26b),'ruleSet':{'geosite':'geosite-ir','geoip':_0x3afa9b(0x184),'geositeURL':_0x3afa9b(0x57b),'geoipURL':'https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-ir.srs'}},{'rule':_0x3eb118,'type':_0x3afa9b(0x2a9),'ruleSet':{'geosite':_0x3afa9b(0x438),'geoip':_0x5f2295(0x54e),'geositeURL':_0x3afa9b(0x5a3),'geoipURL':_0x3afa9b(0x29c)}},{'rule':_0x2851a5,'type':_0x3afa9b(0x2a9),'ruleSet':{'geosite':_0x3afa9b(0x441),'geoip':_0x5f2295(0x565),'geositeURL':_0x5f2295(0x3a4),'geoipURL':_0x5f2295(0x540)}},{'rule':!![],'type':_0x3afa9b(0x1f8),'ruleSet':{'geosite':_0x3afa9b(0x284),'geoip':_0x5f2295(0x3ee),'geositeURL':_0x5f2295(0x2e8),'geoipURL':_0x3afa9b(0x5a6)}},{'rule':!![],'type':_0x5f2295(0x35d),'ruleSet':{'geosite':'geosite-phishing','geoip':_0x5f2295(0x26a),'geositeURL':'https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-phishing.srs','geoipURL':_0x3afa9b(0x288)}},{'rule':!![],'type':_0x3afa9b(0x1f8),'ruleSet':{'geosite':_0x3afa9b(0x2d6),'geositeURL':_0x3afa9b(0x5f7)}},{'rule':_0xbaf2fd,'type':_0x3afa9b(0x1f8),'ruleSet':{'geosite':_0x3afa9b(0x289),'geositeURL':_0x3afa9b(0x2d0)}},{'rule':_0x34f053,'type':_0x3afa9b(0x1f8),'ruleSet':{'geosite':_0x5f2295(0x3b6),'geositeURL':_0x3afa9b(0x332)}}],_0x1d53a5=[],_0x30f5e4=[],_0x3f9022=[],_0x57db3f=[],_0x4a80ff=[];_0x162a74&&_0x30f5e4[_0x5f2295(0x25b)]({'ip_is_private':!![],'outbound':_0x3afa9b(0x2a9)});const _0x4c1717=__name((_0xdc36e2,_0x214e0a)=>({[_0xdc36e2]:[],'outbound':_0x214e0a}),_0x3afa9b(0x48a)),_0x58fc43={'type':_0x3afa9b(0x208),'tag':'','format':_0x5f2295(0x491),'url':'','download_detour':_0x3afa9b(0x2a9)},_0x3eb454=_0x4c1717(_0x3afa9b(0x433),_0x3afa9b(0x2a9));;const _0x3ca72f=_0x4c1717(_0x3afa9b(0x433),_0x5f2295(0x26b));;const _0x2b58b3=_0x4c1717(_0x3afa9b(0x433),_0x3afa9b(0x1f8)),_0x40cafc=_0x4c1717(_0x3afa9b(0x433),_0x5f2295(0x35d));_0x389260[_0x3afa9b(0x5f9)](({rule:_0x407916,type:_0x42a269,ruleSet:_0x308a3f})=>{const _0x30fbb3=_0x5f2295,_0x5c7963=_0x3afa9b;if(!_0x407916)return;const {geosite:_0x540601,geoip:_0x27acc8,geositeURL:_0x662571,geoipURL:_0x359fb4}=_0x308a3f,_0x357568=_0x42a269===_0x5c7963(0x2a9),_0x43a546=_0x357568?_0x3eb454:_0x2b58b3,_0xba851=_0x357568?_0x3ca72f:_0x40cafc;_0x43a546[_0x5c7963(0x433)]['push'](_0x540601),_0x4a80ff[_0x5c7963(0x550)]({..._0x58fc43,'tag':_0x540601,'url':_0x662571}),_0x27acc8&&(_0xba851[_0x5c7963(0x433)][_0x5c7963(0x550)](_0x27acc8),_0x4a80ff[_0x30fbb3(0x25b)]({..._0x58fc43,'tag':_0x27acc8,'url':_0x359fb4}));});const _0x19c6e5=__name((_0x1c9848,_0x49e84d)=>{const _0x4be924=_0x3afa9b;(_0x1c9848[_0x4be924(0x433)]?.[_0x4be924(0x5d0)]||_0x1c9848[_0x4be924(0x290)]?.[_0x4be924(0x5d0)]||_0x1c9848[_0x4be924(0x445)]?.[_0x4be924(0x5d0)])&&_0x49e84d[_0x4be924(0x550)](_0x1c9848);},_0x3afa9b(0x2ac));_0x19c6e5(_0x3eb454,_0x1d53a5),_0x19c6e5(_0x3ca72f,_0x30f5e4),_0x19c6e5(_0x2b58b3,_0x3f9022),_0x19c6e5(_0x40cafc,_0x57db3f);const _0x3cc20a=__name((_0x2d9fba,_0x3e9ccf)=>{const _0x18155e=_0x5f2295,_0x2660c7=_0x3afa9b,_0x204118=_0x4c1717(_0x18155e(0x2fe),_0x3e9ccf),_0x2858f6=_0x4c1717(_0x2660c7(0x445),_0x3e9ccf);_0x2d9fba[_0x2660c7(0x5f9)](_0x99df61=>{const _0x229ae2=_0x2660c7;if(isDomain(_0x99df61))_0x204118[_0x229ae2(0x290)][_0x229ae2(0x550)](_0x99df61);else{const _0x48347b=isIPv6(_0x99df61)?_0x99df61['replace'](/\[|\]/g,''):_0x99df61;_0x2858f6[_0x229ae2(0x445)][_0x229ae2(0x550)](_0x48347b);}}),_0x19c6e5(_0x204118,_0x3e9ccf===_0x2660c7(0x2a9)?_0x1d53a5:_0x3f9022),_0x19c6e5(_0x2858f6,_0x3e9ccf===_0x18155e(0x26b)?_0x30f5e4:_0x57db3f);},_0x3afa9b(0x297));_0x12ed14[_0x3afa9b(0x5d0)]&&_0x3cc20a(_0x12ed14,_0x3afa9b(0x2a9)),_0x32b411[_0x3afa9b(0x5d0)]&&_0x3cc20a(_0x32b411,_0x3afa9b(0x1f8));const _0x2516e0=[..._0x49da8e,..._0x1d53a5,..._0x30f5e4,..._0x3f9022,..._0x57db3f];return _0x33844e&&_0x2516e0['push']({'network':_0x3afa9b(0x385),'port':0x1bb,'protocol':_0x3afa9b(0x4ea),'outbound':_0x3afa9b(0x1f8)}),{'rules':_0x2516e0,'rule_set':_0x4a80ff};}__name(buildSingBoxRoutingRules,a0_0x53d8fc(0x547));function buildSingBoxVLESSOutbound(_0x47710d,_0x180c4e,_0x4488e7,_0x3c13bb,_0x507063,_0x4fd95b,_0x32a92e,_0x16ab35){const _0xc3420b=_0x4c56f3,_0x390fa2=a0_0x53d8fc,{enableIPv6:_0x39cba2,lengthMin:_0x472031,lengthMax:_0x56f29,intervalMin:_0x752bbf,intervalMax:_0x3449f6,proxyIP:_0x35239d}=_0x47710d,_0x2ce2c8='/'+getRandomPath(0x10)+(_0x35239d?'/'+btoa(_0x35239d):''),_0x82673b=globalThis[_0x390fa2(0x44c)][_0x390fa2(0x4ac)](_0x3c13bb)?!![]:![],_0x1c2847={'type':_0x390fa2(0x3bd),'server':_0x4488e7,'server_port':+_0x3c13bb,'domain_strategy':_0x39cba2?_0x390fa2(0x557):_0x390fa2(0x317),'uuid':globalThis['userID'],'tls':{'alpn':_0x390fa2(0x525),'enabled':!![],'insecure':_0x32a92e,'server_name':_0x4fd95b,'utls':{'enabled':!![],'fingerprint':_0x390fa2(0x35c)}},'transport':{'early_data_header_name':_0xc3420b(0x29b),'max_early_data':0xa00,'headers':{'Host':_0x507063},'path':_0x2ce2c8,'type':'ws'},'tag':_0x180c4e};if(!_0x82673b)delete _0x1c2847[_0xc3420b(0x1cb)];if(_0x16ab35)_0x1c2847[_0x390fa2(0x1f2)]={'enabled':!![],'size':_0x472031+'-'+_0x56f29,'sleep':_0x752bbf+'-'+_0x3449f6};return _0x1c2847;}__name(buildSingBoxVLESSOutbound,a0_0x53d8fc(0x30f));function buildSingBoxTrojanOutbound(_0x39d1b3,_0x210306,_0x23703a,_0x477456,_0x586e4c,_0x48a977,_0x37e275,_0x151d02){const _0x24e772=_0x4c56f3,_0xbc2d9c=a0_0x53d8fc,{enableIPv6:_0x150430,lengthMin:_0x5d984c,lengthMax:_0x23899d,intervalMin:_0x21f4b2,intervalMax:_0x21591b,proxyIP:_0xe9639c}=_0x39d1b3,_0x531f7a=_0xbc2d9c(0x379)+getRandomPath(0x10)+(_0xe9639c?'/'+btoa(_0xe9639c):''),_0x4a7b9f=globalThis[_0xbc2d9c(0x44c)][_0xbc2d9c(0x4ac)](_0x477456)?!![]:![],_0x3c1ae7={'type':'trojan','password':globalThis[_0xbc2d9c(0x50d)],'server':_0x23703a,'server_port':+_0x477456,'domain_strategy':_0x150430?_0x24e772(0x52a):_0xbc2d9c(0x317),'tls':{'alpn':_0xbc2d9c(0x525),'enabled':!![],'insecure':_0x37e275,'server_name':_0x48a977,'utls':{'enabled':!![],'fingerprint':_0xbc2d9c(0x35c)}},'transport':{'early_data_header_name':_0xbc2d9c(0x32d),'max_early_data':0xa00,'headers':{'Host':_0x586e4c},'path':_0x531f7a,'type':'ws'},'tag':_0x210306};if(!_0x4a7b9f)delete _0x3c1ae7[_0xbc2d9c(0x27a)];if(_0x151d02)_0x3c1ae7[_0xbc2d9c(0x1f2)]={'enabled':!![],'size':_0x5d984c+'-'+_0x23899d,'sleep':_0x21f4b2+'-'+_0x21591b};return _0x3c1ae7;}__name(buildSingBoxTrojanOutbound,_0x4c56f3(0x2a3));function buildSingBoxWarpOutbound(_0xeee361,_0x154038,_0x4a0bf2,_0x2dc58a,_0x1171aa,_0x15c283){const _0x152daa=_0x4c56f3,_0x588ec5=a0_0x53d8fc,_0x25e82f=/\[(.*?)\]/,_0x8b3a96=/[^:]*$/,_0x5117f5=_0x2dc58a[_0x588ec5(0x4ac)]('[')?_0x2dc58a[_0x152daa(0x47b)](_0x25e82f)[0x1]:_0x2dc58a[_0x588ec5(0x18a)](':')[0x0],_0x139af1=_0x2dc58a[_0x588ec5(0x4ac)]('[')?+_0x2dc58a[_0x588ec5(0x2f9)](_0x8b3a96)[0x0]:+_0x2dc58a[_0x588ec5(0x18a)](':')[0x1],{warpEnableIPv6:_0x315cd1,hiddifyNoiseMode:_0x3a1298,noiseCountMin:_0x5792d0,noiseCountMax:_0x343c3a,noiseSizeMin:_0x4259e0,noiseSizeMax:_0x999d4c,noiseDelayMin:_0x4ccef7,noiseDelayMax:_0x42a76a}=_0xeee361,{warpIPv6:_0x43fff5,reserved:_0x1088d9,publicKey:_0x153df9,privateKey:_0x4e4677}=extractWireguardParams(_0x154038,_0x1171aa),_0x29229f={'local_address':[_0x588ec5(0x3c5),_0x43fff5],'mtu':0x500,'peer_public_key':_0x153df9,'private_key':_0x4e4677,'reserved':_0x1088d9,'server':_0x5117f5,'server_port':_0x139af1,'domain_strategy':_0x315cd1?_0x588ec5(0x557):_0x588ec5(0x317),'type':_0x588ec5(0x261),'detour':_0x1171aa,'tag':_0x4a0bf2};return _0x15c283===_0x588ec5(0x3c7)&&Object[_0x588ec5(0x37c)](_0x29229f,{'fake_packets_mode':_0x3a1298,'fake_packets':_0x5792d0===_0x343c3a?_0x5792d0:_0x5792d0+'-'+_0x343c3a,'fake_packets_size':_0x4259e0===_0x999d4c?_0x4259e0:_0x4259e0+'-'+_0x999d4c,'fake_packets_delay':_0x4ccef7===_0x42a76a?_0x4ccef7:_0x4ccef7+'-'+_0x42a76a}),_0x29229f;}__name(buildSingBoxWarpOutbound,a0_0x53d8fc(0x1ca));function buildSingBoxChainOutbound(_0x4c5175,_0x25492e){const _0x2f34b0=_0x4c56f3,_0x28f788=a0_0x53d8fc;if([_0x28f788(0x196),_0x2f34b0(0x368)][_0x28f788(0x4ac)](_0x4c5175[_0x28f788(0x42d)])){const {protocol:_0x126b33,server:_0x44e33c,port:_0x212220,user:_0x10d92e,pass:_0x4ed265}=_0x4c5175,_0x1e54e8={'type':_0x126b33,'tag':'','server':_0x44e33c,'server_port':+_0x212220,'username':_0x10d92e,'password':_0x4ed265,'detour':''};if(_0x126b33===_0x28f788(0x196))_0x1e54e8[_0x28f788(0x3ba)]='5';return _0x1e54e8;}const {server:_0x4386d3,port:_0x3df96a,uuid:_0x20ea46,flow:_0x16df67,security:_0x177971,type:_0x1cc6df,sni:_0x368671,fp:_0x370a32,alpn:_0x55ce3f,pbk:_0x57ced4,sid:_0x41b109,headerType:_0x59c5a3,host:_0x487e8a,path:_0x58139e,serviceName:_0x510621}=_0x4c5175,_0x55da13={'type':_0x28f788(0x3bd),'tag':'','server':_0x4386d3,'server_port':+_0x3df96a,'domain_strategy':_0x25492e?_0x28f788(0x557):_0x2f34b0(0x539),'uuid':_0x20ea46,'flow':_0x16df67,'detour':''};if(_0x177971===_0x28f788(0x27a)||_0x177971===_0x28f788(0x2ea)){const _0x4c5109=_0x55ce3f?_0x55ce3f?.[_0x28f788(0x18a)](',')[_0x28f788(0x469)](_0x9ad7b4=>_0x9ad7b4!=='h2'):[];_0x55da13[_0x2f34b0(0x1cb)]={'enabled':!![],'server_name':_0x368671,'insecure':![],'alpn':_0x4c5109,'utls':{'enabled':!![],'fingerprint':_0x370a32}},_0x177971===_0x2f34b0(0x1fe)&&(_0x55da13[_0x28f788(0x27a)][_0x28f788(0x2ea)]={'enabled':!![],'public_key':_0x57ced4,'short_id':_0x41b109},delete _0x55da13[_0x28f788(0x27a)][_0x28f788(0x324)]);}if(_0x59c5a3===_0x28f788(0x3ae)){const _0x1ea4be=_0x487e8a?.[_0x28f788(0x18a)](',');_0x55da13[_0x28f788(0x512)]={'type':_0x2f34b0(0x368),'host':_0x1ea4be,'path':_0x58139e,'method':_0x2f34b0(0x4f5),'headers':{'Connection':[_0x28f788(0x533)],'Content-Type':[_0x28f788(0x591)]}};}if(_0x1cc6df==='ws'){const _0x48d368=_0x58139e?.[_0x28f788(0x18a)](_0x2f34b0(0x2bc))[0x0],_0x472d60=+_0x58139e?.[_0x28f788(0x18a)](_0x2f34b0(0x2bc))[0x1]||0x0;_0x55da13[_0x2f34b0(0x373)]={'type':'ws','path':_0x48d368,'headers':{'Host':_0x487e8a},'max_early_data':_0x472d60,'early_data_header_name':_0x28f788(0x32d)};}if(_0x1cc6df===_0x28f788(0x524))_0x55da13[_0x28f788(0x512)]={'type':_0x28f788(0x524),'service_name':_0x510621};return _0x55da13;}__name(buildSingBoxChainOutbound,a0_0x53d8fc(0x357));async function getSingBoxWarpConfig(_0x2f7d65,_0x5da00f,_0x275a21){const _0xf8c114=_0x4c56f3,_0x7b26fb=a0_0x53d8fc,{proxySettings:_0x54d5ac,warpConfigs:_0x1dbf61}=await getDataset(_0x2f7d65,_0x5da00f),{warpEndpoints:_0x493e63}=_0x54d5ac,_0x37d90d=structuredClone(singboxConfigTemp),_0x4ff9b8=_0x275a21===_0xf8c114(0x3f2)?_0xf8c114(0x352):'\x20',_0x15678b=buildSingBoxDNS(_0x54d5ac,void 0x0,!![],_0x7b26fb(0x4b6)+_0x4ff9b8+_0xf8c114(0x55a)),{rules:_0x2031f9,rule_set:_0xc83c7f}=buildSingBoxRoutingRules(_0x54d5ac);_0x37d90d[_0x7b26fb(0x589)][_0x7b26fb(0x4f9)]=_0x15678b[_0x7b26fb(0x4f9)],_0x37d90d[_0xf8c114(0x219)][_0x7b26fb(0x36f)]=_0x15678b[_0x7b26fb(0x36f)];if(_0x15678b[_0x7b26fb(0x5ca)])_0x37d90d[_0x7b26fb(0x589)][_0x7b26fb(0x5ca)]=_0x15678b[_0x7b26fb(0x5ca)];_0x37d90d[_0x7b26fb(0x33f)][_0x7b26fb(0x36f)]=_0x2031f9,_0x37d90d[_0x7b26fb(0x33f)][_0x7b26fb(0x433)]=_0xc83c7f;const _0x5330b0=_0x37d90d[_0x7b26fb(0x556)][0x0],_0x8e2381=_0x37d90d[_0x7b26fb(0x556)][0x1];_0x5330b0[_0x7b26fb(0x556)]=[_0xf8c114(0x2f6)+_0x4ff9b8+_0x7b26fb(0x4cf),_0xf8c114(0x2c0)+_0x4ff9b8+_0x7b26fb(0x4cf)],_0x37d90d[_0x7b26fb(0x556)][_0x7b26fb(0x521)](0x2,0x0,structuredClone(_0x8e2381));const _0x5662ed=_0x37d90d[_0xf8c114(0x233)][0x2];_0x8e2381[_0x7b26fb(0x240)]=_0x7b26fb(0x4b6)+_0x4ff9b8+_0x7b26fb(0x4cf),_0x8e2381[_0x7b26fb(0x1cf)]=_0x54d5ac[_0x7b26fb(0x1de)]+'s',_0x5662ed[_0xf8c114(0x346)]=_0x7b26fb(0x29e)+_0x4ff9b8+_0xf8c114(0x55a),_0x5662ed[_0xf8c114(0x3b7)]=_0x54d5ac[_0x7b26fb(0x1de)]+'s';const _0xb60aa9=[],_0x9e9303=[];return _0x493e63['split'](',')[_0x7b26fb(0x5f9)]((_0x3c2b3a,_0xad79a6)=>{const _0x158ce1=_0x7b26fb,_0x13cb6f=_0x158ce1(0x2af)+(_0xad79a6+0x1)+_0x158ce1(0x32c),_0x3565bf=_0x158ce1(0x2af)+(_0xad79a6+0x1)+_0x158ce1(0x3b6),_0x3b76bc=buildSingBoxWarpOutbound(_0x54d5ac,_0x1dbf61,_0x13cb6f,_0x3c2b3a,'',_0x275a21),_0x340c41=buildSingBoxWarpOutbound(_0x54d5ac,_0x1dbf61,_0x3565bf,_0x3c2b3a,_0x13cb6f,_0x275a21);_0x37d90d[_0x158ce1(0x556)][_0x158ce1(0x550)](_0x340c41,_0x3b76bc),_0xb60aa9[_0x158ce1(0x550)](_0x13cb6f),_0x9e9303['push'](_0x3565bf),_0x8e2381[_0x158ce1(0x556)][_0x158ce1(0x550)](_0x13cb6f),_0x5662ed[_0x158ce1(0x556)][_0x158ce1(0x550)](_0x3565bf);}),_0x5330b0[_0x7b26fb(0x556)][_0xf8c114(0x25b)](..._0xb60aa9,..._0x9e9303),new Response(JSON[_0x7b26fb(0x294)](_0x37d90d,null,0x4),{'status':0xc8,'headers':{'Content-Type':_0x7b26fb(0x28f),'Cache-Control':_0x7b26fb(0x35e),'CDN-Cache-Control':_0x7b26fb(0x5af)}});}__name(getSingBoxWarpConfig,_0x4c56f3(0x307));async function getSingBoxCustomConfig(_0x364660,_0x25287f,_0x4b76ab){const _0xa3327b=_0x4c56f3,_0x20dc53=a0_0x53d8fc,{proxySettings:_0x5b884b}=await getDataset(_0x364660,_0x25287f);let _0x227b15;const {cleanIPs:_0x40e13c,ports:_0x32d91e,vlessConfigs:_0xc44d21,trojanConfigs:_0x5ce91d,outProxy:_0xce292e,outProxyParams:_0x4a44a9,customCdnAddrs:_0x500867,customCdnHost:_0x4c81c6,customCdnSni:_0x226474,bestVLESSTrojanInterval:_0x36c270,enableIPv6:_0x2fee3f}=_0x5b884b;if(_0xce292e){const _0x12bc76=JSON[_0xa3327b(0x33b)](_0x4a44a9);try{_0x227b15=buildSingBoxChainOutbound(_0x12bc76,_0x2fee3f);}catch(_0x4260b2){console['log'](_0x20dc53(0x2aa),_0x4260b2),_0x227b15=void 0x0,await _0x25287f[_0xa3327b(0x216)][_0x20dc53(0x3d2)](_0x20dc53(0x545),JSON['stringify']({..._0x5b884b,'outProxy':'','outProxyParams':{}}));}}const _0x2d2779=await getConfigAddresses(_0x40e13c,_0x2fee3f),_0x2702aa=_0x500867?_0x500867[_0x20dc53(0x18a)](','):[],_0x344aaf=[..._0x2d2779,..._0x2702aa],_0x2acbd7=structuredClone(singboxConfigTemp),_0x40fba4=buildSingBoxDNS(_0x5b884b,_0x344aaf,![],_0x227b15?_0x20dc53(0x3ac):_0x20dc53(0x376)),{rules:_0x48a615,rule_set:_0x397de4}=buildSingBoxRoutingRules(_0x5b884b);_0x2acbd7[_0x20dc53(0x589)][_0x20dc53(0x4f9)]=_0x40fba4[_0x20dc53(0x4f9)],_0x2acbd7[_0x20dc53(0x589)][_0x20dc53(0x36f)]=_0x40fba4[_0x20dc53(0x36f)];if(_0x40fba4['fakeip'])_0x2acbd7[_0xa3327b(0x219)][_0x20dc53(0x5ca)]=_0x40fba4[_0x20dc53(0x5ca)];_0x2acbd7[_0x20dc53(0x33f)]['rules']=_0x48a615,_0x2acbd7[_0x20dc53(0x33f)][_0xa3327b(0x3ec)]=_0x397de4;const _0x193406=_0x2acbd7[_0x20dc53(0x556)][0x0],_0x39c69f=_0x2acbd7[_0xa3327b(0x233)][0x1];_0x193406[_0xa3327b(0x233)]=[_0x20dc53(0x45e)],_0x39c69f[_0x20dc53(0x1cf)]=_0x36c270+'s',_0x39c69f[_0x20dc53(0x240)]=_0xa3327b(0x58e);const _0x241198=_0x32d91e[_0x20dc53(0x469)](_0x28c115=>_0x4b76ab?globalThis[_0x20dc53(0x44c)][_0x20dc53(0x4ac)](_0x28c115):!![]);let _0x476e30=0x1;const _0x4c0fd1=[..._0xc44d21?[_0x20dc53(0x484)]:[],..._0x5ce91d?[_0x20dc53(0x54f)]:[]];return _0x4c0fd1[_0x20dc53(0x5f9)](_0x2be05b=>{let _0x19972c=0x1;_0x241198['forEach'](_0x549527=>{const _0x409645=a0_0x100c;_0x344aaf[_0x409645(0x5f9)](_0x2613e6=>{const _0x34024c=_0x5223,_0x805a54=_0x409645;let _0x178007,_0x43eb57;const _0x877012=_0x2702aa[_0x805a54(0x4ac)](_0x2613e6),_0x430979=_0x877012?'C':_0x4b76ab?'F':'',_0x5c8275=_0x877012?_0x226474:randomUpperCase(globalThis[_0x805a54(0x486)]),_0x1102ca=_0x877012?_0x4c81c6:globalThis[_0x34024c(0x1df)],_0x26643c=generateRemark(_0x19972c,_0x549527,_0x2613e6,_0x40e13c,_0x2be05b,_0x430979);_0x2be05b===_0x805a54(0x484)&&(_0x178007=buildSingBoxVLESSOutbound(_0x5b884b,_0x227b15?_0x805a54(0x323)+_0x476e30:_0x26643c,_0x2613e6,_0x549527,_0x1102ca,_0x5c8275,_0x877012,_0x4b76ab),_0x2acbd7[_0x805a54(0x556)][_0x805a54(0x550)](_0x178007)),_0x2be05b===_0x805a54(0x54f)&&(_0x43eb57=buildSingBoxTrojanOutbound(_0x5b884b,_0x227b15?_0x805a54(0x323)+_0x476e30:_0x26643c,_0x2613e6,_0x549527,_0x1102ca,_0x5c8275,_0x877012,_0x4b76ab),_0x2acbd7[_0x805a54(0x556)][_0x805a54(0x550)](_0x43eb57));if(_0x227b15){const _0x318143=structuredClone(_0x227b15);_0x318143[_0x805a54(0x240)]=_0x26643c,_0x318143[_0x805a54(0x44e)]=_0x805a54(0x323)+_0x476e30,_0x2acbd7[_0x34024c(0x233)][_0x805a54(0x550)](_0x318143);}_0x193406[_0x805a54(0x556)][_0x805a54(0x550)](_0x26643c),_0x39c69f[_0x805a54(0x556)][_0x805a54(0x550)](_0x26643c),_0x476e30++,_0x19972c++;});});}),new Response(JSON[_0xa3327b(0x5c7)](_0x2acbd7,null,0x4),{'status':0xc8,'headers':{'Content-Type':_0x20dc53(0x28f),'Cache-Control':'no-store,\x20no-cache,\x20must-revalidate,\x20proxy-revalidate','CDN-Cache-Control':_0x20dc53(0x5af)}});}__name(getSingBoxCustomConfig,'getSingBoxCustomConfig');var singboxConfigTemp={'log':{'level':a0_0x53d8fc(0x453),'timestamp':!![]},'dns':{'servers':[],'rules':[],'independent_cache':!![]},'inbounds':[{'type':a0_0x53d8fc(0x2a9),'tag':a0_0x53d8fc(0x3d1),'listen':a0_0x53d8fc(0x430),'listen_port':0x1932,'override_address':a0_0x53d8fc(0x42b),'override_port':0x35},{'type':a0_0x53d8fc(0x5c0),'tag':_0x4c56f3(0x2bd),'address':[a0_0x53d8fc(0x3b3),a0_0x53d8fc(0x384)],'mtu':0x2328,'auto_route':!![],'strict_route':!![],'stack':a0_0x53d8fc(0x398),'endpoint_independent_nat':!![],'sniff':!![],'sniff_override_destination':!![]},{'type':a0_0x53d8fc(0x398),'tag':a0_0x53d8fc(0x189),'listen':a0_0x53d8fc(0x430),'listen_port':0x820,'sniff':!![],'sniff_override_destination':![]}],'outbounds':[{'type':_0x4c56f3(0x4df),'tag':a0_0x53d8fc(0x376),'outbounds':[]},{'type':a0_0x53d8fc(0x578),'tag':'','outbounds':[],'url':_0x4c56f3(0x3b8),'interval':''},{'type':a0_0x53d8fc(0x2a9),'tag':a0_0x53d8fc(0x2a9)},{'type':a0_0x53d8fc(0x1f8),'tag':a0_0x53d8fc(0x1f8)},{'type':a0_0x53d8fc(0x589),'tag':a0_0x53d8fc(0x3a2)}],'route':{'rules':[],'rule_set':[],'auto_detect_interface':!![],'override_android_vpn':!![],'final':a0_0x53d8fc(0x376)},'ntp':{'enabled':!![],'server':a0_0x53d8fc(0x3ee),'server_port':0x7b,'detour':a0_0x53d8fc(0x2a9),'interval':a0_0x53d8fc(0x5cb)},'experimental':{'cache_file':{'enabled':!![],'store_fakeip':!![]},'clash_api':{'external_controller':a0_0x53d8fc(0x567),'external_ui':'ui','external_ui_download_url':a0_0x53d8fc(0x20d),'external_ui_download_detour':'direct','default_mode':a0_0x53d8fc(0x5bd)}}};async function buildClashDNS(_0x425344,_0x5a907e,_0x471b96){const _0x417ca3=_0x4c56f3,_0x2f08f7=a0_0x53d8fc,{remoteDNS:_0x52256c,localDNS:_0x63c46e,vlessTrojanFakeDNS:_0x4dd2e9,outProxyParams:_0x1b4d54,enableIPv6:_0x32a012,warpFakeDNS:_0xd7f023,warpEnableIPv6:_0x2e2eca,bypassIran:_0x39e0bb,bypassChina:_0x36add9,bypassRussia:_0x4dc1ff,customBypassRules:_0x1751a5,customBlockRules:_0x4cc18f}=_0x425344,_0x56e4f3=_0x2e2eca?[_0x2f08f7(0x42b),_0x417ca3(0x2f1),_0x2f08f7(0x4e7),_0x2f08f7(0x5f2)]:[_0x2f08f7(0x42b),_0x417ca3(0x2f1)],_0x2b886f=_0x4dd2e9&&!_0x471b96||_0xd7f023&&_0x471b96,_0x5ebfae=_0x32a012&&!_0x471b96||_0x2e2eca&&_0x471b96,_0x47ac50=_0x1751a5['split'](',')[_0x2f08f7(0x469)](_0x26f18c=>isDomain(_0x26f18c)),_0xea9000=_0x39e0bb||_0x36add9||_0x4dc1ff,_0x489168=[{'rule':_0x39e0bb,'geosite':'ir'},{'rule':_0x36add9,'geosite':'cn'},{'rule':_0x4dc1ff,'geosite':'ru'}],_0x1d5b74={'enable':!![],'listen':_0x2f08f7(0x264),'ipv6':_0x5ebfae,'respect-rules':!![],'use-hosts':!![],'use-system-hosts':![],'nameserver':_0x471b96?_0x56e4f3[_0x2f08f7(0x46e)](_0x5c2920=>_0x5a907e?_0x5c2920+_0x2f08f7(0x253):_0x5c2920+_0x417ca3(0x42b)):[_0x5a907e?_0x52256c+_0x2f08f7(0x4c6):_0x52256c+_0x2f08f7(0x581)],'proxy-server-nameserver':[_0x63c46e+_0x2f08f7(0x599)]};if(_0x5a907e&&!_0x471b96){const _0x459c79=JSON[_0x2f08f7(0x4d8)](_0x1b4d54)[_0x2f08f7(0x5b6)];if(isDomain(_0x459c79))_0x1d5b74[_0x417ca3(0x1d6)]={[_0x459c79]:_0x5a907e?_0x52256c+'#proxy-1':_0x52256c+_0x2f08f7(0x581)};}if(_0xea9000){const _0x24eea9=[];_0x489168[_0x2f08f7(0x5f9)](({rule:_0x4eb941,geosite:_0x313432})=>{const _0x36765c=_0x2f08f7;_0x4eb941&&_0x24eea9[_0x36765c(0x550)](_0x313432);}),_0x1d5b74[_0x2f08f7(0x2a4)]={..._0x1d5b74[_0x2f08f7(0x2a4)],[_0x2f08f7(0x520)+_0x24eea9[_0x2f08f7(0x3ab)](',')]:[_0x63c46e+_0x2f08f7(0x599)]};}_0x47ac50[_0x2f08f7(0x5f9)](_0x371290=>{const _0x9e1713=_0x417ca3,_0x392379=_0x2f08f7;_0x1d5b74[_0x9e1713(0x1d6)]={..._0x1d5b74[_0x9e1713(0x1d6)],['+.'+_0x371290]:[_0x63c46e+_0x392379(0x599)]};});if(_0x2b886f)Object[_0x2f08f7(0x37c)](_0x1d5b74,{'enhanced-mode':_0x2f08f7(0x481),'fake-ip-range':_0x2f08f7(0x4b0),'fake-ip-filter':[_0x417ca3(0x36d)]});return _0x1d5b74;}__name(buildClashDNS,_0x4c56f3(0x20e));function buildClashRoutingRules(_0x9fe0a8){const _0x53378b=_0x4c56f3,_0x274c1c=a0_0x53d8fc,{bypassLAN:_0x23895c,bypassIran:_0x41fcc0,bypassChina:_0x2ff4d0,bypassRussia:_0x496fbf,blockAds:_0x8f7cca,blockPorn:_0x245c29,blockUDP443:_0x4df63f,customBypassRules:_0x4533fb,customBlockRules:_0x334e11}=_0x9fe0a8,_0x369ca7=_0x4533fb?_0x4533fb[_0x274c1c(0x18a)](','):[],_0x317f83=_0x334e11?_0x334e11[_0x274c1c(0x18a)](','):[],_0x5bcfff=[{'rule':_0x23895c,'type':_0x274c1c(0x2a9),'noResolve':!![],'ruleProvider':{'format':_0x274c1c(0x1bd),'geosite':_0x274c1c(0x1e8),'geoip':_0x274c1c(0x275),'geositeURL':_0x274c1c(0x366),'geoipURL':_0x274c1c(0x1fc)}},{'rule':_0x41fcc0,'type':_0x53378b(0x26b),'ruleProvider':{'format':_0x53378b(0x467),'geosite':'ir','geoip':_0x274c1c(0x3e3),'geositeURL':_0x53378b(0x550),'geoipURL':_0x274c1c(0x194)}},{'rule':_0x2ff4d0,'type':_0x274c1c(0x2a9),'ruleProvider':{'format':_0x274c1c(0x1bd),'geosite':'cn','geoip':_0x274c1c(0x3b7),'geositeURL':_0x274c1c(0x394),'geoipURL':_0x274c1c(0x5d7)}},{'rule':_0x496fbf,'type':_0x274c1c(0x2a9),'ruleProvider':{'format':_0x53378b(0x546),'geosite':'ru','geoip':_0x53378b(0x436),'geositeURL':_0x274c1c(0x1bb),'geoipURL':_0x274c1c(0x582)}},{'rule':!![],'type':_0x274c1c(0x1f8),'ruleProvider':{'format':_0x53378b(0x467),'geosite':'malware','geositeURL':_0x274c1c(0x47e)}},{'rule':!![],'type':_0x274c1c(0x1f8),'ruleProvider':{'format':_0x274c1c(0x3dc),'geosite':_0x274c1c(0x204),'geositeURL':_0x274c1c(0x544)}},{'rule':!![],'type':_0x274c1c(0x1f8),'ruleProvider':{'format':_0x274c1c(0x3dc),'geosite':_0x274c1c(0x563),'geositeURL':_0x274c1c(0x4a8)}},{'rule':_0x8f7cca,'type':_0x274c1c(0x1f8),'ruleProvider':{'format':_0x274c1c(0x3dc),'geosite':_0x53378b(0x2f3),'geositeURL':_0x274c1c(0x417)}},{'rule':_0x245c29,'type':_0x274c1c(0x1f8),'ruleProvider':{'format':_0x274c1c(0x3dc),'geosite':_0x274c1c(0x4d1),'geositeURL':_0x274c1c(0x504)}}];function _0x43cb40(_0xe5a74f,_0x289201,_0x44c95f,_0x125026){const _0x427648=_0x274c1c,_0x33cdc1=_0x289201===_0x427648(0x3dc)?_0x427648(0x4c2):_0x289201;return{[_0xe5a74f]:{'type':_0x427648(0x3ae),'format':_0x289201,'behavior':_0x44c95f,'url':_0x125026,'path':_0x427648(0x291)+_0xe5a74f+'.'+_0x33cdc1,'interval':0x15180}};}__name(_0x43cb40,_0x274c1c(0x392));const _0x192605=[],_0x30fcf2=[],_0x2e9be8=[],_0x249e58=[],_0x4bf415={};_0x5bcfff[_0x274c1c(0x5f9)](({rule:_0x513416,type:_0x3cb3ed,ruleProvider:_0x446097,noResolve:_0x35098d})=>{const _0x430dc0=_0x53378b,_0x585987=_0x274c1c,{geosite:_0x2ee3df,geoip:_0xb1af80,geositeURL:_0x8527ba,geoipURL:_0x3998db,format:_0x19d3c9}=_0x446097;if(_0x513416){if(_0x2ee3df){const _0x4ce51b=_0x3cb3ed===_0x585987(0x2a9)?_0x192605:_0x2e9be8;_0x4ce51b[_0x585987(0x550)](_0x585987(0x198)+_0x2ee3df+','+(_0x3cb3ed===_0x585987(0x2a9)?_0x585987(0x3a6):'REJECT'));const _0x2fe5ef=_0x43cb40(_0x2ee3df,_0x19d3c9,_0x430dc0(0x40e),_0x8527ba);Object[_0x585987(0x37c)](_0x4bf415,_0x2fe5ef);}if(_0xb1af80){const _0x1f3939=_0x3cb3ed===_0x585987(0x2a9)?_0x30fcf2:_0x249e58;_0x1f3939[_0x585987(0x550)](_0x585987(0x198)+_0xb1af80+','+(_0x3cb3ed===_0x585987(0x2a9)?_0x585987(0x3a6):_0x585987(0x447))+(_0x35098d?_0x585987(0x235):''));const _0x5a6be9=_0x43cb40(_0xb1af80,_0x19d3c9,_0x585987(0x3a4),_0x3998db);Object[_0x585987(0x37c)](_0x4bf415,_0x5a6be9);}}});const _0x3c5a31=__name((_0x1c5c90,_0x45ad3b)=>{const _0x10813d=_0x53378b,_0x2af8a3=_0x274c1c;if(isDomain(_0x1c5c90))return _0x2af8a3(0x4b4)+_0x1c5c90+','+_0x45ad3b;else{const _0x317d06=isIPv4(_0x1c5c90)?_0x2af8a3(0x554):_0x2af8a3(0x1e4),_0x3ca1a5=isIPv6(_0x1c5c90)?_0x1c5c90[_0x10813d(0x277)](/\[|\]/g,''):_0x1c5c90,_0x2e3af8=_0x1c5c90[_0x2af8a3(0x4ac)]('/')?'':isIPv4(_0x1c5c90)?_0x2af8a3(0x3f1):'/128';return _0x317d06+','+_0x3ca1a5+_0x2e3af8+','+_0x45ad3b+_0x2af8a3(0x235);}},_0x274c1c(0x2d5));[..._0x369ca7,..._0x317f83][_0x53378b(0x384)]((_0x19ad58,_0xacc837)=>{const _0x127fbe=_0x53378b,_0x1ce5f1=_0x274c1c,_0x44759e=_0xacc837<_0x369ca7[_0x127fbe(0x4ad)],_0x1e6a57=_0x44759e?_0x1ce5f1(0x3a6):_0x1ce5f1(0x447),_0x542d9b=_0x44759e?isDomain(_0x19ad58)?_0x192605:_0x30fcf2:isDomain(_0x19ad58)?_0x2e9be8:_0x249e58;_0x542d9b[_0x127fbe(0x25b)](_0x3c5a31(_0x19ad58,_0x1e6a57));});const _0x8e04b5=[..._0x192605,..._0x30fcf2,..._0x2e9be8,..._0x249e58];return _0x4df63f&&_0x8e04b5[_0x274c1c(0x550)](_0x274c1c(0x579)),_0x8e04b5[_0x53378b(0x25b)](_0x274c1c(0x35d)),{'rules':_0x8e04b5,'ruleProviders':_0x4bf415};}__name(buildClashRoutingRules,a0_0x53d8fc(0x300));function buildClashVLESSOutbound(_0x5f3b5c,_0x181eda,_0x4ba6bd,_0x4e1f8e,_0x1a2ca9,_0x20b15b,_0x21c18a){const _0xd10da5=_0x4c56f3,_0x2a9509=a0_0x53d8fc,_0x1c22e4=globalThis[_0x2a9509(0x44c)][_0x2a9509(0x4ac)](_0x4ba6bd)?!![]:![],_0x340e7e=isIPv6(_0x181eda)?_0x181eda[_0x2a9509(0x35b)](/\[|\]/g,''):_0x181eda,_0x5f4502={'name':_0x5f3b5c,'type':_0x2a9509(0x3bd),'server':_0x340e7e,'port':+_0x4ba6bd,'uuid':globalThis[_0xd10da5(0x330)],'tls':_0x1c22e4,'network':'ws','udp':!![],'ws-opts':{'path':_0x20b15b,'headers':{'host':_0x4e1f8e},'max-early-data':0xa00,'early-data-header-name':_0x2a9509(0x32d)}};return _0x1c22e4&&Object[_0x2a9509(0x37c)](_0x5f4502,{'servername':_0x1a2ca9,'alpn':['h2',_0x2a9509(0x525)],'client-fingerprint':_0x2a9509(0x4ba),'skip-cert-verify':_0x21c18a}),_0x5f4502;}__name(buildClashVLESSOutbound,a0_0x53d8fc(0x263));function buildClashTrojanOutbound(_0x257c85,_0x5fa064,_0x59d8c3,_0x362fe3,_0x1efe03,_0x44f5e4,_0x1e9453){const _0xbe9ccb=a0_0x53d8fc,_0x1640a4=isIPv6(_0x5fa064)?_0x5fa064[_0xbe9ccb(0x35b)](/\[|\]/g,''):_0x5fa064;return{'name':_0x257c85,'type':_0xbe9ccb(0x37b),'server':_0x1640a4,'port':+_0x59d8c3,'password':globalThis[_0xbe9ccb(0x50d)],'network':'ws','udp':!![],'ws-opts':{'path':_0x44f5e4,'headers':{'host':_0x362fe3},'max-early-data':0xa00,'early-data-header-name':_0xbe9ccb(0x32d)},'sni':_0x1efe03,'alpn':['h2',_0xbe9ccb(0x525)],'client-fingerprint':_0xbe9ccb(0x4ba),'skip-cert-verify':_0x1e9453};}__name(buildClashTrojanOutbound,a0_0x53d8fc(0x2e3));function buildClashWarpOutbound(_0x13dbdb,_0x4923e2,_0x13e327,_0x24872a){const _0x1db2d5=_0x4c56f3,_0x1e2fab=a0_0x53d8fc,_0x391b6f=/\[(.*?)\]/,_0x530aef=/[^:]*$/,_0x34fea2=_0x13e327[_0x1e2fab(0x4ac)]('[')?_0x13e327[_0x1db2d5(0x47b)](_0x391b6f)[0x1]:_0x13e327['split'](':')[0x0],_0x3ee5f8=_0x13e327[_0x1e2fab(0x4ac)]('[')?+_0x13e327[_0x1e2fab(0x2f9)](_0x530aef)[0x0]:+_0x13e327[_0x1e2fab(0x18a)](':')[0x1],{warpIPv6:_0x17b5bc,reserved:_0x1f9539,publicKey:_0x83bd0,privateKey:_0x14e010}=extractWireguardParams(_0x13dbdb,_0x24872a);return{'name':_0x4923e2,'type':_0x1e2fab(0x261),'ip':_0x1db2d5(0x275),'ipv6':_0x17b5bc,'private-key':_0x14e010,'server':_0x34fea2,'port':_0x3ee5f8,'public-key':_0x83bd0,'allowed-ips':[_0x1db2d5(0x52c),_0x1e2fab(0x5cf)],'reserved':_0x1f9539,'udp':!![],'mtu':0x500,'dialer-proxy':_0x24872a};}__name(buildClashWarpOutbound,a0_0x53d8fc(0x51c));function buildClashChainOutbound(_0x43e827){const _0x36ae84=_0x4c56f3,_0x12719d=a0_0x53d8fc;if([_0x36ae84(0x5b9),_0x12719d(0x3ae)][_0x12719d(0x4ac)](_0x43e827[_0x12719d(0x42d)])){const {protocol:_0x53da9c,server:_0x2855f6,port:_0x423ff9,user:_0x58a4d8,pass:_0xa3e249}=_0x43e827,_0x318c58=_0x53da9c===_0x36ae84(0x5b9)?_0x12719d(0x268):_0x53da9c;return{'name':'','type':_0x318c58,'server':_0x2855f6,'port':+_0x423ff9,'dialer-proxy':'','username':_0x58a4d8,'password':_0xa3e249};}const {server:_0x4c03d9,port:_0x42c091,uuid:_0x21ffcb,flow:_0x4e036c,security:_0x23d2b0,type:_0xd0639f,sni:_0x1b8367,fp:_0x2af0fa,alpn:_0x5a9cd2,pbk:_0x3ca70e,sid:_0xd29de4,headerType:_0x16a7b4,host:_0x1c070b,path:_0x2c42e1,serviceName:_0x3a110c}=_0x43e827,_0x3b6612={'name':_0x36ae84(0x1e9),'type':_0x12719d(0x3bd),'server':_0x4c03d9,'port':+_0x42c091,'udp':!![],'uuid':_0x21ffcb,'flow':_0x4e036c,'network':_0xd0639f,'dialer-proxy':_0x12719d(0x45e)};if(_0x23d2b0===_0x12719d(0x27a)){const _0x58d8e5=_0x5a9cd2?_0x5a9cd2?.[_0x12719d(0x18a)](','):[];Object[_0x36ae84(0x381)](_0x3b6612,{'tls':!![],'servername':_0x1b8367,'alpn':_0x58d8e5,'client-fingerprint':_0x2af0fa});}if(_0x23d2b0===_0x12719d(0x2ea))Object[_0x36ae84(0x381)](_0x3b6612,{'tls':!![],'servername':_0x1b8367,'client-fingerprint':_0x2af0fa,'reality-opts':{'public-key':_0x3ca70e,'short-id':_0xd29de4}});if(_0x16a7b4===_0x12719d(0x3ae)){const _0xeb436a=_0x2c42e1?.[_0x12719d(0x18a)](',');_0x3b6612[_0x12719d(0x54c)]={'method':_0x36ae84(0x4f5),'path':_0xeb436a,'headers':{'Connection':[_0x12719d(0x533)],'Content-Type':[_0x12719d(0x591)]}};}if(_0xd0639f==='ws'){const _0x62913b=_0x2c42e1?.[_0x12719d(0x18a)](_0x12719d(0x37d))[0x0],_0x5cb420=+_0x2c42e1?.[_0x12719d(0x18a)](_0x12719d(0x37d))[0x1];_0x3b6612[_0x12719d(0x2ae)]={'path':_0x62913b,'headers':{'Host':_0x1c070b},'max-early-data':_0x5cb420,'early-data-header-name':_0x12719d(0x32d)};}if(_0xd0639f===_0x12719d(0x524))_0x3b6612[_0x36ae84(0x5c0)]={'grpc-service-name':_0x3a110c};return _0x3b6612;}__name(buildClashChainOutbound,a0_0x53d8fc(0x4e1));async function getClashWarpConfig(_0x1563cb,_0x24e0a0){const _0x37f181=_0x4c56f3,_0xd0aa42=a0_0x53d8fc,{proxySettings:_0x501348,warpConfigs:_0x159533}=await getDataset(_0x1563cb,_0x24e0a0),{warpEndpoints:_0x3493bc}=_0x501348,_0x36f44b=structuredClone(clashConfigTemp);_0x36f44b[_0xd0aa42(0x589)]=await buildClashDNS(_0x501348,!![],!![]);const {rules:_0x4ff6e2,ruleProviders:_0x220de8}=buildClashRoutingRules(_0x501348);_0x36f44b[_0x37f181(0x47e)]=_0x4ff6e2,_0x36f44b[_0xd0aa42(0x585)]=_0x220de8;const _0x2dcc36=_0x36f44b[_0x37f181(0x5a0)][0x0],_0x2481c1=_0x36f44b[_0xd0aa42(0x1db)][0x1];_0x2dcc36[_0xd0aa42(0x304)]=[_0x37f181(0x479),'💦\x20WoW\x20-\x20Best\x20Ping\x20🚀'],_0x2481c1[_0xd0aa42(0x4f2)]=_0x37f181(0x479),_0x2481c1[_0xd0aa42(0x1cf)]=+_0x501348[_0xd0aa42(0x1de)],_0x36f44b[_0xd0aa42(0x1db)][_0xd0aa42(0x550)](structuredClone(_0x2481c1));const _0x2138e4=_0x36f44b[_0xd0aa42(0x1db)][0x2];_0x2138e4[_0x37f181(0x58f)]=_0xd0aa42(0x53f);let _0x28bb83=[],_0x1a6256=[];return _0x3493bc[_0xd0aa42(0x18a)](',')[_0x37f181(0x384)]((_0x202ee3,_0x45413c)=>{const _0x5eeeb9=_0x37f181,_0x232e33=_0xd0aa42,_0x104144=_0x232e33(0x2af)+(_0x45413c+0x1)+_0x5eeeb9(0x59e),_0x1aa2fe=_0x232e33(0x2af)+(_0x45413c+0x1)+_0x232e33(0x3b6),_0x43b590=buildClashWarpOutbound(_0x159533,_0x104144,_0x202ee3,''),_0x471043=buildClashWarpOutbound(_0x159533,_0x1aa2fe,_0x202ee3,_0x104144);_0x36f44b[_0x232e33(0x304)][_0x5eeeb9(0x25b)](_0x471043,_0x43b590),_0x28bb83[_0x232e33(0x550)](_0x104144),_0x1a6256[_0x232e33(0x550)](_0x1aa2fe),_0x2481c1[_0x5eeeb9(0x499)][_0x232e33(0x550)](_0x104144),_0x2138e4[_0x5eeeb9(0x499)][_0x232e33(0x550)](_0x1aa2fe);}),_0x2dcc36[_0x37f181(0x499)]['push'](..._0x28bb83,..._0x1a6256),new Response(JSON[_0xd0aa42(0x294)](_0x36f44b,null,0x4),{'status':0xc8,'headers':{'Content-Type':_0xd0aa42(0x28f),'Cache-Control':_0xd0aa42(0x35e),'CDN-Cache-Control':_0x37f181(0x53f)}});}__name(getClashWarpConfig,a0_0x53d8fc(0x42a));async function getClashNormalConfig(_0x53c0e4,_0x4dedc4){const _0x139970=_0x4c56f3,_0x478785=a0_0x53d8fc,{proxySettings:_0x2fa481}=await getDataset(_0x53c0e4,_0x4dedc4);let _0x1b8b48;const {resolvedRemoteDNS:_0x6ca47f,cleanIPs:_0x36a40f,proxyIP:_0x2831a9,ports:_0x584013,vlessConfigs:_0x423e2f,trojanConfigs:_0x5e479b,outProxy:_0xd08954,outProxyParams:_0x1f5f58,customCdnAddrs:_0x14f444,customCdnHost:_0x3f79dd,customCdnSni:_0x3a7aa3,bestVLESSTrojanInterval:_0x2bbd95,enableIPv6:_0x38a0bb}=_0x2fa481;if(_0xd08954){const _0x759822=JSON[_0x478785(0x4d8)](_0x1f5f58);try{_0x1b8b48=buildClashChainOutbound(_0x759822);}catch(_0x142e46){console[_0x139970(0x4f8)]('An\x20error\x20occured\x20while\x20parsing\x20chain\x20proxy:\x20',_0x142e46),_0x1b8b48=void 0x0,await _0x4dedc4[_0x139970(0x216)][_0x478785(0x3d2)](_0x478785(0x545),JSON[_0x478785(0x294)]({..._0x2fa481,'outProxy':'','outProxyParams':{}}));}}const _0x391663=structuredClone(clashConfigTemp);_0x6ca47f[_0x139970(0x438)]?_0x391663[_0x478785(0x2c3)]={[_0x6ca47f[_0x139970(0x438)]]:_0x6ca47f[_0x139970(0x49c)]}:delete _0x391663[_0x478785(0x2c3)];const {rules:_0x58982a,ruleProviders:_0x29b0d5}=buildClashRoutingRules(_0x2fa481);_0x391663[_0x478785(0x589)]=await buildClashDNS(_0x2fa481,_0x1b8b48,![]),_0x391663[_0x478785(0x36f)]=_0x58982a,_0x391663[_0x478785(0x585)]=_0x29b0d5;const _0x3bf5bd=_0x391663[_0x139970(0x5a0)][0x0],_0x18f297=_0x391663[_0x478785(0x1db)][0x1];_0x3bf5bd[_0x478785(0x304)]=[_0x139970(0x58e)],_0x18f297[_0x478785(0x4f2)]=_0x139970(0x58e),_0x18f297[_0x478785(0x1cf)]=+_0x2bbd95;const _0x2b43d6=await getConfigAddresses(_0x36a40f,_0x38a0bb),_0x1d4754=_0x14f444?_0x14f444[_0x478785(0x18a)](','):[],_0x1606d1=[..._0x2b43d6,..._0x1d4754];let _0x52e499=0x1,_0xdc181a;const _0x450145=[..._0x423e2f?[_0x139970(0x505)]:[],..._0x5e479b?[_0x478785(0x54f)]:[]];return _0x450145[_0x478785(0x5f9)](_0x42aa80=>{let _0x2c9756=0x1;_0x584013['forEach'](_0x5917fb=>{const _0x42ae08=_0x5223;_0x1606d1[_0x42ae08(0x384)](_0x68c8f7=>{const _0x33e0b7=_0x42ae08,_0x5cba83=a0_0x100c;let _0x2b4ced,_0x44af34;const _0x445a9c=_0x1d4754[_0x5cba83(0x4ac)](_0x68c8f7),_0x39bd13=_0x445a9c?'C':'',_0x1e1626=_0x445a9c?_0x3a7aa3:randomUpperCase(globalThis[_0x5cba83(0x486)]),_0x534dbe=_0x445a9c?_0x3f79dd:globalThis[_0x5cba83(0x486)],_0x463cf2=generateRemark(_0x2c9756,_0x5917fb,_0x68c8f7,_0x36a40f,_0x42aa80,_0x39bd13)[_0x5cba83(0x35b)](_0x5cba83(0x435),_0x33e0b7(0x465));_0x42aa80===_0x5cba83(0x484)&&(_0xdc181a='/'+getRandomPath(0x10)+(_0x2831a9?'/'+btoa(_0x2831a9):''),_0x2b4ced=buildClashVLESSOutbound(_0x1b8b48?_0x5cba83(0x323)+_0x52e499:_0x463cf2,_0x68c8f7,_0x5917fb,_0x534dbe,_0x1e1626,_0xdc181a,_0x445a9c),_0x391663[_0x5cba83(0x304)][_0x5cba83(0x550)](_0x2b4ced),_0x3bf5bd['proxies'][_0x5cba83(0x550)](_0x463cf2),_0x18f297[_0x5cba83(0x304)][_0x5cba83(0x550)](_0x463cf2)),_0x42aa80===_0x5cba83(0x54f)&&globalThis[_0x33e0b7(0x258)]['includes'](_0x5917fb)&&(_0xdc181a='/tr'+getRandomPath(0x10)+(_0x2831a9?'/'+btoa(_0x2831a9):''),_0x44af34=buildClashTrojanOutbound(_0x1b8b48?_0x5cba83(0x323)+_0x52e499:_0x463cf2,_0x68c8f7,_0x5917fb,_0x534dbe,_0x1e1626,_0xdc181a,_0x445a9c),_0x391663[_0x5cba83(0x304)][_0x5cba83(0x550)](_0x44af34),_0x3bf5bd[_0x5cba83(0x304)][_0x5cba83(0x550)](_0x463cf2),_0x18f297[_0x5cba83(0x304)][_0x5cba83(0x550)](_0x463cf2));if(_0x1b8b48){let _0x185c8f=structuredClone(_0x1b8b48);_0x185c8f[_0x5cba83(0x4f2)]=_0x463cf2,_0x185c8f[_0x5cba83(0x4af)]=_0x5cba83(0x323)+_0x52e499,_0x391663[_0x5cba83(0x304)][_0x5cba83(0x550)](_0x185c8f);}_0x52e499++,_0x2c9756++;});});}),new Response(JSON[_0x478785(0x294)](_0x391663,null,0x4),{'status':0xc8,'headers':{'Content-Type':_0x478785(0x28f),'Cache-Control':_0x139970(0x5a5),'CDN-Cache-Control':_0x478785(0x5af)}});}__name(getClashNormalConfig,a0_0x53d8fc(0x286));var clashConfigTemp={'mixed-port':0x1ed2,'ipv6':!![],'allow-lan':!![],'mode':a0_0x53d8fc(0x4ae),'log-level':a0_0x53d8fc(0x54e),'disable-keep-alive':![],'keep-alive-idle':0x1e,'keep-alive-interval':0x1e,'unified-delay':![],'geo-auto-update':!![],'geo-update-interval':0xa8,'external-controller':a0_0x53d8fc(0x567),'external-ui-url':a0_0x53d8fc(0x20d),'external-ui':'ui','external-controller-cors':{'allow-origins':['*'],'allow-private-network':!![]},'profile':{'store-selected':!![],'store-fake-ip':!![]},'hosts':{},'dns':{},'tun':{'enable':!![],'stack':a0_0x53d8fc(0x398),'auto-route':!![],'strict-route':!![],'auto-detect-interface':!![],'dns-hijack':[_0x4c56f3(0x4bd)],'mtu':0x2328},'sniffer':{'enable':!![],'force-dns-mapping':!![],'parse-pure-ip':!![],'override-destination':![],'sniff':{'HTTP':{'ports':[0x50,0x1f90,0x22b0,0x804,0x822,0x826,0x82f]},'TLS':{'ports':[0x1bb,0x20fb,0x805,0x823,0x827,0x830]}}},'proxies':[],'proxy-groups':[{'name':a0_0x53d8fc(0x376),'type':a0_0x53d8fc(0x4c5),'proxies':[]},{'name':'','type':a0_0x53d8fc(0x4f8),'url':a0_0x53d8fc(0x4bc),'interval':0x1e,'tolerance':0x32,'proxies':[]}],'rule-providers':{},'rules':[],'ntp':{'enable':!![],'server':_0x4c56f3(0x2ce),'port':0x7b,'interval':0x1e}};async function getNormalConfigs(_0x2d1ff7,_0x8f8190){const _0x535ae2=_0x4c56f3,_0x1535bd=a0_0x53d8fc,{proxySettings:_0x1c4585}=await getDataset(_0x2d1ff7,_0x8f8190),{cleanIPs:_0x4a965c,proxyIP:_0x31d7c1,ports:_0x22305a,vlessConfigs:_0x5c76e3,trojanConfigs:_0x1dac6d,outProxy:_0x1cbcd1,customCdnAddrs:_0x3b2cba,customCdnHost:_0x3d2863,customCdnSni:_0x22670b,enableIPv6:_0x42baf8}=_0x1c4585;let _0x43fbd4='',_0xf93c7e='',_0x1ac567='',_0x504a8f=0x1;const _0x5cab79=await getConfigAddresses(_0x4a965c,_0x42baf8),_0x4d1b9e=_0x3b2cba?_0x3b2cba[_0x1535bd(0x18a)](','):[],_0x102598=[..._0x5cab79,..._0x4d1b9e],_0x19647a=globalThis[_0x1535bd(0x1f1)]===_0x1535bd(0x463)?_0x1535bd(0x525):_0x1535bd(0x187),_0xcfd861=encodeURIComponent(globalThis[_0x1535bd(0x50d)]),_0x2709c6=globalThis[_0x1535bd(0x1f1)]===_0x1535bd(0x463)?_0x1535bd(0x27c):encodeURIComponent(_0x1535bd(0x571));_0x22305a[_0x1535bd(0x5f9)](_0x419e25=>{const _0xa29a95=_0x1535bd;_0x102598[_0xa29a95(0x5f9)]((_0x13ca7c,_0xe9fba1)=>{const _0x323a70=_0x5223,_0x16ec87=_0xa29a95,_0x5a850f=_0xe9fba1>_0x5cab79[_0x323a70(0x4ad)]-0x1,_0x9dc510=_0x5a850f?'C':'',_0xc32b84=_0x5a850f?_0x22670b:randomUpperCase(globalThis[_0x323a70(0x1df)]),_0x49f84f=_0x5a850f?_0x3d2863:globalThis[_0x323a70(0x1df)],_0x502b44=''+getRandomPath(0x10)+(_0x31d7c1?'/'+encodeURIComponent(btoa(_0x31d7c1)):'')+_0x2709c6,_0x13dcd0=encodeURIComponent(generateRemark(_0x504a8f,_0x419e25,_0x13ca7c,_0x4a965c,_0x16ec87(0x484),_0x9dc510)),_0x30e59d=encodeURIComponent(generateRemark(_0x504a8f,_0x419e25,_0x13ca7c,_0x4a965c,_0x16ec87(0x54f),_0x9dc510)),_0xbd59c6=globalThis[_0x16ec87(0x44c)][_0x16ec87(0x4ac)](_0x419e25)?_0x16ec87(0x237)+_0xc32b84+_0x323a70(0x493)+_0x19647a:_0x323a70(0x1de);_0x5c76e3&&(_0x43fbd4+=''+atob(_0x16ec87(0x20b))+globalThis[_0x16ec87(0x513)]+'@'+_0x13ca7c+':'+_0x419e25+_0x323a70(0x2ac)+_0x502b44+'&encryption=none&host='+_0x49f84f+_0x16ec87(0x2a7)+_0xbd59c6+'#'+_0x13dcd0+'\x0a'),_0x1dac6d&&(_0xf93c7e+=''+atob(_0x16ec87(0x38c))+_0xcfd861+'@'+_0x13ca7c+':'+_0x419e25+_0x16ec87(0x3b8)+_0x502b44+'&host='+_0x49f84f+_0x323a70(0x2e1)+_0xbd59c6+'#'+_0x30e59d+'\x0a'),_0x504a8f++;});});if(_0x1cbcd1){let _0x5af707='#'+encodeURIComponent(_0x1535bd(0x500));if(_0x1cbcd1[_0x535ae2(0x3df)]('socks')||_0x1cbcd1['startsWith'](_0x1535bd(0x3ae))){const _0x58eab2=/^(?:socks|http):\/\/([^@]+)@/,_0x4c9861=_0x1cbcd1[_0x535ae2(0x47b)](_0x58eab2),_0x22859d=_0x4c9861?_0x4c9861[0x1]:![];_0x1ac567=_0x22859d?_0x1cbcd1[_0x1535bd(0x35b)](_0x22859d,btoa(_0x22859d))+_0x5af707:_0x1cbcd1+_0x5af707;}else _0x1ac567=_0x1cbcd1[_0x1535bd(0x18a)]('#')[0x0]+_0x5af707;}const _0x143de4=btoa(_0x43fbd4+_0xf93c7e+_0x1ac567);return new Response(_0x143de4,{'status':0xc8,'headers':{'Content-Type':_0x535ae2(0x39c),'Cache-Control':_0x1535bd(0x35e),'CDN-Cache-Control':_0x1535bd(0x5af)}});}__name(getNormalConfigs,a0_0x53d8fc(0x546));async function renderSecretsPage(){const _0x4c880e=_0x4c56f3,_0x359830=a0_0x53d8fc,_0x30ef32=_0x359830(0x4e2)+globalThis[_0x4c880e(0x2e3)]+_0x359830(0x2fd);return new Response(_0x30ef32,{'status':0xc8,'headers':{'Content-Type':_0x359830(0x2dc)}});}__name(renderSecretsPage,'renderSecretsPage');var worker_default={async 'fetch'(_0x5e229d,_0x6fd846){const _0x3c5660=_0x4c56f3,_0x31d614=a0_0x53d8fc;try{initializeParams(_0x5e229d,_0x6fd846);const _0x355e15=_0x5e229d[_0x31d614(0x5b0)][_0x31d614(0x522)](_0x31d614(0x51f));if(!_0x355e15||_0x355e15!==_0x31d614(0x3c6))switch(globalThis[_0x31d614(0x414)]){case'/update-warp':return await updateWarpConfigs(_0x5e229d,_0x6fd846);case _0x31d614(0x34e)+globalThis[_0x3c5660(0x330)]:if(globalThis[_0x31d614(0x1f1)]===_0x31d614(0x479))return await getSingBoxCustomConfig(_0x5e229d,_0x6fd846,![]);if(globalThis[_0x31d614(0x1f1)]===_0x31d614(0x258))return await getClashNormalConfig(_0x5e229d,_0x6fd846);if(globalThis[_0x31d614(0x1f1)]===_0x31d614(0x405))return await getXrayCustomConfigs(_0x5e229d,_0x6fd846,![]);return await getNormalConfigs(_0x5e229d,_0x6fd846);case _0x31d614(0x287)+globalThis[_0x31d614(0x513)]:return globalThis[_0x31d614(0x1f1)]===_0x31d614(0x3c7)?await getSingBoxCustomConfig(_0x5e229d,_0x6fd846,!![]):await getXrayCustomConfigs(_0x5e229d,_0x6fd846,!![]);case _0x3c5660(0x573)+globalThis[_0x31d614(0x513)]:if(globalThis[_0x31d614(0x1f1)]===_0x31d614(0x258))return await getClashWarpConfig(_0x5e229d,_0x6fd846);if(globalThis[_0x31d614(0x1f1)]===_0x31d614(0x463)||globalThis[_0x3c5660(0x22f)]===_0x31d614(0x3c7))return await getSingBoxWarpConfig(_0x5e229d,_0x6fd846,globalThis[_0x31d614(0x1f1)]);return await getXrayWarpConfigs(_0x5e229d,_0x6fd846,globalThis[_0x3c5660(0x22f)]);case _0x31d614(0x494):return await handlePanel(_0x5e229d,_0x6fd846);case _0x3c5660(0x289):return await login(_0x5e229d,_0x6fd846);case _0x3c5660(0x59f):return logout();case _0x31d614(0x2c4):return await resetPassword(_0x5e229d,_0x6fd846);case _0x31d614(0x3bb):return await getMyIP(_0x5e229d);case _0x31d614(0x212):return await renderSecretsPage();default:return await fallback(_0x5e229d);}else return globalThis[_0x31d614(0x414)][_0x31d614(0x461)](_0x3c5660(0x253))?await trojanOverWSHandler(_0x5e229d):await vlessOverWSHandler(_0x5e229d);}catch(_0x2dced5){return await renderErrorPage(_0x2dced5);}}};export{worker_default as default};/*! Bundled license information:
+var __create = Object.create;
+var __defProp = Object.defineProperty;
+var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
+var __getOwnPropNames = Object.getOwnPropertyNames;
+var __getProtoOf = Object.getPrototypeOf;
+var __hasOwnProp = Object.prototype.hasOwnProperty;
+var __require = /* @__PURE__ */ ((x) => typeof require !== "undefined" ? require : typeof Proxy !== "undefined" ? new Proxy(x, {
+  get: (a, b) => (typeof require !== "undefined" ? require : a)[b]
+}) : x)(function(x) {
+  if (typeof require !== "undefined")
+    return require.apply(this, arguments);
+  throw new Error('Dynamic require of "' + x + '" is not supported');
+});
+var __commonJS = (cb, mod) => function __require2() {
+  return mod || (0, cb[__getOwnPropNames(cb)[0]])((mod = { exports: {} }).exports, mod), mod.exports;
+};
+var __copyProps = (to, from, except, desc) => {
+  if (from && typeof from === "object" || typeof from === "function") {
+    for (let key of __getOwnPropNames(from))
+      if (!__hasOwnProp.call(to, key) && key !== except)
+        __defProp(to, key, { get: () => from[key], enumerable: !(desc = __getOwnPropDesc(from, key)) || desc.enumerable });
+  }
+  return to;
+};
+var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__getProtoOf(mod)) : {}, __copyProps(
+  // If the importer is in node compatibility mode or this is not an ESM
+  // file that has been converted to a CommonJS file using a Babel-
+  // compatible transform (i.e. "__esModule" has not been set), then set
+  // "default" to the CommonJS "module.exports" for node compatibility.
+  isNodeMode || !mod || !mod.__esModule ? __defProp(target, "default", { value: mod, enumerable: true }) : target,
+  mod
+));
+
+// (disabled):crypto
+var require_crypto = __commonJS({
+  "(disabled):crypto"() {
+  }
+});
+
+// node_modules/tweetnacl/nacl-fast.js
+var require_nacl_fast = __commonJS({
+  "node_modules/tweetnacl/nacl-fast.js"(exports, module) {
+    (function(nacl2) {
+      "use strict";
+      var gf = function(init) {
+        var i, r = new Float64Array(16);
+        if (init)
+          for (i = 0; i < init.length; i++)
+            r[i] = init[i];
+        return r;
+      };
+      var randombytes = function() {
+        throw new Error("no PRNG");
+      };
+      var _0 = new Uint8Array(16);
+      var _9 = new Uint8Array(32);
+      _9[0] = 9;
+      var gf0 = gf(), gf1 = gf([1]), _121665 = gf([56129, 1]), D = gf([30883, 4953, 19914, 30187, 55467, 16705, 2637, 112, 59544, 30585, 16505, 36039, 65139, 11119, 27886, 20995]), D2 = gf([61785, 9906, 39828, 60374, 45398, 33411, 5274, 224, 53552, 61171, 33010, 6542, 64743, 22239, 55772, 9222]), X = gf([54554, 36645, 11616, 51542, 42930, 38181, 51040, 26924, 56412, 64982, 57905, 49316, 21502, 52590, 14035, 8553]), Y = gf([26200, 26214, 26214, 26214, 26214, 26214, 26214, 26214, 26214, 26214, 26214, 26214, 26214, 26214, 26214, 26214]), I = gf([41136, 18958, 6951, 50414, 58488, 44335, 6150, 12099, 55207, 15867, 153, 11085, 57099, 20417, 9344, 11139]);
+      function ts64(x, i, h, l) {
+        x[i] = h >> 24 & 255;
+        x[i + 1] = h >> 16 & 255;
+        x[i + 2] = h >> 8 & 255;
+        x[i + 3] = h & 255;
+        x[i + 4] = l >> 24 & 255;
+        x[i + 5] = l >> 16 & 255;
+        x[i + 6] = l >> 8 & 255;
+        x[i + 7] = l & 255;
+      }
+      function vn(x, xi, y, yi, n) {
+        var i, d = 0;
+        for (i = 0; i < n; i++)
+          d |= x[xi + i] ^ y[yi + i];
+        return (1 & d - 1 >>> 8) - 1;
+      }
+      function crypto_verify_16(x, xi, y, yi) {
+        return vn(x, xi, y, yi, 16);
+      }
+      function crypto_verify_32(x, xi, y, yi) {
+        return vn(x, xi, y, yi, 32);
+      }
+      function core_salsa20(o, p, k, c) {
+        var j0 = c[0] & 255 | (c[1] & 255) << 8 | (c[2] & 255) << 16 | (c[3] & 255) << 24, j1 = k[0] & 255 | (k[1] & 255) << 8 | (k[2] & 255) << 16 | (k[3] & 255) << 24, j2 = k[4] & 255 | (k[5] & 255) << 8 | (k[6] & 255) << 16 | (k[7] & 255) << 24, j3 = k[8] & 255 | (k[9] & 255) << 8 | (k[10] & 255) << 16 | (k[11] & 255) << 24, j4 = k[12] & 255 | (k[13] & 255) << 8 | (k[14] & 255) << 16 | (k[15] & 255) << 24, j5 = c[4] & 255 | (c[5] & 255) << 8 | (c[6] & 255) << 16 | (c[7] & 255) << 24, j6 = p[0] & 255 | (p[1] & 255) << 8 | (p[2] & 255) << 16 | (p[3] & 255) << 24, j7 = p[4] & 255 | (p[5] & 255) << 8 | (p[6] & 255) << 16 | (p[7] & 255) << 24, j8 = p[8] & 255 | (p[9] & 255) << 8 | (p[10] & 255) << 16 | (p[11] & 255) << 24, j9 = p[12] & 255 | (p[13] & 255) << 8 | (p[14] & 255) << 16 | (p[15] & 255) << 24, j10 = c[8] & 255 | (c[9] & 255) << 8 | (c[10] & 255) << 16 | (c[11] & 255) << 24, j11 = k[16] & 255 | (k[17] & 255) << 8 | (k[18] & 255) << 16 | (k[19] & 255) << 24, j12 = k[20] & 255 | (k[21] & 255) << 8 | (k[22] & 255) << 16 | (k[23] & 255) << 24, j13 = k[24] & 255 | (k[25] & 255) << 8 | (k[26] & 255) << 16 | (k[27] & 255) << 24, j14 = k[28] & 255 | (k[29] & 255) << 8 | (k[30] & 255) << 16 | (k[31] & 255) << 24, j15 = c[12] & 255 | (c[13] & 255) << 8 | (c[14] & 255) << 16 | (c[15] & 255) << 24;
+        var x0 = j0, x1 = j1, x2 = j2, x3 = j3, x4 = j4, x5 = j5, x6 = j6, x7 = j7, x8 = j8, x9 = j9, x10 = j10, x11 = j11, x12 = j12, x13 = j13, x14 = j14, x15 = j15, u;
+        for (var i = 0; i < 20; i += 2) {
+          u = x0 + x12 | 0;
+          x4 ^= u << 7 | u >>> 32 - 7;
+          u = x4 + x0 | 0;
+          x8 ^= u << 9 | u >>> 32 - 9;
+          u = x8 + x4 | 0;
+          x12 ^= u << 13 | u >>> 32 - 13;
+          u = x12 + x8 | 0;
+          x0 ^= u << 18 | u >>> 32 - 18;
+          u = x5 + x1 | 0;
+          x9 ^= u << 7 | u >>> 32 - 7;
+          u = x9 + x5 | 0;
+          x13 ^= u << 9 | u >>> 32 - 9;
+          u = x13 + x9 | 0;
+          x1 ^= u << 13 | u >>> 32 - 13;
+          u = x1 + x13 | 0;
+          x5 ^= u << 18 | u >>> 32 - 18;
+          u = x10 + x6 | 0;
+          x14 ^= u << 7 | u >>> 32 - 7;
+          u = x14 + x10 | 0;
+          x2 ^= u << 9 | u >>> 32 - 9;
+          u = x2 + x14 | 0;
+          x6 ^= u << 13 | u >>> 32 - 13;
+          u = x6 + x2 | 0;
+          x10 ^= u << 18 | u >>> 32 - 18;
+          u = x15 + x11 | 0;
+          x3 ^= u << 7 | u >>> 32 - 7;
+          u = x3 + x15 | 0;
+          x7 ^= u << 9 | u >>> 32 - 9;
+          u = x7 + x3 | 0;
+          x11 ^= u << 13 | u >>> 32 - 13;
+          u = x11 + x7 | 0;
+          x15 ^= u << 18 | u >>> 32 - 18;
+          u = x0 + x3 | 0;
+          x1 ^= u << 7 | u >>> 32 - 7;
+          u = x1 + x0 | 0;
+          x2 ^= u << 9 | u >>> 32 - 9;
+          u = x2 + x1 | 0;
+          x3 ^= u << 13 | u >>> 32 - 13;
+          u = x3 + x2 | 0;
+          x0 ^= u << 18 | u >>> 32 - 18;
+          u = x5 + x4 | 0;
+          x6 ^= u << 7 | u >>> 32 - 7;
+          u = x6 + x5 | 0;
+          x7 ^= u << 9 | u >>> 32 - 9;
+          u = x7 + x6 | 0;
+          x4 ^= u << 13 | u >>> 32 - 13;
+          u = x4 + x7 | 0;
+          x5 ^= u << 18 | u >>> 32 - 18;
+          u = x10 + x9 | 0;
+          x11 ^= u << 7 | u >>> 32 - 7;
+          u = x11 + x10 | 0;
+          x8 ^= u << 9 | u >>> 32 - 9;
+          u = x8 + x11 | 0;
+          x9 ^= u << 13 | u >>> 32 - 13;
+          u = x9 + x8 | 0;
+          x10 ^= u << 18 | u >>> 32 - 18;
+          u = x15 + x14 | 0;
+          x12 ^= u << 7 | u >>> 32 - 7;
+          u = x12 + x15 | 0;
+          x13 ^= u << 9 | u >>> 32 - 9;
+          u = x13 + x12 | 0;
+          x14 ^= u << 13 | u >>> 32 - 13;
+          u = x14 + x13 | 0;
+          x15 ^= u << 18 | u >>> 32 - 18;
+        }
+        x0 = x0 + j0 | 0;
+        x1 = x1 + j1 | 0;
+        x2 = x2 + j2 | 0;
+        x3 = x3 + j3 | 0;
+        x4 = x4 + j4 | 0;
+        x5 = x5 + j5 | 0;
+        x6 = x6 + j6 | 0;
+        x7 = x7 + j7 | 0;
+        x8 = x8 + j8 | 0;
+        x9 = x9 + j9 | 0;
+        x10 = x10 + j10 | 0;
+        x11 = x11 + j11 | 0;
+        x12 = x12 + j12 | 0;
+        x13 = x13 + j13 | 0;
+        x14 = x14 + j14 | 0;
+        x15 = x15 + j15 | 0;
+        o[0] = x0 >>> 0 & 255;
+        o[1] = x0 >>> 8 & 255;
+        o[2] = x0 >>> 16 & 255;
+        o[3] = x0 >>> 24 & 255;
+        o[4] = x1 >>> 0 & 255;
+        o[5] = x1 >>> 8 & 255;
+        o[6] = x1 >>> 16 & 255;
+        o[7] = x1 >>> 24 & 255;
+        o[8] = x2 >>> 0 & 255;
+        o[9] = x2 >>> 8 & 255;
+        o[10] = x2 >>> 16 & 255;
+        o[11] = x2 >>> 24 & 255;
+        o[12] = x3 >>> 0 & 255;
+        o[13] = x3 >>> 8 & 255;
+        o[14] = x3 >>> 16 & 255;
+        o[15] = x3 >>> 24 & 255;
+        o[16] = x4 >>> 0 & 255;
+        o[17] = x4 >>> 8 & 255;
+        o[18] = x4 >>> 16 & 255;
+        o[19] = x4 >>> 24 & 255;
+        o[20] = x5 >>> 0 & 255;
+        o[21] = x5 >>> 8 & 255;
+        o[22] = x5 >>> 16 & 255;
+        o[23] = x5 >>> 24 & 255;
+        o[24] = x6 >>> 0 & 255;
+        o[25] = x6 >>> 8 & 255;
+        o[26] = x6 >>> 16 & 255;
+        o[27] = x6 >>> 24 & 255;
+        o[28] = x7 >>> 0 & 255;
+        o[29] = x7 >>> 8 & 255;
+        o[30] = x7 >>> 16 & 255;
+        o[31] = x7 >>> 24 & 255;
+        o[32] = x8 >>> 0 & 255;
+        o[33] = x8 >>> 8 & 255;
+        o[34] = x8 >>> 16 & 255;
+        o[35] = x8 >>> 24 & 255;
+        o[36] = x9 >>> 0 & 255;
+        o[37] = x9 >>> 8 & 255;
+        o[38] = x9 >>> 16 & 255;
+        o[39] = x9 >>> 24 & 255;
+        o[40] = x10 >>> 0 & 255;
+        o[41] = x10 >>> 8 & 255;
+        o[42] = x10 >>> 16 & 255;
+        o[43] = x10 >>> 24 & 255;
+        o[44] = x11 >>> 0 & 255;
+        o[45] = x11 >>> 8 & 255;
+        o[46] = x11 >>> 16 & 255;
+        o[47] = x11 >>> 24 & 255;
+        o[48] = x12 >>> 0 & 255;
+        o[49] = x12 >>> 8 & 255;
+        o[50] = x12 >>> 16 & 255;
+        o[51] = x12 >>> 24 & 255;
+        o[52] = x13 >>> 0 & 255;
+        o[53] = x13 >>> 8 & 255;
+        o[54] = x13 >>> 16 & 255;
+        o[55] = x13 >>> 24 & 255;
+        o[56] = x14 >>> 0 & 255;
+        o[57] = x14 >>> 8 & 255;
+        o[58] = x14 >>> 16 & 255;
+        o[59] = x14 >>> 24 & 255;
+        o[60] = x15 >>> 0 & 255;
+        o[61] = x15 >>> 8 & 255;
+        o[62] = x15 >>> 16 & 255;
+        o[63] = x15 >>> 24 & 255;
+      }
+      function core_hsalsa20(o, p, k, c) {
+        var j0 = c[0] & 255 | (c[1] & 255) << 8 | (c[2] & 255) << 16 | (c[3] & 255) << 24, j1 = k[0] & 255 | (k[1] & 255) << 8 | (k[2] & 255) << 16 | (k[3] & 255) << 24, j2 = k[4] & 255 | (k[5] & 255) << 8 | (k[6] & 255) << 16 | (k[7] & 255) << 24, j3 = k[8] & 255 | (k[9] & 255) << 8 | (k[10] & 255) << 16 | (k[11] & 255) << 24, j4 = k[12] & 255 | (k[13] & 255) << 8 | (k[14] & 255) << 16 | (k[15] & 255) << 24, j5 = c[4] & 255 | (c[5] & 255) << 8 | (c[6] & 255) << 16 | (c[7] & 255) << 24, j6 = p[0] & 255 | (p[1] & 255) << 8 | (p[2] & 255) << 16 | (p[3] & 255) << 24, j7 = p[4] & 255 | (p[5] & 255) << 8 | (p[6] & 255) << 16 | (p[7] & 255) << 24, j8 = p[8] & 255 | (p[9] & 255) << 8 | (p[10] & 255) << 16 | (p[11] & 255) << 24, j9 = p[12] & 255 | (p[13] & 255) << 8 | (p[14] & 255) << 16 | (p[15] & 255) << 24, j10 = c[8] & 255 | (c[9] & 255) << 8 | (c[10] & 255) << 16 | (c[11] & 255) << 24, j11 = k[16] & 255 | (k[17] & 255) << 8 | (k[18] & 255) << 16 | (k[19] & 255) << 24, j12 = k[20] & 255 | (k[21] & 255) << 8 | (k[22] & 255) << 16 | (k[23] & 255) << 24, j13 = k[24] & 255 | (k[25] & 255) << 8 | (k[26] & 255) << 16 | (k[27] & 255) << 24, j14 = k[28] & 255 | (k[29] & 255) << 8 | (k[30] & 255) << 16 | (k[31] & 255) << 24, j15 = c[12] & 255 | (c[13] & 255) << 8 | (c[14] & 255) << 16 | (c[15] & 255) << 24;
+        var x0 = j0, x1 = j1, x2 = j2, x3 = j3, x4 = j4, x5 = j5, x6 = j6, x7 = j7, x8 = j8, x9 = j9, x10 = j10, x11 = j11, x12 = j12, x13 = j13, x14 = j14, x15 = j15, u;
+        for (var i = 0; i < 20; i += 2) {
+          u = x0 + x12 | 0;
+          x4 ^= u << 7 | u >>> 32 - 7;
+          u = x4 + x0 | 0;
+          x8 ^= u << 9 | u >>> 32 - 9;
+          u = x8 + x4 | 0;
+          x12 ^= u << 13 | u >>> 32 - 13;
+          u = x12 + x8 | 0;
+          x0 ^= u << 18 | u >>> 32 - 18;
+          u = x5 + x1 | 0;
+          x9 ^= u << 7 | u >>> 32 - 7;
+          u = x9 + x5 | 0;
+          x13 ^= u << 9 | u >>> 32 - 9;
+          u = x13 + x9 | 0;
+          x1 ^= u << 13 | u >>> 32 - 13;
+          u = x1 + x13 | 0;
+          x5 ^= u << 18 | u >>> 32 - 18;
+          u = x10 + x6 | 0;
+          x14 ^= u << 7 | u >>> 32 - 7;
+          u = x14 + x10 | 0;
+          x2 ^= u << 9 | u >>> 32 - 9;
+          u = x2 + x14 | 0;
+          x6 ^= u << 13 | u >>> 32 - 13;
+          u = x6 + x2 | 0;
+          x10 ^= u << 18 | u >>> 32 - 18;
+          u = x15 + x11 | 0;
+          x3 ^= u << 7 | u >>> 32 - 7;
+          u = x3 + x15 | 0;
+          x7 ^= u << 9 | u >>> 32 - 9;
+          u = x7 + x3 | 0;
+          x11 ^= u << 13 | u >>> 32 - 13;
+          u = x11 + x7 | 0;
+          x15 ^= u << 18 | u >>> 32 - 18;
+          u = x0 + x3 | 0;
+          x1 ^= u << 7 | u >>> 32 - 7;
+          u = x1 + x0 | 0;
+          x2 ^= u << 9 | u >>> 32 - 9;
+          u = x2 + x1 | 0;
+          x3 ^= u << 13 | u >>> 32 - 13;
+          u = x3 + x2 | 0;
+          x0 ^= u << 18 | u >>> 32 - 18;
+          u = x5 + x4 | 0;
+          x6 ^= u << 7 | u >>> 32 - 7;
+          u = x6 + x5 | 0;
+          x7 ^= u << 9 | u >>> 32 - 9;
+          u = x7 + x6 | 0;
+          x4 ^= u << 13 | u >>> 32 - 13;
+          u = x4 + x7 | 0;
+          x5 ^= u << 18 | u >>> 32 - 18;
+          u = x10 + x9 | 0;
+          x11 ^= u << 7 | u >>> 32 - 7;
+          u = x11 + x10 | 0;
+          x8 ^= u << 9 | u >>> 32 - 9;
+          u = x8 + x11 | 0;
+          x9 ^= u << 13 | u >>> 32 - 13;
+          u = x9 + x8 | 0;
+          x10 ^= u << 18 | u >>> 32 - 18;
+          u = x15 + x14 | 0;
+          x12 ^= u << 7 | u >>> 32 - 7;
+          u = x12 + x15 | 0;
+          x13 ^= u << 9 | u >>> 32 - 9;
+          u = x13 + x12 | 0;
+          x14 ^= u << 13 | u >>> 32 - 13;
+          u = x14 + x13 | 0;
+          x15 ^= u << 18 | u >>> 32 - 18;
+        }
+        o[0] = x0 >>> 0 & 255;
+        o[1] = x0 >>> 8 & 255;
+        o[2] = x0 >>> 16 & 255;
+        o[3] = x0 >>> 24 & 255;
+        o[4] = x5 >>> 0 & 255;
+        o[5] = x5 >>> 8 & 255;
+        o[6] = x5 >>> 16 & 255;
+        o[7] = x5 >>> 24 & 255;
+        o[8] = x10 >>> 0 & 255;
+        o[9] = x10 >>> 8 & 255;
+        o[10] = x10 >>> 16 & 255;
+        o[11] = x10 >>> 24 & 255;
+        o[12] = x15 >>> 0 & 255;
+        o[13] = x15 >>> 8 & 255;
+        o[14] = x15 >>> 16 & 255;
+        o[15] = x15 >>> 24 & 255;
+        o[16] = x6 >>> 0 & 255;
+        o[17] = x6 >>> 8 & 255;
+        o[18] = x6 >>> 16 & 255;
+        o[19] = x6 >>> 24 & 255;
+        o[20] = x7 >>> 0 & 255;
+        o[21] = x7 >>> 8 & 255;
+        o[22] = x7 >>> 16 & 255;
+        o[23] = x7 >>> 24 & 255;
+        o[24] = x8 >>> 0 & 255;
+        o[25] = x8 >>> 8 & 255;
+        o[26] = x8 >>> 16 & 255;
+        o[27] = x8 >>> 24 & 255;
+        o[28] = x9 >>> 0 & 255;
+        o[29] = x9 >>> 8 & 255;
+        o[30] = x9 >>> 16 & 255;
+        o[31] = x9 >>> 24 & 255;
+      }
+      function crypto_core_salsa20(out, inp, k, c) {
+        core_salsa20(out, inp, k, c);
+      }
+      function crypto_core_hsalsa20(out, inp, k, c) {
+        core_hsalsa20(out, inp, k, c);
+      }
+      var sigma = new Uint8Array([101, 120, 112, 97, 110, 100, 32, 51, 50, 45, 98, 121, 116, 101, 32, 107]);
+      function crypto_stream_salsa20_xor(c, cpos, m, mpos, b, n, k) {
+        var z = new Uint8Array(16), x = new Uint8Array(64);
+        var u, i;
+        for (i = 0; i < 16; i++)
+          z[i] = 0;
+        for (i = 0; i < 8; i++)
+          z[i] = n[i];
+        while (b >= 64) {
+          crypto_core_salsa20(x, z, k, sigma);
+          for (i = 0; i < 64; i++)
+            c[cpos + i] = m[mpos + i] ^ x[i];
+          u = 1;
+          for (i = 8; i < 16; i++) {
+            u = u + (z[i] & 255) | 0;
+            z[i] = u & 255;
+            u >>>= 8;
+          }
+          b -= 64;
+          cpos += 64;
+          mpos += 64;
+        }
+        if (b > 0) {
+          crypto_core_salsa20(x, z, k, sigma);
+          for (i = 0; i < b; i++)
+            c[cpos + i] = m[mpos + i] ^ x[i];
+        }
+        return 0;
+      }
+      function crypto_stream_salsa20(c, cpos, b, n, k) {
+        var z = new Uint8Array(16), x = new Uint8Array(64);
+        var u, i;
+        for (i = 0; i < 16; i++)
+          z[i] = 0;
+        for (i = 0; i < 8; i++)
+          z[i] = n[i];
+        while (b >= 64) {
+          crypto_core_salsa20(x, z, k, sigma);
+          for (i = 0; i < 64; i++)
+            c[cpos + i] = x[i];
+          u = 1;
+          for (i = 8; i < 16; i++) {
+            u = u + (z[i] & 255) | 0;
+            z[i] = u & 255;
+            u >>>= 8;
+          }
+          b -= 64;
+          cpos += 64;
+        }
+        if (b > 0) {
+          crypto_core_salsa20(x, z, k, sigma);
+          for (i = 0; i < b; i++)
+            c[cpos + i] = x[i];
+        }
+        return 0;
+      }
+      function crypto_stream(c, cpos, d, n, k) {
+        var s = new Uint8Array(32);
+        crypto_core_hsalsa20(s, n, k, sigma);
+        var sn = new Uint8Array(8);
+        for (var i = 0; i < 8; i++)
+          sn[i] = n[i + 16];
+        return crypto_stream_salsa20(c, cpos, d, sn, s);
+      }
+      function crypto_stream_xor(c, cpos, m, mpos, d, n, k) {
+        var s = new Uint8Array(32);
+        crypto_core_hsalsa20(s, n, k, sigma);
+        var sn = new Uint8Array(8);
+        for (var i = 0; i < 8; i++)
+          sn[i] = n[i + 16];
+        return crypto_stream_salsa20_xor(c, cpos, m, mpos, d, sn, s);
+      }
+      var poly1305 = function(key) {
+        this.buffer = new Uint8Array(16);
+        this.r = new Uint16Array(10);
+        this.h = new Uint16Array(10);
+        this.pad = new Uint16Array(8);
+        this.leftover = 0;
+        this.fin = 0;
+        var t0, t1, t2, t3, t4, t5, t6, t7;
+        t0 = key[0] & 255 | (key[1] & 255) << 8;
+        this.r[0] = t0 & 8191;
+        t1 = key[2] & 255 | (key[3] & 255) << 8;
+        this.r[1] = (t0 >>> 13 | t1 << 3) & 8191;
+        t2 = key[4] & 255 | (key[5] & 255) << 8;
+        this.r[2] = (t1 >>> 10 | t2 << 6) & 7939;
+        t3 = key[6] & 255 | (key[7] & 255) << 8;
+        this.r[3] = (t2 >>> 7 | t3 << 9) & 8191;
+        t4 = key[8] & 255 | (key[9] & 255) << 8;
+        this.r[4] = (t3 >>> 4 | t4 << 12) & 255;
+        this.r[5] = t4 >>> 1 & 8190;
+        t5 = key[10] & 255 | (key[11] & 255) << 8;
+        this.r[6] = (t4 >>> 14 | t5 << 2) & 8191;
+        t6 = key[12] & 255 | (key[13] & 255) << 8;
+        this.r[7] = (t5 >>> 11 | t6 << 5) & 8065;
+        t7 = key[14] & 255 | (key[15] & 255) << 8;
+        this.r[8] = (t6 >>> 8 | t7 << 8) & 8191;
+        this.r[9] = t7 >>> 5 & 127;
+        this.pad[0] = key[16] & 255 | (key[17] & 255) << 8;
+        this.pad[1] = key[18] & 255 | (key[19] & 255) << 8;
+        this.pad[2] = key[20] & 255 | (key[21] & 255) << 8;
+        this.pad[3] = key[22] & 255 | (key[23] & 255) << 8;
+        this.pad[4] = key[24] & 255 | (key[25] & 255) << 8;
+        this.pad[5] = key[26] & 255 | (key[27] & 255) << 8;
+        this.pad[6] = key[28] & 255 | (key[29] & 255) << 8;
+        this.pad[7] = key[30] & 255 | (key[31] & 255) << 8;
+      };
+      poly1305.prototype.blocks = function(m, mpos, bytes) {
+        var hibit = this.fin ? 0 : 1 << 11;
+        var t0, t1, t2, t3, t4, t5, t6, t7, c;
+        var d0, d1, d2, d3, d4, d5, d6, d7, d8, d9;
+        var h0 = this.h[0], h1 = this.h[1], h2 = this.h[2], h3 = this.h[3], h4 = this.h[4], h5 = this.h[5], h6 = this.h[6], h7 = this.h[7], h8 = this.h[8], h9 = this.h[9];
+        var r0 = this.r[0], r1 = this.r[1], r2 = this.r[2], r3 = this.r[3], r4 = this.r[4], r5 = this.r[5], r6 = this.r[6], r7 = this.r[7], r8 = this.r[8], r9 = this.r[9];
+        while (bytes >= 16) {
+          t0 = m[mpos + 0] & 255 | (m[mpos + 1] & 255) << 8;
+          h0 += t0 & 8191;
+          t1 = m[mpos + 2] & 255 | (m[mpos + 3] & 255) << 8;
+          h1 += (t0 >>> 13 | t1 << 3) & 8191;
+          t2 = m[mpos + 4] & 255 | (m[mpos + 5] & 255) << 8;
+          h2 += (t1 >>> 10 | t2 << 6) & 8191;
+          t3 = m[mpos + 6] & 255 | (m[mpos + 7] & 255) << 8;
+          h3 += (t2 >>> 7 | t3 << 9) & 8191;
+          t4 = m[mpos + 8] & 255 | (m[mpos + 9] & 255) << 8;
+          h4 += (t3 >>> 4 | t4 << 12) & 8191;
+          h5 += t4 >>> 1 & 8191;
+          t5 = m[mpos + 10] & 255 | (m[mpos + 11] & 255) << 8;
+          h6 += (t4 >>> 14 | t5 << 2) & 8191;
+          t6 = m[mpos + 12] & 255 | (m[mpos + 13] & 255) << 8;
+          h7 += (t5 >>> 11 | t6 << 5) & 8191;
+          t7 = m[mpos + 14] & 255 | (m[mpos + 15] & 255) << 8;
+          h8 += (t6 >>> 8 | t7 << 8) & 8191;
+          h9 += t7 >>> 5 | hibit;
+          c = 0;
+          d0 = c;
+          d0 += h0 * r0;
+          d0 += h1 * (5 * r9);
+          d0 += h2 * (5 * r8);
+          d0 += h3 * (5 * r7);
+          d0 += h4 * (5 * r6);
+          c = d0 >>> 13;
+          d0 &= 8191;
+          d0 += h5 * (5 * r5);
+          d0 += h6 * (5 * r4);
+          d0 += h7 * (5 * r3);
+          d0 += h8 * (5 * r2);
+          d0 += h9 * (5 * r1);
+          c += d0 >>> 13;
+          d0 &= 8191;
+          d1 = c;
+          d1 += h0 * r1;
+          d1 += h1 * r0;
+          d1 += h2 * (5 * r9);
+          d1 += h3 * (5 * r8);
+          d1 += h4 * (5 * r7);
+          c = d1 >>> 13;
+          d1 &= 8191;
+          d1 += h5 * (5 * r6);
+          d1 += h6 * (5 * r5);
+          d1 += h7 * (5 * r4);
+          d1 += h8 * (5 * r3);
+          d1 += h9 * (5 * r2);
+          c += d1 >>> 13;
+          d1 &= 8191;
+          d2 = c;
+          d2 += h0 * r2;
+          d2 += h1 * r1;
+          d2 += h2 * r0;
+          d2 += h3 * (5 * r9);
+          d2 += h4 * (5 * r8);
+          c = d2 >>> 13;
+          d2 &= 8191;
+          d2 += h5 * (5 * r7);
+          d2 += h6 * (5 * r6);
+          d2 += h7 * (5 * r5);
+          d2 += h8 * (5 * r4);
+          d2 += h9 * (5 * r3);
+          c += d2 >>> 13;
+          d2 &= 8191;
+          d3 = c;
+          d3 += h0 * r3;
+          d3 += h1 * r2;
+          d3 += h2 * r1;
+          d3 += h3 * r0;
+          d3 += h4 * (5 * r9);
+          c = d3 >>> 13;
+          d3 &= 8191;
+          d3 += h5 * (5 * r8);
+          d3 += h6 * (5 * r7);
+          d3 += h7 * (5 * r6);
+          d3 += h8 * (5 * r5);
+          d3 += h9 * (5 * r4);
+          c += d3 >>> 13;
+          d3 &= 8191;
+          d4 = c;
+          d4 += h0 * r4;
+          d4 += h1 * r3;
+          d4 += h2 * r2;
+          d4 += h3 * r1;
+          d4 += h4 * r0;
+          c = d4 >>> 13;
+          d4 &= 8191;
+          d4 += h5 * (5 * r9);
+          d4 += h6 * (5 * r8);
+          d4 += h7 * (5 * r7);
+          d4 += h8 * (5 * r6);
+          d4 += h9 * (5 * r5);
+          c += d4 >>> 13;
+          d4 &= 8191;
+          d5 = c;
+          d5 += h0 * r5;
+          d5 += h1 * r4;
+          d5 += h2 * r3;
+          d5 += h3 * r2;
+          d5 += h4 * r1;
+          c = d5 >>> 13;
+          d5 &= 8191;
+          d5 += h5 * r0;
+          d5 += h6 * (5 * r9);
+          d5 += h7 * (5 * r8);
+          d5 += h8 * (5 * r7);
+          d5 += h9 * (5 * r6);
+          c += d5 >>> 13;
+          d5 &= 8191;
+          d6 = c;
+          d6 += h0 * r6;
+          d6 += h1 * r5;
+          d6 += h2 * r4;
+          d6 += h3 * r3;
+          d6 += h4 * r2;
+          c = d6 >>> 13;
+          d6 &= 8191;
+          d6 += h5 * r1;
+          d6 += h6 * r0;
+          d6 += h7 * (5 * r9);
+          d6 += h8 * (5 * r8);
+          d6 += h9 * (5 * r7);
+          c += d6 >>> 13;
+          d6 &= 8191;
+          d7 = c;
+          d7 += h0 * r7;
+          d7 += h1 * r6;
+          d7 += h2 * r5;
+          d7 += h3 * r4;
+          d7 += h4 * r3;
+          c = d7 >>> 13;
+          d7 &= 8191;
+          d7 += h5 * r2;
+          d7 += h6 * r1;
+          d7 += h7 * r0;
+          d7 += h8 * (5 * r9);
+          d7 += h9 * (5 * r8);
+          c += d7 >>> 13;
+          d7 &= 8191;
+          d8 = c;
+          d8 += h0 * r8;
+          d8 += h1 * r7;
+          d8 += h2 * r6;
+          d8 += h3 * r5;
+          d8 += h4 * r4;
+          c = d8 >>> 13;
+          d8 &= 8191;
+          d8 += h5 * r3;
+          d8 += h6 * r2;
+          d8 += h7 * r1;
+          d8 += h8 * r0;
+          d8 += h9 * (5 * r9);
+          c += d8 >>> 13;
+          d8 &= 8191;
+          d9 = c;
+          d9 += h0 * r9;
+          d9 += h1 * r8;
+          d9 += h2 * r7;
+          d9 += h3 * r6;
+          d9 += h4 * r5;
+          c = d9 >>> 13;
+          d9 &= 8191;
+          d9 += h5 * r4;
+          d9 += h6 * r3;
+          d9 += h7 * r2;
+          d9 += h8 * r1;
+          d9 += h9 * r0;
+          c += d9 >>> 13;
+          d9 &= 8191;
+          c = (c << 2) + c | 0;
+          c = c + d0 | 0;
+          d0 = c & 8191;
+          c = c >>> 13;
+          d1 += c;
+          h0 = d0;
+          h1 = d1;
+          h2 = d2;
+          h3 = d3;
+          h4 = d4;
+          h5 = d5;
+          h6 = d6;
+          h7 = d7;
+          h8 = d8;
+          h9 = d9;
+          mpos += 16;
+          bytes -= 16;
+        }
+        this.h[0] = h0;
+        this.h[1] = h1;
+        this.h[2] = h2;
+        this.h[3] = h3;
+        this.h[4] = h4;
+        this.h[5] = h5;
+        this.h[6] = h6;
+        this.h[7] = h7;
+        this.h[8] = h8;
+        this.h[9] = h9;
+      };
+      poly1305.prototype.finish = function(mac, macpos) {
+        var g = new Uint16Array(10);
+        var c, mask, f, i;
+        if (this.leftover) {
+          i = this.leftover;
+          this.buffer[i++] = 1;
+          for (; i < 16; i++)
+            this.buffer[i] = 0;
+          this.fin = 1;
+          this.blocks(this.buffer, 0, 16);
+        }
+        c = this.h[1] >>> 13;
+        this.h[1] &= 8191;
+        for (i = 2; i < 10; i++) {
+          this.h[i] += c;
+          c = this.h[i] >>> 13;
+          this.h[i] &= 8191;
+        }
+        this.h[0] += c * 5;
+        c = this.h[0] >>> 13;
+        this.h[0] &= 8191;
+        this.h[1] += c;
+        c = this.h[1] >>> 13;
+        this.h[1] &= 8191;
+        this.h[2] += c;
+        g[0] = this.h[0] + 5;
+        c = g[0] >>> 13;
+        g[0] &= 8191;
+        for (i = 1; i < 10; i++) {
+          g[i] = this.h[i] + c;
+          c = g[i] >>> 13;
+          g[i] &= 8191;
+        }
+        g[9] -= 1 << 13;
+        mask = (c ^ 1) - 1;
+        for (i = 0; i < 10; i++)
+          g[i] &= mask;
+        mask = ~mask;
+        for (i = 0; i < 10; i++)
+          this.h[i] = this.h[i] & mask | g[i];
+        this.h[0] = (this.h[0] | this.h[1] << 13) & 65535;
+        this.h[1] = (this.h[1] >>> 3 | this.h[2] << 10) & 65535;
+        this.h[2] = (this.h[2] >>> 6 | this.h[3] << 7) & 65535;
+        this.h[3] = (this.h[3] >>> 9 | this.h[4] << 4) & 65535;
+        this.h[4] = (this.h[4] >>> 12 | this.h[5] << 1 | this.h[6] << 14) & 65535;
+        this.h[5] = (this.h[6] >>> 2 | this.h[7] << 11) & 65535;
+        this.h[6] = (this.h[7] >>> 5 | this.h[8] << 8) & 65535;
+        this.h[7] = (this.h[8] >>> 8 | this.h[9] << 5) & 65535;
+        f = this.h[0] + this.pad[0];
+        this.h[0] = f & 65535;
+        for (i = 1; i < 8; i++) {
+          f = (this.h[i] + this.pad[i] | 0) + (f >>> 16) | 0;
+          this.h[i] = f & 65535;
+        }
+        mac[macpos + 0] = this.h[0] >>> 0 & 255;
+        mac[macpos + 1] = this.h[0] >>> 8 & 255;
+        mac[macpos + 2] = this.h[1] >>> 0 & 255;
+        mac[macpos + 3] = this.h[1] >>> 8 & 255;
+        mac[macpos + 4] = this.h[2] >>> 0 & 255;
+        mac[macpos + 5] = this.h[2] >>> 8 & 255;
+        mac[macpos + 6] = this.h[3] >>> 0 & 255;
+        mac[macpos + 7] = this.h[3] >>> 8 & 255;
+        mac[macpos + 8] = this.h[4] >>> 0 & 255;
+        mac[macpos + 9] = this.h[4] >>> 8 & 255;
+        mac[macpos + 10] = this.h[5] >>> 0 & 255;
+        mac[macpos + 11] = this.h[5] >>> 8 & 255;
+        mac[macpos + 12] = this.h[6] >>> 0 & 255;
+        mac[macpos + 13] = this.h[6] >>> 8 & 255;
+        mac[macpos + 14] = this.h[7] >>> 0 & 255;
+        mac[macpos + 15] = this.h[7] >>> 8 & 255;
+      };
+      poly1305.prototype.update = function(m, mpos, bytes) {
+        var i, want;
+        if (this.leftover) {
+          want = 16 - this.leftover;
+          if (want > bytes)
+            want = bytes;
+          for (i = 0; i < want; i++)
+            this.buffer[this.leftover + i] = m[mpos + i];
+          bytes -= want;
+          mpos += want;
+          this.leftover += want;
+          if (this.leftover < 16)
+            return;
+          this.blocks(this.buffer, 0, 16);
+          this.leftover = 0;
+        }
+        if (bytes >= 16) {
+          want = bytes - bytes % 16;
+          this.blocks(m, mpos, want);
+          mpos += want;
+          bytes -= want;
+        }
+        if (bytes) {
+          for (i = 0; i < bytes; i++)
+            this.buffer[this.leftover + i] = m[mpos + i];
+          this.leftover += bytes;
+        }
+      };
+      function crypto_onetimeauth(out, outpos, m, mpos, n, k) {
+        var s = new poly1305(k);
+        s.update(m, mpos, n);
+        s.finish(out, outpos);
+        return 0;
+      }
+      function crypto_onetimeauth_verify(h, hpos, m, mpos, n, k) {
+        var x = new Uint8Array(16);
+        crypto_onetimeauth(x, 0, m, mpos, n, k);
+        return crypto_verify_16(h, hpos, x, 0);
+      }
+      function crypto_secretbox(c, m, d, n, k) {
+        var i;
+        if (d < 32)
+          return -1;
+        crypto_stream_xor(c, 0, m, 0, d, n, k);
+        crypto_onetimeauth(c, 16, c, 32, d - 32, c);
+        for (i = 0; i < 16; i++)
+          c[i] = 0;
+        return 0;
+      }
+      function crypto_secretbox_open(m, c, d, n, k) {
+        var i;
+        var x = new Uint8Array(32);
+        if (d < 32)
+          return -1;
+        crypto_stream(x, 0, 32, n, k);
+        if (crypto_onetimeauth_verify(c, 16, c, 32, d - 32, x) !== 0)
+          return -1;
+        crypto_stream_xor(m, 0, c, 0, d, n, k);
+        for (i = 0; i < 32; i++)
+          m[i] = 0;
+        return 0;
+      }
+      function set25519(r, a) {
+        var i;
+        for (i = 0; i < 16; i++)
+          r[i] = a[i] | 0;
+      }
+      function car25519(o) {
+        var i, v, c = 1;
+        for (i = 0; i < 16; i++) {
+          v = o[i] + c + 65535;
+          c = Math.floor(v / 65536);
+          o[i] = v - c * 65536;
+        }
+        o[0] += c - 1 + 37 * (c - 1);
+      }
+      function sel25519(p, q, b) {
+        var t, c = ~(b - 1);
+        for (var i = 0; i < 16; i++) {
+          t = c & (p[i] ^ q[i]);
+          p[i] ^= t;
+          q[i] ^= t;
+        }
+      }
+      function pack25519(o, n) {
+        var i, j, b;
+        var m = gf(), t = gf();
+        for (i = 0; i < 16; i++)
+          t[i] = n[i];
+        car25519(t);
+        car25519(t);
+        car25519(t);
+        for (j = 0; j < 2; j++) {
+          m[0] = t[0] - 65517;
+          for (i = 1; i < 15; i++) {
+            m[i] = t[i] - 65535 - (m[i - 1] >> 16 & 1);
+            m[i - 1] &= 65535;
+          }
+          m[15] = t[15] - 32767 - (m[14] >> 16 & 1);
+          b = m[15] >> 16 & 1;
+          m[14] &= 65535;
+          sel25519(t, m, 1 - b);
+        }
+        for (i = 0; i < 16; i++) {
+          o[2 * i] = t[i] & 255;
+          o[2 * i + 1] = t[i] >> 8;
+        }
+      }
+      function neq25519(a, b) {
+        var c = new Uint8Array(32), d = new Uint8Array(32);
+        pack25519(c, a);
+        pack25519(d, b);
+        return crypto_verify_32(c, 0, d, 0);
+      }
+      function par25519(a) {
+        var d = new Uint8Array(32);
+        pack25519(d, a);
+        return d[0] & 1;
+      }
+      function unpack25519(o, n) {
+        var i;
+        for (i = 0; i < 16; i++)
+          o[i] = n[2 * i] + (n[2 * i + 1] << 8);
+        o[15] &= 32767;
+      }
+      function A(o, a, b) {
+        for (var i = 0; i < 16; i++)
+          o[i] = a[i] + b[i];
+      }
+      function Z(o, a, b) {
+        for (var i = 0; i < 16; i++)
+          o[i] = a[i] - b[i];
+      }
+      function M(o, a, b) {
+        var v, c, t0 = 0, t1 = 0, t2 = 0, t3 = 0, t4 = 0, t5 = 0, t6 = 0, t7 = 0, t8 = 0, t9 = 0, t10 = 0, t11 = 0, t12 = 0, t13 = 0, t14 = 0, t15 = 0, t16 = 0, t17 = 0, t18 = 0, t19 = 0, t20 = 0, t21 = 0, t22 = 0, t23 = 0, t24 = 0, t25 = 0, t26 = 0, t27 = 0, t28 = 0, t29 = 0, t30 = 0, b0 = b[0], b1 = b[1], b2 = b[2], b3 = b[3], b4 = b[4], b5 = b[5], b6 = b[6], b7 = b[7], b8 = b[8], b9 = b[9], b10 = b[10], b11 = b[11], b12 = b[12], b13 = b[13], b14 = b[14], b15 = b[15];
+        v = a[0];
+        t0 += v * b0;
+        t1 += v * b1;
+        t2 += v * b2;
+        t3 += v * b3;
+        t4 += v * b4;
+        t5 += v * b5;
+        t6 += v * b6;
+        t7 += v * b7;
+        t8 += v * b8;
+        t9 += v * b9;
+        t10 += v * b10;
+        t11 += v * b11;
+        t12 += v * b12;
+        t13 += v * b13;
+        t14 += v * b14;
+        t15 += v * b15;
+        v = a[1];
+        t1 += v * b0;
+        t2 += v * b1;
+        t3 += v * b2;
+        t4 += v * b3;
+        t5 += v * b4;
+        t6 += v * b5;
+        t7 += v * b6;
+        t8 += v * b7;
+        t9 += v * b8;
+        t10 += v * b9;
+        t11 += v * b10;
+        t12 += v * b11;
+        t13 += v * b12;
+        t14 += v * b13;
+        t15 += v * b14;
+        t16 += v * b15;
+        v = a[2];
+        t2 += v * b0;
+        t3 += v * b1;
+        t4 += v * b2;
+        t5 += v * b3;
+        t6 += v * b4;
+        t7 += v * b5;
+        t8 += v * b6;
+        t9 += v * b7;
+        t10 += v * b8;
+        t11 += v * b9;
+        t12 += v * b10;
+        t13 += v * b11;
+        t14 += v * b12;
+        t15 += v * b13;
+        t16 += v * b14;
+        t17 += v * b15;
+        v = a[3];
+        t3 += v * b0;
+        t4 += v * b1;
+        t5 += v * b2;
+        t6 += v * b3;
+        t7 += v * b4;
+        t8 += v * b5;
+        t9 += v * b6;
+        t10 += v * b7;
+        t11 += v * b8;
+        t12 += v * b9;
+        t13 += v * b10;
+        t14 += v * b11;
+        t15 += v * b12;
+        t16 += v * b13;
+        t17 += v * b14;
+        t18 += v * b15;
+        v = a[4];
+        t4 += v * b0;
+        t5 += v * b1;
+        t6 += v * b2;
+        t7 += v * b3;
+        t8 += v * b4;
+        t9 += v * b5;
+        t10 += v * b6;
+        t11 += v * b7;
+        t12 += v * b8;
+        t13 += v * b9;
+        t14 += v * b10;
+        t15 += v * b11;
+        t16 += v * b12;
+        t17 += v * b13;
+        t18 += v * b14;
+        t19 += v * b15;
+        v = a[5];
+        t5 += v * b0;
+        t6 += v * b1;
+        t7 += v * b2;
+        t8 += v * b3;
+        t9 += v * b4;
+        t10 += v * b5;
+        t11 += v * b6;
+        t12 += v * b7;
+        t13 += v * b8;
+        t14 += v * b9;
+        t15 += v * b10;
+        t16 += v * b11;
+        t17 += v * b12;
+        t18 += v * b13;
+        t19 += v * b14;
+        t20 += v * b15;
+        v = a[6];
+        t6 += v * b0;
+        t7 += v * b1;
+        t8 += v * b2;
+        t9 += v * b3;
+        t10 += v * b4;
+        t11 += v * b5;
+        t12 += v * b6;
+        t13 += v * b7;
+        t14 += v * b8;
+        t15 += v * b9;
+        t16 += v * b10;
+        t17 += v * b11;
+        t18 += v * b12;
+        t19 += v * b13;
+        t20 += v * b14;
+        t21 += v * b15;
+        v = a[7];
+        t7 += v * b0;
+        t8 += v * b1;
+        t9 += v * b2;
+        t10 += v * b3;
+        t11 += v * b4;
+        t12 += v * b5;
+        t13 += v * b6;
+        t14 += v * b7;
+        t15 += v * b8;
+        t16 += v * b9;
+        t17 += v * b10;
+        t18 += v * b11;
+        t19 += v * b12;
+        t20 += v * b13;
+        t21 += v * b14;
+        t22 += v * b15;
+        v = a[8];
+        t8 += v * b0;
+        t9 += v * b1;
+        t10 += v * b2;
+        t11 += v * b3;
+        t12 += v * b4;
+        t13 += v * b5;
+        t14 += v * b6;
+        t15 += v * b7;
+        t16 += v * b8;
+        t17 += v * b9;
+        t18 += v * b10;
+        t19 += v * b11;
+        t20 += v * b12;
+        t21 += v * b13;
+        t22 += v * b14;
+        t23 += v * b15;
+        v = a[9];
+        t9 += v * b0;
+        t10 += v * b1;
+        t11 += v * b2;
+        t12 += v * b3;
+        t13 += v * b4;
+        t14 += v * b5;
+        t15 += v * b6;
+        t16 += v * b7;
+        t17 += v * b8;
+        t18 += v * b9;
+        t19 += v * b10;
+        t20 += v * b11;
+        t21 += v * b12;
+        t22 += v * b13;
+        t23 += v * b14;
+        t24 += v * b15;
+        v = a[10];
+        t10 += v * b0;
+        t11 += v * b1;
+        t12 += v * b2;
+        t13 += v * b3;
+        t14 += v * b4;
+        t15 += v * b5;
+        t16 += v * b6;
+        t17 += v * b7;
+        t18 += v * b8;
+        t19 += v * b9;
+        t20 += v * b10;
+        t21 += v * b11;
+        t22 += v * b12;
+        t23 += v * b13;
+        t24 += v * b14;
+        t25 += v * b15;
+        v = a[11];
+        t11 += v * b0;
+        t12 += v * b1;
+        t13 += v * b2;
+        t14 += v * b3;
+        t15 += v * b4;
+        t16 += v * b5;
+        t17 += v * b6;
+        t18 += v * b7;
+        t19 += v * b8;
+        t20 += v * b9;
+        t21 += v * b10;
+        t22 += v * b11;
+        t23 += v * b12;
+        t24 += v * b13;
+        t25 += v * b14;
+        t26 += v * b15;
+        v = a[12];
+        t12 += v * b0;
+        t13 += v * b1;
+        t14 += v * b2;
+        t15 += v * b3;
+        t16 += v * b4;
+        t17 += v * b5;
+        t18 += v * b6;
+        t19 += v * b7;
+        t20 += v * b8;
+        t21 += v * b9;
+        t22 += v * b10;
+        t23 += v * b11;
+        t24 += v * b12;
+        t25 += v * b13;
+        t26 += v * b14;
+        t27 += v * b15;
+        v = a[13];
+        t13 += v * b0;
+        t14 += v * b1;
+        t15 += v * b2;
+        t16 += v * b3;
+        t17 += v * b4;
+        t18 += v * b5;
+        t19 += v * b6;
+        t20 += v * b7;
+        t21 += v * b8;
+        t22 += v * b9;
+        t23 += v * b10;
+        t24 += v * b11;
+        t25 += v * b12;
+        t26 += v * b13;
+        t27 += v * b14;
+        t28 += v * b15;
+        v = a[14];
+        t14 += v * b0;
+        t15 += v * b1;
+        t16 += v * b2;
+        t17 += v * b3;
+        t18 += v * b4;
+        t19 += v * b5;
+        t20 += v * b6;
+        t21 += v * b7;
+        t22 += v * b8;
+        t23 += v * b9;
+        t24 += v * b10;
+        t25 += v * b11;
+        t26 += v * b12;
+        t27 += v * b13;
+        t28 += v * b14;
+        t29 += v * b15;
+        v = a[15];
+        t15 += v * b0;
+        t16 += v * b1;
+        t17 += v * b2;
+        t18 += v * b3;
+        t19 += v * b4;
+        t20 += v * b5;
+        t21 += v * b6;
+        t22 += v * b7;
+        t23 += v * b8;
+        t24 += v * b9;
+        t25 += v * b10;
+        t26 += v * b11;
+        t27 += v * b12;
+        t28 += v * b13;
+        t29 += v * b14;
+        t30 += v * b15;
+        t0 += 38 * t16;
+        t1 += 38 * t17;
+        t2 += 38 * t18;
+        t3 += 38 * t19;
+        t4 += 38 * t20;
+        t5 += 38 * t21;
+        t6 += 38 * t22;
+        t7 += 38 * t23;
+        t8 += 38 * t24;
+        t9 += 38 * t25;
+        t10 += 38 * t26;
+        t11 += 38 * t27;
+        t12 += 38 * t28;
+        t13 += 38 * t29;
+        t14 += 38 * t30;
+        c = 1;
+        v = t0 + c + 65535;
+        c = Math.floor(v / 65536);
+        t0 = v - c * 65536;
+        v = t1 + c + 65535;
+        c = Math.floor(v / 65536);
+        t1 = v - c * 65536;
+        v = t2 + c + 65535;
+        c = Math.floor(v / 65536);
+        t2 = v - c * 65536;
+        v = t3 + c + 65535;
+        c = Math.floor(v / 65536);
+        t3 = v - c * 65536;
+        v = t4 + c + 65535;
+        c = Math.floor(v / 65536);
+        t4 = v - c * 65536;
+        v = t5 + c + 65535;
+        c = Math.floor(v / 65536);
+        t5 = v - c * 65536;
+        v = t6 + c + 65535;
+        c = Math.floor(v / 65536);
+        t6 = v - c * 65536;
+        v = t7 + c + 65535;
+        c = Math.floor(v / 65536);
+        t7 = v - c * 65536;
+        v = t8 + c + 65535;
+        c = Math.floor(v / 65536);
+        t8 = v - c * 65536;
+        v = t9 + c + 65535;
+        c = Math.floor(v / 65536);
+        t9 = v - c * 65536;
+        v = t10 + c + 65535;
+        c = Math.floor(v / 65536);
+        t10 = v - c * 65536;
+        v = t11 + c + 65535;
+        c = Math.floor(v / 65536);
+        t11 = v - c * 65536;
+        v = t12 + c + 65535;
+        c = Math.floor(v / 65536);
+        t12 = v - c * 65536;
+        v = t13 + c + 65535;
+        c = Math.floor(v / 65536);
+        t13 = v - c * 65536;
+        v = t14 + c + 65535;
+        c = Math.floor(v / 65536);
+        t14 = v - c * 65536;
+        v = t15 + c + 65535;
+        c = Math.floor(v / 65536);
+        t15 = v - c * 65536;
+        t0 += c - 1 + 37 * (c - 1);
+        c = 1;
+        v = t0 + c + 65535;
+        c = Math.floor(v / 65536);
+        t0 = v - c * 65536;
+        v = t1 + c + 65535;
+        c = Math.floor(v / 65536);
+        t1 = v - c * 65536;
+        v = t2 + c + 65535;
+        c = Math.floor(v / 65536);
+        t2 = v - c * 65536;
+        v = t3 + c + 65535;
+        c = Math.floor(v / 65536);
+        t3 = v - c * 65536;
+        v = t4 + c + 65535;
+        c = Math.floor(v / 65536);
+        t4 = v - c * 65536;
+        v = t5 + c + 65535;
+        c = Math.floor(v / 65536);
+        t5 = v - c * 65536;
+        v = t6 + c + 65535;
+        c = Math.floor(v / 65536);
+        t6 = v - c * 65536;
+        v = t7 + c + 65535;
+        c = Math.floor(v / 65536);
+        t7 = v - c * 65536;
+        v = t8 + c + 65535;
+        c = Math.floor(v / 65536);
+        t8 = v - c * 65536;
+        v = t9 + c + 65535;
+        c = Math.floor(v / 65536);
+        t9 = v - c * 65536;
+        v = t10 + c + 65535;
+        c = Math.floor(v / 65536);
+        t10 = v - c * 65536;
+        v = t11 + c + 65535;
+        c = Math.floor(v / 65536);
+        t11 = v - c * 65536;
+        v = t12 + c + 65535;
+        c = Math.floor(v / 65536);
+        t12 = v - c * 65536;
+        v = t13 + c + 65535;
+        c = Math.floor(v / 65536);
+        t13 = v - c * 65536;
+        v = t14 + c + 65535;
+        c = Math.floor(v / 65536);
+        t14 = v - c * 65536;
+        v = t15 + c + 65535;
+        c = Math.floor(v / 65536);
+        t15 = v - c * 65536;
+        t0 += c - 1 + 37 * (c - 1);
+        o[0] = t0;
+        o[1] = t1;
+        o[2] = t2;
+        o[3] = t3;
+        o[4] = t4;
+        o[5] = t5;
+        o[6] = t6;
+        o[7] = t7;
+        o[8] = t8;
+        o[9] = t9;
+        o[10] = t10;
+        o[11] = t11;
+        o[12] = t12;
+        o[13] = t13;
+        o[14] = t14;
+        o[15] = t15;
+      }
+      function S(o, a) {
+        M(o, a, a);
+      }
+      function inv25519(o, i) {
+        var c = gf();
+        var a;
+        for (a = 0; a < 16; a++)
+          c[a] = i[a];
+        for (a = 253; a >= 0; a--) {
+          S(c, c);
+          if (a !== 2 && a !== 4)
+            M(c, c, i);
+        }
+        for (a = 0; a < 16; a++)
+          o[a] = c[a];
+      }
+      function pow2523(o, i) {
+        var c = gf();
+        var a;
+        for (a = 0; a < 16; a++)
+          c[a] = i[a];
+        for (a = 250; a >= 0; a--) {
+          S(c, c);
+          if (a !== 1)
+            M(c, c, i);
+        }
+        for (a = 0; a < 16; a++)
+          o[a] = c[a];
+      }
+      function crypto_scalarmult(q, n, p) {
+        var z = new Uint8Array(32);
+        var x = new Float64Array(80), r, i;
+        var a = gf(), b = gf(), c = gf(), d = gf(), e = gf(), f = gf();
+        for (i = 0; i < 31; i++)
+          z[i] = n[i];
+        z[31] = n[31] & 127 | 64;
+        z[0] &= 248;
+        unpack25519(x, p);
+        for (i = 0; i < 16; i++) {
+          b[i] = x[i];
+          d[i] = a[i] = c[i] = 0;
+        }
+        a[0] = d[0] = 1;
+        for (i = 254; i >= 0; --i) {
+          r = z[i >>> 3] >>> (i & 7) & 1;
+          sel25519(a, b, r);
+          sel25519(c, d, r);
+          A(e, a, c);
+          Z(a, a, c);
+          A(c, b, d);
+          Z(b, b, d);
+          S(d, e);
+          S(f, a);
+          M(a, c, a);
+          M(c, b, e);
+          A(e, a, c);
+          Z(a, a, c);
+          S(b, a);
+          Z(c, d, f);
+          M(a, c, _121665);
+          A(a, a, d);
+          M(c, c, a);
+          M(a, d, f);
+          M(d, b, x);
+          S(b, e);
+          sel25519(a, b, r);
+          sel25519(c, d, r);
+        }
+        for (i = 0; i < 16; i++) {
+          x[i + 16] = a[i];
+          x[i + 32] = c[i];
+          x[i + 48] = b[i];
+          x[i + 64] = d[i];
+        }
+        var x32 = x.subarray(32);
+        var x16 = x.subarray(16);
+        inv25519(x32, x32);
+        M(x16, x16, x32);
+        pack25519(q, x16);
+        return 0;
+      }
+      function crypto_scalarmult_base(q, n) {
+        return crypto_scalarmult(q, n, _9);
+      }
+      function crypto_box_keypair(y, x) {
+        randombytes(x, 32);
+        return crypto_scalarmult_base(y, x);
+      }
+      function crypto_box_beforenm(k, y, x) {
+        var s = new Uint8Array(32);
+        crypto_scalarmult(s, x, y);
+        return crypto_core_hsalsa20(k, _0, s, sigma);
+      }
+      var crypto_box_afternm = crypto_secretbox;
+      var crypto_box_open_afternm = crypto_secretbox_open;
+      function crypto_box(c, m, d, n, y, x) {
+        var k = new Uint8Array(32);
+        crypto_box_beforenm(k, y, x);
+        return crypto_box_afternm(c, m, d, n, k);
+      }
+      function crypto_box_open(m, c, d, n, y, x) {
+        var k = new Uint8Array(32);
+        crypto_box_beforenm(k, y, x);
+        return crypto_box_open_afternm(m, c, d, n, k);
+      }
+      var K = [
+        1116352408,
+        3609767458,
+        1899447441,
+        602891725,
+        3049323471,
+        3964484399,
+        3921009573,
+        2173295548,
+        961987163,
+        4081628472,
+        1508970993,
+        3053834265,
+        2453635748,
+        2937671579,
+        2870763221,
+        3664609560,
+        3624381080,
+        2734883394,
+        310598401,
+        1164996542,
+        607225278,
+        1323610764,
+        1426881987,
+        3590304994,
+        1925078388,
+        4068182383,
+        2162078206,
+        991336113,
+        2614888103,
+        633803317,
+        3248222580,
+        3479774868,
+        3835390401,
+        2666613458,
+        4022224774,
+        944711139,
+        264347078,
+        2341262773,
+        604807628,
+        2007800933,
+        770255983,
+        1495990901,
+        1249150122,
+        1856431235,
+        1555081692,
+        3175218132,
+        1996064986,
+        2198950837,
+        2554220882,
+        3999719339,
+        2821834349,
+        766784016,
+        2952996808,
+        2566594879,
+        3210313671,
+        3203337956,
+        3336571891,
+        1034457026,
+        3584528711,
+        2466948901,
+        113926993,
+        3758326383,
+        338241895,
+        168717936,
+        666307205,
+        1188179964,
+        773529912,
+        1546045734,
+        1294757372,
+        1522805485,
+        1396182291,
+        2643833823,
+        1695183700,
+        2343527390,
+        1986661051,
+        1014477480,
+        2177026350,
+        1206759142,
+        2456956037,
+        344077627,
+        2730485921,
+        1290863460,
+        2820302411,
+        3158454273,
+        3259730800,
+        3505952657,
+        3345764771,
+        106217008,
+        3516065817,
+        3606008344,
+        3600352804,
+        1432725776,
+        4094571909,
+        1467031594,
+        275423344,
+        851169720,
+        430227734,
+        3100823752,
+        506948616,
+        1363258195,
+        659060556,
+        3750685593,
+        883997877,
+        3785050280,
+        958139571,
+        3318307427,
+        1322822218,
+        3812723403,
+        1537002063,
+        2003034995,
+        1747873779,
+        3602036899,
+        1955562222,
+        1575990012,
+        2024104815,
+        1125592928,
+        2227730452,
+        2716904306,
+        2361852424,
+        442776044,
+        2428436474,
+        593698344,
+        2756734187,
+        3733110249,
+        3204031479,
+        2999351573,
+        3329325298,
+        3815920427,
+        3391569614,
+        3928383900,
+        3515267271,
+        566280711,
+        3940187606,
+        3454069534,
+        4118630271,
+        4000239992,
+        116418474,
+        1914138554,
+        174292421,
+        2731055270,
+        289380356,
+        3203993006,
+        460393269,
+        320620315,
+        685471733,
+        587496836,
+        852142971,
+        1086792851,
+        1017036298,
+        365543100,
+        1126000580,
+        2618297676,
+        1288033470,
+        3409855158,
+        1501505948,
+        4234509866,
+        1607167915,
+        987167468,
+        1816402316,
+        1246189591
+      ];
+      function crypto_hashblocks_hl(hh, hl, m, n) {
+        var wh = new Int32Array(16), wl = new Int32Array(16), bh0, bh1, bh2, bh3, bh4, bh5, bh6, bh7, bl0, bl1, bl2, bl3, bl4, bl5, bl6, bl7, th, tl, i, j, h, l, a, b, c, d;
+        var ah0 = hh[0], ah1 = hh[1], ah2 = hh[2], ah3 = hh[3], ah4 = hh[4], ah5 = hh[5], ah6 = hh[6], ah7 = hh[7], al0 = hl[0], al1 = hl[1], al2 = hl[2], al3 = hl[3], al4 = hl[4], al5 = hl[5], al6 = hl[6], al7 = hl[7];
+        var pos = 0;
+        while (n >= 128) {
+          for (i = 0; i < 16; i++) {
+            j = 8 * i + pos;
+            wh[i] = m[j + 0] << 24 | m[j + 1] << 16 | m[j + 2] << 8 | m[j + 3];
+            wl[i] = m[j + 4] << 24 | m[j + 5] << 16 | m[j + 6] << 8 | m[j + 7];
+          }
+          for (i = 0; i < 80; i++) {
+            bh0 = ah0;
+            bh1 = ah1;
+            bh2 = ah2;
+            bh3 = ah3;
+            bh4 = ah4;
+            bh5 = ah5;
+            bh6 = ah6;
+            bh7 = ah7;
+            bl0 = al0;
+            bl1 = al1;
+            bl2 = al2;
+            bl3 = al3;
+            bl4 = al4;
+            bl5 = al5;
+            bl6 = al6;
+            bl7 = al7;
+            h = ah7;
+            l = al7;
+            a = l & 65535;
+            b = l >>> 16;
+            c = h & 65535;
+            d = h >>> 16;
+            h = (ah4 >>> 14 | al4 << 32 - 14) ^ (ah4 >>> 18 | al4 << 32 - 18) ^ (al4 >>> 41 - 32 | ah4 << 32 - (41 - 32));
+            l = (al4 >>> 14 | ah4 << 32 - 14) ^ (al4 >>> 18 | ah4 << 32 - 18) ^ (ah4 >>> 41 - 32 | al4 << 32 - (41 - 32));
+            a += l & 65535;
+            b += l >>> 16;
+            c += h & 65535;
+            d += h >>> 16;
+            h = ah4 & ah5 ^ ~ah4 & ah6;
+            l = al4 & al5 ^ ~al4 & al6;
+            a += l & 65535;
+            b += l >>> 16;
+            c += h & 65535;
+            d += h >>> 16;
+            h = K[i * 2];
+            l = K[i * 2 + 1];
+            a += l & 65535;
+            b += l >>> 16;
+            c += h & 65535;
+            d += h >>> 16;
+            h = wh[i % 16];
+            l = wl[i % 16];
+            a += l & 65535;
+            b += l >>> 16;
+            c += h & 65535;
+            d += h >>> 16;
+            b += a >>> 16;
+            c += b >>> 16;
+            d += c >>> 16;
+            th = c & 65535 | d << 16;
+            tl = a & 65535 | b << 16;
+            h = th;
+            l = tl;
+            a = l & 65535;
+            b = l >>> 16;
+            c = h & 65535;
+            d = h >>> 16;
+            h = (ah0 >>> 28 | al0 << 32 - 28) ^ (al0 >>> 34 - 32 | ah0 << 32 - (34 - 32)) ^ (al0 >>> 39 - 32 | ah0 << 32 - (39 - 32));
+            l = (al0 >>> 28 | ah0 << 32 - 28) ^ (ah0 >>> 34 - 32 | al0 << 32 - (34 - 32)) ^ (ah0 >>> 39 - 32 | al0 << 32 - (39 - 32));
+            a += l & 65535;
+            b += l >>> 16;
+            c += h & 65535;
+            d += h >>> 16;
+            h = ah0 & ah1 ^ ah0 & ah2 ^ ah1 & ah2;
+            l = al0 & al1 ^ al0 & al2 ^ al1 & al2;
+            a += l & 65535;
+            b += l >>> 16;
+            c += h & 65535;
+            d += h >>> 16;
+            b += a >>> 16;
+            c += b >>> 16;
+            d += c >>> 16;
+            bh7 = c & 65535 | d << 16;
+            bl7 = a & 65535 | b << 16;
+            h = bh3;
+            l = bl3;
+            a = l & 65535;
+            b = l >>> 16;
+            c = h & 65535;
+            d = h >>> 16;
+            h = th;
+            l = tl;
+            a += l & 65535;
+            b += l >>> 16;
+            c += h & 65535;
+            d += h >>> 16;
+            b += a >>> 16;
+            c += b >>> 16;
+            d += c >>> 16;
+            bh3 = c & 65535 | d << 16;
+            bl3 = a & 65535 | b << 16;
+            ah1 = bh0;
+            ah2 = bh1;
+            ah3 = bh2;
+            ah4 = bh3;
+            ah5 = bh4;
+            ah6 = bh5;
+            ah7 = bh6;
+            ah0 = bh7;
+            al1 = bl0;
+            al2 = bl1;
+            al3 = bl2;
+            al4 = bl3;
+            al5 = bl4;
+            al6 = bl5;
+            al7 = bl6;
+            al0 = bl7;
+            if (i % 16 === 15) {
+              for (j = 0; j < 16; j++) {
+                h = wh[j];
+                l = wl[j];
+                a = l & 65535;
+                b = l >>> 16;
+                c = h & 65535;
+                d = h >>> 16;
+                h = wh[(j + 9) % 16];
+                l = wl[(j + 9) % 16];
+                a += l & 65535;
+                b += l >>> 16;
+                c += h & 65535;
+                d += h >>> 16;
+                th = wh[(j + 1) % 16];
+                tl = wl[(j + 1) % 16];
+                h = (th >>> 1 | tl << 32 - 1) ^ (th >>> 8 | tl << 32 - 8) ^ th >>> 7;
+                l = (tl >>> 1 | th << 32 - 1) ^ (tl >>> 8 | th << 32 - 8) ^ (tl >>> 7 | th << 32 - 7);
+                a += l & 65535;
+                b += l >>> 16;
+                c += h & 65535;
+                d += h >>> 16;
+                th = wh[(j + 14) % 16];
+                tl = wl[(j + 14) % 16];
+                h = (th >>> 19 | tl << 32 - 19) ^ (tl >>> 61 - 32 | th << 32 - (61 - 32)) ^ th >>> 6;
+                l = (tl >>> 19 | th << 32 - 19) ^ (th >>> 61 - 32 | tl << 32 - (61 - 32)) ^ (tl >>> 6 | th << 32 - 6);
+                a += l & 65535;
+                b += l >>> 16;
+                c += h & 65535;
+                d += h >>> 16;
+                b += a >>> 16;
+                c += b >>> 16;
+                d += c >>> 16;
+                wh[j] = c & 65535 | d << 16;
+                wl[j] = a & 65535 | b << 16;
+              }
+            }
+          }
+          h = ah0;
+          l = al0;
+          a = l & 65535;
+          b = l >>> 16;
+          c = h & 65535;
+          d = h >>> 16;
+          h = hh[0];
+          l = hl[0];
+          a += l & 65535;
+          b += l >>> 16;
+          c += h & 65535;
+          d += h >>> 16;
+          b += a >>> 16;
+          c += b >>> 16;
+          d += c >>> 16;
+          hh[0] = ah0 = c & 65535 | d << 16;
+          hl[0] = al0 = a & 65535 | b << 16;
+          h = ah1;
+          l = al1;
+          a = l & 65535;
+          b = l >>> 16;
+          c = h & 65535;
+          d = h >>> 16;
+          h = hh[1];
+          l = hl[1];
+          a += l & 65535;
+          b += l >>> 16;
+          c += h & 65535;
+          d += h >>> 16;
+          b += a >>> 16;
+          c += b >>> 16;
+          d += c >>> 16;
+          hh[1] = ah1 = c & 65535 | d << 16;
+          hl[1] = al1 = a & 65535 | b << 16;
+          h = ah2;
+          l = al2;
+          a = l & 65535;
+          b = l >>> 16;
+          c = h & 65535;
+          d = h >>> 16;
+          h = hh[2];
+          l = hl[2];
+          a += l & 65535;
+          b += l >>> 16;
+          c += h & 65535;
+          d += h >>> 16;
+          b += a >>> 16;
+          c += b >>> 16;
+          d += c >>> 16;
+          hh[2] = ah2 = c & 65535 | d << 16;
+          hl[2] = al2 = a & 65535 | b << 16;
+          h = ah3;
+          l = al3;
+          a = l & 65535;
+          b = l >>> 16;
+          c = h & 65535;
+          d = h >>> 16;
+          h = hh[3];
+          l = hl[3];
+          a += l & 65535;
+          b += l >>> 16;
+          c += h & 65535;
+          d += h >>> 16;
+          b += a >>> 16;
+          c += b >>> 16;
+          d += c >>> 16;
+          hh[3] = ah3 = c & 65535 | d << 16;
+          hl[3] = al3 = a & 65535 | b << 16;
+          h = ah4;
+          l = al4;
+          a = l & 65535;
+          b = l >>> 16;
+          c = h & 65535;
+          d = h >>> 16;
+          h = hh[4];
+          l = hl[4];
+          a += l & 65535;
+          b += l >>> 16;
+          c += h & 65535;
+          d += h >>> 16;
+          b += a >>> 16;
+          c += b >>> 16;
+          d += c >>> 16;
+          hh[4] = ah4 = c & 65535 | d << 16;
+          hl[4] = al4 = a & 65535 | b << 16;
+          h = ah5;
+          l = al5;
+          a = l & 65535;
+          b = l >>> 16;
+          c = h & 65535;
+          d = h >>> 16;
+          h = hh[5];
+          l = hl[5];
+          a += l & 65535;
+          b += l >>> 16;
+          c += h & 65535;
+          d += h >>> 16;
+          b += a >>> 16;
+          c += b >>> 16;
+          d += c >>> 16;
+          hh[5] = ah5 = c & 65535 | d << 16;
+          hl[5] = al5 = a & 65535 | b << 16;
+          h = ah6;
+          l = al6;
+          a = l & 65535;
+          b = l >>> 16;
+          c = h & 65535;
+          d = h >>> 16;
+          h = hh[6];
+          l = hl[6];
+          a += l & 65535;
+          b += l >>> 16;
+          c += h & 65535;
+          d += h >>> 16;
+          b += a >>> 16;
+          c += b >>> 16;
+          d += c >>> 16;
+          hh[6] = ah6 = c & 65535 | d << 16;
+          hl[6] = al6 = a & 65535 | b << 16;
+          h = ah7;
+          l = al7;
+          a = l & 65535;
+          b = l >>> 16;
+          c = h & 65535;
+          d = h >>> 16;
+          h = hh[7];
+          l = hl[7];
+          a += l & 65535;
+          b += l >>> 16;
+          c += h & 65535;
+          d += h >>> 16;
+          b += a >>> 16;
+          c += b >>> 16;
+          d += c >>> 16;
+          hh[7] = ah7 = c & 65535 | d << 16;
+          hl[7] = al7 = a & 65535 | b << 16;
+          pos += 128;
+          n -= 128;
+        }
+        return n;
+      }
+      function crypto_hash(out, m, n) {
+        var hh = new Int32Array(8), hl = new Int32Array(8), x = new Uint8Array(256), i, b = n;
+        hh[0] = 1779033703;
+        hh[1] = 3144134277;
+        hh[2] = 1013904242;
+        hh[3] = 2773480762;
+        hh[4] = 1359893119;
+        hh[5] = 2600822924;
+        hh[6] = 528734635;
+        hh[7] = 1541459225;
+        hl[0] = 4089235720;
+        hl[1] = 2227873595;
+        hl[2] = 4271175723;
+        hl[3] = 1595750129;
+        hl[4] = 2917565137;
+        hl[5] = 725511199;
+        hl[6] = 4215389547;
+        hl[7] = 327033209;
+        crypto_hashblocks_hl(hh, hl, m, n);
+        n %= 128;
+        for (i = 0; i < n; i++)
+          x[i] = m[b - n + i];
+        x[n] = 128;
+        n = 256 - 128 * (n < 112 ? 1 : 0);
+        x[n - 9] = 0;
+        ts64(x, n - 8, b / 536870912 | 0, b << 3);
+        crypto_hashblocks_hl(hh, hl, x, n);
+        for (i = 0; i < 8; i++)
+          ts64(out, 8 * i, hh[i], hl[i]);
+        return 0;
+      }
+      function add(p, q) {
+        var a = gf(), b = gf(), c = gf(), d = gf(), e = gf(), f = gf(), g = gf(), h = gf(), t = gf();
+        Z(a, p[1], p[0]);
+        Z(t, q[1], q[0]);
+        M(a, a, t);
+        A(b, p[0], p[1]);
+        A(t, q[0], q[1]);
+        M(b, b, t);
+        M(c, p[3], q[3]);
+        M(c, c, D2);
+        M(d, p[2], q[2]);
+        A(d, d, d);
+        Z(e, b, a);
+        Z(f, d, c);
+        A(g, d, c);
+        A(h, b, a);
+        M(p[0], e, f);
+        M(p[1], h, g);
+        M(p[2], g, f);
+        M(p[3], e, h);
+      }
+      function cswap(p, q, b) {
+        var i;
+        for (i = 0; i < 4; i++) {
+          sel25519(p[i], q[i], b);
+        }
+      }
+      function pack(r, p) {
+        var tx = gf(), ty = gf(), zi = gf();
+        inv25519(zi, p[2]);
+        M(tx, p[0], zi);
+        M(ty, p[1], zi);
+        pack25519(r, ty);
+        r[31] ^= par25519(tx) << 7;
+      }
+      function scalarmult(p, q, s) {
+        var b, i;
+        set25519(p[0], gf0);
+        set25519(p[1], gf1);
+        set25519(p[2], gf1);
+        set25519(p[3], gf0);
+        for (i = 255; i >= 0; --i) {
+          b = s[i / 8 | 0] >> (i & 7) & 1;
+          cswap(p, q, b);
+          add(q, p);
+          add(p, p);
+          cswap(p, q, b);
+        }
+      }
+      function scalarbase(p, s) {
+        var q = [gf(), gf(), gf(), gf()];
+        set25519(q[0], X);
+        set25519(q[1], Y);
+        set25519(q[2], gf1);
+        M(q[3], X, Y);
+        scalarmult(p, q, s);
+      }
+      function crypto_sign_keypair(pk, sk, seeded) {
+        var d = new Uint8Array(64);
+        var p = [gf(), gf(), gf(), gf()];
+        var i;
+        if (!seeded)
+          randombytes(sk, 32);
+        crypto_hash(d, sk, 32);
+        d[0] &= 248;
+        d[31] &= 127;
+        d[31] |= 64;
+        scalarbase(p, d);
+        pack(pk, p);
+        for (i = 0; i < 32; i++)
+          sk[i + 32] = pk[i];
+        return 0;
+      }
+      var L = new Float64Array([237, 211, 245, 92, 26, 99, 18, 88, 214, 156, 247, 162, 222, 249, 222, 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 16]);
+      function modL(r, x) {
+        var carry, i, j, k;
+        for (i = 63; i >= 32; --i) {
+          carry = 0;
+          for (j = i - 32, k = i - 12; j < k; ++j) {
+            x[j] += carry - 16 * x[i] * L[j - (i - 32)];
+            carry = Math.floor((x[j] + 128) / 256);
+            x[j] -= carry * 256;
+          }
+          x[j] += carry;
+          x[i] = 0;
+        }
+        carry = 0;
+        for (j = 0; j < 32; j++) {
+          x[j] += carry - (x[31] >> 4) * L[j];
+          carry = x[j] >> 8;
+          x[j] &= 255;
+        }
+        for (j = 0; j < 32; j++)
+          x[j] -= carry * L[j];
+        for (i = 0; i < 32; i++) {
+          x[i + 1] += x[i] >> 8;
+          r[i] = x[i] & 255;
+        }
+      }
+      function reduce(r) {
+        var x = new Float64Array(64), i;
+        for (i = 0; i < 64; i++)
+          x[i] = r[i];
+        for (i = 0; i < 64; i++)
+          r[i] = 0;
+        modL(r, x);
+      }
+      function crypto_sign(sm, m, n, sk) {
+        var d = new Uint8Array(64), h = new Uint8Array(64), r = new Uint8Array(64);
+        var i, j, x = new Float64Array(64);
+        var p = [gf(), gf(), gf(), gf()];
+        crypto_hash(d, sk, 32);
+        d[0] &= 248;
+        d[31] &= 127;
+        d[31] |= 64;
+        var smlen = n + 64;
+        for (i = 0; i < n; i++)
+          sm[64 + i] = m[i];
+        for (i = 0; i < 32; i++)
+          sm[32 + i] = d[32 + i];
+        crypto_hash(r, sm.subarray(32), n + 32);
+        reduce(r);
+        scalarbase(p, r);
+        pack(sm, p);
+        for (i = 32; i < 64; i++)
+          sm[i] = sk[i];
+        crypto_hash(h, sm, n + 64);
+        reduce(h);
+        for (i = 0; i < 64; i++)
+          x[i] = 0;
+        for (i = 0; i < 32; i++)
+          x[i] = r[i];
+        for (i = 0; i < 32; i++) {
+          for (j = 0; j < 32; j++) {
+            x[i + j] += h[i] * d[j];
+          }
+        }
+        modL(sm.subarray(32), x);
+        return smlen;
+      }
+      function unpackneg(r, p) {
+        var t = gf(), chk = gf(), num = gf(), den = gf(), den2 = gf(), den4 = gf(), den6 = gf();
+        set25519(r[2], gf1);
+        unpack25519(r[1], p);
+        S(num, r[1]);
+        M(den, num, D);
+        Z(num, num, r[2]);
+        A(den, r[2], den);
+        S(den2, den);
+        S(den4, den2);
+        M(den6, den4, den2);
+        M(t, den6, num);
+        M(t, t, den);
+        pow2523(t, t);
+        M(t, t, num);
+        M(t, t, den);
+        M(t, t, den);
+        M(r[0], t, den);
+        S(chk, r[0]);
+        M(chk, chk, den);
+        if (neq25519(chk, num))
+          M(r[0], r[0], I);
+        S(chk, r[0]);
+        M(chk, chk, den);
+        if (neq25519(chk, num))
+          return -1;
+        if (par25519(r[0]) === p[31] >> 7)
+          Z(r[0], gf0, r[0]);
+        M(r[3], r[0], r[1]);
+        return 0;
+      }
+      function crypto_sign_open(m, sm, n, pk) {
+        var i;
+        var t = new Uint8Array(32), h = new Uint8Array(64);
+        var p = [gf(), gf(), gf(), gf()], q = [gf(), gf(), gf(), gf()];
+        if (n < 64)
+          return -1;
+        if (unpackneg(q, pk))
+          return -1;
+        for (i = 0; i < n; i++)
+          m[i] = sm[i];
+        for (i = 0; i < 32; i++)
+          m[i + 32] = pk[i];
+        crypto_hash(h, m, n);
+        reduce(h);
+        scalarmult(p, q, h);
+        scalarbase(q, sm.subarray(32));
+        add(p, q);
+        pack(t, p);
+        n -= 64;
+        if (crypto_verify_32(sm, 0, t, 0)) {
+          for (i = 0; i < n; i++)
+            m[i] = 0;
+          return -1;
+        }
+        for (i = 0; i < n; i++)
+          m[i] = sm[i + 64];
+        return n;
+      }
+      var crypto_secretbox_KEYBYTES = 32, crypto_secretbox_NONCEBYTES = 24, crypto_secretbox_ZEROBYTES = 32, crypto_secretbox_BOXZEROBYTES = 16, crypto_scalarmult_BYTES = 32, crypto_scalarmult_SCALARBYTES = 32, crypto_box_PUBLICKEYBYTES = 32, crypto_box_SECRETKEYBYTES = 32, crypto_box_BEFORENMBYTES = 32, crypto_box_NONCEBYTES = crypto_secretbox_NONCEBYTES, crypto_box_ZEROBYTES = crypto_secretbox_ZEROBYTES, crypto_box_BOXZEROBYTES = crypto_secretbox_BOXZEROBYTES, crypto_sign_BYTES = 64, crypto_sign_PUBLICKEYBYTES = 32, crypto_sign_SECRETKEYBYTES = 64, crypto_sign_SEEDBYTES = 32, crypto_hash_BYTES = 64;
+      nacl2.lowlevel = {
+        crypto_core_hsalsa20,
+        crypto_stream_xor,
+        crypto_stream,
+        crypto_stream_salsa20_xor,
+        crypto_stream_salsa20,
+        crypto_onetimeauth,
+        crypto_onetimeauth_verify,
+        crypto_verify_16,
+        crypto_verify_32,
+        crypto_secretbox,
+        crypto_secretbox_open,
+        crypto_scalarmult,
+        crypto_scalarmult_base,
+        crypto_box_beforenm,
+        crypto_box_afternm,
+        crypto_box,
+        crypto_box_open,
+        crypto_box_keypair,
+        crypto_hash,
+        crypto_sign,
+        crypto_sign_keypair,
+        crypto_sign_open,
+        crypto_secretbox_KEYBYTES,
+        crypto_secretbox_NONCEBYTES,
+        crypto_secretbox_ZEROBYTES,
+        crypto_secretbox_BOXZEROBYTES,
+        crypto_scalarmult_BYTES,
+        crypto_scalarmult_SCALARBYTES,
+        crypto_box_PUBLICKEYBYTES,
+        crypto_box_SECRETKEYBYTES,
+        crypto_box_BEFORENMBYTES,
+        crypto_box_NONCEBYTES,
+        crypto_box_ZEROBYTES,
+        crypto_box_BOXZEROBYTES,
+        crypto_sign_BYTES,
+        crypto_sign_PUBLICKEYBYTES,
+        crypto_sign_SECRETKEYBYTES,
+        crypto_sign_SEEDBYTES,
+        crypto_hash_BYTES,
+        gf,
+        D,
+        L,
+        pack25519,
+        unpack25519,
+        M,
+        A,
+        S,
+        Z,
+        pow2523,
+        add,
+        set25519,
+        modL,
+        scalarmult,
+        scalarbase
+      };
+      function checkLengths(k, n) {
+        if (k.length !== crypto_secretbox_KEYBYTES)
+          throw new Error("bad key size");
+        if (n.length !== crypto_secretbox_NONCEBYTES)
+          throw new Error("bad nonce size");
+      }
+      function checkBoxLengths(pk, sk) {
+        if (pk.length !== crypto_box_PUBLICKEYBYTES)
+          throw new Error("bad public key size");
+        if (sk.length !== crypto_box_SECRETKEYBYTES)
+          throw new Error("bad secret key size");
+      }
+      function checkArrayTypes() {
+        for (var i = 0; i < arguments.length; i++) {
+          if (!(arguments[i] instanceof Uint8Array))
+            throw new TypeError("unexpected type, use Uint8Array");
+        }
+      }
+      function cleanup(arr) {
+        for (var i = 0; i < arr.length; i++)
+          arr[i] = 0;
+      }
+      nacl2.randomBytes = function(n) {
+        var b = new Uint8Array(n);
+        randombytes(b, n);
+        return b;
+      };
+      nacl2.secretbox = function(msg, nonce, key) {
+        checkArrayTypes(msg, nonce, key);
+        checkLengths(key, nonce);
+        var m = new Uint8Array(crypto_secretbox_ZEROBYTES + msg.length);
+        var c = new Uint8Array(m.length);
+        for (var i = 0; i < msg.length; i++)
+          m[i + crypto_secretbox_ZEROBYTES] = msg[i];
+        crypto_secretbox(c, m, m.length, nonce, key);
+        return c.subarray(crypto_secretbox_BOXZEROBYTES);
+      };
+      nacl2.secretbox.open = function(box, nonce, key) {
+        checkArrayTypes(box, nonce, key);
+        checkLengths(key, nonce);
+        var c = new Uint8Array(crypto_secretbox_BOXZEROBYTES + box.length);
+        var m = new Uint8Array(c.length);
+        for (var i = 0; i < box.length; i++)
+          c[i + crypto_secretbox_BOXZEROBYTES] = box[i];
+        if (c.length < 32)
+          return null;
+        if (crypto_secretbox_open(m, c, c.length, nonce, key) !== 0)
+          return null;
+        return m.subarray(crypto_secretbox_ZEROBYTES);
+      };
+      nacl2.secretbox.keyLength = crypto_secretbox_KEYBYTES;
+      nacl2.secretbox.nonceLength = crypto_secretbox_NONCEBYTES;
+      nacl2.secretbox.overheadLength = crypto_secretbox_BOXZEROBYTES;
+      nacl2.scalarMult = function(n, p) {
+        checkArrayTypes(n, p);
+        if (n.length !== crypto_scalarmult_SCALARBYTES)
+          throw new Error("bad n size");
+        if (p.length !== crypto_scalarmult_BYTES)
+          throw new Error("bad p size");
+        var q = new Uint8Array(crypto_scalarmult_BYTES);
+        crypto_scalarmult(q, n, p);
+        return q;
+      };
+      nacl2.scalarMult.base = function(n) {
+        checkArrayTypes(n);
+        if (n.length !== crypto_scalarmult_SCALARBYTES)
+          throw new Error("bad n size");
+        var q = new Uint8Array(crypto_scalarmult_BYTES);
+        crypto_scalarmult_base(q, n);
+        return q;
+      };
+      nacl2.scalarMult.scalarLength = crypto_scalarmult_SCALARBYTES;
+      nacl2.scalarMult.groupElementLength = crypto_scalarmult_BYTES;
+      nacl2.box = function(msg, nonce, publicKey, secretKey) {
+        var k = nacl2.box.before(publicKey, secretKey);
+        return nacl2.secretbox(msg, nonce, k);
+      };
+      nacl2.box.before = function(publicKey, secretKey) {
+        checkArrayTypes(publicKey, secretKey);
+        checkBoxLengths(publicKey, secretKey);
+        var k = new Uint8Array(crypto_box_BEFORENMBYTES);
+        crypto_box_beforenm(k, publicKey, secretKey);
+        return k;
+      };
+      nacl2.box.after = nacl2.secretbox;
+      nacl2.box.open = function(msg, nonce, publicKey, secretKey) {
+        var k = nacl2.box.before(publicKey, secretKey);
+        return nacl2.secretbox.open(msg, nonce, k);
+      };
+      nacl2.box.open.after = nacl2.secretbox.open;
+      nacl2.box.keyPair = function() {
+        var pk = new Uint8Array(crypto_box_PUBLICKEYBYTES);
+        var sk = new Uint8Array(crypto_box_SECRETKEYBYTES);
+        crypto_box_keypair(pk, sk);
+        return { publicKey: pk, secretKey: sk };
+      };
+      nacl2.box.keyPair.fromSecretKey = function(secretKey) {
+        checkArrayTypes(secretKey);
+        if (secretKey.length !== crypto_box_SECRETKEYBYTES)
+          throw new Error("bad secret key size");
+        var pk = new Uint8Array(crypto_box_PUBLICKEYBYTES);
+        crypto_scalarmult_base(pk, secretKey);
+        return { publicKey: pk, secretKey: new Uint8Array(secretKey) };
+      };
+      nacl2.box.publicKeyLength = crypto_box_PUBLICKEYBYTES;
+      nacl2.box.secretKeyLength = crypto_box_SECRETKEYBYTES;
+      nacl2.box.sharedKeyLength = crypto_box_BEFORENMBYTES;
+      nacl2.box.nonceLength = crypto_box_NONCEBYTES;
+      nacl2.box.overheadLength = nacl2.secretbox.overheadLength;
+      nacl2.sign = function(msg, secretKey) {
+        checkArrayTypes(msg, secretKey);
+        if (secretKey.length !== crypto_sign_SECRETKEYBYTES)
+          throw new Error("bad secret key size");
+        var signedMsg = new Uint8Array(crypto_sign_BYTES + msg.length);
+        crypto_sign(signedMsg, msg, msg.length, secretKey);
+        return signedMsg;
+      };
+      nacl2.sign.open = function(signedMsg, publicKey) {
+        checkArrayTypes(signedMsg, publicKey);
+        if (publicKey.length !== crypto_sign_PUBLICKEYBYTES)
+          throw new Error("bad public key size");
+        var tmp = new Uint8Array(signedMsg.length);
+        var mlen = crypto_sign_open(tmp, signedMsg, signedMsg.length, publicKey);
+        if (mlen < 0)
+          return null;
+        var m = new Uint8Array(mlen);
+        for (var i = 0; i < m.length; i++)
+          m[i] = tmp[i];
+        return m;
+      };
+      nacl2.sign.detached = function(msg, secretKey) {
+        var signedMsg = nacl2.sign(msg, secretKey);
+        var sig = new Uint8Array(crypto_sign_BYTES);
+        for (var i = 0; i < sig.length; i++)
+          sig[i] = signedMsg[i];
+        return sig;
+      };
+      nacl2.sign.detached.verify = function(msg, sig, publicKey) {
+        checkArrayTypes(msg, sig, publicKey);
+        if (sig.length !== crypto_sign_BYTES)
+          throw new Error("bad signature size");
+        if (publicKey.length !== crypto_sign_PUBLICKEYBYTES)
+          throw new Error("bad public key size");
+        var sm = new Uint8Array(crypto_sign_BYTES + msg.length);
+        var m = new Uint8Array(crypto_sign_BYTES + msg.length);
+        var i;
+        for (i = 0; i < crypto_sign_BYTES; i++)
+          sm[i] = sig[i];
+        for (i = 0; i < msg.length; i++)
+          sm[i + crypto_sign_BYTES] = msg[i];
+        return crypto_sign_open(m, sm, sm.length, publicKey) >= 0;
+      };
+      nacl2.sign.keyPair = function() {
+        var pk = new Uint8Array(crypto_sign_PUBLICKEYBYTES);
+        var sk = new Uint8Array(crypto_sign_SECRETKEYBYTES);
+        crypto_sign_keypair(pk, sk);
+        return { publicKey: pk, secretKey: sk };
+      };
+      nacl2.sign.keyPair.fromSecretKey = function(secretKey) {
+        checkArrayTypes(secretKey);
+        if (secretKey.length !== crypto_sign_SECRETKEYBYTES)
+          throw new Error("bad secret key size");
+        var pk = new Uint8Array(crypto_sign_PUBLICKEYBYTES);
+        for (var i = 0; i < pk.length; i++)
+          pk[i] = secretKey[32 + i];
+        return { publicKey: pk, secretKey: new Uint8Array(secretKey) };
+      };
+      nacl2.sign.keyPair.fromSeed = function(seed) {
+        checkArrayTypes(seed);
+        if (seed.length !== crypto_sign_SEEDBYTES)
+          throw new Error("bad seed size");
+        var pk = new Uint8Array(crypto_sign_PUBLICKEYBYTES);
+        var sk = new Uint8Array(crypto_sign_SECRETKEYBYTES);
+        for (var i = 0; i < 32; i++)
+          sk[i] = seed[i];
+        crypto_sign_keypair(pk, sk, true);
+        return { publicKey: pk, secretKey: sk };
+      };
+      nacl2.sign.publicKeyLength = crypto_sign_PUBLICKEYBYTES;
+      nacl2.sign.secretKeyLength = crypto_sign_SECRETKEYBYTES;
+      nacl2.sign.seedLength = crypto_sign_SEEDBYTES;
+      nacl2.sign.signatureLength = crypto_sign_BYTES;
+      nacl2.hash = function(msg) {
+        checkArrayTypes(msg);
+        var h = new Uint8Array(crypto_hash_BYTES);
+        crypto_hash(h, msg, msg.length);
+        return h;
+      };
+      nacl2.hash.hashLength = crypto_hash_BYTES;
+      nacl2.verify = function(x, y) {
+        checkArrayTypes(x, y);
+        if (x.length === 0 || y.length === 0)
+          return false;
+        if (x.length !== y.length)
+          return false;
+        return vn(x, 0, y, 0, x.length) === 0 ? true : false;
+      };
+      nacl2.setPRNG = function(fn) {
+        randombytes = fn;
+      };
+      (function() {
+        var crypto2 = typeof self !== "undefined" ? self.crypto || self.msCrypto : null;
+        if (crypto2 && crypto2.getRandomValues) {
+          var QUOTA = 65536;
+          nacl2.setPRNG(function(x, n) {
+            var i, v = new Uint8Array(n);
+            for (i = 0; i < n; i += QUOTA) {
+              crypto2.getRandomValues(v.subarray(i, i + Math.min(n - i, QUOTA)));
+            }
+            for (i = 0; i < n; i++)
+              x[i] = v[i];
+            cleanup(v);
+          });
+        } else if (typeof __require !== "undefined") {
+          crypto2 = require_crypto();
+          if (crypto2 && crypto2.randomBytes) {
+            nacl2.setPRNG(function(x, n) {
+              var i, v = crypto2.randomBytes(n);
+              for (i = 0; i < n; i++)
+                x[i] = v[i];
+              cleanup(v);
+            });
+          }
+        }
+      })();
+    })(typeof module !== "undefined" && module.exports ? module.exports : self.nacl = self.nacl || {});
+  }
+});
+
+// (disabled):buffer
+var require_buffer = __commonJS({
+  "(disabled):buffer"() {
+  }
+});
+
+// node_modules/js-sha256/src/sha256.js
+var require_sha256 = __commonJS({
+  "node_modules/js-sha256/src/sha256.js"(exports, module) {
+    (function() {
+      "use strict";
+      var ERROR = "input is invalid type";
+      var WINDOW = typeof window === "object";
+      var root = WINDOW ? window : {};
+      if (root.JS_SHA256_NO_WINDOW) {
+        WINDOW = false;
+      }
+      var WEB_WORKER = !WINDOW && typeof self === "object";
+      var NODE_JS = !root.JS_SHA256_NO_NODE_JS && typeof process === "object" && process.versions && process.versions.node;
+      if (NODE_JS) {
+        root = global;
+      } else if (WEB_WORKER) {
+        root = self;
+      }
+      var COMMON_JS = !root.JS_SHA256_NO_COMMON_JS && typeof module === "object" && module.exports;
+      var AMD = typeof define === "function" && define.amd;
+      var ARRAY_BUFFER = !root.JS_SHA256_NO_ARRAY_BUFFER && typeof ArrayBuffer !== "undefined";
+      var HEX_CHARS = "0123456789abcdef".split("");
+      var EXTRA = [-2147483648, 8388608, 32768, 128];
+      var SHIFT = [24, 16, 8, 0];
+      var K = [
+        1116352408,
+        1899447441,
+        3049323471,
+        3921009573,
+        961987163,
+        1508970993,
+        2453635748,
+        2870763221,
+        3624381080,
+        310598401,
+        607225278,
+        1426881987,
+        1925078388,
+        2162078206,
+        2614888103,
+        3248222580,
+        3835390401,
+        4022224774,
+        264347078,
+        604807628,
+        770255983,
+        1249150122,
+        1555081692,
+        1996064986,
+        2554220882,
+        2821834349,
+        2952996808,
+        3210313671,
+        3336571891,
+        3584528711,
+        113926993,
+        338241895,
+        666307205,
+        773529912,
+        1294757372,
+        1396182291,
+        1695183700,
+        1986661051,
+        2177026350,
+        2456956037,
+        2730485921,
+        2820302411,
+        3259730800,
+        3345764771,
+        3516065817,
+        3600352804,
+        4094571909,
+        275423344,
+        430227734,
+        506948616,
+        659060556,
+        883997877,
+        958139571,
+        1322822218,
+        1537002063,
+        1747873779,
+        1955562222,
+        2024104815,
+        2227730452,
+        2361852424,
+        2428436474,
+        2756734187,
+        3204031479,
+        3329325298
+      ];
+      var OUTPUT_TYPES = ["hex", "array", "digest", "arrayBuffer"];
+      var blocks = [];
+      if (root.JS_SHA256_NO_NODE_JS || !Array.isArray) {
+        Array.isArray = function(obj) {
+          return Object.prototype.toString.call(obj) === "[object Array]";
+        };
+      }
+      if (ARRAY_BUFFER && (root.JS_SHA256_NO_ARRAY_BUFFER_IS_VIEW || !ArrayBuffer.isView)) {
+        ArrayBuffer.isView = function(obj) {
+          return typeof obj === "object" && obj.buffer && obj.buffer.constructor === ArrayBuffer;
+        };
+      }
+      var createOutputMethod = function(outputType, is224) {
+        return function(message2) {
+          return new Sha256(is224, true).update(message2)[outputType]();
+        };
+      };
+      var createMethod = function(is224) {
+        var method = createOutputMethod("hex", is224);
+        if (NODE_JS) {
+          method = nodeWrap(method, is224);
+        }
+        method.create = function() {
+          return new Sha256(is224);
+        };
+        method.update = function(message2) {
+          return method.create().update(message2);
+        };
+        for (var i = 0; i < OUTPUT_TYPES.length; ++i) {
+          var type = OUTPUT_TYPES[i];
+          method[type] = createOutputMethod(type, is224);
+        }
+        return method;
+      };
+      var nodeWrap = function(method, is224) {
+        var crypto2 = require_crypto();
+        var Buffer2 = require_buffer().Buffer;
+        var algorithm = is224 ? "sha224" : "sha256";
+        var bufferFrom;
+        if (Buffer2.from && !root.JS_SHA256_NO_BUFFER_FROM) {
+          bufferFrom = Buffer2.from;
+        } else {
+          bufferFrom = function(message2) {
+            return new Buffer2(message2);
+          };
+        }
+        var nodeMethod = function(message2) {
+          if (typeof message2 === "string") {
+            return crypto2.createHash(algorithm).update(message2, "utf8").digest("hex");
+          } else {
+            if (message2 === null || message2 === void 0) {
+              throw new Error(ERROR);
+            } else if (message2.constructor === ArrayBuffer) {
+              message2 = new Uint8Array(message2);
+            }
+          }
+          if (Array.isArray(message2) || ArrayBuffer.isView(message2) || message2.constructor === Buffer2) {
+            return crypto2.createHash(algorithm).update(bufferFrom(message2)).digest("hex");
+          } else {
+            return method(message2);
+          }
+        };
+        return nodeMethod;
+      };
+      var createHmacOutputMethod = function(outputType, is224) {
+        return function(key, message2) {
+          return new HmacSha256(key, is224, true).update(message2)[outputType]();
+        };
+      };
+      var createHmacMethod = function(is224) {
+        var method = createHmacOutputMethod("hex", is224);
+        method.create = function(key) {
+          return new HmacSha256(key, is224);
+        };
+        method.update = function(key, message2) {
+          return method.create(key).update(message2);
+        };
+        for (var i = 0; i < OUTPUT_TYPES.length; ++i) {
+          var type = OUTPUT_TYPES[i];
+          method[type] = createHmacOutputMethod(type, is224);
+        }
+        return method;
+      };
+      function Sha256(is224, sharedMemory) {
+        if (sharedMemory) {
+          blocks[0] = blocks[16] = blocks[1] = blocks[2] = blocks[3] = blocks[4] = blocks[5] = blocks[6] = blocks[7] = blocks[8] = blocks[9] = blocks[10] = blocks[11] = blocks[12] = blocks[13] = blocks[14] = blocks[15] = 0;
+          this.blocks = blocks;
+        } else {
+          this.blocks = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];
+        }
+        if (is224) {
+          this.h0 = 3238371032;
+          this.h1 = 914150663;
+          this.h2 = 812702999;
+          this.h3 = 4144912697;
+          this.h4 = 4290775857;
+          this.h5 = 1750603025;
+          this.h6 = 1694076839;
+          this.h7 = 3204075428;
+        } else {
+          this.h0 = 1779033703;
+          this.h1 = 3144134277;
+          this.h2 = 1013904242;
+          this.h3 = 2773480762;
+          this.h4 = 1359893119;
+          this.h5 = 2600822924;
+          this.h6 = 528734635;
+          this.h7 = 1541459225;
+        }
+        this.block = this.start = this.bytes = this.hBytes = 0;
+        this.finalized = this.hashed = false;
+        this.first = true;
+        this.is224 = is224;
+      }
+      Sha256.prototype.update = function(message2) {
+        if (this.finalized) {
+          return;
+        }
+        var notString, type = typeof message2;
+        if (type !== "string") {
+          if (type === "object") {
+            if (message2 === null) {
+              throw new Error(ERROR);
+            } else if (ARRAY_BUFFER && message2.constructor === ArrayBuffer) {
+              message2 = new Uint8Array(message2);
+            } else if (!Array.isArray(message2)) {
+              if (!ARRAY_BUFFER || !ArrayBuffer.isView(message2)) {
+                throw new Error(ERROR);
+              }
+            }
+          } else {
+            throw new Error(ERROR);
+          }
+          notString = true;
+        }
+        var code, index = 0, i, length = message2.length, blocks2 = this.blocks;
+        while (index < length) {
+          if (this.hashed) {
+            this.hashed = false;
+            blocks2[0] = this.block;
+            this.block = blocks2[16] = blocks2[1] = blocks2[2] = blocks2[3] = blocks2[4] = blocks2[5] = blocks2[6] = blocks2[7] = blocks2[8] = blocks2[9] = blocks2[10] = blocks2[11] = blocks2[12] = blocks2[13] = blocks2[14] = blocks2[15] = 0;
+          }
+          if (notString) {
+            for (i = this.start; index < length && i < 64; ++index) {
+              blocks2[i >>> 2] |= message2[index] << SHIFT[i++ & 3];
+            }
+          } else {
+            for (i = this.start; index < length && i < 64; ++index) {
+              code = message2.charCodeAt(index);
+              if (code < 128) {
+                blocks2[i >>> 2] |= code << SHIFT[i++ & 3];
+              } else if (code < 2048) {
+                blocks2[i >>> 2] |= (192 | code >>> 6) << SHIFT[i++ & 3];
+                blocks2[i >>> 2] |= (128 | code & 63) << SHIFT[i++ & 3];
+              } else if (code < 55296 || code >= 57344) {
+                blocks2[i >>> 2] |= (224 | code >>> 12) << SHIFT[i++ & 3];
+                blocks2[i >>> 2] |= (128 | code >>> 6 & 63) << SHIFT[i++ & 3];
+                blocks2[i >>> 2] |= (128 | code & 63) << SHIFT[i++ & 3];
+              } else {
+                code = 65536 + ((code & 1023) << 10 | message2.charCodeAt(++index) & 1023);
+                blocks2[i >>> 2] |= (240 | code >>> 18) << SHIFT[i++ & 3];
+                blocks2[i >>> 2] |= (128 | code >>> 12 & 63) << SHIFT[i++ & 3];
+                blocks2[i >>> 2] |= (128 | code >>> 6 & 63) << SHIFT[i++ & 3];
+                blocks2[i >>> 2] |= (128 | code & 63) << SHIFT[i++ & 3];
+              }
+            }
+          }
+          this.lastByteIndex = i;
+          this.bytes += i - this.start;
+          if (i >= 64) {
+            this.block = blocks2[16];
+            this.start = i - 64;
+            this.hash();
+            this.hashed = true;
+          } else {
+            this.start = i;
+          }
+        }
+        if (this.bytes > 4294967295) {
+          this.hBytes += this.bytes / 4294967296 << 0;
+          this.bytes = this.bytes % 4294967296;
+        }
+        return this;
+      };
+      Sha256.prototype.finalize = function() {
+        if (this.finalized) {
+          return;
+        }
+        this.finalized = true;
+        var blocks2 = this.blocks, i = this.lastByteIndex;
+        blocks2[16] = this.block;
+        blocks2[i >>> 2] |= EXTRA[i & 3];
+        this.block = blocks2[16];
+        if (i >= 56) {
+          if (!this.hashed) {
+            this.hash();
+          }
+          blocks2[0] = this.block;
+          blocks2[16] = blocks2[1] = blocks2[2] = blocks2[3] = blocks2[4] = blocks2[5] = blocks2[6] = blocks2[7] = blocks2[8] = blocks2[9] = blocks2[10] = blocks2[11] = blocks2[12] = blocks2[13] = blocks2[14] = blocks2[15] = 0;
+        }
+        blocks2[14] = this.hBytes << 3 | this.bytes >>> 29;
+        blocks2[15] = this.bytes << 3;
+        this.hash();
+      };
+      Sha256.prototype.hash = function() {
+        var a = this.h0, b = this.h1, c = this.h2, d = this.h3, e = this.h4, f = this.h5, g = this.h6, h = this.h7, blocks2 = this.blocks, j, s0, s1, maj, t1, t2, ch, ab, da, cd, bc;
+        for (j = 16; j < 64; ++j) {
+          t1 = blocks2[j - 15];
+          s0 = (t1 >>> 7 | t1 << 25) ^ (t1 >>> 18 | t1 << 14) ^ t1 >>> 3;
+          t1 = blocks2[j - 2];
+          s1 = (t1 >>> 17 | t1 << 15) ^ (t1 >>> 19 | t1 << 13) ^ t1 >>> 10;
+          blocks2[j] = blocks2[j - 16] + s0 + blocks2[j - 7] + s1 << 0;
+        }
+        bc = b & c;
+        for (j = 0; j < 64; j += 4) {
+          if (this.first) {
+            if (this.is224) {
+              ab = 300032;
+              t1 = blocks2[0] - 1413257819;
+              h = t1 - 150054599 << 0;
+              d = t1 + 24177077 << 0;
+            } else {
+              ab = 704751109;
+              t1 = blocks2[0] - 210244248;
+              h = t1 - 1521486534 << 0;
+              d = t1 + 143694565 << 0;
+            }
+            this.first = false;
+          } else {
+            s0 = (a >>> 2 | a << 30) ^ (a >>> 13 | a << 19) ^ (a >>> 22 | a << 10);
+            s1 = (e >>> 6 | e << 26) ^ (e >>> 11 | e << 21) ^ (e >>> 25 | e << 7);
+            ab = a & b;
+            maj = ab ^ a & c ^ bc;
+            ch = e & f ^ ~e & g;
+            t1 = h + s1 + ch + K[j] + blocks2[j];
+            t2 = s0 + maj;
+            h = d + t1 << 0;
+            d = t1 + t2 << 0;
+          }
+          s0 = (d >>> 2 | d << 30) ^ (d >>> 13 | d << 19) ^ (d >>> 22 | d << 10);
+          s1 = (h >>> 6 | h << 26) ^ (h >>> 11 | h << 21) ^ (h >>> 25 | h << 7);
+          da = d & a;
+          maj = da ^ d & b ^ ab;
+          ch = h & e ^ ~h & f;
+          t1 = g + s1 + ch + K[j + 1] + blocks2[j + 1];
+          t2 = s0 + maj;
+          g = c + t1 << 0;
+          c = t1 + t2 << 0;
+          s0 = (c >>> 2 | c << 30) ^ (c >>> 13 | c << 19) ^ (c >>> 22 | c << 10);
+          s1 = (g >>> 6 | g << 26) ^ (g >>> 11 | g << 21) ^ (g >>> 25 | g << 7);
+          cd = c & d;
+          maj = cd ^ c & a ^ da;
+          ch = g & h ^ ~g & e;
+          t1 = f + s1 + ch + K[j + 2] + blocks2[j + 2];
+          t2 = s0 + maj;
+          f = b + t1 << 0;
+          b = t1 + t2 << 0;
+          s0 = (b >>> 2 | b << 30) ^ (b >>> 13 | b << 19) ^ (b >>> 22 | b << 10);
+          s1 = (f >>> 6 | f << 26) ^ (f >>> 11 | f << 21) ^ (f >>> 25 | f << 7);
+          bc = b & c;
+          maj = bc ^ b & d ^ cd;
+          ch = f & g ^ ~f & h;
+          t1 = e + s1 + ch + K[j + 3] + blocks2[j + 3];
+          t2 = s0 + maj;
+          e = a + t1 << 0;
+          a = t1 + t2 << 0;
+          this.chromeBugWorkAround = true;
+        }
+        this.h0 = this.h0 + a << 0;
+        this.h1 = this.h1 + b << 0;
+        this.h2 = this.h2 + c << 0;
+        this.h3 = this.h3 + d << 0;
+        this.h4 = this.h4 + e << 0;
+        this.h5 = this.h5 + f << 0;
+        this.h6 = this.h6 + g << 0;
+        this.h7 = this.h7 + h << 0;
+      };
+      Sha256.prototype.hex = function() {
+        this.finalize();
+        var h0 = this.h0, h1 = this.h1, h2 = this.h2, h3 = this.h3, h4 = this.h4, h5 = this.h5, h6 = this.h6, h7 = this.h7;
+        var hex = HEX_CHARS[h0 >>> 28 & 15] + HEX_CHARS[h0 >>> 24 & 15] + HEX_CHARS[h0 >>> 20 & 15] + HEX_CHARS[h0 >>> 16 & 15] + HEX_CHARS[h0 >>> 12 & 15] + HEX_CHARS[h0 >>> 8 & 15] + HEX_CHARS[h0 >>> 4 & 15] + HEX_CHARS[h0 & 15] + HEX_CHARS[h1 >>> 28 & 15] + HEX_CHARS[h1 >>> 24 & 15] + HEX_CHARS[h1 >>> 20 & 15] + HEX_CHARS[h1 >>> 16 & 15] + HEX_CHARS[h1 >>> 12 & 15] + HEX_CHARS[h1 >>> 8 & 15] + HEX_CHARS[h1 >>> 4 & 15] + HEX_CHARS[h1 & 15] + HEX_CHARS[h2 >>> 28 & 15] + HEX_CHARS[h2 >>> 24 & 15] + HEX_CHARS[h2 >>> 20 & 15] + HEX_CHARS[h2 >>> 16 & 15] + HEX_CHARS[h2 >>> 12 & 15] + HEX_CHARS[h2 >>> 8 & 15] + HEX_CHARS[h2 >>> 4 & 15] + HEX_CHARS[h2 & 15] + HEX_CHARS[h3 >>> 28 & 15] + HEX_CHARS[h3 >>> 24 & 15] + HEX_CHARS[h3 >>> 20 & 15] + HEX_CHARS[h3 >>> 16 & 15] + HEX_CHARS[h3 >>> 12 & 15] + HEX_CHARS[h3 >>> 8 & 15] + HEX_CHARS[h3 >>> 4 & 15] + HEX_CHARS[h3 & 15] + HEX_CHARS[h4 >>> 28 & 15] + HEX_CHARS[h4 >>> 24 & 15] + HEX_CHARS[h4 >>> 20 & 15] + HEX_CHARS[h4 >>> 16 & 15] + HEX_CHARS[h4 >>> 12 & 15] + HEX_CHARS[h4 >>> 8 & 15] + HEX_CHARS[h4 >>> 4 & 15] + HEX_CHARS[h4 & 15] + HEX_CHARS[h5 >>> 28 & 15] + HEX_CHARS[h5 >>> 24 & 15] + HEX_CHARS[h5 >>> 20 & 15] + HEX_CHARS[h5 >>> 16 & 15] + HEX_CHARS[h5 >>> 12 & 15] + HEX_CHARS[h5 >>> 8 & 15] + HEX_CHARS[h5 >>> 4 & 15] + HEX_CHARS[h5 & 15] + HEX_CHARS[h6 >>> 28 & 15] + HEX_CHARS[h6 >>> 24 & 15] + HEX_CHARS[h6 >>> 20 & 15] + HEX_CHARS[h6 >>> 16 & 15] + HEX_CHARS[h6 >>> 12 & 15] + HEX_CHARS[h6 >>> 8 & 15] + HEX_CHARS[h6 >>> 4 & 15] + HEX_CHARS[h6 & 15];
+        if (!this.is224) {
+          hex += HEX_CHARS[h7 >>> 28 & 15] + HEX_CHARS[h7 >>> 24 & 15] + HEX_CHARS[h7 >>> 20 & 15] + HEX_CHARS[h7 >>> 16 & 15] + HEX_CHARS[h7 >>> 12 & 15] + HEX_CHARS[h7 >>> 8 & 15] + HEX_CHARS[h7 >>> 4 & 15] + HEX_CHARS[h7 & 15];
+        }
+        return hex;
+      };
+      Sha256.prototype.toString = Sha256.prototype.hex;
+      Sha256.prototype.digest = function() {
+        this.finalize();
+        var h0 = this.h0, h1 = this.h1, h2 = this.h2, h3 = this.h3, h4 = this.h4, h5 = this.h5, h6 = this.h6, h7 = this.h7;
+        var arr = [
+          h0 >>> 24 & 255,
+          h0 >>> 16 & 255,
+          h0 >>> 8 & 255,
+          h0 & 255,
+          h1 >>> 24 & 255,
+          h1 >>> 16 & 255,
+          h1 >>> 8 & 255,
+          h1 & 255,
+          h2 >>> 24 & 255,
+          h2 >>> 16 & 255,
+          h2 >>> 8 & 255,
+          h2 & 255,
+          h3 >>> 24 & 255,
+          h3 >>> 16 & 255,
+          h3 >>> 8 & 255,
+          h3 & 255,
+          h4 >>> 24 & 255,
+          h4 >>> 16 & 255,
+          h4 >>> 8 & 255,
+          h4 & 255,
+          h5 >>> 24 & 255,
+          h5 >>> 16 & 255,
+          h5 >>> 8 & 255,
+          h5 & 255,
+          h6 >>> 24 & 255,
+          h6 >>> 16 & 255,
+          h6 >>> 8 & 255,
+          h6 & 255
+        ];
+        if (!this.is224) {
+          arr.push(h7 >>> 24 & 255, h7 >>> 16 & 255, h7 >>> 8 & 255, h7 & 255);
+        }
+        return arr;
+      };
+      Sha256.prototype.array = Sha256.prototype.digest;
+      Sha256.prototype.arrayBuffer = function() {
+        this.finalize();
+        var buffer = new ArrayBuffer(this.is224 ? 28 : 32);
+        var dataView = new DataView(buffer);
+        dataView.setUint32(0, this.h0);
+        dataView.setUint32(4, this.h1);
+        dataView.setUint32(8, this.h2);
+        dataView.setUint32(12, this.h3);
+        dataView.setUint32(16, this.h4);
+        dataView.setUint32(20, this.h5);
+        dataView.setUint32(24, this.h6);
+        if (!this.is224) {
+          dataView.setUint32(28, this.h7);
+        }
+        return buffer;
+      };
+      function HmacSha256(key, is224, sharedMemory) {
+        var i, type = typeof key;
+        if (type === "string") {
+          var bytes = [], length = key.length, index = 0, code;
+          for (i = 0; i < length; ++i) {
+            code = key.charCodeAt(i);
+            if (code < 128) {
+              bytes[index++] = code;
+            } else if (code < 2048) {
+              bytes[index++] = 192 | code >>> 6;
+              bytes[index++] = 128 | code & 63;
+            } else if (code < 55296 || code >= 57344) {
+              bytes[index++] = 224 | code >>> 12;
+              bytes[index++] = 128 | code >>> 6 & 63;
+              bytes[index++] = 128 | code & 63;
+            } else {
+              code = 65536 + ((code & 1023) << 10 | key.charCodeAt(++i) & 1023);
+              bytes[index++] = 240 | code >>> 18;
+              bytes[index++] = 128 | code >>> 12 & 63;
+              bytes[index++] = 128 | code >>> 6 & 63;
+              bytes[index++] = 128 | code & 63;
+            }
+          }
+          key = bytes;
+        } else {
+          if (type === "object") {
+            if (key === null) {
+              throw new Error(ERROR);
+            } else if (ARRAY_BUFFER && key.constructor === ArrayBuffer) {
+              key = new Uint8Array(key);
+            } else if (!Array.isArray(key)) {
+              if (!ARRAY_BUFFER || !ArrayBuffer.isView(key)) {
+                throw new Error(ERROR);
+              }
+            }
+          } else {
+            throw new Error(ERROR);
+          }
+        }
+        if (key.length > 64) {
+          key = new Sha256(is224, true).update(key).array();
+        }
+        var oKeyPad = [], iKeyPad = [];
+        for (i = 0; i < 64; ++i) {
+          var b = key[i] || 0;
+          oKeyPad[i] = 92 ^ b;
+          iKeyPad[i] = 54 ^ b;
+        }
+        Sha256.call(this, is224, sharedMemory);
+        this.update(iKeyPad);
+        this.oKeyPad = oKeyPad;
+        this.inner = true;
+        this.sharedMemory = sharedMemory;
+      }
+      HmacSha256.prototype = new Sha256();
+      HmacSha256.prototype.finalize = function() {
+        Sha256.prototype.finalize.call(this);
+        if (this.inner) {
+          this.inner = false;
+          var innerHash = this.array();
+          Sha256.call(this, this.is224, this.sharedMemory);
+          this.update(this.oKeyPad);
+          this.update(innerHash);
+          Sha256.prototype.finalize.call(this);
+        }
+      };
+      var exports2 = createMethod();
+      exports2.sha256 = exports2;
+      exports2.sha224 = createMethod(true);
+      exports2.sha256.hmac = createHmacMethod();
+      exports2.sha224.hmac = createHmacMethod(true);
+      if (COMMON_JS) {
+        module.exports = exports2;
+      } else {
+        root.sha256 = exports2.sha256;
+        root.sha224 = exports2.sha224;
+        if (AMD) {
+          define(function() {
+            return exports2;
+          });
+        }
+      }
+    })();
+  }
+});
+
+// src/worker.js
+var import_tweetnacl = __toESM(require_nacl_fast());
+var import_js_sha256 = __toESM(require_sha256());
+import { connect } from "cloudflare:sockets";
+
+// node_modules/jose/dist/browser/runtime/webcrypto.js
+var webcrypto_default = crypto;
+var isCryptoKey = (key) => key instanceof CryptoKey;
+
+// node_modules/jose/dist/browser/lib/buffer_utils.js
+var encoder = new TextEncoder();
+var decoder = new TextDecoder();
+var MAX_INT32 = 2 ** 32;
+function concat(...buffers) {
+  const size = buffers.reduce((acc, { length }) => acc + length, 0);
+  const buf = new Uint8Array(size);
+  let i = 0;
+  for (const buffer of buffers) {
+    buf.set(buffer, i);
+    i += buffer.length;
+  }
+  return buf;
+}
+
+// node_modules/jose/dist/browser/runtime/base64url.js
+var encodeBase64 = (input) => {
+  let unencoded = input;
+  if (typeof unencoded === "string") {
+    unencoded = encoder.encode(unencoded);
+  }
+  const CHUNK_SIZE = 32768;
+  const arr = [];
+  for (let i = 0; i < unencoded.length; i += CHUNK_SIZE) {
+    arr.push(String.fromCharCode.apply(null, unencoded.subarray(i, i + CHUNK_SIZE)));
+  }
+  return btoa(arr.join(""));
+};
+var encode = (input) => {
+  return encodeBase64(input).replace(/=/g, "").replace(/\+/g, "-").replace(/\//g, "_");
+};
+var decodeBase64 = (encoded) => {
+  const binary = atob(encoded);
+  const bytes = new Uint8Array(binary.length);
+  for (let i = 0; i < binary.length; i++) {
+    bytes[i] = binary.charCodeAt(i);
+  }
+  return bytes;
+};
+var decode = (input) => {
+  let encoded = input;
+  if (encoded instanceof Uint8Array) {
+    encoded = decoder.decode(encoded);
+  }
+  encoded = encoded.replace(/-/g, "+").replace(/_/g, "/").replace(/\s/g, "");
+  try {
+    return decodeBase64(encoded);
+  } catch {
+    throw new TypeError("The input to be decoded is not correctly encoded.");
+  }
+};
+
+// node_modules/jose/dist/browser/util/errors.js
+var JOSEError = class extends Error {
+  constructor(message2, options) {
+    super(message2, options);
+    this.code = "ERR_JOSE_GENERIC";
+    this.name = this.constructor.name;
+    Error.captureStackTrace?.(this, this.constructor);
+  }
+};
+JOSEError.code = "ERR_JOSE_GENERIC";
+var JWTClaimValidationFailed = class extends JOSEError {
+  constructor(message2, payload, claim = "unspecified", reason = "unspecified") {
+    super(message2, { cause: { claim, reason, payload } });
+    this.code = "ERR_JWT_CLAIM_VALIDATION_FAILED";
+    this.claim = claim;
+    this.reason = reason;
+    this.payload = payload;
+  }
+};
+JWTClaimValidationFailed.code = "ERR_JWT_CLAIM_VALIDATION_FAILED";
+var JWTExpired = class extends JOSEError {
+  constructor(message2, payload, claim = "unspecified", reason = "unspecified") {
+    super(message2, { cause: { claim, reason, payload } });
+    this.code = "ERR_JWT_EXPIRED";
+    this.claim = claim;
+    this.reason = reason;
+    this.payload = payload;
+  }
+};
+JWTExpired.code = "ERR_JWT_EXPIRED";
+var JOSEAlgNotAllowed = class extends JOSEError {
+  constructor() {
+    super(...arguments);
+    this.code = "ERR_JOSE_ALG_NOT_ALLOWED";
+  }
+};
+JOSEAlgNotAllowed.code = "ERR_JOSE_ALG_NOT_ALLOWED";
+var JOSENotSupported = class extends JOSEError {
+  constructor() {
+    super(...arguments);
+    this.code = "ERR_JOSE_NOT_SUPPORTED";
+  }
+};
+JOSENotSupported.code = "ERR_JOSE_NOT_SUPPORTED";
+var JWEDecryptionFailed = class extends JOSEError {
+  constructor(message2 = "decryption operation failed", options) {
+    super(message2, options);
+    this.code = "ERR_JWE_DECRYPTION_FAILED";
+  }
+};
+JWEDecryptionFailed.code = "ERR_JWE_DECRYPTION_FAILED";
+var JWEInvalid = class extends JOSEError {
+  constructor() {
+    super(...arguments);
+    this.code = "ERR_JWE_INVALID";
+  }
+};
+JWEInvalid.code = "ERR_JWE_INVALID";
+var JWSInvalid = class extends JOSEError {
+  constructor() {
+    super(...arguments);
+    this.code = "ERR_JWS_INVALID";
+  }
+};
+JWSInvalid.code = "ERR_JWS_INVALID";
+var JWTInvalid = class extends JOSEError {
+  constructor() {
+    super(...arguments);
+    this.code = "ERR_JWT_INVALID";
+  }
+};
+JWTInvalid.code = "ERR_JWT_INVALID";
+var JWKInvalid = class extends JOSEError {
+  constructor() {
+    super(...arguments);
+    this.code = "ERR_JWK_INVALID";
+  }
+};
+JWKInvalid.code = "ERR_JWK_INVALID";
+var JWKSInvalid = class extends JOSEError {
+  constructor() {
+    super(...arguments);
+    this.code = "ERR_JWKS_INVALID";
+  }
+};
+JWKSInvalid.code = "ERR_JWKS_INVALID";
+var JWKSNoMatchingKey = class extends JOSEError {
+  constructor(message2 = "no applicable key found in the JSON Web Key Set", options) {
+    super(message2, options);
+    this.code = "ERR_JWKS_NO_MATCHING_KEY";
+  }
+};
+JWKSNoMatchingKey.code = "ERR_JWKS_NO_MATCHING_KEY";
+var JWKSMultipleMatchingKeys = class extends JOSEError {
+  constructor(message2 = "multiple matching keys found in the JSON Web Key Set", options) {
+    super(message2, options);
+    this.code = "ERR_JWKS_MULTIPLE_MATCHING_KEYS";
+  }
+};
+JWKSMultipleMatchingKeys.code = "ERR_JWKS_MULTIPLE_MATCHING_KEYS";
+var JWKSTimeout = class extends JOSEError {
+  constructor(message2 = "request timed out", options) {
+    super(message2, options);
+    this.code = "ERR_JWKS_TIMEOUT";
+  }
+};
+JWKSTimeout.code = "ERR_JWKS_TIMEOUT";
+var JWSSignatureVerificationFailed = class extends JOSEError {
+  constructor(message2 = "signature verification failed", options) {
+    super(message2, options);
+    this.code = "ERR_JWS_SIGNATURE_VERIFICATION_FAILED";
+  }
+};
+JWSSignatureVerificationFailed.code = "ERR_JWS_SIGNATURE_VERIFICATION_FAILED";
+
+// node_modules/jose/dist/browser/lib/crypto_key.js
+function unusable(name, prop = "algorithm.name") {
+  return new TypeError(`CryptoKey does not support this operation, its ${prop} must be ${name}`);
+}
+function isAlgorithm(algorithm, name) {
+  return algorithm.name === name;
+}
+function getHashLength(hash) {
+  return parseInt(hash.name.slice(4), 10);
+}
+function getNamedCurve(alg) {
+  switch (alg) {
+    case "ES256":
+      return "P-256";
+    case "ES384":
+      return "P-384";
+    case "ES512":
+      return "P-521";
+    default:
+      throw new Error("unreachable");
+  }
+}
+function checkUsage(key, usages) {
+  if (usages.length && !usages.some((expected) => key.usages.includes(expected))) {
+    let msg = "CryptoKey does not support this operation, its usages must include ";
+    if (usages.length > 2) {
+      const last = usages.pop();
+      msg += `one of ${usages.join(", ")}, or ${last}.`;
+    } else if (usages.length === 2) {
+      msg += `one of ${usages[0]} or ${usages[1]}.`;
+    } else {
+      msg += `${usages[0]}.`;
+    }
+    throw new TypeError(msg);
+  }
+}
+function checkSigCryptoKey(key, alg, ...usages) {
+  switch (alg) {
+    case "HS256":
+    case "HS384":
+    case "HS512": {
+      if (!isAlgorithm(key.algorithm, "HMAC"))
+        throw unusable("HMAC");
+      const expected = parseInt(alg.slice(2), 10);
+      const actual = getHashLength(key.algorithm.hash);
+      if (actual !== expected)
+        throw unusable(`SHA-${expected}`, "algorithm.hash");
+      break;
+    }
+    case "RS256":
+    case "RS384":
+    case "RS512": {
+      if (!isAlgorithm(key.algorithm, "RSASSA-PKCS1-v1_5"))
+        throw unusable("RSASSA-PKCS1-v1_5");
+      const expected = parseInt(alg.slice(2), 10);
+      const actual = getHashLength(key.algorithm.hash);
+      if (actual !== expected)
+        throw unusable(`SHA-${expected}`, "algorithm.hash");
+      break;
+    }
+    case "PS256":
+    case "PS384":
+    case "PS512": {
+      if (!isAlgorithm(key.algorithm, "RSA-PSS"))
+        throw unusable("RSA-PSS");
+      const expected = parseInt(alg.slice(2), 10);
+      const actual = getHashLength(key.algorithm.hash);
+      if (actual !== expected)
+        throw unusable(`SHA-${expected}`, "algorithm.hash");
+      break;
+    }
+    case "EdDSA": {
+      if (key.algorithm.name !== "Ed25519" && key.algorithm.name !== "Ed448") {
+        throw unusable("Ed25519 or Ed448");
+      }
+      break;
+    }
+    case "ES256":
+    case "ES384":
+    case "ES512": {
+      if (!isAlgorithm(key.algorithm, "ECDSA"))
+        throw unusable("ECDSA");
+      const expected = getNamedCurve(alg);
+      const actual = key.algorithm.namedCurve;
+      if (actual !== expected)
+        throw unusable(expected, "algorithm.namedCurve");
+      break;
+    }
+    default:
+      throw new TypeError("CryptoKey does not support this operation");
+  }
+  checkUsage(key, usages);
+}
+
+// node_modules/jose/dist/browser/lib/invalid_key_input.js
+function message(msg, actual, ...types2) {
+  types2 = types2.filter(Boolean);
+  if (types2.length > 2) {
+    const last = types2.pop();
+    msg += `one of type ${types2.join(", ")}, or ${last}.`;
+  } else if (types2.length === 2) {
+    msg += `one of type ${types2[0]} or ${types2[1]}.`;
+  } else {
+    msg += `of type ${types2[0]}.`;
+  }
+  if (actual == null) {
+    msg += ` Received ${actual}`;
+  } else if (typeof actual === "function" && actual.name) {
+    msg += ` Received function ${actual.name}`;
+  } else if (typeof actual === "object" && actual != null) {
+    if (actual.constructor?.name) {
+      msg += ` Received an instance of ${actual.constructor.name}`;
+    }
+  }
+  return msg;
+}
+var invalid_key_input_default = (actual, ...types2) => {
+  return message("Key must be ", actual, ...types2);
+};
+function withAlg(alg, actual, ...types2) {
+  return message(`Key for the ${alg} algorithm must be `, actual, ...types2);
+}
+
+// node_modules/jose/dist/browser/runtime/is_key_like.js
+var is_key_like_default = (key) => {
+  if (isCryptoKey(key)) {
+    return true;
+  }
+  return key?.[Symbol.toStringTag] === "KeyObject";
+};
+var types = ["CryptoKey"];
+
+// node_modules/jose/dist/browser/lib/is_disjoint.js
+var isDisjoint = (...headers) => {
+  const sources = headers.filter(Boolean);
+  if (sources.length === 0 || sources.length === 1) {
+    return true;
+  }
+  let acc;
+  for (const header of sources) {
+    const parameters = Object.keys(header);
+    if (!acc || acc.size === 0) {
+      acc = new Set(parameters);
+      continue;
+    }
+    for (const parameter of parameters) {
+      if (acc.has(parameter)) {
+        return false;
+      }
+      acc.add(parameter);
+    }
+  }
+  return true;
+};
+var is_disjoint_default = isDisjoint;
+
+// node_modules/jose/dist/browser/lib/is_object.js
+function isObjectLike(value) {
+  return typeof value === "object" && value !== null;
+}
+function isObject(input) {
+  if (!isObjectLike(input) || Object.prototype.toString.call(input) !== "[object Object]") {
+    return false;
+  }
+  if (Object.getPrototypeOf(input) === null) {
+    return true;
+  }
+  let proto = input;
+  while (Object.getPrototypeOf(proto) !== null) {
+    proto = Object.getPrototypeOf(proto);
+  }
+  return Object.getPrototypeOf(input) === proto;
+}
+
+// node_modules/jose/dist/browser/runtime/check_key_length.js
+var check_key_length_default = (alg, key) => {
+  if (alg.startsWith("RS") || alg.startsWith("PS")) {
+    const { modulusLength } = key.algorithm;
+    if (typeof modulusLength !== "number" || modulusLength < 2048) {
+      throw new TypeError(`${alg} requires key modulusLength to be 2048 bits or larger`);
+    }
+  }
+};
+
+// node_modules/jose/dist/browser/lib/is_jwk.js
+function isJWK(key) {
+  return isObject(key) && typeof key.kty === "string";
+}
+function isPrivateJWK(key) {
+  return key.kty !== "oct" && typeof key.d === "string";
+}
+function isPublicJWK(key) {
+  return key.kty !== "oct" && typeof key.d === "undefined";
+}
+function isSecretJWK(key) {
+  return isJWK(key) && key.kty === "oct" && typeof key.k === "string";
+}
+
+// node_modules/jose/dist/browser/runtime/jwk_to_key.js
+function subtleMapping(jwk) {
+  let algorithm;
+  let keyUsages;
+  switch (jwk.kty) {
+    case "RSA": {
+      switch (jwk.alg) {
+        case "PS256":
+        case "PS384":
+        case "PS512":
+          algorithm = { name: "RSA-PSS", hash: `SHA-${jwk.alg.slice(-3)}` };
+          keyUsages = jwk.d ? ["sign"] : ["verify"];
+          break;
+        case "RS256":
+        case "RS384":
+        case "RS512":
+          algorithm = { name: "RSASSA-PKCS1-v1_5", hash: `SHA-${jwk.alg.slice(-3)}` };
+          keyUsages = jwk.d ? ["sign"] : ["verify"];
+          break;
+        case "RSA-OAEP":
+        case "RSA-OAEP-256":
+        case "RSA-OAEP-384":
+        case "RSA-OAEP-512":
+          algorithm = {
+            name: "RSA-OAEP",
+            hash: `SHA-${parseInt(jwk.alg.slice(-3), 10) || 1}`
+          };
+          keyUsages = jwk.d ? ["decrypt", "unwrapKey"] : ["encrypt", "wrapKey"];
+          break;
+        default:
+          throw new JOSENotSupported('Invalid or unsupported JWK "alg" (Algorithm) Parameter value');
+      }
+      break;
+    }
+    case "EC": {
+      switch (jwk.alg) {
+        case "ES256":
+          algorithm = { name: "ECDSA", namedCurve: "P-256" };
+          keyUsages = jwk.d ? ["sign"] : ["verify"];
+          break;
+        case "ES384":
+          algorithm = { name: "ECDSA", namedCurve: "P-384" };
+          keyUsages = jwk.d ? ["sign"] : ["verify"];
+          break;
+        case "ES512":
+          algorithm = { name: "ECDSA", namedCurve: "P-521" };
+          keyUsages = jwk.d ? ["sign"] : ["verify"];
+          break;
+        case "ECDH-ES":
+        case "ECDH-ES+A128KW":
+        case "ECDH-ES+A192KW":
+        case "ECDH-ES+A256KW":
+          algorithm = { name: "ECDH", namedCurve: jwk.crv };
+          keyUsages = jwk.d ? ["deriveBits"] : [];
+          break;
+        default:
+          throw new JOSENotSupported('Invalid or unsupported JWK "alg" (Algorithm) Parameter value');
+      }
+      break;
+    }
+    case "OKP": {
+      switch (jwk.alg) {
+        case "EdDSA":
+          algorithm = { name: jwk.crv };
+          keyUsages = jwk.d ? ["sign"] : ["verify"];
+          break;
+        case "ECDH-ES":
+        case "ECDH-ES+A128KW":
+        case "ECDH-ES+A192KW":
+        case "ECDH-ES+A256KW":
+          algorithm = { name: jwk.crv };
+          keyUsages = jwk.d ? ["deriveBits"] : [];
+          break;
+        default:
+          throw new JOSENotSupported('Invalid or unsupported JWK "alg" (Algorithm) Parameter value');
+      }
+      break;
+    }
+    default:
+      throw new JOSENotSupported('Invalid or unsupported JWK "kty" (Key Type) Parameter value');
+  }
+  return { algorithm, keyUsages };
+}
+var parse = async (jwk) => {
+  if (!jwk.alg) {
+    throw new TypeError('"alg" argument is required when "jwk.alg" is not present');
+  }
+  const { algorithm, keyUsages } = subtleMapping(jwk);
+  const rest = [
+    algorithm,
+    jwk.ext ?? false,
+    jwk.key_ops ?? keyUsages
+  ];
+  const keyData = { ...jwk };
+  delete keyData.alg;
+  delete keyData.use;
+  return webcrypto_default.subtle.importKey("jwk", keyData, ...rest);
+};
+var jwk_to_key_default = parse;
+
+// node_modules/jose/dist/browser/runtime/normalize_key.js
+var exportKeyValue = (k) => decode(k);
+var privCache;
+var pubCache;
+var isKeyObject = (key) => {
+  return key?.[Symbol.toStringTag] === "KeyObject";
+};
+var importAndCache = async (cache, key, jwk, alg, freeze = false) => {
+  let cached = cache.get(key);
+  if (cached?.[alg]) {
+    return cached[alg];
+  }
+  const cryptoKey = await jwk_to_key_default({ ...jwk, alg });
+  if (freeze)
+    Object.freeze(key);
+  if (!cached) {
+    cache.set(key, { [alg]: cryptoKey });
+  } else {
+    cached[alg] = cryptoKey;
+  }
+  return cryptoKey;
+};
+var normalizePublicKey = (key, alg) => {
+  if (isKeyObject(key)) {
+    let jwk = key.export({ format: "jwk" });
+    delete jwk.d;
+    delete jwk.dp;
+    delete jwk.dq;
+    delete jwk.p;
+    delete jwk.q;
+    delete jwk.qi;
+    if (jwk.k) {
+      return exportKeyValue(jwk.k);
+    }
+    pubCache || (pubCache = /* @__PURE__ */ new WeakMap());
+    return importAndCache(pubCache, key, jwk, alg);
+  }
+  if (isJWK(key)) {
+    if (key.k)
+      return decode(key.k);
+    pubCache || (pubCache = /* @__PURE__ */ new WeakMap());
+    const cryptoKey = importAndCache(pubCache, key, key, alg, true);
+    return cryptoKey;
+  }
+  return key;
+};
+var normalizePrivateKey = (key, alg) => {
+  if (isKeyObject(key)) {
+    let jwk = key.export({ format: "jwk" });
+    if (jwk.k) {
+      return exportKeyValue(jwk.k);
+    }
+    privCache || (privCache = /* @__PURE__ */ new WeakMap());
+    return importAndCache(privCache, key, jwk, alg);
+  }
+  if (isJWK(key)) {
+    if (key.k)
+      return decode(key.k);
+    privCache || (privCache = /* @__PURE__ */ new WeakMap());
+    const cryptoKey = importAndCache(privCache, key, key, alg, true);
+    return cryptoKey;
+  }
+  return key;
+};
+var normalize_key_default = { normalizePublicKey, normalizePrivateKey };
+
+// node_modules/jose/dist/browser/key/import.js
+async function importJWK(jwk, alg) {
+  if (!isObject(jwk)) {
+    throw new TypeError("JWK must be an object");
+  }
+  alg || (alg = jwk.alg);
+  switch (jwk.kty) {
+    case "oct":
+      if (typeof jwk.k !== "string" || !jwk.k) {
+        throw new TypeError('missing "k" (Key Value) Parameter value');
+      }
+      return decode(jwk.k);
+    case "RSA":
+      if (jwk.oth !== void 0) {
+        throw new JOSENotSupported('RSA JWK "oth" (Other Primes Info) Parameter value is not supported');
+      }
+    case "EC":
+    case "OKP":
+      return jwk_to_key_default({ ...jwk, alg });
+    default:
+      throw new JOSENotSupported('Unsupported "kty" (Key Type) Parameter value');
+  }
+}
+
+// node_modules/jose/dist/browser/lib/check_key_type.js
+var tag = (key) => key?.[Symbol.toStringTag];
+var jwkMatchesOp = (alg, key, usage) => {
+  if (key.use !== void 0 && key.use !== "sig") {
+    throw new TypeError("Invalid key for this operation, when present its use must be sig");
+  }
+  if (key.key_ops !== void 0 && key.key_ops.includes?.(usage) !== true) {
+    throw new TypeError(`Invalid key for this operation, when present its key_ops must include ${usage}`);
+  }
+  if (key.alg !== void 0 && key.alg !== alg) {
+    throw new TypeError(`Invalid key for this operation, when present its alg must be ${alg}`);
+  }
+  return true;
+};
+var symmetricTypeCheck = (alg, key, usage, allowJwk) => {
+  if (key instanceof Uint8Array)
+    return;
+  if (allowJwk && isJWK(key)) {
+    if (isSecretJWK(key) && jwkMatchesOp(alg, key, usage))
+      return;
+    throw new TypeError(`JSON Web Key for symmetric algorithms must have JWK "kty" (Key Type) equal to "oct" and the JWK "k" (Key Value) present`);
+  }
+  if (!is_key_like_default(key)) {
+    throw new TypeError(withAlg(alg, key, ...types, "Uint8Array", allowJwk ? "JSON Web Key" : null));
+  }
+  if (key.type !== "secret") {
+    throw new TypeError(`${tag(key)} instances for symmetric algorithms must be of type "secret"`);
+  }
+};
+var asymmetricTypeCheck = (alg, key, usage, allowJwk) => {
+  if (allowJwk && isJWK(key)) {
+    switch (usage) {
+      case "sign":
+        if (isPrivateJWK(key) && jwkMatchesOp(alg, key, usage))
+          return;
+        throw new TypeError(`JSON Web Key for this operation be a private JWK`);
+      case "verify":
+        if (isPublicJWK(key) && jwkMatchesOp(alg, key, usage))
+          return;
+        throw new TypeError(`JSON Web Key for this operation be a public JWK`);
+    }
+  }
+  if (!is_key_like_default(key)) {
+    throw new TypeError(withAlg(alg, key, ...types, allowJwk ? "JSON Web Key" : null));
+  }
+  if (key.type === "secret") {
+    throw new TypeError(`${tag(key)} instances for asymmetric algorithms must not be of type "secret"`);
+  }
+  if (usage === "sign" && key.type === "public") {
+    throw new TypeError(`${tag(key)} instances for asymmetric algorithm signing must be of type "private"`);
+  }
+  if (usage === "decrypt" && key.type === "public") {
+    throw new TypeError(`${tag(key)} instances for asymmetric algorithm decryption must be of type "private"`);
+  }
+  if (key.algorithm && usage === "verify" && key.type === "private") {
+    throw new TypeError(`${tag(key)} instances for asymmetric algorithm verifying must be of type "public"`);
+  }
+  if (key.algorithm && usage === "encrypt" && key.type === "private") {
+    throw new TypeError(`${tag(key)} instances for asymmetric algorithm encryption must be of type "public"`);
+  }
+};
+function checkKeyType(allowJwk, alg, key, usage) {
+  const symmetric = alg.startsWith("HS") || alg === "dir" || alg.startsWith("PBES2") || /^A\d{3}(?:GCM)?KW$/.test(alg);
+  if (symmetric) {
+    symmetricTypeCheck(alg, key, usage, allowJwk);
+  } else {
+    asymmetricTypeCheck(alg, key, usage, allowJwk);
+  }
+}
+var check_key_type_default = checkKeyType.bind(void 0, false);
+var checkKeyTypeWithJwk = checkKeyType.bind(void 0, true);
+
+// node_modules/jose/dist/browser/lib/validate_crit.js
+function validateCrit(Err, recognizedDefault, recognizedOption, protectedHeader, joseHeader) {
+  if (joseHeader.crit !== void 0 && protectedHeader?.crit === void 0) {
+    throw new Err('"crit" (Critical) Header Parameter MUST be integrity protected');
+  }
+  if (!protectedHeader || protectedHeader.crit === void 0) {
+    return /* @__PURE__ */ new Set();
+  }
+  if (!Array.isArray(protectedHeader.crit) || protectedHeader.crit.length === 0 || protectedHeader.crit.some((input) => typeof input !== "string" || input.length === 0)) {
+    throw new Err('"crit" (Critical) Header Parameter MUST be an array of non-empty strings when present');
+  }
+  let recognized;
+  if (recognizedOption !== void 0) {
+    recognized = new Map([...Object.entries(recognizedOption), ...recognizedDefault.entries()]);
+  } else {
+    recognized = recognizedDefault;
+  }
+  for (const parameter of protectedHeader.crit) {
+    if (!recognized.has(parameter)) {
+      throw new JOSENotSupported(`Extension Header Parameter "${parameter}" is not recognized`);
+    }
+    if (joseHeader[parameter] === void 0) {
+      throw new Err(`Extension Header Parameter "${parameter}" is missing`);
+    }
+    if (recognized.get(parameter) && protectedHeader[parameter] === void 0) {
+      throw new Err(`Extension Header Parameter "${parameter}" MUST be integrity protected`);
+    }
+  }
+  return new Set(protectedHeader.crit);
+}
+var validate_crit_default = validateCrit;
+
+// node_modules/jose/dist/browser/lib/validate_algorithms.js
+var validateAlgorithms = (option, algorithms) => {
+  if (algorithms !== void 0 && (!Array.isArray(algorithms) || algorithms.some((s) => typeof s !== "string"))) {
+    throw new TypeError(`"${option}" option must be an array of strings`);
+  }
+  if (!algorithms) {
+    return void 0;
+  }
+  return new Set(algorithms);
+};
+var validate_algorithms_default = validateAlgorithms;
+
+// node_modules/jose/dist/browser/runtime/subtle_dsa.js
+function subtleDsa(alg, algorithm) {
+  const hash = `SHA-${alg.slice(-3)}`;
+  switch (alg) {
+    case "HS256":
+    case "HS384":
+    case "HS512":
+      return { hash, name: "HMAC" };
+    case "PS256":
+    case "PS384":
+    case "PS512":
+      return { hash, name: "RSA-PSS", saltLength: alg.slice(-3) >> 3 };
+    case "RS256":
+    case "RS384":
+    case "RS512":
+      return { hash, name: "RSASSA-PKCS1-v1_5" };
+    case "ES256":
+    case "ES384":
+    case "ES512":
+      return { hash, name: "ECDSA", namedCurve: algorithm.namedCurve };
+    case "EdDSA":
+      return { name: algorithm.name };
+    default:
+      throw new JOSENotSupported(`alg ${alg} is not supported either by JOSE or your javascript runtime`);
+  }
+}
+
+// node_modules/jose/dist/browser/runtime/get_sign_verify_key.js
+async function getCryptoKey(alg, key, usage) {
+  if (usage === "sign") {
+    key = await normalize_key_default.normalizePrivateKey(key, alg);
+  }
+  if (usage === "verify") {
+    key = await normalize_key_default.normalizePublicKey(key, alg);
+  }
+  if (isCryptoKey(key)) {
+    checkSigCryptoKey(key, alg, usage);
+    return key;
+  }
+  if (key instanceof Uint8Array) {
+    if (!alg.startsWith("HS")) {
+      throw new TypeError(invalid_key_input_default(key, ...types));
+    }
+    return webcrypto_default.subtle.importKey("raw", key, { hash: `SHA-${alg.slice(-3)}`, name: "HMAC" }, false, [usage]);
+  }
+  throw new TypeError(invalid_key_input_default(key, ...types, "Uint8Array", "JSON Web Key"));
+}
+
+// node_modules/jose/dist/browser/runtime/verify.js
+var verify = async (alg, key, signature, data) => {
+  const cryptoKey = await getCryptoKey(alg, key, "verify");
+  check_key_length_default(alg, cryptoKey);
+  const algorithm = subtleDsa(alg, cryptoKey.algorithm);
+  try {
+    return await webcrypto_default.subtle.verify(algorithm, cryptoKey, signature, data);
+  } catch {
+    return false;
+  }
+};
+var verify_default = verify;
+
+// node_modules/jose/dist/browser/jws/flattened/verify.js
+async function flattenedVerify(jws, key, options) {
+  if (!isObject(jws)) {
+    throw new JWSInvalid("Flattened JWS must be an object");
+  }
+  if (jws.protected === void 0 && jws.header === void 0) {
+    throw new JWSInvalid('Flattened JWS must have either of the "protected" or "header" members');
+  }
+  if (jws.protected !== void 0 && typeof jws.protected !== "string") {
+    throw new JWSInvalid("JWS Protected Header incorrect type");
+  }
+  if (jws.payload === void 0) {
+    throw new JWSInvalid("JWS Payload missing");
+  }
+  if (typeof jws.signature !== "string") {
+    throw new JWSInvalid("JWS Signature missing or incorrect type");
+  }
+  if (jws.header !== void 0 && !isObject(jws.header)) {
+    throw new JWSInvalid("JWS Unprotected Header incorrect type");
+  }
+  let parsedProt = {};
+  if (jws.protected) {
+    try {
+      const protectedHeader = decode(jws.protected);
+      parsedProt = JSON.parse(decoder.decode(protectedHeader));
+    } catch {
+      throw new JWSInvalid("JWS Protected Header is invalid");
+    }
+  }
+  if (!is_disjoint_default(parsedProt, jws.header)) {
+    throw new JWSInvalid("JWS Protected and JWS Unprotected Header Parameter names must be disjoint");
+  }
+  const joseHeader = {
+    ...parsedProt,
+    ...jws.header
+  };
+  const extensions = validate_crit_default(JWSInvalid, /* @__PURE__ */ new Map([["b64", true]]), options?.crit, parsedProt, joseHeader);
+  let b64 = true;
+  if (extensions.has("b64")) {
+    b64 = parsedProt.b64;
+    if (typeof b64 !== "boolean") {
+      throw new JWSInvalid('The "b64" (base64url-encode payload) Header Parameter must be a boolean');
+    }
+  }
+  const { alg } = joseHeader;
+  if (typeof alg !== "string" || !alg) {
+    throw new JWSInvalid('JWS "alg" (Algorithm) Header Parameter missing or invalid');
+  }
+  const algorithms = options && validate_algorithms_default("algorithms", options.algorithms);
+  if (algorithms && !algorithms.has(alg)) {
+    throw new JOSEAlgNotAllowed('"alg" (Algorithm) Header Parameter value not allowed');
+  }
+  if (b64) {
+    if (typeof jws.payload !== "string") {
+      throw new JWSInvalid("JWS Payload must be a string");
+    }
+  } else if (typeof jws.payload !== "string" && !(jws.payload instanceof Uint8Array)) {
+    throw new JWSInvalid("JWS Payload must be a string or an Uint8Array instance");
+  }
+  let resolvedKey = false;
+  if (typeof key === "function") {
+    key = await key(parsedProt, jws);
+    resolvedKey = true;
+    checkKeyTypeWithJwk(alg, key, "verify");
+    if (isJWK(key)) {
+      key = await importJWK(key, alg);
+    }
+  } else {
+    checkKeyTypeWithJwk(alg, key, "verify");
+  }
+  const data = concat(encoder.encode(jws.protected ?? ""), encoder.encode("."), typeof jws.payload === "string" ? encoder.encode(jws.payload) : jws.payload);
+  let signature;
+  try {
+    signature = decode(jws.signature);
+  } catch {
+    throw new JWSInvalid("Failed to base64url decode the signature");
+  }
+  const verified = await verify_default(alg, key, signature, data);
+  if (!verified) {
+    throw new JWSSignatureVerificationFailed();
+  }
+  let payload;
+  if (b64) {
+    try {
+      payload = decode(jws.payload);
+    } catch {
+      throw new JWSInvalid("Failed to base64url decode the payload");
+    }
+  } else if (typeof jws.payload === "string") {
+    payload = encoder.encode(jws.payload);
+  } else {
+    payload = jws.payload;
+  }
+  const result = { payload };
+  if (jws.protected !== void 0) {
+    result.protectedHeader = parsedProt;
+  }
+  if (jws.header !== void 0) {
+    result.unprotectedHeader = jws.header;
+  }
+  if (resolvedKey) {
+    return { ...result, key };
+  }
+  return result;
+}
+
+// node_modules/jose/dist/browser/jws/compact/verify.js
+async function compactVerify(jws, key, options) {
+  if (jws instanceof Uint8Array) {
+    jws = decoder.decode(jws);
+  }
+  if (typeof jws !== "string") {
+    throw new JWSInvalid("Compact JWS must be a string or Uint8Array");
+  }
+  const { 0: protectedHeader, 1: payload, 2: signature, length } = jws.split(".");
+  if (length !== 3) {
+    throw new JWSInvalid("Invalid Compact JWS");
+  }
+  const verified = await flattenedVerify({ payload, protected: protectedHeader, signature }, key, options);
+  const result = { payload: verified.payload, protectedHeader: verified.protectedHeader };
+  if (typeof key === "function") {
+    return { ...result, key: verified.key };
+  }
+  return result;
+}
+
+// node_modules/jose/dist/browser/lib/epoch.js
+var epoch_default = (date) => Math.floor(date.getTime() / 1e3);
+
+// node_modules/jose/dist/browser/lib/secs.js
+var minute = 60;
+var hour = minute * 60;
+var day = hour * 24;
+var week = day * 7;
+var year = day * 365.25;
+var REGEX = /^(\+|\-)? ?(\d+|\d+\.\d+) ?(seconds?|secs?|s|minutes?|mins?|m|hours?|hrs?|h|days?|d|weeks?|w|years?|yrs?|y)(?: (ago|from now))?$/i;
+var secs_default = (str) => {
+  const matched = REGEX.exec(str);
+  if (!matched || matched[4] && matched[1]) {
+    throw new TypeError("Invalid time period format");
+  }
+  const value = parseFloat(matched[2]);
+  const unit = matched[3].toLowerCase();
+  let numericDate;
+  switch (unit) {
+    case "sec":
+    case "secs":
+    case "second":
+    case "seconds":
+    case "s":
+      numericDate = Math.round(value);
+      break;
+    case "minute":
+    case "minutes":
+    case "min":
+    case "mins":
+    case "m":
+      numericDate = Math.round(value * minute);
+      break;
+    case "hour":
+    case "hours":
+    case "hr":
+    case "hrs":
+    case "h":
+      numericDate = Math.round(value * hour);
+      break;
+    case "day":
+    case "days":
+    case "d":
+      numericDate = Math.round(value * day);
+      break;
+    case "week":
+    case "weeks":
+    case "w":
+      numericDate = Math.round(value * week);
+      break;
+    default:
+      numericDate = Math.round(value * year);
+      break;
+  }
+  if (matched[1] === "-" || matched[4] === "ago") {
+    return -numericDate;
+  }
+  return numericDate;
+};
+
+// node_modules/jose/dist/browser/lib/jwt_claims_set.js
+var normalizeTyp = (value) => value.toLowerCase().replace(/^application\//, "");
+var checkAudiencePresence = (audPayload, audOption) => {
+  if (typeof audPayload === "string") {
+    return audOption.includes(audPayload);
+  }
+  if (Array.isArray(audPayload)) {
+    return audOption.some(Set.prototype.has.bind(new Set(audPayload)));
+  }
+  return false;
+};
+var jwt_claims_set_default = (protectedHeader, encodedPayload, options = {}) => {
+  let payload;
+  try {
+    payload = JSON.parse(decoder.decode(encodedPayload));
+  } catch {
+  }
+  if (!isObject(payload)) {
+    throw new JWTInvalid("JWT Claims Set must be a top-level JSON object");
+  }
+  const { typ } = options;
+  if (typ && (typeof protectedHeader.typ !== "string" || normalizeTyp(protectedHeader.typ) !== normalizeTyp(typ))) {
+    throw new JWTClaimValidationFailed('unexpected "typ" JWT header value', payload, "typ", "check_failed");
+  }
+  const { requiredClaims = [], issuer, subject, audience, maxTokenAge } = options;
+  const presenceCheck = [...requiredClaims];
+  if (maxTokenAge !== void 0)
+    presenceCheck.push("iat");
+  if (audience !== void 0)
+    presenceCheck.push("aud");
+  if (subject !== void 0)
+    presenceCheck.push("sub");
+  if (issuer !== void 0)
+    presenceCheck.push("iss");
+  for (const claim of new Set(presenceCheck.reverse())) {
+    if (!(claim in payload)) {
+      throw new JWTClaimValidationFailed(`missing required "${claim}" claim`, payload, claim, "missing");
+    }
+  }
+  if (issuer && !(Array.isArray(issuer) ? issuer : [issuer]).includes(payload.iss)) {
+    throw new JWTClaimValidationFailed('unexpected "iss" claim value', payload, "iss", "check_failed");
+  }
+  if (subject && payload.sub !== subject) {
+    throw new JWTClaimValidationFailed('unexpected "sub" claim value', payload, "sub", "check_failed");
+  }
+  if (audience && !checkAudiencePresence(payload.aud, typeof audience === "string" ? [audience] : audience)) {
+    throw new JWTClaimValidationFailed('unexpected "aud" claim value', payload, "aud", "check_failed");
+  }
+  let tolerance;
+  switch (typeof options.clockTolerance) {
+    case "string":
+      tolerance = secs_default(options.clockTolerance);
+      break;
+    case "number":
+      tolerance = options.clockTolerance;
+      break;
+    case "undefined":
+      tolerance = 0;
+      break;
+    default:
+      throw new TypeError("Invalid clockTolerance option type");
+  }
+  const { currentDate } = options;
+  const now = epoch_default(currentDate || /* @__PURE__ */ new Date());
+  if ((payload.iat !== void 0 || maxTokenAge) && typeof payload.iat !== "number") {
+    throw new JWTClaimValidationFailed('"iat" claim must be a number', payload, "iat", "invalid");
+  }
+  if (payload.nbf !== void 0) {
+    if (typeof payload.nbf !== "number") {
+      throw new JWTClaimValidationFailed('"nbf" claim must be a number', payload, "nbf", "invalid");
+    }
+    if (payload.nbf > now + tolerance) {
+      throw new JWTClaimValidationFailed('"nbf" claim timestamp check failed', payload, "nbf", "check_failed");
+    }
+  }
+  if (payload.exp !== void 0) {
+    if (typeof payload.exp !== "number") {
+      throw new JWTClaimValidationFailed('"exp" claim must be a number', payload, "exp", "invalid");
+    }
+    if (payload.exp <= now - tolerance) {
+      throw new JWTExpired('"exp" claim timestamp check failed', payload, "exp", "check_failed");
+    }
+  }
+  if (maxTokenAge) {
+    const age = now - payload.iat;
+    const max = typeof maxTokenAge === "number" ? maxTokenAge : secs_default(maxTokenAge);
+    if (age - tolerance > max) {
+      throw new JWTExpired('"iat" claim timestamp check failed (too far in the past)', payload, "iat", "check_failed");
+    }
+    if (age < 0 - tolerance) {
+      throw new JWTClaimValidationFailed('"iat" claim timestamp check failed (it should be in the past)', payload, "iat", "check_failed");
+    }
+  }
+  return payload;
+};
+
+// node_modules/jose/dist/browser/jwt/verify.js
+async function jwtVerify(jwt, key, options) {
+  const verified = await compactVerify(jwt, key, options);
+  if (verified.protectedHeader.crit?.includes("b64") && verified.protectedHeader.b64 === false) {
+    throw new JWTInvalid("JWTs MUST NOT use unencoded payload");
+  }
+  const payload = jwt_claims_set_default(verified.protectedHeader, verified.payload, options);
+  const result = { payload, protectedHeader: verified.protectedHeader };
+  if (typeof key === "function") {
+    return { ...result, key: verified.key };
+  }
+  return result;
+}
+
+// node_modules/jose/dist/browser/runtime/sign.js
+var sign = async (alg, key, data) => {
+  const cryptoKey = await getCryptoKey(alg, key, "sign");
+  check_key_length_default(alg, cryptoKey);
+  const signature = await webcrypto_default.subtle.sign(subtleDsa(alg, cryptoKey.algorithm), cryptoKey, data);
+  return new Uint8Array(signature);
+};
+var sign_default = sign;
+
+// node_modules/jose/dist/browser/jws/flattened/sign.js
+var FlattenedSign = class {
+  constructor(payload) {
+    if (!(payload instanceof Uint8Array)) {
+      throw new TypeError("payload must be an instance of Uint8Array");
+    }
+    this._payload = payload;
+  }
+  setProtectedHeader(protectedHeader) {
+    if (this._protectedHeader) {
+      throw new TypeError("setProtectedHeader can only be called once");
+    }
+    this._protectedHeader = protectedHeader;
+    return this;
+  }
+  setUnprotectedHeader(unprotectedHeader) {
+    if (this._unprotectedHeader) {
+      throw new TypeError("setUnprotectedHeader can only be called once");
+    }
+    this._unprotectedHeader = unprotectedHeader;
+    return this;
+  }
+  async sign(key, options) {
+    if (!this._protectedHeader && !this._unprotectedHeader) {
+      throw new JWSInvalid("either setProtectedHeader or setUnprotectedHeader must be called before #sign()");
+    }
+    if (!is_disjoint_default(this._protectedHeader, this._unprotectedHeader)) {
+      throw new JWSInvalid("JWS Protected and JWS Unprotected Header Parameter names must be disjoint");
+    }
+    const joseHeader = {
+      ...this._protectedHeader,
+      ...this._unprotectedHeader
+    };
+    const extensions = validate_crit_default(JWSInvalid, /* @__PURE__ */ new Map([["b64", true]]), options?.crit, this._protectedHeader, joseHeader);
+    let b64 = true;
+    if (extensions.has("b64")) {
+      b64 = this._protectedHeader.b64;
+      if (typeof b64 !== "boolean") {
+        throw new JWSInvalid('The "b64" (base64url-encode payload) Header Parameter must be a boolean');
+      }
+    }
+    const { alg } = joseHeader;
+    if (typeof alg !== "string" || !alg) {
+      throw new JWSInvalid('JWS "alg" (Algorithm) Header Parameter missing or invalid');
+    }
+    checkKeyTypeWithJwk(alg, key, "sign");
+    let payload = this._payload;
+    if (b64) {
+      payload = encoder.encode(encode(payload));
+    }
+    let protectedHeader;
+    if (this._protectedHeader) {
+      protectedHeader = encoder.encode(encode(JSON.stringify(this._protectedHeader)));
+    } else {
+      protectedHeader = encoder.encode("");
+    }
+    const data = concat(protectedHeader, encoder.encode("."), payload);
+    const signature = await sign_default(alg, key, data);
+    const jws = {
+      signature: encode(signature),
+      payload: ""
+    };
+    if (b64) {
+      jws.payload = decoder.decode(payload);
+    }
+    if (this._unprotectedHeader) {
+      jws.header = this._unprotectedHeader;
+    }
+    if (this._protectedHeader) {
+      jws.protected = decoder.decode(protectedHeader);
+    }
+    return jws;
+  }
+};
+
+// node_modules/jose/dist/browser/jws/compact/sign.js
+var CompactSign = class {
+  constructor(payload) {
+    this._flattened = new FlattenedSign(payload);
+  }
+  setProtectedHeader(protectedHeader) {
+    this._flattened.setProtectedHeader(protectedHeader);
+    return this;
+  }
+  async sign(key, options) {
+    const jws = await this._flattened.sign(key, options);
+    if (jws.payload === void 0) {
+      throw new TypeError("use the flattened module for creating JWS with b64: false");
+    }
+    return `${jws.protected}.${jws.payload}.${jws.signature}`;
+  }
+};
+
+// node_modules/jose/dist/browser/jwt/produce.js
+function validateInput(label, input) {
+  if (!Number.isFinite(input)) {
+    throw new TypeError(`Invalid ${label} input`);
+  }
+  return input;
+}
+var ProduceJWT = class {
+  constructor(payload = {}) {
+    if (!isObject(payload)) {
+      throw new TypeError("JWT Claims Set MUST be an object");
+    }
+    this._payload = payload;
+  }
+  setIssuer(issuer) {
+    this._payload = { ...this._payload, iss: issuer };
+    return this;
+  }
+  setSubject(subject) {
+    this._payload = { ...this._payload, sub: subject };
+    return this;
+  }
+  setAudience(audience) {
+    this._payload = { ...this._payload, aud: audience };
+    return this;
+  }
+  setJti(jwtId) {
+    this._payload = { ...this._payload, jti: jwtId };
+    return this;
+  }
+  setNotBefore(input) {
+    if (typeof input === "number") {
+      this._payload = { ...this._payload, nbf: validateInput("setNotBefore", input) };
+    } else if (input instanceof Date) {
+      this._payload = { ...this._payload, nbf: validateInput("setNotBefore", epoch_default(input)) };
+    } else {
+      this._payload = { ...this._payload, nbf: epoch_default(/* @__PURE__ */ new Date()) + secs_default(input) };
+    }
+    return this;
+  }
+  setExpirationTime(input) {
+    if (typeof input === "number") {
+      this._payload = { ...this._payload, exp: validateInput("setExpirationTime", input) };
+    } else if (input instanceof Date) {
+      this._payload = { ...this._payload, exp: validateInput("setExpirationTime", epoch_default(input)) };
+    } else {
+      this._payload = { ...this._payload, exp: epoch_default(/* @__PURE__ */ new Date()) + secs_default(input) };
+    }
+    return this;
+  }
+  setIssuedAt(input) {
+    if (typeof input === "undefined") {
+      this._payload = { ...this._payload, iat: epoch_default(/* @__PURE__ */ new Date()) };
+    } else if (input instanceof Date) {
+      this._payload = { ...this._payload, iat: validateInput("setIssuedAt", epoch_default(input)) };
+    } else if (typeof input === "string") {
+      this._payload = {
+        ...this._payload,
+        iat: validateInput("setIssuedAt", epoch_default(/* @__PURE__ */ new Date()) + secs_default(input))
+      };
+    } else {
+      this._payload = { ...this._payload, iat: validateInput("setIssuedAt", input) };
+    }
+    return this;
+  }
+};
+
+// node_modules/jose/dist/browser/jwt/sign.js
+var SignJWT = class extends ProduceJWT {
+  setProtectedHeader(protectedHeader) {
+    this._protectedHeader = protectedHeader;
+    return this;
+  }
+  async sign(key, options) {
+    const sig = new CompactSign(encoder.encode(JSON.stringify(this._payload)));
+    sig.setProtectedHeader(this._protectedHeader);
+    if (Array.isArray(this._protectedHeader?.crit) && this._protectedHeader.crit.includes("b64") && this._protectedHeader.b64 === false) {
+      throw new JWTInvalid("JWTs MUST NOT use unencoded payload");
+    }
+    return sig.sign(key, options);
+  }
+};
+
+// src/worker.js
+var userID = "89b3cbba-e6ac-485a-9481-976a0415eab9";
+var trojanPassword = `bpb-trojan`;
+var proxyIPs = ["bpb.yousef.isegaro.com"];
+var defaultHttpPorts = ["80", "8080", "2052", "2082", "2086", "2095", "8880"];
+var defaultHttpsPorts = ["443", "8443", "2053", "2083", "2087", "2096"];
+var proxyIP = proxyIPs[Math.floor(Math.random() * proxyIPs.length)];
+var dohURL = "https://cloudflare-dns.com/dns-query";
+var hashPassword;
+var panelVersion = "2.7";
+var worker_default = {
+  /**
+   * @param {import("@cloudflare/workers-types").Request} request
+   * @param {{UUID: string, PROXYIP: string, DNS_RESOLVER_URL: string}} env
+   * @param {import("@cloudflare/workers-types").ExecutionContext} ctx
+   * @returns {Promise<Response>}
+   */
+  async fetch(request, env) {
+    try {
+      userID = env.UUID || userID;
+      proxyIP = env.PROXYIP || proxyIP;
+      dohURL = env.DNS_RESOLVER_URL || dohURL;
+      trojanPassword = env.TROJAN_PASS || trojanPassword;
+      hashPassword = import_js_sha256.default.sha224(trojanPassword);
+      if (!isValidUUID(userID))
+        throw new Error(`Invalid UUID: ${userID}`);
+      const upgradeHeader = request.headers.get("Upgrade");
+      const url = new URL(request.url);
+      if (!upgradeHeader || upgradeHeader !== "websocket") {
+        const searchParams = new URLSearchParams(url.search);
+        const host = request.headers.get("Host");
+        const client = searchParams.get("app");
+        const { kvNotFound, proxySettings: settings, warpConfigs } = await getDataset(env);
+        if (kvNotFound) {
+          const errorPage = renderErrorPage("KV Dataset is not properly set!", null, true);
+          return new Response(errorPage, { status: 200, headers: { "Content-Type": "text/html" } });
+        }
+        switch (url.pathname) {
+          case "/cf":
+            return new Response(JSON.stringify(request.cf, null, 4), {
+              status: 200,
+              headers: {
+                "Content-Type": "application/json;charset=utf-8"
+              }
+            });
+          case "/update-warp":
+            const Auth = await Authenticate(request, env);
+            if (!Auth)
+              return new Response("Unauthorized", { status: 401 });
+            if (request.method === "POST") {
+              try {
+                const { error: warpPlusError } = await fetchWgConfig(env, settings);
+                if (warpPlusError) {
+                  return new Response(warpPlusError, { status: 400 });
+                } else {
+                  return new Response("Warp configs updated successfully", { status: 200 });
+                }
+              } catch (error) {
+                console.log(error);
+                return new Response(`An error occurred while updating Warp configs! - ${error}`, { status: 500 });
+              }
+            } else {
+              return new Response("Unsupported request", { status: 405 });
+            }
+          case `/sub/${userID}`:
+            if (client === "sfa") {
+              const BestPingSFA = await getSingBoxCustomConfig(env, settings, host, client, false);
+              return new Response(JSON.stringify(BestPingSFA, null, 4), {
+                status: 200,
+                headers: {
+                  "Content-Type": "application/json;charset=utf-8",
+                  "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+                  "CDN-Cache-Control": "no-store"
+                }
+              });
+            }
+            if (client === "clash") {
+              const BestPingClash = await getClashNormalConfig(env, settings, host);
+              return new Response(JSON.stringify(BestPingClash, null, 4), {
+                status: 200,
+                headers: {
+                  "Content-Type": "application/json;charset=utf-8",
+                  "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+                  "CDN-Cache-Control": "no-store"
+                }
+              });
+            }
+            if (client === "xray") {
+              const xrayFullConfigs = await getXrayCustomConfigs(env, settings, host, false);
+              return new Response(JSON.stringify(xrayFullConfigs, null, 4), {
+                status: 200,
+                headers: {
+                  "Content-Type": "application/json;charset=utf-8",
+                  "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+                  "CDN-Cache-Control": "no-store"
+                }
+              });
+            }
+            const normalConfigs = await getNormalConfigs(settings, host, client);
+            return new Response(normalConfigs, {
+              status: 200,
+              headers: {
+                "Content-Type": "text/plain;charset=utf-8",
+                "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+                "CDN-Cache-Control": "no-store"
+              }
+            });
+          case `/fragsub/${userID}`:
+            let fragConfigs = client === "hiddify" ? await getSingBoxCustomConfig(env, settings, host, client, true) : await getXrayCustomConfigs(env, settings, host, true);
+            return new Response(JSON.stringify(fragConfigs, null, 4), {
+              status: 200,
+              headers: {
+                "Content-Type": "application/json;charset=utf-8",
+                "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+                "CDN-Cache-Control": "no-store"
+              }
+            });
+          case `/warpsub/${userID}`:
+            if (client === "clash") {
+              const clashWarpConfig = await getClashWarpConfig(settings, warpConfigs);
+              return new Response(JSON.stringify(clashWarpConfig, null, 4), {
+                status: 200,
+                headers: {
+                  "Content-Type": "application/json;charset=utf-8",
+                  "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+                  "CDN-Cache-Control": "no-store"
+                }
+              });
+            }
+            if (client === "singbox" || client === "hiddify") {
+              const singboxWarpConfig = await getSingBoxWarpConfig(settings, warpConfigs, client);
+              return new Response(JSON.stringify(singboxWarpConfig, null, 4), {
+                status: 200,
+                headers: {
+                  "Content-Type": "application/json;charset=utf-8",
+                  "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+                  "CDN-Cache-Control": "no-store"
+                }
+              });
+            }
+            const warpConfig = await getXrayWarpConfigs(settings, warpConfigs, client);
+            return new Response(JSON.stringify(warpConfig, null, 4), {
+              status: 200,
+              headers: {
+                "Content-Type": "application/json;charset=utf-8",
+                "Cache-Control": "no-store, no-cache, must-revalidate, proxy-revalidate",
+                "CDN-Cache-Control": "no-store"
+              }
+            });
+          case "/panel":
+            const pwd = await env.bpb.get("pwd");
+            const isAuth = await Authenticate(request, env);
+            if (request.method === "POST") {
+              if (!isAuth)
+                return new Response("Unauthorized or expired session!", { status: 401 });
+              const formData = await request.formData();
+              const isReset = formData.get("resetSettings") === "true";
+              isReset ? await updateDataset(env, null, true) : await updateDataset(env, formData);
+              return new Response("Success", { status: 200 });
+            }
+            if (pwd && !isAuth)
+              return Response.redirect(`${url.origin}/login`, 302);
+            const isPassSet = pwd?.length >= 8;
+            const homePage = renderHomePage(settings, host, isPassSet);
+            return new Response(homePage, {
+              status: 200,
+              headers: {
+                "Content-Type": "text/html",
+                "Access-Control-Allow-Origin": url.origin,
+                "Access-Control-Allow-Methods": "GET, POST",
+                "Access-Control-Allow-Headers": "Content-Type, Authorization",
+                "X-Content-Type-Options": "nosniff",
+                "X-Frame-Options": "DENY",
+                "Referrer-Policy": "strict-origin-when-cross-origin"
+              }
+            });
+          case "/login":
+            if (typeof env.bpb !== "object") {
+              const errorPage = renderErrorPage("KV Dataset is not properly set!", null, true);
+              return new Response(errorPage, { status: 200, headers: { "Content-Type": "text/html" } });
+            }
+            const loginAuth = await Authenticate(request, env);
+            if (loginAuth)
+              return Response.redirect(`${url.origin}/panel`, 302);
+            let secretKey = await env.bpb.get("secretKey");
+            if (!secretKey) {
+              secretKey = generateSecretKey();
+              await env.bpb.put("secretKey", secretKey);
+            }
+            if (request.method === "POST") {
+              const password = await request.text();
+              const savedPass = await env.bpb.get("pwd");
+              if (password === savedPass) {
+                const jwtToken = await generateJWTToken(secretKey);
+                const cookieHeader = `jwtToken=${jwtToken}; HttpOnly; Secure; Max-Age=${7 * 24 * 60 * 60}; Path=/; SameSite=Strict`;
+                return new Response("Success", {
+                  status: 200,
+                  headers: {
+                    "Set-Cookie": cookieHeader,
+                    "Content-Type": "text/plain"
+                  }
+                });
+              } else {
+                return new Response("Method Not Allowed", { status: 405 });
+              }
+            }
+            const loginPage = renderLoginPage();
+            return new Response(loginPage, {
+              status: 200,
+              headers: {
+                "Content-Type": "text/html",
+                "Access-Control-Allow-Origin": url.origin,
+                "Access-Control-Allow-Methods": "GET, POST",
+                "Access-Control-Allow-Headers": "Content-Type, Authorization",
+                "X-Content-Type-Options": "nosniff",
+                "X-Frame-Options": "DENY",
+                "Referrer-Policy": "strict-origin-when-cross-origin"
+              }
+            });
+          case "/logout":
+            return new Response("Success", {
+              status: 200,
+              headers: {
+                "Set-Cookie": "jwtToken=; Secure; SameSite=None; Expires=Thu, 01 Jan 1970 00:00:00 GMT",
+                "Content-Type": "text/plain"
+              }
+            });
+          case "/panel/password":
+            const oldPwd = await env.bpb.get("pwd");
+            let passAuth = await Authenticate(request, env);
+            if (oldPwd && !passAuth)
+              return new Response("Unauthorized!", { status: 401 });
+            const newPwd = await request.text();
+            if (newPwd === oldPwd)
+              return new Response("Please enter a new Password!", { status: 400 });
+            await env.bpb.put("pwd", newPwd);
+            return new Response("Success", {
+              status: 200,
+              headers: {
+                "Set-Cookie": "jwtToken=; Path=/; Secure; SameSite=None; Expires=Thu, 01 Jan 1970 00:00:00 GMT",
+                "Content-Type": "text/plain"
+              }
+            });
+          default:
+            url.hostname = "www.speedtest.net";
+            url.protocol = "https:";
+            request = new Request(url, request);
+            return await fetch(request);
+        }
+      } else {
+        return url.pathname.startsWith("/tr") ? await trojanOverWSHandler(request) : await vlessOverWSHandler(request);
+      }
+    } catch (err) {
+      const errorPage = renderErrorPage("Something went wrong!", err, false);
+      return new Response(errorPage, { status: 200, headers: { "Content-Type": "text/html" } });
+    }
+  }
+};
+async function vlessOverWSHandler(request) {
+  const webSocketPair = new WebSocketPair();
+  const [client, webSocket] = Object.values(webSocketPair);
+  webSocket.accept();
+  let address = "";
+  let portWithRandomLog = "";
+  const log = (info, event) => {
+    console.log(`[${address}:${portWithRandomLog}] ${info}`, event || "");
+  };
+  const earlyDataHeader = request.headers.get("sec-websocket-protocol") || "";
+  const readableWebSocketStream = makeReadableWebSocketStream(webSocket, earlyDataHeader, log);
+  let remoteSocketWapper = {
+    value: null
+  };
+  let udpStreamWrite = null;
+  let isDns = false;
+  readableWebSocketStream.pipeTo(
+    new WritableStream({
+      async write(chunk, controller) {
+        if (isDns && udpStreamWrite) {
+          return udpStreamWrite(chunk);
+        }
+        if (remoteSocketWapper.value) {
+          const writer = remoteSocketWapper.value.writable.getWriter();
+          await writer.write(chunk);
+          writer.releaseLock();
+          return;
+        }
+        const {
+          hasError,
+          message: message2,
+          portRemote = 443,
+          addressRemote = "",
+          rawDataIndex,
+          vlessVersion = new Uint8Array([0, 0]),
+          isUDP
+        } = await processVlessHeader(chunk, userID);
+        address = addressRemote;
+        portWithRandomLog = `${portRemote}--${Math.random()} ${isUDP ? "udp " : "tcp "} `;
+        if (hasError) {
+          throw new Error(message2);
+          return;
+        }
+        if (isUDP) {
+          if (portRemote === 53) {
+            isDns = true;
+          } else {
+            throw new Error("UDP proxy only enable for DNS which is port 53");
+            return;
+          }
+        }
+        const vlessResponseHeader = new Uint8Array([vlessVersion[0], 0]);
+        const rawClientData = chunk.slice(rawDataIndex);
+        if (isDns) {
+          const { write } = await handleUDPOutBound(webSocket, vlessResponseHeader, log);
+          udpStreamWrite = write;
+          udpStreamWrite(rawClientData);
+          return;
+        }
+        handleTCPOutBound(
+          request,
+          remoteSocketWapper,
+          addressRemote,
+          portRemote,
+          rawClientData,
+          webSocket,
+          vlessResponseHeader,
+          log
+        );
+      },
+      close() {
+        log(`readableWebSocketStream is close`);
+      },
+      abort(reason) {
+        log(`readableWebSocketStream is abort`, JSON.stringify(reason));
+      }
+    })
+  ).catch((err) => {
+    log("readableWebSocketStream pipeTo error", err);
+  });
+  return new Response(null, {
+    status: 101,
+    // @ts-ignore
+    webSocket: client
+  });
+}
+async function checkUuidInApiResponse(targetUuid) {
+  try {
+    const apiResponse = await getApiResponse();
+    if (!apiResponse) {
+      return false;
+    }
+    const isUuidInResponse = apiResponse.users.some((user) => user.uuid === targetUuid);
+    return isUuidInResponse;
+  } catch (error) {
+    console.error("Error:", error);
+    return false;
+  }
+}
+async function trojanOverWSHandler(request) {
+  const webSocketPair = new WebSocketPair();
+  const [client, webSocket] = Object.values(webSocketPair);
+  webSocket.accept();
+  let address = "";
+  let portWithRandomLog = "";
+  const log = (info, event) => {
+    console.log(`[${address}:${portWithRandomLog}] ${info}`, event || "");
+  };
+  const earlyDataHeader = request.headers.get("sec-websocket-protocol") || "";
+  const readableWebSocketStream = makeReadableWebSocketStream(webSocket, earlyDataHeader, log);
+  let remoteSocketWapper = {
+    value: null
+  };
+  let udpStreamWrite = null;
+  readableWebSocketStream.pipeTo(
+    new WritableStream({
+      async write(chunk, controller) {
+        if (udpStreamWrite) {
+          return udpStreamWrite(chunk);
+        }
+        if (remoteSocketWapper.value) {
+          const writer = remoteSocketWapper.value.writable.getWriter();
+          await writer.write(chunk);
+          writer.releaseLock();
+          return;
+        }
+        const {
+          hasError,
+          message: message2,
+          portRemote = 443,
+          addressRemote = "",
+          rawClientData
+        } = await parseTrojanHeader(chunk);
+        address = addressRemote;
+        portWithRandomLog = `${portRemote}--${Math.random()} tcp`;
+        if (hasError) {
+          throw new Error(message2);
+          return;
+        }
+        handleTCPOutBound(request, remoteSocketWapper, addressRemote, portRemote, rawClientData, webSocket, false, log);
+      },
+      close() {
+        log(`readableWebSocketStream is closed`);
+      },
+      abort(reason) {
+        log(`readableWebSocketStream is aborted`, JSON.stringify(reason));
+      }
+    })
+  ).catch((err) => {
+    log("readableWebSocketStream pipeTo error", err);
+  });
+  return new Response(null, {
+    status: 101,
+    // @ts-ignore
+    webSocket: client
+  });
+}
+async function parseTrojanHeader(buffer) {
+  if (buffer.byteLength < 56) {
+    return {
+      hasError: true,
+      message: "invalid data"
+    };
+  }
+  let crLfIndex = 56;
+  if (new Uint8Array(buffer.slice(56, 57))[0] !== 13 || new Uint8Array(buffer.slice(57, 58))[0] !== 10) {
+    return {
+      hasError: true,
+      message: "invalid header format (missing CR LF)"
+    };
+  }
+  const password = new TextDecoder().decode(buffer.slice(0, crLfIndex));
+  if (password !== hashPassword) {
+    return {
+      hasError: true,
+      message: "invalid password"
+    };
+  }
+  const socks5DataBuffer = buffer.slice(crLfIndex + 2);
+  if (socks5DataBuffer.byteLength < 6) {
+    return {
+      hasError: true,
+      message: "invalid SOCKS5 request data"
+    };
+  }
+  const view = new DataView(socks5DataBuffer);
+  const cmd = view.getUint8(0);
+  if (cmd !== 1) {
+    return {
+      hasError: true,
+      message: "unsupported command, only TCP (CONNECT) is allowed"
+    };
+  }
+  const atype = view.getUint8(1);
+  let addressLength = 0;
+  let addressIndex = 2;
+  let address = "";
+  switch (atype) {
+    case 1:
+      addressLength = 4;
+      address = new Uint8Array(socks5DataBuffer.slice(addressIndex, addressIndex + addressLength)).join(".");
+      break;
+    case 3:
+      addressLength = new Uint8Array(socks5DataBuffer.slice(addressIndex, addressIndex + 1))[0];
+      addressIndex += 1;
+      address = new TextDecoder().decode(socks5DataBuffer.slice(addressIndex, addressIndex + addressLength));
+      break;
+    case 4:
+      addressLength = 16;
+      const dataView = new DataView(socks5DataBuffer.slice(addressIndex, addressIndex + addressLength));
+      const ipv6 = [];
+      for (let i = 0; i < 8; i++) {
+        ipv6.push(dataView.getUint16(i * 2).toString(16));
+      }
+      address = ipv6.join(":");
+      break;
+    default:
+      return {
+        hasError: true,
+        message: `invalid addressType is ${atype}`
+      };
+  }
+  if (!address) {
+    return {
+      hasError: true,
+      message: `address is empty, addressType is ${atype}`
+    };
+  }
+  const portIndex = addressIndex + addressLength;
+  const portBuffer = socks5DataBuffer.slice(portIndex, portIndex + 2);
+  const portRemote = new DataView(portBuffer).getUint16(0);
+  return {
+    hasError: false,
+    addressRemote: address,
+    portRemote,
+    rawClientData: socks5DataBuffer.slice(portIndex + 4)
+  };
+}
+async function handleTCPOutBound(request, remoteSocket, addressRemote, portRemote, rawClientData, webSocket, vlessResponseHeader, log) {
+  async function connectAndWrite(address, port) {
+    if (/^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?).){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/.test(address))
+      address = `${atob("d3d3Lg==")}${address}${atob("LnNzbGlwLmlv")}`;
+    const tcpSocket2 = connect({
+      hostname: address,
+      port
+    });
+    remoteSocket.value = tcpSocket2;
+    log(`connected to ${address}:${port}`);
+    const writer = tcpSocket2.writable.getWriter();
+    await writer.write(rawClientData);
+    writer.releaseLock();
+    return tcpSocket2;
+  }
+  async function retry() {
+    const { pathname } = new URL(request.url);
+    let panelProxyIP = pathname.split("/")[2];
+    panelProxyIP = panelProxyIP ? atob(panelProxyIP) : void 0;
+    const tcpSocket2 = await connectAndWrite(panelProxyIP || proxyIP || addressRemote, portRemote);
+    tcpSocket2.closed.catch((error) => {
+      console.log("retry tcpSocket closed error", error);
+    }).finally(() => {
+      safeCloseWebSocket(webSocket);
+    });
+    vlessResponseHeader ? vlessRemoteSocketToWS(tcpSocket2, webSocket, vlessResponseHeader, null, log) : trojanRemoteSocketToWS(tcpSocket2, webSocket, null, log);
+  }
+  const tcpSocket = await connectAndWrite(addressRemote, portRemote);
+  vlessResponseHeader ? vlessRemoteSocketToWS(tcpSocket, webSocket, vlessResponseHeader, retry, log) : trojanRemoteSocketToWS(tcpSocket, webSocket, retry, log);
+}
+function makeReadableWebSocketStream(webSocketServer, earlyDataHeader, log) {
+  let readableStreamCancel = false;
+  const stream = new ReadableStream({
+    start(controller) {
+      webSocketServer.addEventListener("message", (event) => {
+        if (readableStreamCancel) {
+          return;
+        }
+        const message2 = event.data;
+        controller.enqueue(message2);
+      });
+      webSocketServer.addEventListener("close", () => {
+        safeCloseWebSocket(webSocketServer);
+        if (readableStreamCancel) {
+          return;
+        }
+        controller.close();
+      });
+      webSocketServer.addEventListener("error", (err) => {
+        log("webSocketServer has error");
+        controller.error(err);
+      });
+      const { earlyData, error } = base64ToArrayBuffer(earlyDataHeader);
+      if (error) {
+        controller.error(error);
+      } else if (earlyData) {
+        controller.enqueue(earlyData);
+      }
+    },
+    pull(controller) {
+    },
+    cancel(reason) {
+      if (readableStreamCancel) {
+        return;
+      }
+      log(`ReadableStream was canceled, due to ${reason}`);
+      readableStreamCancel = true;
+      safeCloseWebSocket(webSocketServer);
+    }
+  });
+  return stream;
+}
+async function processVlessHeader(vlessBuffer, userID2) {
+  if (vlessBuffer.byteLength < 24) {
+    return {
+      hasError: true,
+      message: "invalid data"
+    };
+  }
+  const version = new Uint8Array(vlessBuffer.slice(0, 1));
+  let isValidUser = false;
+  let isUDP = false;
+  const slicedBuffer = new Uint8Array(vlessBuffer.slice(1, 17));
+  const slicedBufferString = stringify(slicedBuffer);
+  const uuids = userID2.includes(",") ? userID2.split(",") : [userID2];
+  const checkUuidInApi = await checkUuidInApiResponse(slicedBufferString);
+  isValidUser = uuids.some((userUuid) => checkUuidInApi || slicedBufferString === userUuid.trim());
+  console.log(`checkUuidInApi: ${await checkUuidInApiResponse(slicedBufferString)}, userID: ${slicedBufferString}`);
+  if (!isValidUser) {
+    return {
+      hasError: true,
+      message: "invalid user"
+    };
+  }
+  const optLength = new Uint8Array(vlessBuffer.slice(17, 18))[0];
+  const command = new Uint8Array(vlessBuffer.slice(18 + optLength, 18 + optLength + 1))[0];
+  if (command === 1) {
+  } else if (command === 2) {
+    isUDP = true;
+  } else {
+    return {
+      hasError: true,
+      message: `command ${command} is not support, command 01-tcp,02-udp,03-mux`
+    };
+  }
+  const portIndex = 18 + optLength + 1;
+  const portBuffer = vlessBuffer.slice(portIndex, portIndex + 2);
+  const portRemote = new DataView(portBuffer).getUint16(0);
+  let addressIndex = portIndex + 2;
+  const addressBuffer = new Uint8Array(vlessBuffer.slice(addressIndex, addressIndex + 1));
+  const addressType = addressBuffer[0];
+  let addressLength = 0;
+  let addressValueIndex = addressIndex + 1;
+  let addressValue = "";
+  switch (addressType) {
+    case 1:
+      addressLength = 4;
+      addressValue = new Uint8Array(vlessBuffer.slice(addressValueIndex, addressValueIndex + addressLength)).join(".");
+      break;
+    case 2:
+      addressLength = new Uint8Array(vlessBuffer.slice(addressValueIndex, addressValueIndex + 1))[0];
+      addressValueIndex += 1;
+      addressValue = new TextDecoder().decode(vlessBuffer.slice(addressValueIndex, addressValueIndex + addressLength));
+      break;
+    case 3:
+      addressLength = 16;
+      const dataView = new DataView(vlessBuffer.slice(addressValueIndex, addressValueIndex + addressLength));
+      const ipv6 = [];
+      for (let i = 0; i < 8; i++) {
+        ipv6.push(dataView.getUint16(i * 2).toString(16));
+      }
+      addressValue = ipv6.join(":");
+      break;
+    default:
+      return {
+        hasError: true,
+        message: `invild  addressType is ${addressType}`
+      };
+  }
+  if (!addressValue) {
+    return {
+      hasError: true,
+      message: `addressValue is empty, addressType is ${addressType}`
+    };
+  }
+  return {
+    hasError: false,
+    addressRemote: addressValue,
+    addressType,
+    portRemote,
+    rawDataIndex: addressValueIndex + addressLength,
+    vlessVersion: version,
+    isUDP
+  };
+}
+async function vlessRemoteSocketToWS(remoteSocket, webSocket, vlessResponseHeader, retry, log) {
+  let remoteChunkCount = 0;
+  let chunks = [];
+  let vlessHeader = vlessResponseHeader;
+  let hasIncomingData = false;
+  await remoteSocket.readable.pipeTo(
+    new WritableStream({
+      start() {
+      },
+      /**
+       *
+       * @param {Uint8Array} chunk
+       * @param {*} controller
+       */
+      async write(chunk, controller) {
+        hasIncomingData = true;
+        if (webSocket.readyState !== WS_READY_STATE_OPEN) {
+          controller.error("webSocket.readyState is not open, maybe close");
+        }
+        if (vlessHeader) {
+          webSocket.send(await new Blob([vlessHeader, chunk]).arrayBuffer());
+          vlessHeader = null;
+        } else {
+          webSocket.send(chunk);
+        }
+      },
+      close() {
+        log(`remoteConnection!.readable is close with hasIncomingData is ${hasIncomingData}`);
+      },
+      abort(reason) {
+        console.error(`remoteConnection!.readable abort`, reason);
+      }
+    })
+  ).catch((error) => {
+    console.error(`vlessRemoteSocketToWS has exception `, error.stack || error);
+    safeCloseWebSocket(webSocket);
+  });
+  if (hasIncomingData === false && retry) {
+    log(`retry`);
+    retry();
+  }
+}
+async function trojanRemoteSocketToWS(remoteSocket, webSocket, retry, log) {
+  let hasIncomingData = false;
+  await remoteSocket.readable.pipeTo(
+    new WritableStream({
+      start() {
+      },
+      /**
+       *
+       * @param {Uint8Array} chunk
+       * @param {*} controller
+       */
+      async write(chunk, controller) {
+        hasIncomingData = true;
+        if (webSocket.readyState !== WS_READY_STATE_OPEN) {
+          controller.error("webSocket connection is not open");
+        }
+        webSocket.send(chunk);
+      },
+      close() {
+        log(`remoteSocket.readable is closed, hasIncomingData: ${hasIncomingData}`);
+      },
+      abort(reason) {
+        console.error("remoteSocket.readable abort", reason);
+      }
+    })
+  ).catch((error) => {
+    console.error(`trojanRemoteSocketToWS error:`, error.stack || error);
+    safeCloseWebSocket(webSocket);
+  });
+  if (hasIncomingData === false && retry) {
+    log(`retry`);
+    retry();
+  }
+}
+function base64ToArrayBuffer(base64Str) {
+  if (!base64Str) {
+    return { earlyData: null, error: null };
+  }
+  try {
+    base64Str = base64Str.replace(/-/g, "+").replace(/_/g, "/");
+    const decode2 = atob(base64Str);
+    const arryBuffer = Uint8Array.from(decode2, (c) => c.charCodeAt(0));
+    return { earlyData: arryBuffer.buffer, error: null };
+  } catch (error) {
+    return { earlyData: null, error };
+  }
+}
+function isValidUUID(uuid) {
+  const uuidRegex = /^[0-9a-f]{8}-[0-9a-f]{4}-[4][0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+  return uuidRegex.test(uuid);
+}
+var WS_READY_STATE_OPEN = 1;
+var WS_READY_STATE_CLOSING = 2;
+function safeCloseWebSocket(socket) {
+  try {
+    if (socket.readyState === WS_READY_STATE_OPEN || socket.readyState === WS_READY_STATE_CLOSING) {
+      socket.close();
+    }
+  } catch (error) {
+    console.error("safeCloseWebSocket error", error);
+  }
+}
+var byteToHex = [];
+for (let i = 0; i < 256; ++i) {
+  byteToHex.push((i + 256).toString(16).slice(1));
+}
+function unsafeStringify(arr, offset = 0) {
+  return (byteToHex[arr[offset + 0]] + byteToHex[arr[offset + 1]] + byteToHex[arr[offset + 2]] + byteToHex[arr[offset + 3]] + "-" + byteToHex[arr[offset + 4]] + byteToHex[arr[offset + 5]] + "-" + byteToHex[arr[offset + 6]] + byteToHex[arr[offset + 7]] + "-" + byteToHex[arr[offset + 8]] + byteToHex[arr[offset + 9]] + "-" + byteToHex[arr[offset + 10]] + byteToHex[arr[offset + 11]] + byteToHex[arr[offset + 12]] + byteToHex[arr[offset + 13]] + byteToHex[arr[offset + 14]] + byteToHex[arr[offset + 15]]).toLowerCase();
+}
+function stringify(arr, offset = 0) {
+  const uuid = unsafeStringify(arr, offset);
+  if (!isValidUUID(uuid)) {
+    throw TypeError("Stringified UUID is invalid");
+  }
+  return uuid;
+}
+async function handleUDPOutBound(webSocket, vlessResponseHeader, log) {
+  let isVlessHeaderSent = false;
+  const transformStream = new TransformStream({
+    start(controller) {
+    },
+    transform(chunk, controller) {
+      for (let index = 0; index < chunk.byteLength; ) {
+        const lengthBuffer = chunk.slice(index, index + 2);
+        const udpPakcetLength = new DataView(lengthBuffer).getUint16(0);
+        const udpData = new Uint8Array(chunk.slice(index + 2, index + 2 + udpPakcetLength));
+        index = index + 2 + udpPakcetLength;
+        controller.enqueue(udpData);
+      }
+    },
+    flush(controller) {
+    }
+  });
+  transformStream.readable.pipeTo(
+    new WritableStream({
+      async write(chunk) {
+        const resp = await fetch(
+          dohURL,
+          // dns server url
+          {
+            method: "POST",
+            headers: {
+              "content-type": "application/dns-message"
+            },
+            body: chunk
+          }
+        );
+        const dnsQueryResult = await resp.arrayBuffer();
+        const udpSize = dnsQueryResult.byteLength;
+        const udpSizeBuffer = new Uint8Array([udpSize >> 8 & 255, udpSize & 255]);
+        if (webSocket.readyState === WS_READY_STATE_OPEN) {
+          log(`doh success and dns message length is ${udpSize}`);
+          if (isVlessHeaderSent) {
+            webSocket.send(await new Blob([udpSizeBuffer, dnsQueryResult]).arrayBuffer());
+          } else {
+            webSocket.send(await new Blob([vlessResponseHeader, udpSizeBuffer, dnsQueryResult]).arrayBuffer());
+            isVlessHeaderSent = true;
+          }
+        }
+      }
+    })
+  ).catch((error) => {
+    log("dns udp has error" + error);
+  });
+  const writer = transformStream.writable.getWriter();
+  return {
+    /**
+     *
+     * @param {Uint8Array} chunk
+    */
+    write(chunk) {
+      writer.write(chunk);
+    }
+  };
+}
+var generateKeyPair = () => {
+  const base64Encode = (array) => btoa(String.fromCharCode.apply(null, array));
+  let privateKey = import_tweetnacl.default.randomBytes(32);
+  privateKey[0] &= 248;
+  privateKey[31] &= 127;
+  privateKey[31] |= 64;
+  let publicKey = import_tweetnacl.default.scalarMult.base(privateKey);
+  const publicKeyBase64 = base64Encode(publicKey);
+  const privateKeyBase64 = base64Encode(privateKey);
+  return { publicKey: publicKeyBase64, privateKey: privateKeyBase64 };
+};
+function generateRemark(index, port, address, cleanIPs, protocol, configType) {
+  let remark = "";
+  let addressType;
+  const type = configType ? ` ${configType}` : "";
+  cleanIPs.includes(address) ? addressType = "Clean IP" : addressType = isDomain(address) ? "Domain" : isIPv4(address) ? "IPv4" : isIPv6(address) ? "IPv6" : "";
+  return `\u{1F4A6} ${index} - ${protocol}${type} - ${addressType} : ${port}`;
+}
+function isDomain(address) {
+  const domainPattern = /^(?!\-)(?:[A-Za-z0-9\-]{1,63}\.?)+[A-Za-z]{2,}$/;
+  return domainPattern.test(address);
+}
+function isIPv4(address) {
+  const ipv4Pattern = /^(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)$/;
+  return ipv4Pattern.test(address);
+}
+function isIPv6(address) {
+  const ipv6Pattern = /^\[(?:(?:[a-fA-F0-9]{1,4}:){7}[a-fA-F0-9]{1,4}|(?:[a-fA-F0-9]{1,4}:){1,7}:|::(?:[a-fA-F0-9]{1,4}:){0,7}|(?:[a-fA-F0-9]{1,4}:){1,6}:[a-fA-F0-9]{1,4}|(?:[a-fA-F0-9]{1,4}:){1,5}(?::[a-fA-F0-9]{1,4}){1,2}|(?:[a-fA-F0-9]{1,4}:){1,4}(?::[a-fA-F0-9]{1,4}){1,3}|(?:[a-fA-F0-9]{1,4}:){1,3}(?::[a-fA-F0-9]{1,4}){1,4}|(?:[a-fA-F0-9]{1,4}:){1,2}(?::[a-fA-F0-9]{1,4}){1,5}|[a-fA-F0-9]{1,4}:(?::[a-fA-F0-9]{1,4}){1,6})\]$/;
+  return ipv6Pattern.test(address);
+}
+function base64ToDecimal(base64) {
+  const binaryString = atob(base64);
+  const hexString = Array.from(binaryString).map((char) => char.charCodeAt(0).toString(16).padStart(2, "0")).join("");
+  const decimalArray = hexString.match(/.{2}/g).map((hex) => parseInt(hex, 16));
+  return decimalArray;
+}
+async function getDataset(env) {
+  let proxySettings, warpConfigs;
+  if (typeof env.bpb !== "object") {
+    return { kvNotFound: true, proxySettings: null, warpConfigs: null };
+  }
+  try {
+    proxySettings = await env.bpb.get("proxySettings", { type: "json" });
+    warpConfigs = await env.bpb.get("warpConfigs", { type: "json" });
+  } catch (error) {
+    console.log(error);
+    throw new Error(`An error occurred while getting KV - ${error}`);
+  }
+  if (!proxySettings) {
+    proxySettings = await updateDataset(env);
+    const { error, configs } = await fetchWgConfig(env, proxySettings);
+    if (error)
+      throw new Error(`An error occurred while getting Warp configs - ${error}`);
+    warpConfigs = configs;
+  }
+  if (panelVersion !== proxySettings.panelVersion)
+    proxySettings = await updateDataset(env);
+  return { kvNotFound: false, proxySettings, warpConfigs };
+}
+async function updateDataset(env, newSettings, resetSettings) {
+  let currentSettings;
+  if (!resetSettings) {
+    try {
+      currentSettings = await env.bpb.get("proxySettings", { type: "json" });
+    } catch (error) {
+      console.log(error);
+      throw new Error(`An error occurred while getting current KV settings - ${error}`);
+    }
+  } else {
+    await env.bpb.delete("warpConfigs");
+  }
+  const validateField = (field) => {
+    const fieldValue = newSettings?.get(field);
+    if (fieldValue === void 0)
+      return null;
+    if (fieldValue === "true")
+      return true;
+    if (fieldValue === "false")
+      return false;
+    return fieldValue;
+  };
+  const remoteDNS = validateField("remoteDNS") ?? currentSettings?.remoteDNS ?? "https://8.8.8.8/dns-query";
+  const url = new URL(remoteDNS);
+  const remoteDNSServer = url.hostname;
+  const isServerDomain = isDomain(remoteDNSServer);
+  let resolvedRemoteDNS;
+  if (isServerDomain) {
+    try {
+      const resolvedDomain = await resolveDNS(remoteDNSServer);
+      resolvedRemoteDNS = {
+        server: remoteDNSServer,
+        staticIPs: [...resolvedDomain.ipv4, ...resolvedDomain.ipv6]
+      };
+    } catch (error) {
+      console.log(error);
+      throw new Error(`An error occurred while resolving remote DNS server, please try agian! - ${error}`);
+    }
+  }
+  const proxySettings = {
+    remoteDNS,
+    resolvedRemoteDNS: resolvedRemoteDNS ?? {},
+    localDNS: validateField("localDNS") ?? currentSettings?.localDNS ?? "8.8.8.8",
+    vlessTrojanFakeDNS: validateField("vlessTrojanFakeDNS") ?? currentSettings?.vlessTrojanFakeDNS ?? false,
+    proxyIP: validateField("proxyIP")?.trim() ?? currentSettings?.proxyIP ?? "",
+    outProxy: validateField("outProxy") ?? currentSettings?.outProxy ?? "",
+    outProxyParams: extractChainProxyParams(validateField("outProxy")) ?? currentSettings?.outProxyParams ?? "",
+    cleanIPs: validateField("cleanIPs")?.replaceAll(" ", "") ?? currentSettings?.cleanIPs ?? "",
+    enableIPv6: validateField("enableIPv6") ?? currentSettings?.enableIPv6 ?? true,
+    customCdnAddrs: validateField("customCdnAddrs")?.replaceAll(" ", "") ?? currentSettings?.customCdnAddrs ?? "",
+    customCdnHost: validateField("customCdnHost")?.trim() ?? currentSettings?.customCdnHost ?? "",
+    customCdnSni: validateField("customCdnSni")?.trim() ?? currentSettings?.customCdnSni ?? "",
+    bestVLESSTrojanInterval: validateField("bestVLESSTrojanInterval") ?? currentSettings?.bestVLESSTrojanInterval ?? "30",
+    vlessConfigs: validateField("vlessConfigs") ?? currentSettings?.vlessConfigs ?? true,
+    trojanConfigs: validateField("trojanConfigs") ?? currentSettings?.trojanConfigs ?? false,
+    ports: validateField("ports")?.split(",") ?? currentSettings?.ports ?? ["443"],
+    lengthMin: validateField("fragmentLengthMin") ?? currentSettings?.lengthMin ?? "100",
+    lengthMax: validateField("fragmentLengthMax") ?? currentSettings?.lengthMax ?? "200",
+    intervalMin: validateField("fragmentIntervalMin") ?? currentSettings?.intervalMin ?? "1",
+    intervalMax: validateField("fragmentIntervalMax") ?? currentSettings?.intervalMax ?? "1",
+    fragmentPackets: validateField("fragmentPackets") ?? currentSettings?.fragmentPackets ?? "tlshello",
+    bypassLAN: validateField("bypass-lan") ?? currentSettings?.bypassLAN ?? false,
+    bypassIran: validateField("bypass-iran") ?? currentSettings?.bypassIran ?? false,
+    bypassChina: validateField("bypass-china") ?? currentSettings?.bypassChina ?? false,
+    bypassRussia: validateField("bypass-russia") ?? currentSettings?.bypassRussia ?? false,
+    blockAds: validateField("block-ads") ?? currentSettings?.blockAds ?? false,
+    blockPorn: validateField("block-porn") ?? currentSettings?.blockPorn ?? false,
+    blockUDP443: validateField("block-udp-443") ?? currentSettings?.blockUDP443 ?? false,
+    warpEndpoints: validateField("warpEndpoints")?.replaceAll(" ", "") ?? currentSettings?.warpEndpoints ?? "engage.cloudflareclient.com:2408",
+    warpFakeDNS: validateField("warpFakeDNS") ?? currentSettings?.warpFakeDNS ?? false,
+    warpPlusLicense: validateField("warpPlusLicense") ?? currentSettings?.warpPlusLicense ?? "",
+    bestWarpInterval: validateField("bestWarpInterval") ?? currentSettings?.bestWarpInterval ?? "30",
+    hiddifyNoiseMode: validateField("hiddifyNoiseMode") ?? currentSettings?.hiddifyNoiseMode ?? "m4",
+    nikaNGNoiseMode: validateField("nikaNGNoiseMode") ?? currentSettings?.nikaNGNoiseMode ?? "quic",
+    noiseCountMin: validateField("noiseCountMin") ?? currentSettings?.noiseCountMin ?? "10",
+    noiseCountMax: validateField("noiseCountMax") ?? currentSettings?.noiseCountMax ?? "15",
+    noiseSizeMin: validateField("noiseSizeMin") ?? currentSettings?.noiseSizeMin ?? "5",
+    noiseSizeMax: validateField("noiseSizeMax") ?? currentSettings?.noiseSizeMax ?? "10",
+    noiseDelayMin: validateField("noiseDelayMin") ?? currentSettings?.noiseDelayMin ?? "1",
+    noiseDelayMax: validateField("noiseDelayMax") ?? currentSettings?.noiseDelayMax ?? "1",
+    panelVersion
+  };
+  try {
+    await env.bpb.put("proxySettings", JSON.stringify(proxySettings));
+  } catch (error) {
+    console.log(error);
+    throw new Error(`An error occurred while updating KV - ${error}`);
+  }
+  return proxySettings;
+}
+function randomUpperCase(str) {
+  let result = "";
+  for (let i = 0; i < str.length; i++) {
+    result += Math.random() < 0.5 ? str[i].toUpperCase() : str[i];
+  }
+  return result;
+}
+function getRandomPath(length) {
+  let result = "";
+  const characters = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+  const charactersLength = characters.length;
+  for (let i = 0; i < length; i++) {
+    result += characters.charAt(Math.floor(Math.random() * charactersLength));
+  }
+  return result;
+}
+async function resolveDNS(domain) {
+  const dohURLv4 = `${dohURL}?name=${encodeURIComponent(domain)}&type=A`;
+  const dohURLv6 = `${dohURL}?name=${encodeURIComponent(domain)}&type=AAAA`;
+  try {
+    const [ipv4Response, ipv6Response] = await Promise.all([
+      fetch(dohURLv4, { headers: { accept: "application/dns-json" } }),
+      fetch(dohURLv6, { headers: { accept: "application/dns-json" } })
+    ]);
+    const ipv4Addresses = await ipv4Response.json();
+    const ipv6Addresses = await ipv6Response.json();
+    const ipv4 = ipv4Addresses.Answer ? ipv4Addresses.Answer.map((record) => record.data) : [];
+    const ipv6 = ipv6Addresses.Answer ? ipv6Addresses.Answer.map((record) => record.data) : [];
+    return { ipv4, ipv6 };
+  } catch (error) {
+    console.error("Error resolving DNS:", error);
+    throw new Error(`An error occurred while resolving DNS - ${error}`);
+  }
+}
+async function getConfigAddresses(hostName, cleanIPs, enableIPv6) {
+  const resolved = await resolveDNS(hostName);
+  const defaultIPv6 = enableIPv6 ? resolved.ipv6.map((ip) => `[${ip}]`) : [];
+  return [
+    hostName,
+    "www.speedtest.net",
+    ...resolved.ipv4,
+    ...defaultIPv6,
+    ...cleanIPs ? cleanIPs.split(",") : []
+  ];
+}
+async function generateJWTToken(secretKey) {
+  const secret = new TextEncoder().encode(secretKey);
+  return await new SignJWT({ userID }).setProtectedHeader({ alg: "HS256" }).setIssuedAt().setExpirationTime("24h").sign(secret);
+}
+function generateSecretKey() {
+  const key = import_tweetnacl.default.randomBytes(32);
+  return Array.from(key, (byte) => byte.toString(16).padStart(2, "0")).join("");
+}
+async function Authenticate(request, env) {
+  try {
+    const secretKey = await env.bpb.get("secretKey");
+    const secret = new TextEncoder().encode(secretKey);
+    const cookie = request.headers.get("Cookie")?.match(/(^|;\s*)jwtToken=([^;]*)/);
+    const token = cookie ? cookie[2] : null;
+    if (!token) {
+      console.log("Unauthorized: Token not available!");
+      return false;
+    }
+    const { payload } = await jwtVerify(token, secret);
+    console.log(`Successfully logined, User ID: ${payload.userID}`);
+    return true;
+  } catch (error) {
+    console.log(error);
+    return false;
+  }
+}
+function renderHomePage(proxySettings, hostName, isPassSet) {
+  const {
+    remoteDNS,
+    localDNS,
+    vlessTrojanFakeDNS,
+    proxyIP: proxyIP2,
+    outProxy,
+    cleanIPs,
+    enableIPv6,
+    customCdnAddrs,
+    customCdnHost,
+    customCdnSni,
+    bestVLESSTrojanInterval,
+    vlessConfigs,
+    trojanConfigs,
+    ports,
+    lengthMin,
+    lengthMax,
+    intervalMin,
+    intervalMax,
+    fragmentPackets,
+    warpEndpoints,
+    warpFakeDNS,
+    warpPlusLicense,
+    bestWarpInterval,
+    hiddifyNoiseMode,
+    nikaNGNoiseMode,
+    noiseCountMin,
+    noiseCountMax,
+    noiseSizeMin,
+    noiseSizeMax,
+    noiseDelayMin,
+    noiseDelayMax,
+    bypassLAN,
+    bypassIran,
+    bypassChina,
+    bypassRussia,
+    blockAds,
+    blockPorn,
+    blockUDP443
+  } = proxySettings;
+  const isWarpPlus = warpPlusLicense ? true : false;
+  let activeProtocols = (vlessConfigs ? 1 : 0) + (trojanConfigs ? 1 : 0);
+  let httpPortsBlock = "", httpsPortsBlock = "";
+  const allPorts = [...hostName.includes("workers.dev") ? defaultHttpPorts : [], ...defaultHttpsPorts];
+  allPorts.forEach((port) => {
+    let id = `port-${port}`;
+    const isChecked = ports.includes(port) ? "checked" : "";
+    let portBlock = `
+            <div class="routing" style="grid-template-columns: 1fr 2fr; margin-right: 10px;">
+                <input type="checkbox" id=${id} name=${port} onchange="handlePortChange(event)" value="true" ${isChecked}>
+                <label style="margin-bottom: 3px;" for=${id}>${port}</label>
+            </div>`;
+    defaultHttpsPorts.includes(port) ? httpsPortsBlock += portBlock : httpPortsBlock += portBlock;
+  });
+  const html = `
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>BPB Panel ${panelVersion}</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+        <title>Collapsible Sections</title>
+        <style>
+            :root {
+                --color: black;
+                --primary-color: #09639f;
+                --secondary-color: #3498db;
+                --header-color: #09639f; 
+                --background-color: #fff;
+                --form-background-color: #f9f9f9;
+                --table-active-color: #f2f2f2;
+                --hr-text-color: #3b3b3b;
+                --lable-text-color: #333;
+                --border-color: #ddd;
+                --button-color: #09639f;
+                --input-background-color: white;
+                --header-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+            }
+            body { font-family: system-ui; background-color: var(--background-color); color: var(--color) }
+            body.dark-mode {
+                --color: white;
+                --primary-color: #09639F;
+                --secondary-color: #3498DB;
+                --header-color: #3498DB; 
+                --background-color: #121212;
+                --form-background-color: #121212;
+                --table-active-color: #252525;
+                --hr-text-color: #D5D5D5;
+                --lable-text-color: #DFDFDF;
+                --border-color: #353535;
+                --button-color: #3498DB;
+                --input-background-color: #252525;
+                --header-shadow: 2px 2px 4px rgba(255, 255, 255, 0.25);
+            }
+            .material-symbols-outlined {
+                margin-left: 5px;
+                font-variation-settings:
+                'FILL' 0,
+                'wght' 400,
+                'GRAD' 0,
+                'opsz' 24
+            }
+            details { border-bottom: 1px solid var(--border-color); }
+            summary {
+                font-weight: bold;
+                cursor: pointer;
+                text-align: center;
+                text-wrap: nowrap;
+            }
+            summary::marker { font-size: 1.5rem; color: var(--secondary-color); }
+            summary h2 { display: inline-flex; }
+            h1 { font-size: 2.5em; text-align: center; color: var(--header-color); text-shadow: var(--header-shadow); }
+            h2 { margin: 30px 0; text-align: center; color: var(--hr-text-color); }
+            hr { border: 1px solid var(--border-color); margin: 20px 0; }
+            .footer {
+                display: flex;
+                font-weight: 600;
+                margin: 10px auto 0 auto;
+                justify-content: center;
+                align-items: center;
+            }
+            .footer button {margin: 0 20px; background: #212121; max-width: fit-content;}
+            .footer button:hover, .footer button:focus { background: #3b3b3b;}
+            .form-control a, a.link { text-decoration: none; }
+            .form-control {
+                margin-bottom: 20px;
+                font-family: Arial, sans-serif;
+                display: flex;
+                flex-direction: column;
+            }
+            .form-control button {
+                background-color: var(--form-background-color);
+                font-size: 1.1rem;
+                font-weight: 600;
+                color: var(--button-color);
+                border-color: var(--primary-color);
+                border: 1px solid;
+            }
+            #apply {display: block; margin-top: 20px;}
+            input.button {font-weight: 600; padding: 15px 0; font-size: 1.1rem;}
+            label {
+                display: block;
+                margin-bottom: 5px;
+                font-size: 110%;
+                font-weight: 600;
+                color: var(--lable-text-color);
+            }
+            input[type="text"],
+            input[type="number"],
+            input[type="url"],
+            textarea,
+            select {
+                width: 100%;
+                text-align: center;
+                padding: 10px;
+                border: 1px solid var(--border-color);
+                border-radius: 5px;
+                font-size: 16px;
+                color: var(--lable-text-color);
+                background-color: var(--input-background-color);
+                box-sizing: border-box;
+                transition: border-color 0.3s ease;
+            }	
+            input[type="text"]:focus,
+            input[type="number"]:focus,
+            input[type="url"]:focus,
+            textarea:focus,
+            select:focus { border-color: var(--secondary-color); outline: none; }
+            .button,
+            table button {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                width: 100%;
+                white-space: nowrap;
+                padding: 10px 15px;
+                font-size: 16px;
+                font-weight: 600;
+                letter-spacing: 1px;
+                border: none;
+                border-radius: 5px;
+                color: white;
+                background-color: var(--primary-color);
+                cursor: pointer;
+                outline: none;
+                box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+                transition: all 0.3s ease;
+            }
+            input[type="checkbox"] { 
+                background-color: var(--input-background-color);
+                style="margin: 0; 
+                grid-column: 2;"
+            }
+            table button { margin: auto; width: auto; }
+            .button.disabled {
+                background-color: #ccc;
+                cursor: not-allowed;
+                box-shadow: none;
+                pointer-events: none;
+            }
+            .button:hover,
+            table button:hover,
+            table button:focus {
+                background-color: #2980b9;
+                box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+                transform: translateY(-2px);
+            }
+            button.button:hover { color: white; }
+            .button:active,
+            table button:active { transform: translateY(1px); box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3); }
+            .form-container {
+                max-width: 90%;
+                margin: 0 auto;
+                padding: 20px;
+                background: var(--form-background-color);
+                border: 1px solid var(--border-color);
+                border-radius: 10px;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+                margin-bottom: 100px;
+            }
+            .table-container { margin-top: 20px; overflow-x: auto; }
+            table { 
+                width: 100%;
+                border: 1px solid var(--border-color);
+                border-collapse: separate;
+                border-spacing: 0; 
+                border-radius: 10px;
+                margin-bottom: 20px;
+                overflow: hidden;
+            }
+            th, td { padding: 10px; border-bottom: 1px solid var(--border-color); }
+            td div { display: flex; align-items: center; }
+            th { background-color: var(--secondary-color); color: white; font-weight: bold; font-size: 1.1rem; width: 50%;}
+            td:last-child { background-color: var(--table-active-color); }               
+            tr:hover { background-color: var(--table-active-color); }
+            .modal {
+                display: none;
+                position: fixed;
+                z-index: 1;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                overflow: auto;
+                background-color: rgba(0, 0, 0, 0.4);
+            }
+            .modal-content {
+                background-color: var(--form-background-color);
+                margin: auto;
+                padding: 10px 20px 20px;
+                border: 1px solid var(--border-color);
+                border-radius: 10px;
+                box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+                width: 80%;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+            }
+            .close { color: var(--color); float: right; font-size: 28px; font-weight: bold; }
+            .close:hover,
+            .close:focus { color: black; text-decoration: none; cursor: pointer; }
+            .form-control label {
+                display: block;
+                margin-bottom: 8px;
+                font-size: 110%;
+                font-weight: 600;
+                color: var(--lable-text-color);
+                line-height: 1.3em;
+            }
+            .form-control input[type="password"] {
+                width: 100%;
+                padding: 10px;
+                border: 1px solid var(--border-color);
+                border-radius: 5px;
+                font-size: 16px;
+                color: var(--lable-text-color);
+                background-color: var(--input-background-color);
+                box-sizing: border-box;
+                margin-bottom: 15px;
+                transition: border-color 0.3s ease;
+            }
+            .routing { 
+                display: grid;
+                justify-content: flex-start;
+                grid-template-columns: 1fr 1fr 10fr 1fr;
+                margin-bottom: 15px;
+            }
+            .form-control .routing input { grid-column: 2 / 3; }
+            #routing-rules.form-control { display: grid; grid-template-columns: 1fr 1fr; }
+            .routing label {
+                text-align: left;
+                margin: 0 0 0 10px;
+                font-weight: 400;
+                font-size: 100%;
+                text-wrap: nowrap;
+            }
+            .form-control input[type="password"]:focus { border-color: var(--secondary-color); outline: none; }
+            #passwordError { color: red; margin-bottom: 10px; }
+            .symbol { margin-right: 8px; }
+            .modalQR {
+                display: none;
+                position: fixed;
+                z-index: 1;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                overflow: auto;
+                background-color: rgba(0, 0, 0, 0.4);
+            }
+            .floating-button {
+                position: fixed;
+                bottom: 20px;
+                left: 20px;
+                background-color: var(--color);
+                color: white;
+                border: none;
+                border-radius: 50%;
+                width: 60px;
+                height: 60px;
+                font-size: 24px;
+                cursor: pointer;
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+                transition: background-color 0.3s, transform 0.3s;
+            }
+            .floating-button:hover { transform: scale(1.1); }
+            .min-max { display: grid; grid-template-columns: 1fr auto 1fr; align-items: baseline; width: 100%; }
+            .min-max span { text-align: center; white-space: pre; }
+            .input-with-select { width: 100%; }
+            body.dark-mode .floating-button { background-color: var(--color); }
+            body.dark-mode .floating-button:hover { transform: scale(1.1); }
+            @media only screen and (min-width: 768px) {
+                .form-container { max-width: 70%; }
+                .form-control { 
+                    margin-bottom: 15px;
+                    display: grid;
+                    grid-template-columns: 1fr 1fr;
+                    align-items: baseline;
+                    justify-content: flex-end;
+                    font-family: Arial, sans-serif;
+                }
+                #apply { display: block; margin: 20px auto 0 auto; max-width: 50%; }
+                .modal-content { width: 30% }
+                .routing { display: grid; grid-template-columns: 4fr 1fr 3fr 4fr; }
+            }
+        </style>
+    </head>
+    <body>
+        <h1>BPB Panel <span style="font-size: smaller;">${panelVersion}</span> \u{1F4A6}</h1>
+        <div class="form-container">
+            <form id="configForm">
+                <details open>
+                    <summary><h2>VLESS / TROJAN \u2699\uFE0F</h2></summary>
+                    <div class="form-control">
+                        <label for="remoteDNS">\u{1F30F} Remote DNS</label>
+                        <input type="url" id="remoteDNS" name="remoteDNS" value="${remoteDNS}" required>
+                    </div>
+                    <div class="form-control">
+                        <label for="localDNS">\u{1F3DA}\uFE0F Local DNS</label>
+                        <input type="text" id="localDNS" name="localDNS" value="${localDNS}"
+                            pattern="^(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)|localhost$"
+                            title="Please enter a valid DNS IP Address or localhost!"  required>
+                    </div>
+                    <div class="form-control">
+                        <label for="vlessTrojanFakeDNS">\u{1F9E2} Fake DNS</label>
+                        <div class="input-with-select">
+                            <select id="vlessTrojanFakeDNS" name="vlessTrojanFakeDNS">
+                                <option value="true" ${vlessTrojanFakeDNS ? "selected" : ""}>Enabled</option>
+                                <option value="false" ${!vlessTrojanFakeDNS ? "selected" : ""}>Disabled</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-control">
+                        <label for="proxyIP">\u{1F4CD} Proxy IP</label>
+                        <input type="text" id="proxyIP" name="proxyIP" value="${proxyIP2}">
+                    </div>
+                    <div class="form-control">
+                        <label for="outProxy">\u2708\uFE0F Chain Proxy</label>
+                        <input type="text" id="outProxy" name="outProxy" value="${outProxy}">
+                    </div>
+                    <div class="form-control">
+                        <label for="cleanIPs">\u2728 Clean IPs</label>
+                        <input type="text" id="cleanIPs" name="cleanIPs" value="${cleanIPs.replaceAll(",", " , ")}">
+                    </div>
+                    <div class="form-control">
+                        <label>\u{1F50E} IP Scanner</label>
+                        <a href="https://scanner.github1.cloud/" id="scanner" name="scanner" target="_blank" style="width: 100%;">
+                            <button type="button" class="button">
+                                Scan now
+                                <span class="material-symbols-outlined">open_in_new</span>
+                            </button>
+                        </a>
+                    </div>
+                    <div class="form-control">
+                        <label for="enableIPv6">\u{1F51B} IPv6 Configs</label>
+                        <div class="input-with-select">
+                            <select id="enableIPv6" name="enableIPv6">
+                                <option value="true" ${enableIPv6 ? "selected" : ""}>Enabled</option>
+                                <option value="false" ${!enableIPv6 ? "selected" : ""}>Disabled</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-control">
+                        <label for="customCdnAddrs">\u{1F480} Custom CDN Addrs</label>
+                        <input type="text" id="customCdnAddrs" name="customCdnAddrs" value="${customCdnAddrs.replaceAll(",", " , ")}">
+                    </div>
+                    <div class="form-control">
+                        <label for="customCdnHost">\u{1F480} Custom CDN Host</label> 
+                        <input type="text" id="customCdnHost" name="customCdnHost" value="${customCdnHost}">
+                    </div>
+                    <div class="form-control">
+                        <label for="customCdnSni">\u{1F480} Custom CDN SNI</label>
+                        <input type="text" id="customCdnSni" name="customCdnSni" value="${customCdnSni}">
+                    </div>
+                    <div class="form-control">
+                        <label for="bestVLESSTrojanInterval">\u{1F504} Best Interval</label>
+                        <input type="number" id="bestVLESSTrojanInterval" name="bestVLESSTrojanInterval" min="10" max="90" value="${bestVLESSTrojanInterval}">
+                    </div>
+                    <div class="form-control" style="padding-top: 10px;">
+                        <label>\u2699\uFE0F Protocols</label>
+                        <div style="width: 100%; display: grid; grid-template-columns: 1fr 1fr; align-items: baseline; margin-top: 10px;">
+                            <div style = "display: flex; justify-content: center; align-items: center;">
+                                <input type="checkbox" id="vlessConfigs" name="vlessConfigs" onchange="handleProtocolChange(event)" value="true" ${vlessConfigs ? "checked" : ""}>
+                                <label for="vlessConfigs" style="margin: 0 5px; font-weight: normal; font-size: unset;">VLESS</label>
+                            </div>
+                            <div style = "display: flex; justify-content: center; align-items: center;">
+                                <input type="checkbox" id="trojanConfigs" name="trojanConfigs" onchange="handleProtocolChange(event)" value="true" ${trojanConfigs ? "checked" : ""}>
+                                <label for="trojanConfigs" style="margin: 0 5px; font-weight: normal; font-size: unset;">Trojan</label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="table-container">
+                        <table id="ports-block">
+                            <tr>
+                                <th style="text-wrap: nowrap; background-color: gray;">Config type</th>
+                                <th style="text-wrap: nowrap; background-color: gray;">Ports</th>
+                            </tr>
+                            <tr>
+                                <td style="text-align: center; font-size: larger;"><b>TLS</b></td>
+                                <td>
+                                    <div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr;">${httpsPortsBlock}</div>
+                                </td>    
+                            </tr>
+                            ${!httpPortsBlock ? "" : `<tr>
+                                <td style="text-align: center; font-size: larger;"><b>Non TLS</b></td>
+                                <td>
+                                    <div style="display: grid; grid-template-columns: 1fr 1fr 1fr 1fr;">${httpPortsBlock}</div>
+                                </td>    
+                            </tr>`}        
+                        </table>
+                    </div>
+                </details>
+                <details>
+                    <summary><h2>FRAGMENT \u2699\uFE0F</h2></summary>	
+                    <div class="form-control">
+                        <label for="fragmentLengthMin">\u{1F4D0} Length</label>
+                        <div class="min-max">
+                            <input type="number" id="fragmentLengthMin" name="fragmentLengthMin" value="${lengthMin}" min="10" required>
+                            <span> - </span>
+                            <input type="number" id="fragmentLengthMax" name="fragmentLengthMax" value="${lengthMax}" max="500" required>
+                        </div>
+                    </div>
+                    <div class="form-control">
+                        <label for="fragmentIntervalMin">\u{1F55E} Interval</label>
+                        <div class="min-max">
+                            <input type="number" id="fragmentIntervalMin" name="fragmentIntervalMin"
+                                value="${intervalMin}" min="1" max="30" required>
+                            <span> - </span>
+                            <input type="number" id="fragmentIntervalMax" name="fragmentIntervalMax"
+                                value="${intervalMax}" min="1" max="30" required>
+                        </div>
+                    </div>
+                    <div class="form-control">
+                        <label for="fragmentPackets">\u{1F4E6} Packets</label>
+                        <div class="input-with-select">
+                            <select id="fragmentPackets" name="fragmentPackets">
+                                <option value="tlshello" ${fragmentPackets === "tlshello" ? "selected" : ""}>tlshello</option>
+                                <option value="1-1" ${fragmentPackets === "1-1" ? "selected" : ""}>1-1</option>
+                                <option value="1-2" ${fragmentPackets === "1-2" ? "selected" : ""}>1-2</option>
+                                <option value="1-3" ${fragmentPackets === "1-3" ? "selected" : ""}>1-3</option>
+                                <option value="1-5" ${fragmentPackets === "1-5" ? "selected" : ""}>1-5</option>
+                            </select>
+                        </div>
+                    </div>
+                </details>
+                <details>
+                    <summary><h2>WARP GENERAL \u2699\uFE0F</h2></summary>
+                    <div class="form-control">
+                        <label for="warpEndpoints">\u2728 Endpoints</label>
+                        <input type="text" id="warpEndpoints" name="warpEndpoints" value="${warpEndpoints.replaceAll(",", " , ")}" required>
+                    </div>
+                    <div class="form-control">
+                        <label style="line-height: 1.5;">\u{1F50E} Scan Endpoint</label>
+                        <button type="button" class="button" style="padding: 10px 0;" onclick="copyToClipboard('bash <(curl -fsSL https://raw.githubusercontent.com/Ptechgithub/warp/main/endip/install.sh)', false)">
+                            Copy Script<span class="material-symbols-outlined">terminal</span>
+                        </button>
+                    </div>
+                    <div class="form-control">
+                        <label for="warpFakeDNS">\u{1F9E2} Fake DNS</label>
+                        <div class="input-with-select">
+                            <select id="warpFakeDNS" name="warpFakeDNS">
+                                <option value="true" ${warpFakeDNS ? "selected" : ""}>Enabled</option>
+                                <option value="false" ${!warpFakeDNS ? "selected" : ""}>Disabled</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-control">
+                        <label for="warpPlusLicense">\u2795 Warp+ License</label>
+                        <input type="text" id="warpPlusLicense" name="warpPlusLicense" value="${warpPlusLicense}" 
+                            pattern="^[a-zA-Z0-9]{8}-[a-zA-Z0-9]{8}-[a-zA-Z0-9]{8}$" 
+                            title="Please enter a valid Warp Plus license in xxxxxxxx-xxxxxxxx-xxxxxxxx format">
+                    </div>
+                    <div class="form-control">
+                        <label>\u267B\uFE0F Warp Configs</label>
+                        <button id="refreshBtn" type="button" class="button" style="padding: 10px 0;" onclick="getWarpConfigs()">
+                            Update<span class="material-symbols-outlined">autorenew</span>
+                        </button>
+                    </div>
+                    <div class="form-control">
+                        <label for="bestWarpInterval">\u{1F504} Best Interval</label>
+                        <input type="number" id="bestWarpInterval" name="bestWarpInterval" min="10" max="90" value="${bestWarpInterval}">
+                    </div>
+                </details>
+                <details>
+                    <summary><h2>WARP PRO \u2699\uFE0F</h2></summary>
+                    <div class="form-control">
+                        <label for="hiddifyNoiseMode">\u{1F635}\u200D\u{1F4AB} Hiddify Mode</label>
+                        <input type="text" id="hiddifyNoiseMode" name="hiddifyNoiseMode" 
+                            pattern="^(m[1-6]|h_[0-9A-Fa-f]{2}|g_([0-9A-Fa-f]{2}_){2}[0-9A-Fa-f]{2})$" 
+                            title="Enter 'm1-m6', 'h_HEX', 'g_HEX_HEX_HEX' which HEX can be between 00 to ff"
+                            value="${hiddifyNoiseMode}" required>
+                    </div>
+                    <div class="form-control">
+                        <label for="nikaNGNoiseMode">\u{1F635}\u200D\u{1F4AB} NikaNG Mode</label>
+                        <input type="text" id="nikaNGNoiseMode" name="nikaNGNoiseMode" 
+                            pattern="^(none|quic|random|[0-9A-Fa-f]+)$" 
+                            title="Enter 'none', 'quic', 'random', or any HEX string like 'ee0000000108aaaa'"
+                            value="${nikaNGNoiseMode}" required>
+                    </div>
+                    <div class="form-control">
+                        <label for="noiseCountMin">\u{1F39A}\uFE0F Noise Count</label>
+                        <div class="min-max">
+                            <input type="number" id="noiseCountMin" name="noiseCountMin"
+                                value="${noiseCountMin}" min="1" required>
+                            <span> - </span>
+                            <input type="number" id="noiseCountMax" name="noiseCountMax"
+                                value="${noiseCountMax}" min="1" required>
+                        </div>
+                    </div>
+                    <div class="form-control">
+                        <label for="noiseSizeMin">\u{1F4CF} Noise Size</label>
+                        <div class="min-max">
+                            <input type="number" id="noiseSizeMin" name="noiseSizeMin"
+                                value="${noiseSizeMin}" min="1" required>
+                            <span> - </span>
+                            <input type="number" id="noiseSizeMax" name="noiseSizeMax"
+                                value="${noiseSizeMax}" min="1" required>
+                        </div>
+                    </div>
+                    <div class="form-control">
+                        <label for="noiseDelayMin">\u{1F55E} Noise Delay</label>
+                        <div class="min-max">
+                            <input type="number" id="noiseDelayMin" name="noiseDelayMin"
+                                value="${noiseDelayMin}" min="1" required>
+                            <span> - </span>
+                            <input type="number" id="noiseDelayMax" name="noiseDelayMax"
+                                value="${noiseDelayMax}" min="1" required>
+                        </div>
+                    </div>
+                </details>
+                <details>
+                    <summary><h2>ROUTING RULES \u2699\uFE0F</h2></summary>
+                    <div id="routing-rules" class="form-control" style="margin-bottom: 20px;">			
+                        <div class="routing">
+                            <input type="checkbox" id="bypass-lan" name="bypass-lan" value="true" ${bypassLAN ? "checked" : ""}>
+                            <label for="bypass-lan">Bypass LAN</label>
+                        </div>
+                        <div class="routing">
+                            <input type="checkbox" id="block-ads" name="block-ads" value="true" ${blockAds ? "checked" : ""}>
+                            <label for="block-ads">Block Ads.</label>
+                        </div>
+                        <div class="routing">
+                            <input type="checkbox" id="bypass-iran" name="bypass-iran" value="true" ${bypassIran ? "checked" : ""}>
+                            <label for="bypass-iran">Bypass Iran</label>
+                        </div>
+                        <div class="routing">
+                            <input type="checkbox" id="block-porn" name="block-porn" value="true" ${blockPorn ? "checked" : ""}>
+                            <label for="block-porn">Block Porn</label>
+                        </div>
+                        <div class="routing">
+                            <input type="checkbox" id="bypass-china" name="bypass-china" value="true" ${bypassChina ? "checked" : ""}>
+                            <label for="bypass-china">Bypass China</label>
+                        </div>
+                        <div class="routing">
+                            <input type="checkbox" id="block-udp-443" name="block-udp-443" value="true" ${blockUDP443 ? "checked" : ""}>
+                            <label for="block-udp-443">Block QUIC</label>
+                        </div>
+                        <div class="routing">
+                            <input type="checkbox" id="bypass-russia" name="bypass-russia" value="true" ${bypassRussia ? "checked" : ""}>
+                            <label for="bypass-russia">Bypass Russia</label>
+                        </div>
+                    </div>
+                </details>
+                <div id="apply" class="form-control">
+                    <div style="grid-column: 2; width: 100%; display: inline-flex;">
+                        <input type="submit" id="applyButton" style="margin-right: 10px;" class="button disabled" value="APPLY SETTINGS \u{1F4A5}" form="configForm">
+                        <button type="button" id="resetSettings" style="background: none; margin: 0; border: none; cursor: pointer;">
+                            <i class="fa fa-refresh fa-2x fa-border" style="border-radius: .2em; border-color: var(--border-color);" aria-hidden="true"></i>
+                        </button>
+                    </div>
+                </div>
+            </form>
+            <hr>            
+            <h2>NORMAL SUB \u{1F517}</h2>
+            <div class="table-container">
+                <table id="normal-configs-table">
+                    <tr>
+                        <th>Application</th>
+                        <th>Subscription</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayNG</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>NikaNG</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>MahsaNG</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayN</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayN-PRO</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Shadowrocket</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Streisand</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Hiddify</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Nekoray (Xray)</span>
+                            </div>
+                        </td>
+                        <td>
+                            <button onclick="openQR('https://${hostName}/sub/${userID}#BPB-Normal', 'Normal Subscription')" style="margin-bottom: 8px;">
+                                QR Code&nbsp;<span class="material-symbols-outlined">qr_code</span>
+                            </button>
+                            <button onclick="copyToClipboard('https://${hostName}/sub/${userID}#BPB-Normal', false)">
+                                Copy Sub<span class="material-symbols-outlined">format_list_bulleted</span>
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Nekobox</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Nekoray (Sing-Box)</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Karing</span>
+                            </div>
+                        </td>
+                        <td>
+                            <button onclick="copyToClipboard('https://${hostName}/sub/${userID}?app=singbox#BPB-Normal', false)">
+                                Copy Sub<span class="material-symbols-outlined">format_list_bulleted</span>
+                            </button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <h2>FULL NORMAL SUB \u{1F517}</h2>
+            <div class="table-container">
+                <table id="full-normal-configs-table">
+                    <tr>
+                        <th>Application</th>
+                        <th>Subscription</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayNG</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>NikaNG</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>MahsaNG</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayN</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayN-PRO</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Streisand</span>
+                            </div>
+                        </td>
+                        <td>
+                            <button onclick="openQR('https://${hostName}/sub/${userID}?app=xray#BPB-Full-Normal', 'Full normal Subscription')" style="margin-bottom: 8px;">
+                                QR Code&nbsp;<span class="material-symbols-outlined">qr_code</span>
+                            </button>
+                            <button onclick="copyToClipboard('https://${hostName}/sub/${userID}?app=xray#BPB-Full-Normal', false)">
+                                Copy Sub<span class="material-symbols-outlined">format_list_bulleted</span>
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Sing-box</b></span>
+                            </div>
+                        </td>
+                        <td>
+                            <button onclick="openQR('sing-box://import-remote-profile?url=https://${hostName}/sub/${userID}?app=sfa#BPB-Full-Normal', 'Normal Subscription')" style="margin-bottom: 8px;">
+                                QR Code&nbsp;<span class="material-symbols-outlined">qr_code</span>
+                            </button>
+                            <button onclick="copyToClipboard('https://${hostName}/sub/${userID}?app=sfa#BPB-Full-Normal', false)">
+                                Copy Sub<span class="material-symbols-outlined">format_list_bulleted</span>
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Clash Meta</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Clash Verge</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayN</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>FlClash</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Stash</span>
+                            </div>
+                        </td>
+                        <td>
+                            <button onclick="openQR('https://${hostName}/sub/${userID}?app=clash#BPB-Full-Normal', 'Normal Subscription')" style="margin-bottom: 8px;">
+                                QR Code&nbsp;<span class="material-symbols-outlined">qr_code</span>
+                            </button>
+                            <button onclick="copyToClipboard('https://${hostName}/sub/${userID}?app=clash#BPB-Full-Normal', false)">
+                                Copy Sub<span class="material-symbols-outlined">format_list_bulleted</span>
+                            </button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <h2>FRAGMENT SUB \u26D3\uFE0F</h2>
+            <div class="table-container">
+                <table id="frag-sub-table">
+                    <tr>
+                        <th style="text-wrap: nowrap;">Application</th>
+                        <th style="text-wrap: nowrap;">Subscription</th>
+                    </tr>
+                    <tr>
+                        <td style="text-wrap: nowrap;">
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayNG</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>NikaNG</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>MahsaNG</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayN</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayN-PRO</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Streisand</span>
+                            </div>
+                        </td>
+                        <td>
+                            <button onclick="openQR('https://${hostName}/fragsub/${userID}#BPB-Fragment', 'Fragment Subscription')" style="margin-bottom: 8px;">
+                                QR Code&nbsp;<span class="material-symbols-outlined">qr_code</span>
+                            </button>
+                            <button onclick="copyToClipboard('https://${hostName}/fragsub/${userID}#BPB-Fragment', true)">
+                                Copy Sub<span class="material-symbols-outlined">format_list_bulleted</span>
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="text-wrap: nowrap;">
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Hiddify</span>
+                            </div>
+                        </td>
+                        <td>
+                            <button onclick="openQR('https://${hostName}/fragsub/${userID}?app=hiddify#BPB-Fragment', 'Fragment Subscription')" style="margin-bottom: 8px;">
+                                QR Code&nbsp;<span class="material-symbols-outlined">qr_code</span>
+                            </button>
+                            <button onclick="copyToClipboard('https://${hostName}/fragsub/${userID}?app=hiddify#BPB-Fragment', true)">
+                                Copy Sub<span class="material-symbols-outlined">format_list_bulleted</span>
+                            </button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <h2>WARP SUB \u{1F517}</h2>
+            <div class="table-container">
+                <table id="normal-configs-table">
+                    <tr>
+                        <th>Application</th>
+                        <th>Subscription</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayNG</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayN</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Streisand</span>
+                            </div>
+                        </td>
+                        <td>
+                            <button onclick="openQR('https://${hostName}/warpsub/${userID}?app=xray#BPB-Warp', 'Warp Subscription')" style="margin-bottom: 8px;">
+                                QR Code&nbsp;<span class="material-symbols-outlined">qr_code</span>
+                            </button>
+                            <button onclick="copyToClipboard('https://${hostName}/warpsub/${userID}?app=xray#BPB-Warp', false)">
+                                Copy Sub<span class="material-symbols-outlined">format_list_bulleted</span>
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Hiddify</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Singbox</span>
+                            </div>
+                        </td>
+                        <td>
+                            <button onclick="openQR('sing-box://import-remote-profile?url=https://${hostName}/warpsub/${userID}?app=singbox#BPB-Warp', 'Warp Subscription')" style="margin-bottom: 8px;">
+                                QR Code&nbsp;<span class="material-symbols-outlined">qr_code</span>
+                            </button>
+                            <button onclick="copyToClipboard('https://${hostName}/warpsub/${userID}?app=singbox#BPB-Warp', false)">
+                                Copy Sub<span class="material-symbols-outlined">format_list_bulleted</span>
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Clash Meta</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Clash Verge</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayN</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>FlClash</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Stash</span>
+                            </div>
+                        </td>
+                        <td>
+                            <button onclick="openQR('https://${hostName}/warpsub/${userID}?app=clash#BPB-Warp', 'Warp Subscription')" style="margin-bottom: 8px;">
+                                QR Code&nbsp;<span class="material-symbols-outlined">qr_code</span>
+                            </button>
+                            <button onclick="copyToClipboard('https://${hostName}/warpsub/${userID}?app=clash#BPB-Warp', false)">
+                                Copy Sub<span class="material-symbols-outlined">format_list_bulleted</span>
+                            </button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <h2>WARP PRO SUB \u{1F517}</h2>
+            <div class="table-container">
+                <table id="warp-pro-configs-table">
+                    <tr>
+                        <th>Application</th>
+                        <th>Subscription</th>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>NikaNG</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>MahsaNG</span>
+                            </div>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>v2rayN-PRO</span>
+                            </div>
+                        </td>
+                        <td>
+                            <button onclick="openQR('https://${hostName}/warpsub/${userID}?app=nikang#BPB-Warp-Pro', 'Warp Pro Subscription')" style="margin-bottom: 8px;">
+                                QR Code&nbsp;<span class="material-symbols-outlined">qr_code</span>
+                            </button>
+                            <button onclick="copyToClipboard('https://${hostName}/warpsub/${userID}?app=nikang#BPB-Warp-Pro', false)">
+                                Copy Sub<span class="material-symbols-outlined">format_list_bulleted</span>
+                            </button>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div>
+                                <span class="material-symbols-outlined symbol">verified</span>
+                                <span>Hiddify</span>
+                            </div>
+                        </td>
+                        <td>
+                            <button onclick="openQR('sing-box://import-remote-profile?url=https://${hostName}/warpsub/${userID}?app=hiddify#BPB-Warp-Pro', 'Warp Pro Subscription')" style="margin-bottom: 8px;">
+                                QR Code&nbsp;<span class="material-symbols-outlined">qr_code</span>
+                            </button>
+                            <button onclick="copyToClipboard('https://${hostName}/warpsub/${userID}?app=hiddify#BPB-Warp-Pro', false)">
+                                Copy Sub<span class="material-symbols-outlined">format_list_bulleted</span>
+                            </button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="myModal" class="modal">
+                <div class="modal-content">
+                    <span class="close">&times;</span>
+                    <form id="passwordChangeForm">
+                        <h2>Change Password</h2>
+                        <div class="form-control">
+                            <label for="newPassword">New Password</label>
+                            <input type="password" id="newPassword" name="newPassword" required>
+                            </div>
+                        <div class="form-control">
+                            <label for="confirmPassword">Confirm Password</label>
+                            <input type="password" id="confirmPassword" name="confirmPassword" required>
+                        </div>
+                        <div id="passwordError" style="color: red; margin-bottom: 10px;"></div>
+                        <button id="changePasswordBtn" type="submit" class="button">Change Password</button>
+                    </form>
+                </div>
+            </div>
+            <div id="myQRModal" class="modalQR">
+                <div class="modal-content" style="width: auto; text-align: center;">
+                    <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 10px;">
+                        <span id="closeQRModal" class="close" style="align-self: flex-end;">&times;</span>
+                        <span id="qrcodeTitle" style="align-self: center; font-weight: bold;"></span>
+                    </div>
+                    <div id="qrcode-container"></div>
+                </div>
+            </div>
+            <hr>
+            <div class="footer">
+                <i class="fa fa-github" style="font-size:36px; margin-right: 10px;"></i>
+                <a class="link" href="https://github.com/bia-pain-bache/BPB-Worker-Panel" style="color: var(--color); text-decoration: underline;" target="_blank">Github</a>
+                <button id="openModalBtn" class="button">Change Password</button>
+                <button type="button" id="logout" style="background: none; color: var(--color); margin: 0; border: none; cursor: pointer;">
+                    <i class="fa fa-power-off fa-2x" aria-hidden="true"></i>
+                </button>
+            </div>
+        </div>
+        <button id="darkModeToggle" class="floating-button">
+            <i id="modeIcon" class="fa fa-2x fa-adjust" style="color: var(--background-color);" aria-hidden="true"></i>
+        </button>   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"><\/script>
+    <script>
+        const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
+        let activePortsNo = ${ports.length};
+        let activeHttpsPortsNo = ${ports.filter((port) => defaultHttpsPorts.includes(port)).length};
+        let activeProtocols = ${activeProtocols};
+        const warpPlusLicense = '${warpPlusLicense}';
+        localStorage.getItem('darkMode') === 'enabled' && document.body.classList.add('dark-mode');
+
+        document.addEventListener('DOMContentLoaded', async () => {
+            const configForm = document.getElementById('configForm');            
+            const modal = document.getElementById('myModal');
+            const changePass = document.getElementById('openModalBtn');
+            const closeBtn = document.querySelector(".close");
+            const passwordChangeForm = document.getElementById('passwordChangeForm');            
+            const applyBtn = document.getElementById('applyButton');         
+            const initialFormData = new FormData(configForm);
+            const closeQR = document.getElementById('closeQRModal');
+            const resetSettings = document.getElementById('resetSettings');
+            let modalQR = document.getElementById('myQRModal');
+            let qrcodeContainer = document.getElementById('qrcode-container');
+            let forcedPassChange = false;
+            const darkModeToggle = document.getElementById('darkModeToggle');
+                    
+            const hasFormDataChanged = () => {
+                const currentFormData = new FormData(configForm);
+                const currentFormDataEntries = [...currentFormData.entries()];
+
+                const nonCheckboxFieldsChanged = currentFormDataEntries.some(
+                    ([key, value]) => !initialFormData.has(key) || initialFormData.get(key) !== value
+                );
+
+                const checkboxFieldsChanged = Array.from(configForm.elements)
+                    .filter((element) => element.type === 'checkbox')
+                    .some((checkbox) => {
+                    const initialValue = initialFormData.has(checkbox.name)
+                        ? initialFormData.get(checkbox.name)
+                        : false;
+                    const currentValue = currentFormDataEntries.find(([key]) => key === checkbox.name)?.[1] || false;
+                    return initialValue !== currentValue;
+                });
+
+                return nonCheckboxFieldsChanged || checkboxFieldsChanged;
+            };
+            
+            const enableApplyButton = () => {
+                const isChanged = hasFormDataChanged();
+                applyButton.disabled = !isChanged;
+                applyButton.classList.toggle('disabled', !isChanged);
+            };
+                        
+            passwordChangeForm.addEventListener('submit', event => resetPassword(event));
+            document.getElementById('logout').addEventListener('click', event => logout(event));
+            configForm.addEventListener('submit', (event) => applySettings(event, configForm));
+            configForm.addEventListener('input', enableApplyButton);
+            configForm.addEventListener('change', enableApplyButton);
+            changePass.addEventListener('click', () => {
+                forcedPassChange ? closeBtn.style.display = 'none' : closeBtn.style.display = '';
+                modal.style.display = "block";
+                document.body.style.overflow = "hidden";
+                forcedPassChange = false;
+            });        
+            closeBtn.addEventListener('click', () => {
+                modal.style.display = "none";
+                document.body.style.overflow = "";
+            });
+            closeQR.addEventListener('click', () => {
+                modalQR.style.display = "none";
+                qrcodeContainer.lastElementChild.remove();
+            });
+            resetSettings.addEventListener('click', async () => {
+                const confirmReset = confirm('\u26A0\uFE0F This will reset all panel settings.\\nAre you sure?');
+                if(!confirmReset) return;
+                const formData = new FormData();
+                formData.append('resetSettings', 'true');
+                try {
+                    document.body.style.cursor = 'wait';
+                    const refreshButtonVal = refreshBtn.innerHTML;
+                    refreshBtn.innerHTML = '\u231B Loading...';
+
+                    const response = await fetch('/panel', {
+                        method: 'POST',
+                        body: formData,
+                        credentials: 'include'
+                    });
+
+                    document.body.style.cursor = 'default';
+                    refreshBtn.innerHTML = refreshButtonVal;
+                    if (response.ok) {
+                        alert('\u2705 Panel settings reset to default successfully! \u{1F60E}');
+                        window.location.reload(true);
+                    } else {
+                        const errorMessage = await response.text();
+                        console.error(errorMessage, response.status);
+                        alert('\u26A0\uFE0F An error occured, Please try again!\\n\u26D4 ' + errorMessage);
+                    }         
+                } catch (error) {
+                    console.error('Error:', error);
+                }
+            });
+            window.onclick = (event) => {
+                if (event.target == modalQR) {
+                    modalQR.style.display = "none";
+                    qrcodeContainer.lastElementChild.remove();
+                }
+            }
+            darkModeToggle.addEventListener('click', () => {
+                const isDarkMode = document.body.classList.toggle('dark-mode');
+                if (isDarkMode) {
+                    localStorage.setItem('darkMode', 'enabled');
+                } else {
+                    localStorage.setItem('darkMode', 'disabled');                
+                }
+            });
+
+            if (${!isPassSet}) {
+                forcedPassChange = true;
+                changePass.click();
+            }
+        });
+
+        const getWarpConfigs = async () => {
+            const license = document.getElementById('warpPlusLicense').value;
+            if (license !== warpPlusLicense) {
+                alert('\u26A0\uFE0F First APPLY SETTINGS and then update Warp configs!');
+                return false;
+            }
+            const confirmReset = confirm('\u26A0\uFE0F Are you sure?');
+            if(!confirmReset) return;
+            const refreshBtn = document.getElementById('refreshBtn');
+
+            try {
+                document.body.style.cursor = 'wait';
+                const refreshButtonVal = refreshBtn.innerHTML;
+                refreshBtn.innerHTML = '\u231B Loading...';
+
+                const response = await fetch('/update-warp', {
+                    method: 'POST',
+                    credentials: 'include'
+                });
+
+                document.body.style.cursor = 'default';
+                refreshBtn.innerHTML = refreshButtonVal;
+                if (response.ok) {
+                    ${isWarpPlus} ? alert('\u2705 Warp configs upgraded to PLUS successfully! \u{1F60E}') : alert('\u2705 Warp configs updated successfully! \u{1F60E}');
+                } else {
+                    const errorMessage = await response.text();
+                    console.error(errorMessage, response.status);
+                    alert('\u26A0\uFE0F An error occured, Please try again!\\n\u26D4 ' + errorMessage);
+                }         
+            } catch (error) {
+                console.error('Error:', error);
+            } 
+        }
+
+        const handlePortChange = (event) => {
+            
+            if(event.target.checked) { 
+                activePortsNo++ 
+                defaultHttpsPorts.includes(event.target.name) && activeHttpsPortsNo++;
+            } else {
+                activePortsNo--;
+                defaultHttpsPorts.includes(event.target.name) && activeHttpsPortsNo--;
+            }
+
+            if (activePortsNo === 0) {
+                event.preventDefault();
+                event.target.checked = !event.target.checked;
+                alert("\u26D4 At least one port should be selected! \u{1FAE4}");
+                activePortsNo = 1;
+                defaultHttpsPorts.includes(event.target.name) && activeHttpsPortsNo++;
+                return false;
+            }
+                
+            if (activeHttpsPortsNo === 0) {
+                event.preventDefault();
+                event.target.checked = !event.target.checked;
+                alert("\u26D4 At least one TLS(https) port should be selected! \u{1FAE4}");
+                activeHttpsPortsNo = 1;
+                return false;
+            }
+        }
+        
+        const handleProtocolChange = (event) => {
+            
+            if(event.target.checked) { 
+                activeProtocols++ 
+            } else {
+                activeProtocols--;
+            }
+
+            if (activeProtocols === 0) {
+                event.preventDefault();
+                event.target.checked = !event.target.checked;
+                alert("\u26D4 At least one Protocol should be selected! \u{1FAE4}");
+                activeProtocols = 1;
+                return false;
+            }
+        }
+
+        const openQR = (url, title) => {
+            let qrcodeContainer = document.getElementById("qrcode-container");
+            let qrcodeTitle = document.getElementById("qrcodeTitle");
+            const modalQR = document.getElementById("myQRModal");
+            qrcodeTitle.textContent = title;
+            modalQR.style.display = "block";
+            let qrcodeDiv = document.createElement("div");
+            qrcodeDiv.className = "qrcode";
+            qrcodeDiv.style.padding = "2px";
+            qrcodeDiv.style.backgroundColor = "#ffffff";
+            new QRCode(qrcodeDiv, {
+                text: url,
+                width: 256,
+                height: 256,
+                colorDark: "#000000",
+                colorLight: "#ffffff",
+                correctLevel: QRCode.CorrectLevel.H
+            });
+            qrcodeContainer.appendChild(qrcodeDiv);
+        }
+
+        const copyToClipboard = (text, decode) => {
+            const textarea = document.createElement('textarea');
+            const value = decode ? decodeURIComponent(text) : text;
+            textarea.value = value;
+            document.body.appendChild(textarea);
+            textarea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textarea);
+            alert('\u{1F4CB} Copied to clipboard:\\n\\n' +  value);
+        }
+
+        const applySettings = async (event, configForm) => {
+            event.preventDefault();
+            event.stopPropagation();
+            const applyButton = document.getElementById('applyButton');
+            const getValue = (id) => parseInt(document.getElementById(id).value, 10);              
+            const lengthMin = getValue('fragmentLengthMin');
+            const lengthMax = getValue('fragmentLengthMax');
+            const intervalMin = getValue('fragmentIntervalMin');
+            const intervalMax = getValue('fragmentIntervalMax');
+            const proxyIP = document.getElementById('proxyIP').value?.trim();
+            const cleanIP = document.getElementById('cleanIPs');
+            const customCdnAddrs = document.getElementById('customCdnAddrs').value?.split(',').filter(addr => addr !== '');
+            const customCdnHost = document.getElementById('customCdnHost').value;
+            const customCdnSni = document.getElementById('customCdnSni').value;
+            const isCustomCdn = customCdnAddrs.length > 0 || customCdnHost !== '' || customCdnSni !== '';
+            const warpEndpoints = document.getElementById('warpEndpoints').value?.replaceAll(' ', '').split(',');
+            const noiseCountMin = getValue('noiseCountMin');
+            const noiseCountMax = getValue('noiseCountMax');
+            const noiseSizeMin = getValue('noiseSizeMin');
+            const noiseSizeMax = getValue('noiseSizeMax');
+            const noiseDelayMin = getValue('noiseDelayMin');
+            const noiseDelayMax = getValue('noiseDelayMax');
+            const cleanIPs = cleanIP.value?.split(',');
+            const chainProxy = document.getElementById('outProxy').value?.trim();                    
+            const formData = new FormData(configForm);
+            const isVless = /vless:\\/\\/[^s@]+@[^\\s:]+:[^\\s]+/.test(chainProxy);
+            const isSocksHttp = /^(http|socks):\\/\\/(?:([^:@]+):([^:@]+)@)?([^:@]+):(\\d+)$/.test(chainProxy);
+            const hasSecurity = /security=/.test(chainProxy);
+            const securityRegex = /security=(tls|none|reality)/;
+            const validSecurityType = securityRegex.test(chainProxy);
+            let match = chainProxy.match(securityRegex);
+            const securityType = match ? match[1] : null;
+            match = chainProxy.match(/:(\\d+)\\?/);
+            const vlessPort = match ? match[1] : null;
+            const validTransmission = /type=(tcp|grpc|ws)/.test(chainProxy);
+            const validIPDomain = /^((?:(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\\.)+[a-zA-Z]{2,})|(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)|\\[(?:[a-fA-F0-9]{1,4}:){7}[a-fA-F0-9]{1,4}\\]|\\[(?:[a-fA-F0-9]{1,4}:){1,7}:\\]|\\[(?:[a-fA-F0-9]{1,4}:){1,6}:[a-fA-F0-9]{1,4}\\]|\\[(?:[a-fA-F0-9]{1,4}:){1,5}(?::[a-fA-F0-9]{1,4}){1,2}\\]|\\[(?:[a-fA-F0-9]{1,4}:){1,4}(?::[a-fA-F0-9]{1,4}){1,3}\\]|\\[(?:[a-fA-F0-9]{1,4}:){1,3}(?::[a-fA-F0-9]{1,4}){1,4}\\]|\\[(?:[a-fA-F0-9]{1,4}:){1,2}(?::[a-fA-F0-9]{1,4}){1,5}\\]|\\[[a-fA-F0-9]{1,4}:(?::[a-fA-F0-9]{1,4}){1,6}\\]|\\[:(?::[a-fA-F0-9]{1,4}){1,7}\\]|\\[\\](?:::[a-fA-F0-9]{1,4}){1,7}\\])$/i;
+            const checkedPorts = Array.from(document.querySelectorAll('input[id^="port-"]:checked')).map(input => input.id.split('-')[1]);
+            const validEndpoint = /^(?:(?:[a-zA-Z0-9](?:[a-zA-Z0-9-]{0,61}[a-zA-Z0-9])?\\.)+[a-zA-Z]{2,}|(?:(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\\.){3}(?:25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)|\\[(?:[a-fA-F0-9]{1,4}:){7}[a-fA-F0-9]{1,4}\\]|\\[(?:[a-fA-F0-9]{1,4}:){1,7}:\\]|\\[(?:[a-fA-F0-9]{1,4}:){1,6}:[a-fA-F0-9]{1,4}\\]|\\[(?:[a-fA-F0-9]{1,4}:){1,5}(?::[a-fA-F0-9]{1,4}){1,2}\\]|\\[(?:[a-fA-F0-9]{1,4}:){1,4}(?::[a-fA-F0-9]{1,4}){1,3}\\]|\\[(?:[a-fA-F0-9]{1,4}:){1,3}(?::[a-fA-F0-9]{1,4}){1,4}\\]|\\[(?:[a-fA-F0-9]{1,4}:){1,2}(?::[a-fA-F0-9]{1,4}){1,5}\\]|\\[[a-fA-F0-9]{1,4}:(?::[a-fA-F0-9]{1,4}){1,6}\\]|\\[:(?::[a-fA-F0-9]{1,4}){1,7}\\]|\\[::(?::[a-fA-F0-9]{1,4}){0,7}\\]):(?:[0-9]{1,5})$/;
+            formData.append('ports', checkedPorts);
+            configForm.querySelectorAll('input[type="checkbox"]').forEach(checkbox => {
+                !formData.has(checkbox.name) && formData.append(checkbox.name, 'false');    
+            });
+
+            const invalidIPs = [...cleanIPs, proxyIP, ...customCdnAddrs, customCdnHost, customCdnSni]?.filter(value => {
+                if (value !== "") {
+                    const trimmedValue = value.trim();
+                    return !validIPDomain.test(trimmedValue);
+                }
+            });
+
+            const invalidEndpoints = warpEndpoints?.filter(value => {
+                if (value !== "") {
+                    const trimmedValue = value.trim();
+                    return !validEndpoint.test(trimmedValue);
+                }
+            });
+
+            if (invalidIPs.length) {
+                alert('\u26D4 Invalid IPs or Domains \u{1FAE4}\\n\\n' + invalidIPs.map(ip => '\u26A0\uFE0F ' + ip).join('\\n'));
+                return false;
+            }
+            
+            if (invalidEndpoints.length) {
+                alert('\u26D4 Invalid endpoint \u{1FAE4}\\n\\n' + invalidEndpoints.map(endpoint => '\u26A0\uFE0F ' + endpoint).join('\\n'));
+                return false;
+            }
+
+            if (lengthMin >= lengthMax || intervalMin > intervalMax || noiseCountMin > noiseCountMax || noiseSizeMin > noiseSizeMax || noiseDelayMin > noiseDelayMax) {
+                alert('\u26D4 Minimum should be smaller or equal to Maximum! \u{1FAE4}');               
+                return false;
+            }
+
+            if (!(isVless && (hasSecurity && validSecurityType || !hasSecurity) && validTransmission) && !isSocksHttp && chainProxy) {
+                alert('\u26D4 Invalid Config! \u{1FAE4} \\n - The chain proxy should be VLESS, Socks or Http!\\n - VLESS transmission should be GRPC,WS or TCP\\n - VLESS security should be TLS,Reality or None\\n - socks or http should be like:\\n + (socks or http)://user:pass@host:port\\n + (socks or http)://host:port');               
+                return false;
+            }
+
+            if (isVless && securityType === 'tls' && vlessPort !== '443') {
+                alert('\u26D4 VLESS TLS port can be only 443 to be used as a proxy chain! \u{1FAE4}');               
+                return false;
+            }
+
+            if (isCustomCdn && !(customCdnAddrs.length > 0 && customCdnHost && customCdnSni)) {
+                alert('\u26D4 All "Custom" fields should be filled or deleted together! \u{1FAE4}');               
+                return false;
+            }
+
+            try {
+                document.body.style.cursor = 'wait';
+                const applyButtonVal = applyButton.value;
+                applyButton.value = '\u231B Loading...';
+
+                const response = await fetch('/panel', {
+                    method: 'POST',
+                    body: formData,
+                    credentials: 'include'
+                });
+
+                document.body.style.cursor = 'default';
+                applyButton.value = applyButtonVal;
+
+                if (response.ok) {
+                    alert('\u2705 Parameters applied successfully \u{1F60E}');
+                    window.location.reload(true);
+                } else {
+                    const errorMessage = await response.text();
+                    console.error(errorMessage, response.status);
+                    alert('\u26A0\uFE0F Session expired! Please login again.');
+                    window.location.href = '/login';
+                }           
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        }
+
+        const logout = async (event) => {
+            event.preventDefault();
+
+            try {
+                const response = await fetch('/logout', {
+                    method: 'GET',
+                    credentials: 'same-origin'
+                });
+            
+                if (response.ok) {
+                    window.location.href = '/login';
+                } else {
+                    console.error('Failed to log out:', response.status);
+                }
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        }
+
+        const resetPassword = async (event) => {
+            event.preventDefault();
+            const modal = document.getElementById('myModal');
+            const newPasswordInput = document.getElementById('newPassword');
+            const confirmPasswordInput = document.getElementById('confirmPassword');
+            const passwordError = document.getElementById('passwordError');             
+            const newPassword = newPasswordInput.value;
+            const confirmPassword = confirmPasswordInput.value;
+
+            if (newPassword !== confirmPassword) {
+                passwordError.textContent = "Passwords do not match";
+                return false;
+            }
+
+            const hasCapitalLetter = /[A-Z]/.test(newPassword);
+            const hasNumber = /[0-9]/.test(newPassword);
+            const isLongEnough = newPassword.length >= 8;
+
+            if (!(hasCapitalLetter && hasNumber && isLongEnough)) {
+                passwordError.textContent = '\u26A0\uFE0F Password must contain at least one capital letter, one number, and be at least 8 characters long.';
+                return false;
+            }
+                    
+            try {
+                const response = await fetch('/panel/password', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'text/plain'
+                    },
+                    body: newPassword,
+                    credentials: 'same-origin'
+                });
+            
+                if (response.ok) {
+                    modal.style.display = "none";
+                    document.body.style.overflow = "";
+                    alert("\u2705 Password changed successfully! \u{1F44D}");
+                    window.location.href = '/login';
+                } else if (response.status === 401) {
+                    const errorMessage = await response.text();
+                    passwordError.textContent = '\u26A0\uFE0F ' + errorMessage;
+                    console.error(errorMessage, response.status);
+                    alert('\u26A0\uFE0F Session expired! Please login again.');
+                    window.location.href = '/login';
+                } else {
+                    const errorMessage = await response.text();
+                    passwordError.textContent = '\u26A0\uFE0F ' + errorMessage;
+                    console.error(errorMessage, response.status);
+                    return false;
+                }
+            } catch (error) {
+                console.error('Error:', error);
+            }
+        }
+    <\/script>
+    </body>	
+    </html>`;
+  return html;
+}
+function renderLoginPage() {
+  return `
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Login</title>
+    <style>
+        :root {
+            --color: black;
+            --primary-color: #09639f;
+            --header-color: #09639f; 
+            --background-color: #fff;
+            --form-background-color: #f9f9f9;
+            --lable-text-color: #333;
+            --h2-color: #3b3b3b;
+            --border-color: #ddd;
+            --input-background-color: white;
+            --header-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+        }
+        html, body { height: 100%; margin: 0; }
+        body {
+            font-family: system-ui;
+            background-color: var(--background-color);
+            position: relative;
+            overflow: hidden;
+        }
+        body.dark-mode {
+            --color: white;
+            --primary-color: #09639F;
+            --header-color: #3498DB; 
+            --background-color: #121212;
+            --form-background-color: #121212;
+            --lable-text-color: #DFDFDF;
+            --h2-color: #D5D5D5;
+            --border-color: #353535;
+            --input-background-color: #252525;
+            --header-shadow: 2px 2px 4px rgba(255, 255, 255, 0.25);
+        }
+        html, body { height: 100%; margin: 0; }
+        .container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 90%;
+        }
+        h1 { font-size: 2.5rem; text-align: center; color: var(--header-color); margin: 0 auto 30px; text-shadow: var(--header-shadow); }        
+        h2 { text-align: center; color: var(--h2-color) }
+        .form-container {
+            background: var(--form-background-color);
+            border: 1px solid var(--border-color);
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+        .form-control { margin-bottom: 15px; display: flex; align-items: center; }
+        label {
+            display: block;
+            margin-bottom: 5px;
+            padding-right: 20px;
+            font-size: 110%;
+            font-weight: 600;
+            color: var(--lable-text-color);
+        }
+        input[type="text"],
+        input[type="password"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid var(--border-color);
+            border-radius: 5px;
+            color: var(--lable-text-color);
+            background-color: var(--input-background-color);
+        }
+        button {
+            display: block;
+            width: 100%;
+            padding: 10px;
+            font-size: 16px;
+            font-weight: 600;
+            border: none;
+            border-radius: 5px;
+            color: white;
+            background-color: var(--primary-color);
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .button:hover,
+        button:focus {
+            background-color: #2980b9;
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.3);
+            transform: translateY(-2px);
+        }
+        button.button:hover { color: white; }
+        .button:active { transform: translateY(1px); box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3); }
+        @media only screen and (min-width: 768px) {
+            .container { width: 30%; }
+        }
+    </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>BPB Panel <span style="font-size: smaller;">${panelVersion}</span> \u{1F4A6}</h1>
+            <div class="form-container">
+                <h2>User Login</h2>
+                <form id="loginForm">
+                    <div class="form-control">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" name="password" required>
+                    </div>
+                    <div id="passwordError" style="color: red; margin-bottom: 10px;"></div>
+                    <button type="submit" class="button">Login</button>
+                </form>
+            </div>
+        </div>
+    <script>
+        localStorage.getItem('darkMode') === 'enabled' && document.body.classList.add('dark-mode');
+        document.getElementById('loginForm').addEventListener('submit', async (event) => {
+            event.preventDefault();
+            const password = document.getElementById('password').value;
+
+            try {
+                const response = await fetch('/login', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'text/plain'
+                    },
+                    body: password
+                });
+            
+                if (response.ok) {
+                    window.location.href = '/panel';
+                } else {
+                    passwordError.textContent = '\u26A0\uFE0F Wrong Password!';
+                    const errorMessage = await response.text();
+                    console.error('Login failed:', errorMessage);
+                }
+            } catch (error) {
+                console.error('Error during login:', error);
+            }
+        });
+    <\/script>
+    </body>
+    </html>`;
+}
+function renderErrorPage(message2, error, refer) {
+  return `
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Error Page</title>
+        <style>
+            :root {
+                --color: black;
+                --header-color: #09639f; 
+                --background-color: #fff;
+                --border-color: #ddd;
+                --header-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+            }
+            body, html {
+                height: 100%;
+                width: 100%;
+                margin: 0;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                font-family: system-ui;
+                color: var(--color);
+                background-color: var(--background-color);
+            }
+            body.dark-mode {
+                --color: white;
+                --header-color: #3498DB; 
+                --background-color: #121212;
+                --header-shadow: 2px 2px 4px rgba(255, 255, 255, 0.25);          
+            }
+            h1 { font-size: 2.5rem; text-align: center; color: var(--header-color); text-shadow: var(--header-shadow); }
+            #error-container { text-align: center; }
+        </style>
+    </head>
+    <body>
+        <div id="error-container">
+            <h1>BPB Panel <span style="font-size: smaller;">${panelVersion}</span> \u{1F4A6}</h1>
+            <div id="error-message">
+                <h2>${message2} ${refer ? 'Please try again or refer to <a href="https://github.com/bia-pain-bache/BPB-Worker-Panel/blob/main/README.md">documents</a>' : ""}
+                </h2>
+                <p><b>${error ? `\u26A0\uFE0F ${error.stack.toString()}` : ""}</b></p>
+            </div>
+        </div>
+    <script>
+        localStorage.getItem('darkMode') === 'enabled' && document.body.classList.add('dark-mode');
+    <\/script>
+    </body>
+    </html>`;
+}
+function extractChainProxyParams(chainProxy) {
+  let configParams = {};
+  if (!chainProxy)
+    return null;
+  let url = new URL(chainProxy);
+  const protocol = url.protocol.slice(0, -1);
+  if (protocol === "vless") {
+    const params = new URLSearchParams(url.search);
+    configParams = {
+      protocol,
+      uuid: url.username,
+      hostName: url.hostname,
+      port: url.port
+    };
+    params.forEach((value, key) => {
+      configParams[key] = value;
+    });
+  } else {
+    configParams = {
+      protocol,
+      user: url.username,
+      pass: url.password,
+      host: url.host,
+      port: url.port
+    };
+  }
+  return JSON.stringify(configParams);
+}
+async function fetchWgConfig(env, proxySettings) {
+  let warpConfigs = [];
+  const apiBaseUrl = "https://api.cloudflareclient.com/v0a4005/reg";
+  const { warpPlusLicense } = proxySettings;
+  const warpKeys = [generateKeyPair(), generateKeyPair()];
+  for (let i = 0; i < 2; i++) {
+    const accountResponse = await fetch(apiBaseUrl, {
+      method: "POST",
+      headers: {
+        "User-Agent": "insomnia/8.6.1",
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        key: warpKeys[i].publicKey,
+        install_id: "",
+        fcm_token: "",
+        tos: (/* @__PURE__ */ new Date()).toISOString(),
+        type: "Android",
+        model: "PC",
+        locale: "en_US",
+        warp_enabled: true
+      })
+    });
+    const accountData = await accountResponse.json();
+    warpConfigs.push({
+      privateKey: warpKeys[i].privateKey,
+      account: accountData
+    });
+    if (warpPlusLicense) {
+      const response = await fetch(`${apiBaseUrl}/${accountData.id}/account`, {
+        method: "PUT",
+        headers: {
+          "User-Agent": "insomnia/8.6.1",
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${accountData.token}`
+        },
+        body: JSON.stringify({
+          key: warpKeys[i].publicKey,
+          install_id: "",
+          fcm_token: "",
+          tos: (/* @__PURE__ */ new Date()).toISOString(),
+          type: "Android",
+          model: "PC",
+          locale: "en_US",
+          warp_enabled: true,
+          license: warpPlusLicense
+        })
+      });
+      const responseData = await response.json();
+      if (response.status !== 200 && !responseData.success)
+        return { error: responseData.errors[0]?.message, configs: null };
+    }
+  }
+  const configs = JSON.stringify(warpConfigs);
+  await env.bpb.put("warpConfigs", configs);
+  return { error: null, configs };
+}
+function extractWireguardParams(warpConfigs, isWoW) {
+  const index = isWoW ? 1 : 0;
+  const warpConfig = warpConfigs[index].account.config;
+  return {
+    warpIPv6: `${warpConfig.interface.addresses.v6}/128`,
+    reserved: warpConfig.client_id,
+    publicKey: warpConfig.peers[0].public_key,
+    privateKey: warpConfigs[index].privateKey
+  };
+}
+async function buildXrayDNS(proxySettings, outboundAddrs, domainToStaticIPs, isWorkerLess, isWarp) {
+  const {
+    remoteDNS,
+    resolvedRemoteDNS,
+    localDNS,
+    vlessTrojanFakeDNS,
+    warpFakeDNS,
+    blockAds,
+    bypassIran,
+    bypassChina,
+    blockPorn,
+    bypassRussia
+  } = proxySettings;
+  const isBypass = bypassIran || bypassChina || bypassRussia;
+  const isFakeDNS = vlessTrojanFakeDNS && !isWarp || warpFakeDNS && isWarp;
+  const outboundDomains = outboundAddrs.filter((address) => isDomain(address));
+  const isOutboundRule = outboundDomains.length > 0;
+  const outboundRules = outboundDomains.map((domain) => `full:${domain}`);
+  const finalRemoteDNS = isWarp ? ["1.1.1.1", "1.0.0.1"] : isWorkerLess ? ["https://cloudflare-dns.com/dns-query"] : [remoteDNS];
+  let dnsObject = {
+    hosts: {
+      "domain:googleapis.cn": ["googleapis.com"]
+    },
+    servers: finalRemoteDNS,
+    tag: "dns"
+  };
+  const staticIPs = domainToStaticIPs ? await resolveDNS(domainToStaticIPs) : void 0;
+  if (staticIPs)
+    dnsObject.hosts[domainToStaticIPs] = [...staticIPs.ipv4, ...staticIPs.ipv6];
+  if (resolvedRemoteDNS.server && !isWorkerLess && !isWarp)
+    dnsObject.hosts[resolvedRemoteDNS.server] = resolvedRemoteDNS.staticIPs;
+  if (isWorkerLess) {
+    const resolvedDOH = await resolveDNS("cloudflare-dns.com");
+    const resolvedCloudflare = await resolveDNS("cloudflare.com");
+    const resolvedCLDomain = await resolveDNS("www.speedtest.net.cdn.cloudflare.net");
+    const resolvedCFNS_1 = await resolveDNS("ben.ns.cloudflare.com");
+    const resolvedCFNS_2 = await resolveDNS("lara.ns.cloudflare.com");
+    dnsObject.hosts["cloudflare-dns.com"] = [
+      ...resolvedDOH.ipv4,
+      ...resolvedCloudflare.ipv4,
+      ...resolvedCLDomain.ipv4,
+      ...resolvedCFNS_1.ipv4,
+      ...resolvedCFNS_2.ipv4
+    ];
+  }
+  if (blockAds) {
+    dnsObject.hosts["geosite:category-ads-all"] = ["127.0.0.1"];
+    dnsObject.hosts["geosite:category-ads-ir"] = ["127.0.0.1"];
+  }
+  if (blockPorn) {
+    dnsObject.hosts["geosite:category-porn"] = ["127.0.0.1"];
+  }
+  isOutboundRule && dnsObject.servers.push({
+    address: localDNS === "localhost" ? "8.8.8.8" : localDNS,
+    domains: outboundRules
+  });
+  let localDNSServer = {
+    address: localDNS,
+    domains: [],
+    expectIPs: []
+  };
+  if (!isWorkerLess && isBypass) {
+    bypassIran && localDNSServer.domains.push("geosite:category-ir") && localDNSServer.expectIPs.push("geoip:ir");
+    bypassChina && localDNSServer.domains.push("geosite:cn") && localDNSServer.expectIPs.push("geoip:cn");
+    bypassRussia && localDNSServer.domains.push("geosite:category-ru") && localDNSServer.expectIPs.push("geoip:ru");
+    dnsObject.servers.push(localDNSServer);
+  }
+  if (isFakeDNS) {
+    if ((isBypass || isOutboundRule) && !isWorkerLess) {
+      dnsObject.servers.unshift({
+        address: "fakedns",
+        domains: [
+          ...localDNSServer.domains,
+          ...outboundRules
+        ]
+      });
+    } else {
+      dnsObject.servers.unshift("fakedns");
+    }
+  }
+  return dnsObject;
+}
+function buildXrayRoutingRules(proxySettings, outboundAddrs, isChain, isBalancer, isWorkerLess) {
+  const {
+    localDNS,
+    bypassLAN,
+    bypassIran,
+    bypassChina,
+    bypassRussia,
+    blockAds,
+    blockPorn,
+    blockUDP443
+  } = proxySettings;
+  const isBypass = bypassIran || bypassChina || bypassRussia || bypassLAN;
+  const outboundDomains = outboundAddrs.filter((address) => isDomain(address));
+  const isOutboundRule = outboundDomains.length > 0;
+  let rules = [
+    {
+      inboundTag: [
+        "dns-in"
+      ],
+      outboundTag: "dns-out",
+      type: "field"
+    },
+    {
+      inboundTag: [
+        "socks-in",
+        "http-in"
+      ],
+      port: "53",
+      outboundTag: "dns-out",
+      type: "field"
+    }
+  ];
+  if (!isWorkerLess && (isOutboundRule || localDNS !== "localhost" && isBypass))
+    rules.push({
+      ip: [localDNS === "localhost" ? "8.8.8.8" : localDNS],
+      port: "53",
+      outboundTag: "direct",
+      type: "field"
+    });
+  if (isBypass && !isWorkerLess) {
+    let ipRule = {
+      ip: [],
+      outboundTag: "direct",
+      type: "field"
+    };
+    let domainRule = {
+      domain: [],
+      outboundTag: "direct",
+      type: "field"
+    };
+    bypassLAN && domainRule.domain.push("geosite:private") && ipRule.ip.push("geoip:private");
+    bypassIran && domainRule.domain.push("geosite:category-ir") && ipRule.ip.push("geoip:ir");
+    bypassChina && domainRule.domain.push("geosite:cn") && ipRule.ip.push("geoip:cn");
+    bypassRussia && domainRule.domain.push("geosite:category-ru") && ipRule.ip.push("geoip:ru");
+    rules.push(domainRule, ipRule);
+  }
+  blockUDP443 && rules.push({
+    network: "udp",
+    port: "443",
+    outboundTag: "block",
+    type: "field"
+  });
+  if (blockAds || blockPorn) {
+    let rule = {
+      domain: [],
+      outboundTag: "block",
+      type: "field"
+    };
+    blockAds && rule.domain.push("geosite:category-ads-all", "geosite:category-ads-ir");
+    blockPorn && rule.domain.push("geosite:category-porn");
+    rules.push(rule);
+  }
+  if (isBalancer) {
+    rules.push({
+      network: "tcp,udp",
+      balancerTag: "all",
+      type: "field"
+    });
+  } else {
+    rules.push({
+      network: "tcp,udp",
+      outboundTag: isChain ? "chain" : isWorkerLess ? "fragment" : "proxy",
+      type: "field"
+    });
+  }
+  return rules;
+}
+function buildXrayVLESSOutbound(tag2, address, port, host, sni, proxyIP2, isFragment, allowInsecure) {
+  let outbound = {
+    protocol: "vless",
+    settings: {
+      vnext: [
+        {
+          address,
+          port: +port,
+          users: [
+            {
+              id: userID,
+              encryption: "none",
+              level: 8
+            }
+          ]
+        }
+      ]
+    },
+    streamSettings: {
+      network: "ws",
+      security: "none",
+      sockopt: {},
+      wsSettings: {
+        headers: {
+          Host: host,
+          "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+        },
+        path: `/${getRandomPath(16)}${proxyIP2 ? `/${btoa(proxyIP2)}` : ""}?ed=2560`
+      }
+    },
+    tag: tag2
+  };
+  if (defaultHttpsPorts.includes(port)) {
+    outbound.streamSettings.security = "tls";
+    outbound.streamSettings.tlsSettings = {
+      allowInsecure,
+      fingerprint: "randomized",
+      alpn: ["h2", "http/1.1"],
+      serverName: sni
+    };
+  }
+  if (isFragment) {
+    outbound.streamSettings.sockopt.dialerProxy = "fragment";
+  } else {
+    outbound.streamSettings.sockopt.tcpKeepAliveIdle = 100;
+    outbound.streamSettings.sockopt.tcpNoDelay = true;
+  }
+  return outbound;
+}
+function buildXrayTrojanOutbound(tag2, address, port, host, sni, proxyIP2, isFragment, allowInsecure) {
+  let outbound = {
+    protocol: "trojan",
+    settings: {
+      servers: [
+        {
+          address,
+          port: +port,
+          password: trojanPassword,
+          level: 8
+        }
+      ]
+    },
+    streamSettings: {
+      network: "ws",
+      security: "none",
+      sockopt: {},
+      wsSettings: {
+        headers: {
+          Host: host
+        },
+        path: `/tr${getRandomPath(16)}${proxyIP2 ? `/${btoa(proxyIP2)}` : ""}?ed=2560`
+      }
+    },
+    tag: tag2
+  };
+  if (defaultHttpsPorts.includes(port)) {
+    outbound.streamSettings.security = "tls";
+    outbound.streamSettings.tlsSettings = {
+      allowInsecure,
+      fingerprint: "randomized",
+      alpn: ["h2", "http/1.1"],
+      serverName: sni
+    };
+  }
+  if (isFragment) {
+    outbound.streamSettings.sockopt.dialerProxy = "fragment";
+  } else {
+    outbound.streamSettings.sockopt.tcpKeepAliveIdle = 100;
+    outbound.streamSettings.sockopt.tcpNoDelay = true;
+  }
+  return outbound;
+}
+function buildXrayWarpOutbound(proxySettings, warpConfigs, endpoint, isChain, client) {
+  const {
+    nikaNGNoiseMode,
+    noiseCountMin,
+    noiseCountMax,
+    noiseSizeMin,
+    noiseSizeMax,
+    noiseDelayMin,
+    noiseDelayMax
+  } = proxySettings;
+  const {
+    warpIPv6,
+    reserved,
+    publicKey,
+    privateKey
+  } = extractWireguardParams(warpConfigs, isChain);
+  let outbound = {
+    protocol: "wireguard",
+    settings: {
+      address: [
+        "172.16.0.2/32",
+        warpIPv6
+      ],
+      mtu: 1280,
+      peers: [
+        {
+          endpoint,
+          publicKey,
+          keepAlive: 5
+        }
+      ],
+      reserved: base64ToDecimal(reserved),
+      secretKey: privateKey
+    },
+    streamSettings: {
+      sockopt: {
+        dialerProxy: "proxy",
+        tcpKeepAliveIdle: 100,
+        tcpNoDelay: true
+      }
+    },
+    tag: isChain ? "chain" : "proxy"
+  };
+  !isChain && delete outbound.streamSettings;
+  client === "nikang" && !isChain && Object.assign(outbound.settings, {
+    wnoise: nikaNGNoiseMode,
+    wnoisecount: noiseCountMin === noiseCountMax ? noiseCountMin : `${noiseCountMin}-${noiseCountMax}`,
+    wpayloadsize: noiseSizeMin === noiseSizeMax ? noiseSizeMin : `${noiseSizeMin}-${noiseSizeMax}`,
+    wnoisedelay: noiseDelayMin === noiseDelayMax ? noiseDelayMin : `${noiseDelayMin}-${noiseDelayMax}`
+  });
+  return outbound;
+}
+function buildXrayChainOutbound(chainProxyParams) {
+  if (["socks", "http"].includes(chainProxyParams.protocol)) {
+    const { protocol, host: host2, port: port2, user, pass } = chainProxyParams;
+    return {
+      protocol,
+      settings: {
+        servers: [
+          {
+            address: host2,
+            port: +port2,
+            users: [
+              {
+                user,
+                pass,
+                level: 8
+              }
+            ]
+          }
+        ]
+      },
+      streamSettings: {
+        network: "tcp",
+        sockopt: {
+          dialerProxy: "proxy",
+          tcpNoDelay: true
+        }
+      },
+      mux: {
+        enabled: true,
+        concurrency: 8,
+        xudpConcurrency: 16,
+        xudpProxyUDP443: "reject"
+      },
+      tag: "chain"
+    };
+  }
+  const {
+    hostName,
+    port,
+    uuid,
+    flow,
+    security,
+    type,
+    sni,
+    fp,
+    alpn,
+    pbk,
+    sid,
+    spx,
+    headerType,
+    host,
+    path,
+    authority,
+    serviceName,
+    mode
+  } = chainProxyParams;
+  let proxyOutbound = {
+    mux: {
+      concurrency: 8,
+      enabled: true,
+      xudpConcurrency: 16,
+      xudpProxyUDP443: "reject"
+    },
+    protocol: "vless",
+    settings: {
+      vnext: [
+        {
+          address: hostName,
+          port: +port,
+          users: [
+            {
+              encryption: "none",
+              flow,
+              id: uuid,
+              level: 8,
+              security: "auto"
+            }
+          ]
+        }
+      ]
+    },
+    streamSettings: {
+      network: type,
+      security,
+      sockopt: {
+        dialerProxy: "proxy",
+        tcpNoDelay: true
+      }
+    },
+    tag: "chain"
+  };
+  if (security === "tls") {
+    const tlsAlpns = alpn ? alpn?.split(",") : [];
+    proxyOutbound.streamSettings.tlsSettings = {
+      allowInsecure: false,
+      fingerprint: fp,
+      alpn: tlsAlpns,
+      serverName: sni
+    };
+  }
+  if (security === "reality") {
+    delete proxyOutbound.mux;
+    proxyOutbound.streamSettings.realitySettings = {
+      fingerprint: fp,
+      publicKey: pbk,
+      serverName: sni,
+      shortId: sid,
+      spiderX: spx
+    };
+  }
+  if (headerType === "http") {
+    const httpPaths = path?.split(",");
+    const httpHosts = host?.split(",");
+    proxyOutbound.streamSettings.tcpSettings = {
+      header: {
+        request: {
+          headers: { Host: httpHosts },
+          method: "GET",
+          path: httpPaths,
+          version: "1.1"
+        },
+        response: {
+          headers: { "Content-Type": ["application/octet-stream"] },
+          reason: "OK",
+          status: "200",
+          version: "1.1"
+        },
+        type: "http"
+      }
+    };
+  }
+  if (type === "tcp" && security !== "reality" && !headerType)
+    proxyOutbound.streamSettings.tcpSettings = {
+      header: {
+        type: "none"
+      }
+    };
+  if (type === "ws")
+    proxyOutbound.streamSettings.wsSettings = {
+      headers: { Host: host },
+      path
+    };
+  if (type === "grpc") {
+    delete proxyOutbound.mux;
+    proxyOutbound.streamSettings.grpcSettings = {
+      authority,
+      multiMode: mode === "multi",
+      serviceName
+    };
+  }
+  return proxyOutbound;
+}
+function buildXrayConfig(proxySettings, remark, isFragment, isBalancer, isChain, balancerFallback, isWarp) {
+  const {
+    vlessTrojanFakeDNS,
+    warpFakeDNS,
+    bestVLESSTrojanInterval,
+    bestWarpInterval,
+    lengthMin,
+    lengthMax,
+    intervalMin,
+    intervalMax,
+    fragmentPackets
+  } = proxySettings;
+  const isFakeDNS = vlessTrojanFakeDNS && !isWarp || warpFakeDNS && isWarp;
+  let config = structuredClone(xrayConfigTemp);
+  config.remarks = remark;
+  if (isFakeDNS) {
+    config.inbounds[0].sniffing.destOverride.push("fakedns");
+    config.inbounds[1].sniffing.destOverride.push("fakedns");
+  } else {
+    delete config.fakedns;
+  }
+  if (isFragment) {
+    const fragment = config.outbounds[0].settings.fragment;
+    fragment.length = `${lengthMin}-${lengthMax}`;
+    fragment.interval = `${intervalMin}-${intervalMax}`;
+    fragment.packets = fragmentPackets;
+  } else {
+    config.outbounds.shift();
+  }
+  if (isBalancer) {
+    const interval = isWarp ? bestWarpInterval : bestVLESSTrojanInterval;
+    config.observatory.probeInterval = `${interval}s`;
+    config.observatory.subjectSelector = [isChain ? "chain" : "prox"];
+    config.routing.balancers[0].selector = [isChain ? "chain" : "prox"];
+    if (balancerFallback)
+      config.routing.balancers[0].fallbackTag = balancerFallback;
+  } else {
+    delete config.observatory;
+    delete config.routing.balancers;
+  }
+  return config;
+}
+async function buildXrayBestPingConfig(proxySettings, totalAddresses, chainProxy, outbounds, isFragment) {
+  const remark = isFragment ? "\u{1F4A6} BPB F - Best Ping \u{1F4A5}" : "\u{1F4A6} BPB - Best Ping \u{1F4A5}";
+  let config = buildXrayConfig(proxySettings, remark, isFragment, true, chainProxy, chainProxy ? "chain-2" : "prox-2");
+  config.dns = await buildXrayDNS(proxySettings, totalAddresses, void 0);
+  config.routing.rules = buildXrayRoutingRules(proxySettings, totalAddresses, chainProxy, true, false);
+  config.outbounds.unshift(...outbounds);
+  return config;
+}
+async function buildXrayBestFragmentConfig(proxySettings, hostName, chainProxy, outbounds) {
+  const bestFragValues = [
+    "10-20",
+    "20-30",
+    "30-40",
+    "40-50",
+    "50-60",
+    "60-70",
+    "70-80",
+    "80-90",
+    "90-100",
+    "10-30",
+    "20-40",
+    "30-50",
+    "40-60",
+    "50-70",
+    "60-80",
+    "70-90",
+    "80-100",
+    "100-200"
+  ];
+  let config = buildXrayConfig(proxySettings, "\u{1F4A6} BPB F - Best Fragment \u{1F60E}", true, true, chainProxy, void 0, false);
+  config.dns = await buildXrayDNS(proxySettings, [], hostName);
+  config.routing.rules = buildXrayRoutingRules(proxySettings, [], chainProxy, true, false);
+  const fragment = config.outbounds.shift();
+  let bestFragOutbounds = [];
+  bestFragValues.forEach((fragLength, index) => {
+    if (chainProxy) {
+      let chainOutbound = structuredClone(chainProxy);
+      chainOutbound.tag = `chain-${index + 1}`;
+      chainOutbound.streamSettings.sockopt.dialerProxy = `prox-${index + 1}`;
+      bestFragOutbounds.push(chainOutbound);
+    }
+    let proxyOutbound = structuredClone(outbounds[chainProxy ? 1 : 0]);
+    proxyOutbound.tag = `prox-${index + 1}`;
+    proxyOutbound.streamSettings.sockopt.dialerProxy = `frag-${index + 1}`;
+    let fragmentOutbound = structuredClone(fragment);
+    fragmentOutbound.tag = `frag-${index + 1}`;
+    fragmentOutbound.settings.fragment.length = fragLength;
+    fragmentOutbound.settings.fragment.interval = "1-1";
+    bestFragOutbounds.push(proxyOutbound, fragmentOutbound);
+  });
+  config.outbounds.unshift(...bestFragOutbounds);
+  return config;
+}
+async function buildXrayWorkerLessConfig(proxySettings) {
+  let config = buildXrayConfig(proxySettings, "\u{1F4A6} BPB F - WorkerLess \u2B50", true, false, false, void 0, false);
+  config.dns = await buildXrayDNS(proxySettings, [], void 0, true);
+  config.routing.rules = buildXrayRoutingRules(proxySettings, [], false, false, true);
+  let fakeOutbound = buildXrayVLESSOutbound("fake-outbound", "google.com", "443", userID, "google.com", "google.com", "", true, false);
+  delete fakeOutbound.streamSettings.sockopt;
+  fakeOutbound.streamSettings.wsSettings.path = "/";
+  config.outbounds.push(fakeOutbound);
+  return config;
+}
+async function getXrayCustomConfigs(env, proxySettings, hostName, isFragment) {
+  let configs = [];
+  let outbounds = [];
+  let protocols = [];
+  let chainProxy;
+  const {
+    proxyIP: proxyIP2,
+    outProxy,
+    outProxyParams,
+    cleanIPs,
+    enableIPv6,
+    customCdnAddrs,
+    customCdnHost,
+    customCdnSni,
+    vlessConfigs,
+    trojanConfigs,
+    ports
+  } = proxySettings;
+  if (outProxy) {
+    const proxyParams = JSON.parse(outProxyParams);
+    try {
+      chainProxy = buildXrayChainOutbound(proxyParams);
+    } catch (error) {
+      console.log("An error occured while parsing chain proxy: ", error);
+      chainProxy = void 0;
+      await env.bpb.put("proxySettings", JSON.stringify({
+        ...proxySettings,
+        outProxy: "",
+        outProxyParams: ""
+      }));
+    }
+  }
+  const Addresses = await getConfigAddresses(hostName, cleanIPs, enableIPv6);
+  const customCdnAddresses = customCdnAddrs ? customCdnAddrs.split(",") : [];
+  const totalAddresses = isFragment ? [...Addresses] : [...Addresses, ...customCdnAddresses];
+  const totalPorts = ports.filter((port) => isFragment ? defaultHttpsPorts.includes(port) : true);
+  vlessConfigs && protocols.push("VLESS");
+  trojanConfigs && protocols.push("Trojan");
+  let proxyIndex = 1;
+  for (const protocol of protocols) {
+    let protocolIndex = 1;
+    for (const port of totalPorts) {
+      for (const addr of totalAddresses) {
+        const isCustomAddr = customCdnAddresses.includes(addr);
+        const configType = isCustomAddr ? "C" : isFragment ? "F" : "";
+        const sni = isCustomAddr ? customCdnSni : randomUpperCase(hostName);
+        const host = isCustomAddr ? customCdnHost : hostName;
+        const remark = generateRemark(protocolIndex, port, addr, cleanIPs, protocol, configType);
+        let customConfig = buildXrayConfig(proxySettings, remark, isFragment, false, chainProxy, void 0, false);
+        customConfig.dns = await buildXrayDNS(proxySettings, [addr], void 0);
+        customConfig.routing.rules = buildXrayRoutingRules(proxySettings, [addr], chainProxy, false, false);
+        let outbound = protocol === "VLESS" ? buildXrayVLESSOutbound("proxy", addr, port, host, sni, proxyIP2, isFragment, isCustomAddr) : buildXrayTrojanOutbound("proxy", addr, port, host, sni, proxyIP2, isFragment, isCustomAddr);
+        customConfig.outbounds.unshift({ ...outbound });
+        outbound.tag = `prox-${proxyIndex}`;
+        if (chainProxy) {
+          customConfig.outbounds.unshift(chainProxy);
+          let chainOutbound = structuredClone(chainProxy);
+          chainOutbound.tag = `chain-${proxyIndex}`;
+          chainOutbound.streamSettings.sockopt.dialerProxy = `prox-${proxyIndex}`;
+          outbounds.push(chainOutbound);
+        }
+        outbounds.push(outbound);
+        configs.push(customConfig);
+        proxyIndex++;
+        protocolIndex++;
+      }
+    }
+  }
+  const bestPing = await buildXrayBestPingConfig(proxySettings, totalAddresses, chainProxy, outbounds, isFragment);
+  if (!isFragment)
+    return [...configs, bestPing];
+  const bestFragment = await buildXrayBestFragmentConfig(proxySettings, hostName, chainProxy, outbounds);
+  const workerLessConfig = await buildXrayWorkerLessConfig(proxySettings);
+  configs.push(bestPing, bestFragment, workerLessConfig);
+  return configs;
+}
+async function getXrayWarpConfigs(proxySettings, warpConfigs, client) {
+  let xrayWarpConfigs = [];
+  let xrayWoWConfigs = [];
+  let xrayWarpOutbounds = [];
+  let xrayWoWOutbounds = [];
+  const { warpEndpoints } = proxySettings;
+  const outboundDomains = warpEndpoints.split(",").map((endpoint) => endpoint.split(":")[0]).filter((address) => isDomain(address));
+  const proIndicator = client === "nikang" ? " Pro " : " ";
+  for (const [index, endpoint] of warpEndpoints.split(",").entries()) {
+    const endpointHost = endpoint.split(":")[0];
+    let warpConfig = buildXrayConfig(proxySettings, `\u{1F4A6} ${index + 1} - Warp${proIndicator}\u{1F1EE}\u{1F1F7}`, false, false, false, void 0, true);
+    let WoWConfig = buildXrayConfig(proxySettings, `\u{1F4A6} ${index + 1} - WoW${proIndicator}\u{1F30D}`, false, false, true, void 0, true);
+    warpConfig.dns = WoWConfig.dns = await buildXrayDNS(proxySettings, [endpointHost], void 0, false, true);
+    warpConfig.routing.rules = buildXrayRoutingRules(proxySettings, [endpointHost], false, false, false);
+    WoWConfig.routing.rules = buildXrayRoutingRules(proxySettings, [endpointHost], true, false, false);
+    const warpOutbound = buildXrayWarpOutbound(proxySettings, warpConfigs, endpoint, false, client);
+    const WoWOutbound = buildXrayWarpOutbound(proxySettings, warpConfigs, endpoint, true, client);
+    warpOutbound.settings.peers[0].endpoint = endpoint;
+    WoWOutbound.settings.peers[0].endpoint = endpoint;
+    warpConfig.outbounds.unshift(warpOutbound);
+    WoWConfig.outbounds.unshift(WoWOutbound, warpOutbound);
+    xrayWarpConfigs.push(warpConfig);
+    xrayWoWConfigs.push(WoWConfig);
+    const proxyOutbound = structuredClone(warpOutbound);
+    proxyOutbound.tag = `prox-${index + 1}`;
+    const chainOutbound = structuredClone(WoWOutbound);
+    chainOutbound.tag = `chain-${index + 1}`;
+    chainOutbound.streamSettings.sockopt.dialerProxy = `prox-${index + 1}`;
+    xrayWarpOutbounds.push(proxyOutbound);
+    xrayWoWOutbounds.push(chainOutbound);
+  }
+  const dnsObject = await buildXrayDNS(proxySettings, outboundDomains, void 0, false, true);
+  let xrayWarpBestPing = buildXrayConfig(proxySettings, `\u{1F4A6} Warp${proIndicator}- Best Ping \u{1F680}`, false, true, false, void 0, true);
+  xrayWarpBestPing.dns = dnsObject;
+  xrayWarpBestPing.routing.rules = buildXrayRoutingRules(proxySettings, outboundDomains, false, true, false);
+  xrayWarpBestPing.outbounds.unshift(...xrayWarpOutbounds);
+  let xrayWoWBestPing = buildXrayConfig(proxySettings, `\u{1F4A6} WoW${proIndicator}- Best Ping \u{1F680}`, false, true, true, void 0, true);
+  xrayWoWBestPing.dns = dnsObject;
+  xrayWoWBestPing.routing.rules = buildXrayRoutingRules(proxySettings, outboundDomains, true, true, false);
+  xrayWoWBestPing.outbounds.unshift(...xrayWoWOutbounds, ...xrayWarpOutbounds);
+  return [...xrayWarpConfigs, ...xrayWoWConfigs, xrayWarpBestPing, xrayWoWBestPing];
+}
+async function buildClashDNS(proxySettings, isWarp) {
+  const {
+    remoteDNS,
+    resolvedRemoteDNS,
+    localDNS,
+    vlessTrojanFakeDNS,
+    warpFakeDNS,
+    bypassLAN,
+    bypassIran,
+    bypassChina,
+    bypassRussia
+  } = proxySettings;
+  const finalRemoteDNS = isWarp ? ["1.1.1.1", "1.0.0.1"] : [remoteDNS];
+  let clashLocalDNS = localDNS === "localhost" ? "system" : localDNS;
+  const isFakeDNS = vlessTrojanFakeDNS && !isWarp || warpFakeDNS && isWarp;
+  let dns = {
+    "enable": true,
+    "listen": "0.0.0.0:1053",
+    "ipv6": true,
+    "respect-rules": true,
+    "nameserver": finalRemoteDNS,
+    "proxy-server-nameserver": [clashLocalDNS]
+  };
+  if (resolvedRemoteDNS.server && !isWarp) {
+    dns["hosts"] = {
+      [resolvedRemoteDNS.server]: resolvedRemoteDNS.staticIPs
+    };
+  }
+  let geosites = [];
+  bypassLAN && geosites.push("private");
+  bypassIran && geosites.push("category-ir");
+  bypassChina && geosites.push("cn");
+  bypassRussia && geosites.push("category-ru");
+  if (bypassIran || bypassChina || bypassLAN || bypassRussia) {
+    dns["nameserver-policy"] = {
+      [`geosite:${geosites.join(",")}`]: [clashLocalDNS],
+      "www.gstatic.com": [clashLocalDNS]
+    };
+  }
+  if (isFakeDNS) {
+    dns["enhanced-mode"] = "fake-ip";
+    dns["fake-ip-range"] = "198.18.0.1/16";
+  }
+  return dns;
+}
+function buildClashRoutingRules(proxySettings) {
+  let rules = [];
+  const {
+    localDNS,
+    bypassLAN,
+    bypassIran,
+    bypassChina,
+    bypassRussia,
+    blockAds,
+    blockPorn,
+    blockUDP443
+  } = proxySettings;
+  localDNS !== "localhost" && rules.push(`AND,((IP-CIDR,${localDNS}/32),(DST-PORT,53)),DIRECT`);
+  bypassLAN && rules.push("GEOSITE,private,DIRECT");
+  bypassIran && rules.push("GEOSITE,category-ir,DIRECT");
+  bypassChina && rules.push("GEOSITE,cn,DIRECT");
+  bypassRussia && rules.push("GEOSITE,category-ru,DIRECT");
+  bypassLAN && rules.push("GEOIP,private,DIRECT,no-resolve");
+  bypassIran && rules.push("GEOIP,ir,DIRECT,no-resolve");
+  bypassChina && rules.push("GEOIP,cn,DIRECT,no-resolve");
+  bypassRussia && rules.push("GEOIP,ru,DIRECT,no-resolve");
+  blockUDP443 && rules.push("AND,((NETWORK,udp),(DST-PORT,443)),REJECT");
+  blockAds && rules.push("GEOSITE,category-ads-all,REJECT", "GEOSITE,category-ads-ir,REJECT");
+  blockPorn && rules.push("GEOSITE,category-porn,REJECT");
+  rules.push("MATCH,\u2705 Selector");
+  return rules;
+}
+function buildClashVLESSOutbound(remark, address, port, host, sni, path, allowInsecure) {
+  const tls = defaultHttpsPorts.includes(port) ? true : false;
+  const addr = isIPv6(address) ? address.replace(/\[|\]/g, "") : address;
+  let outbound = {
+    "name": remark,
+    "type": "vless",
+    "server": addr,
+    "port": +port,
+    "uuid": userID,
+    "tls": tls,
+    "network": "ws",
+    "udp": false,
+    "ws-opts": {
+      "path": path,
+      "headers": { "host": host },
+      "max-early-data": 2560,
+      "early-data-header-name": "Sec-WebSocket-Protocol"
+    }
+  };
+  if (tls) {
+    Object.assign(outbound, {
+      "servername": sni,
+      "alpn": ["h2", "http/1.1"],
+      "client-fingerprint": "random",
+      "skip-cert-verify": allowInsecure
+    });
+  }
+  return outbound;
+}
+function buildClashTrojanOutbound(remark, address, port, host, sni, path, allowInsecure) {
+  const addr = isIPv6(address) ? address.replace(/\[|\]/g, "") : address;
+  return {
+    "name": remark,
+    "type": "trojan",
+    "server": addr,
+    "port": +port,
+    "password": trojanPassword,
+    "network": "ws",
+    "udp": false,
+    "ws-opts": {
+      "path": path,
+      "headers": { "host": host },
+      "max-early-data": 2560,
+      "early-data-header-name": "Sec-WebSocket-Protocol"
+    },
+    "sni": sni,
+    "alpn": ["h2", "http/1.1"],
+    "client-fingerprint": "random",
+    "skip-cert-verify": allowInsecure
+  };
+}
+function buildClashWarpOutbound(warpConfigs, remark, endpoint, chain) {
+  const ipv6Regex = /\[(.*?)\]/;
+  const portRegex = /[^:]*$/;
+  const endpointServer = endpoint.includes("[") ? endpoint.match(ipv6Regex)[1] : endpoint.split(":")[0];
+  const endpointPort = endpoint.includes("[") ? +endpoint.match(portRegex)[0] : +endpoint.split(":")[1];
+  const {
+    warpIPv6,
+    reserved,
+    publicKey,
+    privateKey
+  } = extractWireguardParams(warpConfigs, chain);
+  return {
+    "name": remark,
+    "type": "wireguard",
+    "ip": "172.16.0.2/32",
+    "ipv6": warpIPv6,
+    "private-key": privateKey,
+    "server": endpointServer,
+    "port": endpointPort,
+    "public-key": publicKey,
+    "allowed-ips": ["0.0.0.0/0", "::/0"],
+    "reserved": reserved,
+    "udp": true,
+    "mtu": 1280,
+    "dialer-proxy": chain,
+    "remote-dns-resolve": true,
+    "dns": ["1.1.1.1", "1.0.0.1"]
+  };
+}
+function buildClashChainOutbound(chainProxyParams) {
+  if (["socks", "http"].includes(chainProxyParams.protocol)) {
+    const { protocol, host: host2, port: port2, user, pass } = chainProxyParams;
+    const proxyType = protocol === "socks" ? "socks5" : protocol;
+    return {
+      "name": "",
+      "type": proxyType,
+      "server": host2,
+      "port": +port2,
+      "dialer-proxy": "",
+      "username": user,
+      "password": pass
+    };
+  }
+  const { hostName, port, uuid, flow, security, type, sni, fp, alpn, pbk, sid, headerType, host, path, serviceName } = chainProxyParams;
+  let chainOutbound = {
+    "name": "\u{1F4A6} Chain Best Ping \u{1F4A5}",
+    "type": "vless",
+    "server": hostName,
+    "port": +port,
+    "udp": true,
+    "uuid": uuid,
+    "flow": flow,
+    "network": type,
+    "dialer-proxy": "\u{1F4A6} Best Ping \u{1F4A5}"
+  };
+  if (security === "tls") {
+    const tlsAlpns = alpn ? alpn?.split(",") : [];
+    Object.assign(chainOutbound, {
+      "tls": true,
+      "servername": sni,
+      "alpn": tlsAlpns,
+      "client-fingerprint": fp
+    });
+  }
+  if (security === "reality")
+    Object.assign(chainOutbound, {
+      "tls": true,
+      "servername": sni,
+      "client-fingerprint": fp,
+      "reality-opts": {
+        "public-key": pbk,
+        "short-id": sid
+      }
+    });
+  if (headerType === "http") {
+    const httpPaths = path?.split(",");
+    chainOutbound["http-opts"] = {
+      "method": "GET",
+      "path": httpPaths,
+      "headers": {
+        "Connection": ["keep-alive"],
+        "Content-Type": ["application/octet-stream"]
+      }
+    };
+  }
+  if (type === "ws") {
+    const wsPath = path?.split("?ed=")[0];
+    const earlyData = +path?.split("?ed=")[1];
+    chainOutbound["ws-opts"] = {
+      "path": wsPath,
+      "headers": {
+        "Host": host
+      },
+      "max-early-data": earlyData,
+      "early-data-header-name": "Sec-WebSocket-Protocol"
+    };
+  }
+  if (type === "grpc")
+    chainOutbound["grpc-opts"] = {
+      "grpc-service-name": serviceName
+    };
+  return chainOutbound;
+}
+async function getClashWarpConfig(proxySettings, warpConfigs) {
+  const { warpEndpoints } = proxySettings;
+  let config = structuredClone(clashConfigTemp);
+  config.dns = await buildClashDNS(proxySettings, true);
+  config.rules = buildClashRoutingRules(proxySettings);
+  const selector = config["proxy-groups"][0];
+  const warpUrlTest = config["proxy-groups"][1];
+  selector.proxies = ["\u{1F4A6} Warp - Best Ping \u{1F680}", "\u{1F4A6} WoW - Best Ping \u{1F680}"];
+  warpUrlTest.name = "\u{1F4A6} Warp - Best Ping \u{1F680}";
+  warpUrlTest.interval = +proxySettings.bestWarpInterval;
+  config["proxy-groups"].push(structuredClone(warpUrlTest));
+  const WoWUrlTest = config["proxy-groups"][2];
+  WoWUrlTest.name = "\u{1F4A6} WoW - Best Ping \u{1F680}";
+  let warpRemarks = [], WoWRemarks = [];
+  warpEndpoints.split(",").forEach((endpoint, index) => {
+    const warpRemark = `\u{1F4A6} ${index + 1} - Warp \u{1F1EE}\u{1F1F7}`;
+    const WoWRemark = `\u{1F4A6} ${index + 1} - WoW \u{1F30D}`;
+    const warpOutbound = buildClashWarpOutbound(warpConfigs, warpRemark, endpoint, "");
+    const WoWOutbound = buildClashWarpOutbound(warpConfigs, WoWRemark, endpoint, warpRemark);
+    config.proxies.push(WoWOutbound, warpOutbound);
+    warpRemarks.push(warpRemark);
+    WoWRemarks.push(WoWRemark);
+    warpUrlTest.proxies.push(warpRemark);
+    WoWUrlTest.proxies.push(WoWRemark);
+  });
+  selector.proxies.push(...warpRemarks, ...WoWRemarks);
+  return config;
+}
+async function getClashNormalConfig(env, proxySettings, hostName) {
+  let chainProxy;
+  const {
+    cleanIPs,
+    proxyIP: proxyIP2,
+    ports,
+    vlessConfigs,
+    trojanConfigs,
+    outProxy,
+    outProxyParams,
+    customCdnAddrs,
+    customCdnHost,
+    customCdnSni,
+    bestVLESSTrojanInterval,
+    enableIPv6
+  } = proxySettings;
+  if (outProxy) {
+    const proxyParams = JSON.parse(outProxyParams);
+    try {
+      chainProxy = buildClashChainOutbound(proxyParams);
+    } catch (error) {
+      console.log("An error occured while parsing chain proxy: ", error);
+      chainProxy = void 0;
+      await env.bpb.put("proxySettings", JSON.stringify({
+        ...proxySettings,
+        outProxy: "",
+        outProxyParams: ""
+      }));
+    }
+  }
+  let config = structuredClone(clashConfigTemp);
+  config.dns = await buildClashDNS(proxySettings, false);
+  config.rules = buildClashRoutingRules(proxySettings);
+  const selector = config["proxy-groups"][0];
+  const urlTest = config["proxy-groups"][1];
+  selector.proxies = ["\u{1F4A6} Best Ping \u{1F4A5}"];
+  urlTest.name = "\u{1F4A6} Best Ping \u{1F4A5}";
+  urlTest.interval = +bestVLESSTrojanInterval;
+  const Addresses = await getConfigAddresses(hostName, cleanIPs, enableIPv6);
+  const customCdnAddresses = customCdnAddrs ? customCdnAddrs.split(",") : [];
+  const totalAddresses = [...Addresses, ...customCdnAddresses];
+  let proxyIndex = 1, path;
+  const protocols = [
+    ...vlessConfigs ? ["VLESS"] : [],
+    ...trojanConfigs ? ["Trojan"] : []
+  ];
+  protocols.forEach((protocol) => {
+    let protocolIndex = 1;
+    ports.forEach((port) => {
+      totalAddresses.forEach((addr) => {
+        let VLESSOutbound, TrojanOutbound;
+        const isCustomAddr = customCdnAddresses.includes(addr);
+        const configType = isCustomAddr ? "C" : "";
+        const sni = isCustomAddr ? customCdnSni : randomUpperCase(hostName);
+        const host = isCustomAddr ? customCdnHost : hostName;
+        const remark = generateRemark(protocolIndex, port, addr, cleanIPs, protocol, configType).replace(" : ", " - ");
+        if (protocol === "VLESS") {
+          path = `/${getRandomPath(16)}${proxyIP2 ? `/${btoa(proxyIP2)}` : ""}`;
+          VLESSOutbound = buildClashVLESSOutbound(
+            chainProxy ? `proxy-${proxyIndex}` : remark,
+            addr,
+            port,
+            host,
+            sni,
+            path,
+            isCustomAddr
+          );
+          config.proxies.push(VLESSOutbound);
+          selector.proxies.push(remark);
+          urlTest.proxies.push(remark);
+        }
+        if (protocol === "Trojan" && defaultHttpsPorts.includes(port)) {
+          path = `/tr${getRandomPath(16)}${proxyIP2 ? `/${btoa(proxyIP2)}` : ""}`;
+          TrojanOutbound = buildClashTrojanOutbound(
+            chainProxy ? `proxy-${proxyIndex}` : remark,
+            addr,
+            port,
+            host,
+            sni,
+            path,
+            isCustomAddr
+          );
+          config.proxies.push(TrojanOutbound);
+          selector.proxies.push(remark);
+          urlTest.proxies.push(remark);
+        }
+        if (chainProxy) {
+          let chain = structuredClone(chainProxy);
+          chain["name"] = remark;
+          chain["dialer-proxy"] = `proxy-${proxyIndex}`;
+          config.proxies.push(chain);
+        }
+        proxyIndex++;
+        protocolIndex++;
+      });
+    });
+  });
+  return config;
+}
+function buildSingBoxDNS(proxySettings, isChain, isWarp) {
+  const {
+    remoteDNS,
+    localDNS,
+    vlessTrojanFakeDNS,
+    warpFakeDNS,
+    bypassIran,
+    bypassChina,
+    bypassRussia,
+    blockAds,
+    blockPorn
+  } = proxySettings;
+  let fakeip;
+  const isFakeDNS = vlessTrojanFakeDNS && !isWarp || warpFakeDNS && isWarp;
+  const servers = [
+    {
+      address: isWarp ? "1.1.1.1" : remoteDNS,
+      address_resolver: "dns-direct",
+      strategy: "prefer_ipv4",
+      detour: isChain ? "proxy-1" : "proxy",
+      tag: "dns-remote"
+    },
+    {
+      address: localDNS === "localhost" ? "local" : localDNS,
+      strategy: "prefer_ipv4",
+      detour: "direct",
+      tag: "dns-direct"
+    },
+    {
+      address: "rcode://success",
+      tag: "dns-block"
+    }
+  ];
+  let rules = [
+    {
+      outbound: "any",
+      server: "dns-direct"
+    }
+  ];
+  if (bypassIran || bypassChina || bypassRussia) {
+    let bypassRules = {
+      rule_set: [],
+      server: "dns-direct"
+    };
+    bypassIran && bypassRules.rule_set.push("geosite-ir");
+    bypassChina && bypassRules.rule_set.push("geosite-cn");
+    bypassRussia && bypassRules.rule_set.push("geosite-category-ru");
+    rules.push(bypassRules);
+  }
+  let blockRules = {
+    disable_cache: true,
+    rule_set: [
+      "geosite-malware",
+      "geosite-phishing",
+      "geosite-cryptominers"
+    ],
+    server: "dns-block"
+  };
+  blockAds && blockRules.rule_set.push("geosite-category-ads-all");
+  blockPorn && blockRules.rule_set.push("geosite-nsfw");
+  rules.push(blockRules);
+  if (isFakeDNS) {
+    servers.push({
+      address: "fakeip",
+      tag: "dns-fake"
+    });
+    rules.push({
+      disable_cache: true,
+      inbound: "tun-in",
+      query_type: [
+        "A",
+        "AAAA"
+      ],
+      server: "dns-fake"
+    });
+    fakeip = {
+      enabled: true,
+      inet4_range: "198.18.0.0/15",
+      inet6_range: "fc00::/18"
+    };
+  }
+  return { servers, rules, fakeip };
+}
+function buildSingBoxRoutingRules(proxySettings) {
+  const {
+    bypassLAN,
+    bypassIran,
+    bypassChina,
+    bypassRussia,
+    blockAds,
+    blockPorn,
+    blockUDP443
+  } = proxySettings;
+  let rules = [
+    {
+      inbound: "dns-in",
+      outbound: "dns-out"
+    },
+    {
+      network: "udp",
+      port: 53,
+      outbound: "dns-out"
+    }
+  ];
+  let ruleSet = [
+    {
+      type: "remote",
+      tag: "geosite-malware",
+      format: "binary",
+      url: "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-malware.srs",
+      download_detour: "direct"
+    },
+    {
+      type: "remote",
+      tag: "geosite-phishing",
+      format: "binary",
+      url: "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-phishing.srs",
+      download_detour: "direct"
+    },
+    {
+      type: "remote",
+      tag: "geosite-cryptominers",
+      format: "binary",
+      url: "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-cryptominers.srs",
+      download_detour: "direct"
+    },
+    {
+      type: "remote",
+      tag: "geoip-malware",
+      format: "binary",
+      url: "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-malware.srs",
+      download_detour: "direct"
+    },
+    {
+      type: "remote",
+      tag: "geoip-phishing",
+      format: "binary",
+      url: "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-phishing.srs",
+      download_detour: "direct"
+    }
+  ];
+  if (bypassIran) {
+    rules.push({
+      rule_set: ["geosite-ir", "geoip-ir"],
+      outbound: "direct"
+    });
+    ruleSet.push(
+      {
+        type: "remote",
+        tag: "geosite-ir",
+        format: "binary",
+        url: "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-ir.srs",
+        download_detour: "direct"
+      },
+      {
+        type: "remote",
+        tag: "geoip-ir",
+        format: "binary",
+        url: "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geoip-ir.srs",
+        download_detour: "direct"
+      }
+    );
+  }
+  if (bypassChina) {
+    rules.push({
+      rule_set: ["geosite-cn", "geoip-cn"],
+      outbound: "direct"
+    });
+    ruleSet.push(
+      {
+        type: "remote",
+        tag: "geosite-cn",
+        format: "binary",
+        url: "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-cn.srs",
+        download_detour: "direct"
+      },
+      {
+        type: "remote",
+        tag: "geoip-cn",
+        format: "binary",
+        url: "https://raw.githubusercontent.com/SagerNet/sing-geoip/rule-set/geoip-cn.srs",
+        download_detour: "direct"
+      }
+    );
+  }
+  if (bypassRussia) {
+    rules.push({
+      rule_set: ["geosite-category-ru", "geoip-ru"],
+      outbound: "direct"
+    });
+    ruleSet.push(
+      {
+        type: "remote",
+        tag: "geosite-category-ru",
+        format: "binary",
+        url: "https://raw.githubusercontent.com/SagerNet/sing-geosite/rule-set/geosite-category-ru.srs",
+        download_detour: "direct"
+      },
+      {
+        type: "remote",
+        tag: "geoip-ru",
+        format: "binary",
+        url: "https://raw.githubusercontent.com/SagerNet/sing-geoip/rule-set/geoip-ru.srs",
+        download_detour: "direct"
+      }
+    );
+  }
+  bypassLAN && rules.push({
+    ip_is_private: true,
+    outbound: "direct"
+  });
+  blockUDP443 && rules.push({
+    network: "udp",
+    port: 443,
+    protocol: "quic",
+    outbound: "block"
+  });
+  let blockRuleSet = {
+    rule_set: [
+      "geosite-malware",
+      "geosite-phishing",
+      "geosite-cryptominers",
+      "geoip-malware",
+      "geoip-phishing"
+    ],
+    outbound: "block"
+  };
+  if (blockAds) {
+    blockRuleSet.rule_set.push("geosite-category-ads-all");
+    ruleSet.push({
+      type: "remote",
+      tag: "geosite-category-ads-all",
+      format: "binary",
+      url: "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-category-ads-all.srs",
+      download_detour: "direct"
+    });
+  }
+  if (blockPorn) {
+    blockRuleSet.rule_set.push("geosite-nsfw");
+    ruleSet.push({
+      type: "remote",
+      tag: "geosite-nsfw",
+      format: "binary",
+      url: "https://raw.githubusercontent.com/Chocolate4U/Iran-sing-box-rules/rule-set/geosite-nsfw.srs",
+      download_detour: "direct"
+    });
+  }
+  rules.push(blockRuleSet);
+  rules.push({
+    ip_cidr: ["224.0.0.0/3", "ff00::/8"],
+    source_ip_cidr: ["224.0.0.0/3", "ff00::/8"],
+    outbound: "block"
+  });
+  return { rules, rule_set: ruleSet };
+}
+function buildSingBoxVLESSOutbound(proxySettings, remark, address, port, host, sni, allowInsecure, isFragment) {
+  const { lengthMin, lengthMax, intervalMin, intervalMax, proxyIP: proxyIP2 } = proxySettings;
+  const path = `/${getRandomPath(16)}${proxyIP2 ? `/${btoa(proxyIP2)}` : ""}`;
+  const tls = defaultHttpsPorts.includes(port) ? true : false;
+  let outbound = {
+    type: "vless",
+    server: address,
+    server_port: +port,
+    uuid: userID,
+    tls: {
+      alpn: "http/1.1",
+      enabled: true,
+      insecure: allowInsecure,
+      server_name: sni,
+      utls: {
+        enabled: true,
+        fingerprint: "randomized"
+      }
+    },
+    transport: {
+      early_data_header_name: "Sec-WebSocket-Protocol",
+      max_early_data: 2560,
+      headers: {
+        Host: host
+      },
+      path,
+      type: "ws"
+    },
+    tag: remark
+  };
+  if (!tls)
+    delete outbound.tls;
+  if (isFragment)
+    outbound.tls_fragment = {
+      enabled: true,
+      size: `${lengthMin}-${lengthMax}`,
+      sleep: `${intervalMin}-${intervalMax}`
+    };
+  return outbound;
+}
+function buildSingBoxTrojanOutbound(proxySettings, remark, address, port, host, sni, allowInsecure, isFragment) {
+  const { lengthMin, lengthMax, intervalMin, intervalMax, proxyIP: proxyIP2 } = proxySettings;
+  const path = `/tr${getRandomPath(16)}${proxyIP2 ? `/${btoa(proxyIP2)}` : ""}`;
+  const tls = defaultHttpsPorts.includes(port) ? true : false;
+  let outbound = {
+    type: "trojan",
+    password: trojanPassword,
+    server: address,
+    server_port: +port,
+    tls: {
+      alpn: "http/1.1",
+      enabled: true,
+      insecure: allowInsecure,
+      server_name: sni,
+      utls: {
+        enabled: true,
+        fingerprint: "randomized"
+      }
+    },
+    transport: {
+      early_data_header_name: "Sec-WebSocket-Protocol",
+      max_early_data: 2560,
+      headers: {
+        Host: host
+      },
+      path,
+      type: "ws"
+    },
+    tag: remark
+  };
+  if (!tls)
+    delete outbound.tls;
+  if (isFragment)
+    outbound.tls_fragment = {
+      enabled: true,
+      size: `${lengthMin}-${lengthMax}`,
+      sleep: `${intervalMin}-${intervalMax}`
+    };
+  return outbound;
+}
+function buildSingBoxWarpOutbound(proxySettings, warpConfigs, remark, endpoint, chain, client) {
+  const ipv6Regex = /\[(.*?)\]/;
+  const portRegex = /[^:]*$/;
+  const endpointServer = endpoint.includes("[") ? endpoint.match(ipv6Regex)[1] : endpoint.split(":")[0];
+  const endpointPort = endpoint.includes("[") ? +endpoint.match(portRegex)[0] : +endpoint.split(":")[1];
+  const {
+    hiddifyNoiseMode,
+    noiseCountMin,
+    noiseCountMax,
+    noiseSizeMin,
+    noiseSizeMax,
+    noiseDelayMin,
+    noiseDelayMax
+  } = proxySettings;
+  const {
+    warpIPv6,
+    reserved,
+    publicKey,
+    privateKey
+  } = extractWireguardParams(warpConfigs, chain);
+  let outbound = {
+    local_address: [
+      "172.16.0.2/32",
+      warpIPv6
+    ],
+    mtu: 1280,
+    peer_public_key: publicKey,
+    private_key: privateKey,
+    reserved,
+    server: endpointServer,
+    server_port: endpointPort,
+    type: "wireguard",
+    detour: chain,
+    tag: remark
+  };
+  client === "hiddify" && Object.assign(outbound, {
+    fake_packets_mode: hiddifyNoiseMode,
+    fake_packets: noiseCountMin === noiseCountMax ? noiseCountMin : `${noiseCountMin}-${noiseCountMax}`,
+    fake_packets_size: noiseSizeMin === noiseSizeMax ? noiseSizeMin : `${noiseSizeMin}-${noiseSizeMax}`,
+    fake_packets_delay: noiseDelayMin === noiseDelayMax ? noiseDelayMin : `${noiseDelayMin}-${noiseDelayMax}`
+  });
+  return outbound;
+}
+function buildSingBoxChainOutbound(chainProxyParams) {
+  if (["socks", "http"].includes(chainProxyParams.protocol)) {
+    const { protocol, host: host2, port: port2, user, pass } = chainProxyParams;
+    let chainOutbound2 = {
+      type: protocol,
+      tag: "",
+      server: host2,
+      server_port: +port2,
+      username: user,
+      password: pass,
+      detour: ""
+    };
+    protocol === "socks" && Object.assign(chainOutbound2, {
+      version: "5",
+      network: "tcp"
+    });
+    return chainOutbound2;
+  }
+  const { hostName, port, uuid, flow, security, type, sni, fp, alpn, pbk, sid, headerType, host, path, serviceName } = chainProxyParams;
+  let chainOutbound = {
+    type: "vless",
+    tag: "",
+    server: hostName,
+    server_port: +port,
+    uuid,
+    flow,
+    network: "tcp",
+    detour: ""
+  };
+  if (security === "tls" || security === "reality") {
+    const tlsAlpns = alpn ? alpn?.split(",").filter((value) => value !== "h2") : [];
+    chainOutbound.tls = {
+      enabled: true,
+      server_name: sni,
+      insecure: false,
+      alpn: tlsAlpns,
+      utls: {
+        enabled: true,
+        fingerprint: fp
+      }
+    };
+    if (security === "reality") {
+      chainOutbound.tls.reality = {
+        enabled: true,
+        public_key: pbk,
+        short_id: sid
+      };
+      delete chainOutbound.tls.alpn;
+    }
+  }
+  if (headerType === "http") {
+    const httpHosts = host?.split(",");
+    chainOutbound.transport = {
+      type: "http",
+      host: httpHosts,
+      path,
+      method: "GET",
+      headers: {
+        "Connection": ["keep-alive"],
+        "Content-Type": ["application/octet-stream"]
+      }
+    };
+  }
+  if (type === "ws") {
+    const wsPath = path?.split("?ed=")[0];
+    const earlyData = +path?.split("?ed=")[1] || 0;
+    chainOutbound.transport = {
+      type: "ws",
+      path: wsPath,
+      headers: { Host: host },
+      max_early_data: earlyData,
+      early_data_header_name: "Sec-WebSocket-Protocol"
+    };
+  }
+  if (type === "grpc")
+    chainOutbound.transport = {
+      type: "grpc",
+      service_name: serviceName
+    };
+  return chainOutbound;
+}
+async function getSingBoxWarpConfig(proxySettings, warpConfigs, client) {
+  const { warpEndpoints } = proxySettings;
+  let config = structuredClone(singboxConfigTemp);
+  const dnsObject = buildSingBoxDNS(proxySettings, false, true);
+  const { rules, rule_set } = buildSingBoxRoutingRules(proxySettings);
+  config.dns.servers = dnsObject.servers;
+  config.dns.rules = dnsObject.rules;
+  if (dnsObject.fakeip)
+    config.dns.fakeip = dnsObject.fakeip;
+  config.route.rules = rules;
+  config.route.rule_set = rule_set;
+  const selector = config.outbounds[0];
+  const warpUrlTest = config.outbounds[1];
+  const proIndicator = client === "hiddify" ? " Pro " : " ";
+  selector.outbounds = [`\u{1F4A6} Warp${proIndicator}- Best Ping \u{1F680}`, `\u{1F4A6} WoW${proIndicator}- Best Ping \u{1F680}`];
+  config.outbounds.splice(2, 0, structuredClone(warpUrlTest));
+  const WoWUrlTest = config.outbounds[2];
+  warpUrlTest.tag = `\u{1F4A6} Warp${proIndicator}- Best Ping \u{1F680}`;
+  warpUrlTest.interval = `${proxySettings.bestWarpInterval}s`;
+  WoWUrlTest.tag = `\u{1F4A6} WoW${proIndicator}- Best Ping \u{1F680}`;
+  WoWUrlTest.interval = `${proxySettings.bestWarpInterval}s`;
+  let warpRemarks = [], WoWRemarks = [];
+  warpEndpoints.split(",").forEach((endpoint, index) => {
+    const warpRemark = `\u{1F4A6} ${index + 1} - Warp \u{1F1EE}\u{1F1F7}`;
+    const WoWRemark = `\u{1F4A6} ${index + 1} - WoW \u{1F30D}`;
+    const warpOutbound = buildSingBoxWarpOutbound(proxySettings, warpConfigs, warpRemark, endpoint, "", client);
+    const WoWOutbound = buildSingBoxWarpOutbound(proxySettings, warpConfigs, WoWRemark, endpoint, warpRemark, client);
+    config.outbounds.push(WoWOutbound, warpOutbound);
+    warpRemarks.push(warpRemark);
+    WoWRemarks.push(WoWRemark);
+    warpUrlTest.outbounds.push(warpRemark);
+    WoWUrlTest.outbounds.push(WoWRemark);
+  });
+  selector.outbounds.push(...warpRemarks, ...WoWRemarks);
+  return config;
+}
+async function getSingBoxCustomConfig(env, proxySettings, hostName, client, isFragment) {
+  let chainProxyOutbound;
+  const {
+    cleanIPs,
+    ports,
+    vlessConfigs,
+    trojanConfigs,
+    outProxy,
+    outProxyParams,
+    customCdnAddrs,
+    customCdnHost,
+    customCdnSni,
+    bestVLESSTrojanInterval,
+    enableIPv6
+  } = proxySettings;
+  if (outProxy) {
+    const proxyParams = JSON.parse(outProxyParams);
+    try {
+      chainProxyOutbound = buildSingBoxChainOutbound(proxyParams);
+    } catch (error) {
+      console.log("An error occured while parsing chain proxy: ", error);
+      chainProxyOutbound = void 0;
+      await env.bpb.put("proxySettings", JSON.stringify({
+        ...proxySettings,
+        outProxy: "",
+        outProxyParams: ""
+      }));
+      throw new Error(error);
+    }
+  }
+  let config = structuredClone(singboxConfigTemp);
+  const dnsObject = buildSingBoxDNS(proxySettings, chainProxyOutbound, false);
+  const { rules, rule_set } = buildSingBoxRoutingRules(proxySettings);
+  config.dns.servers = dnsObject.servers;
+  config.dns.rules = dnsObject.rules;
+  if (dnsObject.fakeip)
+    config.dns.fakeip = dnsObject.fakeip;
+  config.route.rules = rules;
+  config.route.rule_set = rule_set;
+  const selector = config.outbounds[0];
+  const urlTest = config.outbounds[1];
+  selector.outbounds = ["\u{1F4A6} Best Ping \u{1F4A5}"];
+  urlTest.interval = `${bestVLESSTrojanInterval}s`;
+  urlTest.tag = "\u{1F4A6} Best Ping \u{1F4A5}";
+  const Addresses = await getConfigAddresses(hostName, cleanIPs, enableIPv6);
+  const customCdnAddresses = customCdnAddrs ? customCdnAddrs.split(",") : [];
+  const totalAddresses = [...Addresses, ...customCdnAddresses];
+  const totalPorts = ports.filter((port) => isFragment ? defaultHttpsPorts.includes(port) : true);
+  let proxyIndex = 1;
+  const protocols = [
+    ...vlessConfigs ? ["VLESS"] : [],
+    ...trojanConfigs ? ["Trojan"] : []
+  ];
+  protocols.forEach((protocol) => {
+    let protocolIndex = 1;
+    totalPorts.forEach((port) => {
+      totalAddresses.forEach((addr) => {
+        let VLESSOutbound, TrojanOutbound;
+        const isCustomAddr = customCdnAddresses.includes(addr);
+        const configType = isCustomAddr ? "C" : isFragment ? "F" : "";
+        const sni = isCustomAddr ? customCdnSni : randomUpperCase(hostName);
+        const host = isCustomAddr ? customCdnHost : hostName;
+        const remark = generateRemark(protocolIndex, port, addr, cleanIPs, protocol, configType);
+        if (protocol === "VLESS") {
+          VLESSOutbound = buildSingBoxVLESSOutbound(
+            proxySettings,
+            chainProxyOutbound ? `proxy-${proxyIndex}` : remark,
+            addr,
+            port,
+            host,
+            sni,
+            isCustomAddr,
+            isFragment
+          );
+          config.outbounds.push(VLESSOutbound);
+        }
+        if (protocol === "Trojan") {
+          TrojanOutbound = buildSingBoxTrojanOutbound(
+            proxySettings,
+            chainProxyOutbound ? `proxy-${proxyIndex}` : remark,
+            addr,
+            port,
+            host,
+            sni,
+            isCustomAddr,
+            isFragment
+          );
+          config.outbounds.push(TrojanOutbound);
+        }
+        if (chainProxyOutbound) {
+          let chain = structuredClone(chainProxyOutbound);
+          chain.tag = remark;
+          chain.detour = `proxy-${proxyIndex}`;
+          config.outbounds.push(chain);
+        }
+        selector.outbounds.push(remark);
+        urlTest.outbounds.push(remark);
+        proxyIndex++;
+        protocolIndex++;
+      });
+    });
+  });
+  return config;
+}
+async function getNormalConfigs(proxySettings, hostName, client) {
+  const {
+    cleanIPs,
+    proxyIP: proxyIP2,
+    ports,
+    vlessConfigs,
+    trojanConfigs,
+    outProxy,
+    customCdnAddrs,
+    customCdnHost,
+    customCdnSni,
+    enableIPv6
+  } = proxySettings;
+  let vlessConfs = "", trojanConfs = "", chainProxy = "";
+  let proxyIndex = 1;
+  const Addresses = await getConfigAddresses(hostName, cleanIPs, enableIPv6);
+  const customCdnAddresses = customCdnAddrs ? customCdnAddrs.split(",") : [];
+  const totalAddresses = [...Addresses, ...customCdnAddresses];
+  const alpn = client === "singbox" ? "http/1.1" : "h2,http/1.1";
+  const trojanPass = encodeURIComponent(trojanPassword);
+  const earlyData = client === "singbox" ? "&eh=Sec-WebSocket-Protocol&ed=2560" : encodeURIComponent("?ed=2560");
+  ports.forEach((port) => {
+    totalAddresses.forEach((addr, index) => {
+      const isCustomAddr = index > Addresses.length - 1;
+      const configType = isCustomAddr ? "C" : "";
+      const sni = isCustomAddr ? customCdnSni : randomUpperCase(hostName);
+      const host = isCustomAddr ? customCdnHost : hostName;
+      const path = `${getRandomPath(16)}${proxyIP2 ? `/${encodeURIComponent(btoa(proxyIP2))}` : ""}${earlyData}`;
+      const vlessRemark = encodeURIComponent(generateRemark(proxyIndex, port, addr, cleanIPs, "VLESS", configType));
+      const trojanRemark = encodeURIComponent(generateRemark(proxyIndex, port, addr, cleanIPs, "Trojan", configType));
+      const tlsFields = defaultHttpsPorts.includes(port) ? `&security=tls&sni=${sni}&fp=randomized&alpn=${alpn}` : "&security=none";
+      if (vlessConfigs) {
+        vlessConfs += `${atob("dmxlc3M")}://${userID}@${addr}:${port}?path=/${path}&encryption=none&host=${host}&type=ws${tlsFields}#${vlessRemark}
+`;
+      }
+      if (trojanConfigs) {
+        trojanConfs += `${atob("dHJvamFu")}://${trojanPass}@${addr}:${port}?path=/tr${path}&host=${host}&type=ws${tlsFields}#${trojanRemark}
+`;
+      }
+      proxyIndex++;
+    });
+  });
+  if (outProxy) {
+    let chainRemark = `#${encodeURIComponent("\u{1F4A6} Chain proxy \u{1F517}")}`;
+    if (outProxy.startsWith("socks") || outProxy.startsWith("http")) {
+      const regex = /^(?:socks|http):\/\/([^@]+)@/;
+      const isUserPass = outProxy.match(regex);
+      const userPass = isUserPass ? isUserPass[1] : false;
+      chainProxy = userPass ? outProxy.replace(userPass, btoa(userPass)) + chainRemark : outProxy + chainRemark;
+    } else {
+      chainProxy = outProxy.split("#")[0] + chainRemark;
+    }
+  }
+  return btoa(vlessConfs + trojanConfs + chainProxy);
+}
+var xrayConfigTemp = {
+  remarks: "",
+  log: {
+    loglevel: "warning"
+  },
+  dns: {},
+  fakedns: [
+    {
+      ipPool: "198.18.0.0/15",
+      poolSize: 32768
+    },
+    {
+      ipPool: "fc00::/18",
+      poolSize: 32768
+    }
+  ],
+  inbounds: [
+    {
+      port: 10808,
+      protocol: "socks",
+      settings: {
+        auth: "noauth",
+        udp: true,
+        userLevel: 8
+      },
+      sniffing: {
+        destOverride: ["http", "tls"],
+        enabled: true,
+        routeOnly: true
+      },
+      tag: "socks-in"
+    },
+    {
+      port: 10809,
+      protocol: "http",
+      settings: {
+        auth: "noauth",
+        udp: true,
+        userLevel: 8
+      },
+      sniffing: {
+        destOverride: ["http", "tls"],
+        enabled: true,
+        routeOnly: true
+      },
+      tag: "http-in"
+    },
+    {
+      listen: "127.0.0.1",
+      port: 10853,
+      protocol: "dokodemo-door",
+      settings: {
+        address: "1.1.1.1",
+        network: "tcp,udp",
+        port: 53
+      },
+      tag: "dns-in"
+    }
+  ],
+  outbounds: [
+    {
+      tag: "fragment",
+      protocol: "freedom",
+      settings: {
+        fragment: {
+          packets: "tlshello",
+          length: "",
+          interval: ""
+        },
+        domainStrategy: "UseIP"
+      },
+      streamSettings: {
+        sockopt: {
+          tcpKeepAliveIdle: 100,
+          tcpNoDelay: true
+        }
+      }
+    },
+    {
+      protocol: "dns",
+      tag: "dns-out"
+    },
+    {
+      protocol: "freedom",
+      settings: {},
+      tag: "direct"
+    },
+    {
+      protocol: "blackhole",
+      settings: {
+        response: {
+          type: "http"
+        }
+      },
+      tag: "block"
+    }
+  ],
+  policy: {
+    levels: {
+      8: {
+        connIdle: 300,
+        downlinkOnly: 1,
+        handshake: 4,
+        uplinkOnly: 1
+      }
+    },
+    system: {
+      statsOutboundUplink: true,
+      statsOutboundDownlink: true
+    }
+  },
+  routing: {
+    domainStrategy: "IPIfNonMatch",
+    rules: [],
+    balancers: [
+      {
+        tag: "all",
+        selector: ["prox"],
+        strategy: {
+          type: "leastPing"
+        }
+      }
+    ]
+  },
+  observatory: {
+    probeInterval: "30s",
+    probeURL: "https://www.gstatic.com/generate_204",
+    subjectSelector: ["prox"],
+    EnableConcurrency: true
+  },
+  stats: {}
+};
+var singboxConfigTemp = {
+  log: {
+    level: "warn",
+    timestamp: true
+  },
+  dns: {
+    servers: [],
+    rules: [],
+    independent_cache: true
+  },
+  inbounds: [
+    {
+      type: "direct",
+      tag: "dns-in",
+      listen: "0.0.0.0",
+      listen_port: 6450,
+      override_address: "8.8.8.8",
+      override_port: 53
+    },
+    {
+      type: "tun",
+      tag: "tun-in",
+      inet4_address: "172.19.0.1/28",
+      inet6_address: "fdfe:dcba:9876::1/126",
+      mtu: 9e3,
+      auto_route: true,
+      strict_route: true,
+      stack: "mixed",
+      sniff: true,
+      sniff_override_destination: true
+    },
+    {
+      type: "mixed",
+      tag: "mixed-in",
+      listen: "0.0.0.0",
+      listen_port: 2080,
+      sniff: true,
+      sniff_override_destination: false
+    }
+  ],
+  outbounds: [
+    {
+      type: "selector",
+      tag: "proxy",
+      outbounds: []
+    },
+    {
+      type: "urltest",
+      tag: "",
+      outbounds: [],
+      url: "https://www.gstatic.com/generate_204",
+      interval: ""
+    },
+    {
+      type: "direct",
+      tag: "direct"
+    },
+    {
+      type: "block",
+      tag: "block"
+    },
+    {
+      type: "dns",
+      tag: "dns-out"
+    }
+  ],
+  route: {
+    rules: [],
+    rule_set: [],
+    auto_detect_interface: true,
+    override_android_vpn: true,
+    final: "proxy"
+  },
+  ntp: {
+    enabled: true,
+    server: "time.apple.com",
+    server_port: 123,
+    detour: "direct",
+    interval: "30m"
+  },
+  experimental: {
+    cache_file: {
+      enabled: true,
+      store_fakeip: true
+    },
+    clash_api: {
+      external_controller: "0.0.0.0:9090",
+      external_ui: "yacd",
+      external_ui_download_url: "https://github.com/MetaCubeX/Yacd-meta/archive/gh-pages.zip",
+      external_ui_download_detour: "direct",
+      default_mode: "rule"
+    }
+  }
+};
+var clashConfigTemp = {
+  "mixed-port": 7890,
+  "ipv6": true,
+  "allow-lan": true,
+  "mode": "rule",
+  "log-level": "info",
+  "keep-alive-interval": 30,
+  "unified-delay": false,
+  "dns": {},
+  "tun": {
+    "enable": true,
+    "stack": "system",
+    "auto-route": true,
+    "auto-redirect": true,
+    "auto-detect-interface": true,
+    "dns-hijack": [
+      "any:53",
+      "198.18.0.2:53"
+    ],
+    "device": "utun0",
+    "mtu": 9e3,
+    "strict-route": true
+  },
+  "sniffer": {
+    "enable": true,
+    "force-dns-mapping": true,
+    "parse-pure-ip": true,
+    "sniff": {
+      "HTTP": {
+        "ports": [80, 8080, 8880, 2052, 2082, 2086, 2095],
+        "override-destination": false
+      },
+      "TLS": {
+        "ports": [443, 8443, 2053, 2083, 2087, 2096],
+        "override-destination": false
+      }
+    }
+  },
+  "proxies": [],
+  "proxy-groups": [
+    {
+      "name": "\u2705 Selector",
+      "type": "select",
+      "proxies": []
+    },
+    {
+      "name": "",
+      "type": "url-test",
+      "url": "https://www.gstatic.com/generate_204",
+      "interval": 30,
+      "tolerance": 50,
+      "proxies": []
+    }
+  ],
+  "rules": [],
+  "ntp": {
+    "enable": true,
+    "server": "time.apple.com",
+    "port": 123,
+    "interval": 30
+  }
+};
+export {
+  worker_default as default
+};
+/*! Bundled license information:
 
 js-sha256/src/sha256.js:
   (**
@@ -10,3 +8871,4 @@ js-sha256/src/sha256.js:
    * @license MIT
    *)
 */
+//# sourceMappingURL=worker.js.map
